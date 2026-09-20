@@ -16,8 +16,15 @@ await mkdir(dataDir, { recursive: true });
 
 // GitHub Actions 每次运行前先恢复已提交的历史，确保每日 Top 10 连续累积。
 try {
-  const existingHistory = await readFile(publicHistoryFile, 'utf8');
-  await writeFile(cacheHistoryFile, existingHistory, 'utf8');
+  const existingHistory = JSON.parse(await readFile(publicHistoryFile, 'utf8'));
+  const fullHistory = existingHistory.days
+    ? existingHistory
+    : {
+        version: 1,
+        updatedAt: existingHistory.updatedAt || null,
+        days: Object.fromEntries((existingHistory.recentDays || []).map((day) => [day.date, day]))
+      };
+  await writeFile(cacheHistoryFile, JSON.stringify(fullHistory, null, 2), 'utf8');
 } catch {
   // 首次运行时还没有历史文件，直接继续生成即可。
 }
@@ -30,6 +37,8 @@ const output = {
 };
 
 await writeFile(latestFile, JSON.stringify(output, null, 2), 'utf8');
-await writeFile(publicHistoryFile, JSON.stringify(payload.history, null, 2), 'utf8');
+const fullHistory = JSON.parse(await readFile(cacheHistoryFile, 'utf8'));
+await writeFile(publicHistoryFile, JSON.stringify(fullHistory, null, 2), 'utf8');
 
 console.log(`已生成静态新闻数据：${output.items.length} 条，历史 ${output.history.totalDays} 天。`);
+

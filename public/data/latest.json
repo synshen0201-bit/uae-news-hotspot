@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-20T20:10:37.884Z",
+  "updatedAt": "2026-09-20T20:24:43.131Z",
   "cacheTtlMinutes": 10,
   "heatMethod": "主流媒体权重、多源报道数、24 小时时效、Google Trends UAE 和社交传播信号加权的相对热度指数",
   "translation": {
     "provider": "MyMemory",
     "targetLanguage": "zh-CN",
-    "translatedCount": 69,
+    "translatedCount": 67,
     "unavailableCount": 0
   },
   "categories": [
@@ -13,7 +13,7 @@
       "id": "all",
       "label": "综合热榜",
       "description": "跨分类按多源热度指数排序",
-      "count": 69
+      "count": 67
     },
     {
       "id": "domestic",
@@ -43,7 +43,7 @@
       "id": "military",
       "label": "军事热点",
       "description": "防务、冲突与地区安全",
-      "count": 12
+      "count": 10
     },
     {
       "id": "social",
@@ -64,7 +64,7 @@
     "recentDays": [
       {
         "date": "2026-09-21",
-        "updatedAt": "2026-09-20T20:10:47.368Z",
+        "updatedAt": "2026-09-20T20:24:58.020Z",
         "categories": {
           "all": [
             {
@@ -89,7 +89,7 @@
               "sources": [
                 "Gulf News"
               ],
-              "heatScore": 88,
+              "heatScore": 89,
               "publishedAt": "2026-09-20T19:47:40.000Z"
             },
             {
@@ -125,23 +125,11 @@
               "sources": [
                 "Gulf News"
               ],
-              "heatScore": 85,
+              "heatScore": 86,
               "publishedAt": "2026-09-20T15:33:05.000Z"
             },
             {
               "rank": 6,
-              "translatedTitle": "阿联酋呼吁采取行动打击极端主义和仇恨言论",
-              "originalTitle": "UAE calls for action to counter extremism, hate speech",
-              "url": "https://c.newsnow.co.uk/A/1324890069?-15565:1965",
-              "source": "Gulf News",
-              "sources": [
-                "Gulf News"
-              ],
-              "heatScore": 84,
-              "publishedAt": "2026-09-20T17:14:34.000Z"
-            },
-            {
-              "rank": 7,
               "translatedTitle": "中东冲突：阿联酋居民需要了解的信息",
               "originalTitle": "Middle East conflict: What UAE residents need to know",
               "url": "https://c.newsnow.co.uk/A/1324879128?-15565:1965",
@@ -151,6 +139,18 @@
               ],
               "heatScore": 84,
               "publishedAt": "2026-09-20T13:37:27.000Z"
+            },
+            {
+              "rank": 7,
+              "translatedTitle": "阿联酋呼吁采取行动打击极端主义和仇恨言论",
+              "originalTitle": "UAE calls for action to counter extremism, hate speech",
+              "url": "https://c.newsnow.co.uk/A/1324890069?-15565:1965",
+              "source": "Gulf News",
+              "sources": [
+                "Gulf News"
+              ],
+              "heatScore": 83,
+              "publishedAt": "2026-09-20T17:14:34.000Z"
             },
             {
               "rank": 8,
@@ -212,7 +212,7 @@
               "sources": [
                 "Gulf News"
               ],
-              "heatScore": 88,
+              "heatScore": 89,
               "publishedAt": "2026-09-20T19:47:40.000Z"
             },
             {
@@ -248,23 +248,11 @@
               "sources": [
                 "Gulf News"
               ],
-              "heatScore": 85,
+              "heatScore": 86,
               "publishedAt": "2026-09-20T15:33:05.000Z"
             },
             {
               "rank": 6,
-              "translatedTitle": "阿联酋呼吁采取行动打击极端主义和仇恨言论",
-              "originalTitle": "UAE calls for action to counter extremism, hate speech",
-              "url": "https://c.newsnow.co.uk/A/1324890069?-15565:1965",
-              "source": "Gulf News",
-              "sources": [
-                "Gulf News"
-              ],
-              "heatScore": 84,
-              "publishedAt": "2026-09-20T17:14:34.000Z"
-            },
-            {
-              "rank": 7,
               "translatedTitle": "中东冲突：阿联酋居民需要了解的信息",
               "originalTitle": "Middle East conflict: What UAE residents need to know",
               "url": "https://c.newsnow.co.uk/A/1324879128?-15565:1965",
@@ -274,6 +262,18 @@
               ],
               "heatScore": 84,
               "publishedAt": "2026-09-20T13:37:27.000Z"
+            },
+            {
+              "rank": 7,
+              "translatedTitle": "阿联酋呼吁采取行动打击极端主义和仇恨言论",
+              "originalTitle": "UAE calls for action to counter extremism, hate speech",
+              "url": "https://c.newsnow.co.uk/A/1324890069?-15565:1965",
+              "source": "Gulf News",
+              "sources": [
+                "Gulf News"
+              ],
+              "heatScore": 83,
+              "publishedAt": "2026-09-20T17:14:34.000Z"
             },
             {
               "rank": 8,
@@ -308,7 +308,7 @@
               "sources": [
                 "Khaleej Times"
               ],
-              "heatScore": 82,
+              "heatScore": 83,
               "publishedAt": "2026-09-20T13:07:53.000Z"
             }
           ],
@@ -365,6 +365,18 @@
             },
             {
               "rank": 2,
+              "translatedTitle": "阿提哈德铁路推出从富查伊拉到阿布扎比工业城市的直达货运服务",
+              "originalTitle": "Etihad Rail launches direct cargo service from Fujairah to Abu Dhabi’s Industrial City",
+              "url": "https://www.khaleejtimes.com/uae/transport/etihad-rail-direct-cargo-service-fujairah-to-abu-dhabi-industrial-city",
+              "source": "Khaleej Times",
+              "sources": [
+                "Khaleej Times"
+              ],
+              "heatScore": 80,
+              "publishedAt": "2026-09-20T11:11:39.000Z"
+            },
+            {
+              "rank": 3,
               "translatedTitle": "通过沙迦-阿曼物流走廊的货物价值在三个月内跃升66 ％",
               "originalTitle": "Value of goods through Sharjah-Oman logistics corridor jumps 66% in three months",
               "url": "https://c.newsnow.co.uk/A/1324879977?-15565:1965",
@@ -376,18 +388,6 @@
               "publishedAt": "2026-09-20T13:55:27.000Z"
             },
             {
-              "rank": 3,
-              "translatedTitle": "阿提哈德铁路推出从富查伊拉到阿布扎比工业城市的直达货运服务",
-              "originalTitle": "Etihad Rail launches direct cargo service from Fujairah to Abu Dhabi’s Industrial City",
-              "url": "https://www.khaleejtimes.com/uae/transport/etihad-rail-direct-cargo-service-fujairah-to-abu-dhabi-industrial-city",
-              "source": "Khaleej Times",
-              "sources": [
-                "Khaleej Times"
-              ],
-              "heatScore": 79,
-              "publishedAt": "2026-09-20T11:11:39.000Z"
-            },
-            {
               "rank": 4,
               "translatedTitle": "阿提哈德航空取消阿布扎比航班，乘客在德里机场面临痛苦时刻",
               "originalTitle": "Etihad Airways cancels Abu Dhabi flight, passengers face harrowing time at Delhi airport",
@@ -396,7 +396,7 @@
               "sources": [
                 "The Hindu"
               ],
-              "heatScore": 60,
+              "heatScore": 59,
               "publishedAt": "2026-09-20T13:42:23.000Z"
             }
           ],
@@ -410,7 +410,7 @@
               "sources": [
                 "Khaleej Times"
               ],
-              "heatScore": 80,
+              "heatScore": 81,
               "publishedAt": "2026-09-20T11:43:45.000Z"
             },
             {
@@ -422,7 +422,7 @@
               "sources": [
                 "Khaleej Times"
               ],
-              "heatScore": 75,
+              "heatScore": 76,
               "publishedAt": "2026-09-20T08:58:52.000Z"
             },
             {
@@ -441,42 +441,6 @@
           "military": [
             {
               "rank": 1,
-              "translatedTitle": "阿联酋居民最新消息：美国旅行警报、伊朗停火条款、沙特导弹拦截和飞行更新-海湾新闻",
-              "originalTitle": "UAE residents’ update: US travel alert, Iran ceasefire terms, Saudi missile interception and flight updates - Gulf News",
-              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODkwVEJhQTRTQnFIRUE1Vjd1LW9JendUSGc5ZlRPOVp0QUEzTWZiczY4VDhHNDloNDAwMW5hMnBIUk55X0ZMMk1KbjBId2p1T2hFY2RRUTM2QzAyZDlXbUdMZ2hvejVPQWRLS2NlUXhRVTNLRE9WMjU4dU9IN253bkxtd1hKT1Q5VExMWU12bm1OaEZoWXVwM0hIMVFFVldnNXhIZ2ozVDdETm9tZVZSbjFaaWhqMHk3Vllubi1od1I5SUFhOFlvd2hrUFI4cGhpaEZPamQ3SdIB5wFBVV95cUxQbTdBMzlGM2ZwRndDUG83LXJwMXhPU1o3dEgwUThKTHNSMDI1V0RQeWNRVUFMdzNUVndRNnQ1U1JXRmtlOHVnY3YzR2U4bUVscHVpeDE5aDRtbW5TQkduVW9zeTd0a011cjBhRmgyOFFvVXRYUHloZjdYdDZBYlZKTnlDYlZHeDVNZlQ0M3B2b2hCNDkzSXlnamd2SDV3b0pfTlpBeE9OajNJb0kweG5Ld1ozOGgzZFBUVmRMMGs2Zk1iVnVNRGIyREhBUnZwOExNSllhTnBDd3YzcDdSMjNBMHJHQWlmbHc?oc=5",
-              "source": "Gulf News",
-              "sources": [
-                "Gulf News"
-              ],
-              "heatScore": 78,
-              "publishedAt": "2026-09-20T13:36:12.000Z"
-            },
-            {
-              "rank": 2,
-              "translatedTitle": "胡塞武装袭击利雅得扰乱西亚航空旅行；阿提哈德航空取消德里-阿布扎比航班，导致200名乘客滞留",
-              "originalTitle": "Houthi Attack On Riyadh Disrupts Air Travel Across West Asia; Etihad Cancels Delhi-Abu Dhabi Flight, Leaving 200 Passengers Stranded - The Sunday Guardian",
-              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeFRoYWM2UFB0SFlBSGtKSjM4blUtWlhqcTlOemRSN1FDOUl1QmpLUkJJcnNheE84UHQzTDQ4dUk0Q0Y5U29zdnE1SXVwbXJhX2dkUWNsYVVsTlVoM3FiVi1ZdHkxRFVUQUNJemtWdUhJZUt6SEZmcFczNWIwR1lJSF9pZUhyb1lTdlJaWmNFczBNQnlvaWNtdVpES1FocXJodlFqWHY4RGVHMEF4RTVraWV1U1VNVU5Gc3JpLWYySWEwaGd6cWtFMmhobTRQWkVvaUQ3dGMtc3lxNml0bkI2aDZuTl81T3kzV3dvV0VRQkF3WFEwT0w2eDhIb2lWNnBzd2FubTVn0gGLAkFVX3lxTE1FU2x2NkNDUnlxNXQ0Z0cyenZOdzByWS03dkpYUXpucWVVMXFYRGJGSms5OEp2bWUxOGFqMXVtbkdFNGtMVjczLVc4Nm9yREtaY1ZLZ1Y1dXNIQUhwN2JHSGxsaFhjQ1cyUkhrV25ja2wzaFUzX2NLREI4VGpiRTR4SWxfSncwT3NfeDBqTVBicVZ3eWRtcGlXWm5hSmx6VWllOWo3eGRHTExObTV2Wmh4MFlxLW55aE1rMXJnSHVYZV9UY1htb0xyN0Y1NTdqZHJRTnhQZWtOLTdNbzh1a3BZZDBINmF4TlF4a0Q5U0xZRU9GbDV0LUt5OUIzbEROU0dxRi1pV1ZUeW1vSQ?oc=5",
-              "source": "The Sunday Guardian",
-              "sources": [
-                "The Sunday Guardian"
-              ],
-              "heatScore": 74,
-              "publishedAt": "2026-09-20T07:23:13.000Z"
-            },
-            {
-              "rank": 3,
-              "translatedTitle": "阿联酋、菲律宾讨论加强国防和安全合作-海湾新闻",
-              "originalTitle": "UAE, Philippines discuss stronger defence and security cooperation - Gulf News",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWVPR3NtUHJZTzdLMk1oblRiZ1BMdG1taVdNTDdPUTJvY09pbmF3dm5MTWR4S1kyamFicF9WZHpTY2J2VmljUmhYdmQtUS13VU5WMnkxNFI4NjhVRGtMSmtEZlQxTzBzTU1tMTZfdmx1Q2xSTVBGX1ZiUTExcEJtVlRyZnBiUXQ2aFdpMzVURE1NcHBwTlVtMjdSSkI0Rkp4UGxobNIBtAFBVV95cUxNY0lIcG1hbkxvbjdCLUhRZVNlc051SXdZVVpGZkotY3l4a194Qm55cHJVekVhWlJPT2pEdzRfZ09JYTZicmZuZjUzQjl6R3U0MGxBLUUyZjFxbUpLYWY0dUY4SVM4bGwzOXllbHRBQVFPRkZOaVYyc0NjNnBsc092c1J2NURTVTNIc2NWeDBaV2dIWWt0d1g3UnZVSDZVQW11bnVaczJkMjlZb0tvQUdqcmF2TmU?oc=5",
-              "source": "Gulf News",
-              "sources": [
-                "Gulf News"
-              ],
-              "heatScore": 61,
-              "publishedAt": "2026-09-19T06:58:32.000Z"
-            },
-            {
-              "rank": 4,
               "translatedTitle": "特朗普将华盛顿凯旋门用作军事综合体-迪拜之眼103.8",
               "originalTitle": "Trump to use Washington triumphal arch as military complex - Dubai Eye 103.8",
               "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3diUF9uRXpZUHlTb2NCN19mN09tREJUSWQxV3B1U0RyWWo5eC1veU9ydTV1NndGb0lTVnZvamhid0xhUm0wMV9rbEtDeE1RTXRZV3NSWkJaM1pUY1hQdlpNWU1oOGlnQUFyWkV4MzJXb2R1M0hHYjdNbVVWU1NQem1ZeHRMZkU3VHZ4M3I0X1VETHAwd29YdUhQbjUySEgxOFloOU1sTDVyT00?oc=5",
@@ -484,23 +448,35 @@
               "sources": [
                 "Dubai Eye 103.8"
               ],
-              "heatScore": 61,
+              "heatScore": 60,
               "publishedAt": "2026-09-20T14:24:11.000Z"
             },
             {
-              "rank": 5,
-              "translatedTitle": "阿提哈德航空公司在胡塞武装袭击利雅得后取消德里-阿布扎比航班，乘客被击中数小时- PTC新闻",
-              "originalTitle": "Etihad Airways cancels Delhi-Abu Dhabi flight after Houthi attack on Riyadh, passengers struck for hours - PTC News",
-              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHoybkNhX0FEZ1dfbHlGemdfMk51Q2ZPdjVRNlpJb1NnRnY2X2d5SzRXbG8tcUZSRDZTalBjLXRNNjlDNjJWVjdwUUMxREtGc19nbnV2bFFIM3BVcVQyMG93U3VyUGJDN2xCNUdPR1VydnBDaXNSOHdmSGZRNkE1RGUzc0V1Ri1Od0ZTTG53QzV1ZkZEeG0xcTNVNUZKVHk2OGVUZXcteUpjM1FhVVlsdXJWaTFHVlRsZ29OeWN4RHQ3dmp0QjN0TEtqMHR0M1BNUGlCQS1B0gHWAUFVX3lxTE1UejJuQ2FfQURnV19seUZ6Z18yTnVDZk92NVE2WklvU2dGdjZfZ3lLNFdsby1xRlJENlNqUGMtdE02OUM2MlZWN3BRQzFES0ZzX2dudXZsUUgzcFVxVDIwb3dTdXJQYkM3bEI1R09HVXJ2cENpc1I4d2ZIZlE2QTVEZTNzRXVGLU53RlNMbndDNXVmRkR4bTFxM1U1RkpUeTY4ZVRldy15SmMzUWFVWWx1clZpMUdWVGxnb055Y3hEdDd2anRCM3RMS2owdHQzUE1QaUJBLUE?oc=5",
-              "source": "PTC News",
+              "rank": 2,
+              "translatedTitle": "阿联酋居民最新消息：美国旅行警报、伊朗停火条款、沙特导弹拦截和飞行更新- gulfnews.com",
+              "originalTitle": "UAE residents’ update: US travel alert, Iran ceasefire terms, Saudi missile interception and flight updates - gulfnews.com",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODkwVEJhQTRTQnFIRUE1Vjd1LW9JendUSGc5ZlRPOVp0QUEzTWZiczY4VDhHNDloNDAwMW5hMnBIUk55X0ZMMk1KbjBId2p1T2hFY2RRUTM2QzAyZDlXbUdMZ2hvejVPQWRLS2NlUXhRVTNLRE9WMjU4dU9IN253bkxtd1hKT1Q5VExMWU12bm1OaEZoWXVwM0hIMVFFVldnNXhIZ2ozVDdETm9tZVZSbjFaaWhqMHk3Vllubi1od1I5SUFhOFlvd2hrUFI4cGhpaEZPamQ3SdIB5wFBVV95cUxQbTdBMzlGM2ZwRndDUG83LXJwMXhPU1o3dEgwUThKTHNSMDI1V0RQeWNRVUFMdzNUVndRNnQ1U1JXRmtlOHVnY3YzR2U4bUVscHVpeDE5aDRtbW5TQkduVW9zeTd0a011cjBhRmgyOFFvVXRYUHloZjdYdDZBYlZKTnlDYlZHeDVNZlQ0M3B2b2hCNDkzSXlnamd2SDV3b0pfTlpBeE9OajNJb0kweG5Ld1ozOGgzZFBUVmRMMGs2Zk1iVnVNRGIyREhBUnZwOExNSllhTnBDd3YzcDdSMjNBMHJHQWlmbHc?oc=5",
+              "source": "gulfnews.com",
               "sources": [
-                "PTC News"
+                "gulfnews.com"
+              ],
+              "heatScore": 59,
+              "publishedAt": "2026-09-20T13:36:12.000Z"
+            },
+            {
+              "rank": 3,
+              "translatedTitle": "阿提哈德航空公司在胡塞武装袭击利雅得后取消德里-阿布扎比航班，乘客罢工数小时- ptcnews.tv",
+              "originalTitle": "Etihad Airways cancels Delhi-Abu Dhabi flight after Houthi attack on Riyadh, passengers struck for hours - ptcnews.tv",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHoybkNhX0FEZ1dfbHlGemdfMk51Q2ZPdjVRNlpJb1NnRnY2X2d5SzRXbG8tcUZSRDZTalBjLXRNNjlDNjJWVjdwUUMxREtGc19nbnV2bFFIM3BVcVQyMG93U3VyUGJDN2xCNUdPR1VydnBDaXNSOHdmSGZRNkE1RGUzc0V1Ri1Od0ZTTG53QzV1ZkZEeG0xcTNVNUZKVHk2OGVUZXcteUpjM1FhVVlsdXJWaTFHVlRsZ29OeWN4RHQ3dmp0QjN0TEtqMHR0M1BNUGlCQS1B0gHWAUFVX3lxTE1UejJuQ2FfQURnV19seUZ6Z18yTnVDZk92NVE2WklvU2dGdjZfZ3lLNFdsby1xRlJENlNqUGMtdE02OUM2MlZWN3BRQzFES0ZzX2dudXZsUUgzcFVxVDIwb3dTdXJQYkM3bEI1R09HVXJ2cENpc1I4d2ZIZlE2QTVEZTNzRXVGLU53RlNMbndDNXVmRkR4bTFxM1U1RkpUeTY4ZVRldy15SmMzUWFVWWx1clZpMUdWVGxnb055Y3hEdDd2anRCM3RMS2owdHQzUE1QaUJBLUE?oc=5",
+              "source": "ptcnews.tv",
+              "sources": [
+                "ptcnews.tv"
               ],
               "heatScore": 55,
               "publishedAt": "2026-09-20T08:50:42.000Z"
             },
             {
-              "rank": 6,
+              "rank": 4,
               "translatedTitle": "胡塞武装袭击沙特阿拉伯后航班中断，阿提哈德取消阿布扎比航班-印度快报",
               "originalTitle": "Flight disruptions after Houthi attack in Saudi Arabia, Etihad cancels Abu Dhabi flight - The Indian Express",
               "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM2s0VHNTZHIxeW1kRHEtSnBveEdaZk1pdHVpUUJ3VlhqcWxpZnByRjNiV2N6elFNZXpoRjFWX3pRVUFfMzZvYnJPZFY0OXN5LWNjQkQ0Q0NST1ZHbjVPaURleS1hUnhJRnFzek4zOURUeWRJUnJOZ05BVDRKZEI2aWJVRzRMWXRrTlVCUHl0UEtYcHhGUGVrRVdLMy1MdnBHYkdsU2ZwUG9Lb1ZmbmZ1YzMzclBaQXVac1pjOWhaX09pcTVDb1E0dmRB0gHKAUFVX3lxTFAzazRUc1NkcjF5bWREcS1KcG94R1pmTWl0dWlRQndWWGpxbGlmcHJGM2JXY3p6UU1lemhGMVZfelFVQV8zNm9ick9kVjQ5c3ktY2NCRDRDQ1JPVkduNU9pRGV5LWFSeElGcXN6TjM5RFR5ZElSck5nTkFUNEpkQjZpYlVHNExZdGtOVUJQeXRQS1hweEZQZWtFV0szLUx2cEdiR2xTZnBQb0tvVmZuZnVjMzNyUFpBdVpzWmM5aFpfT2lxNUNvUTR2ZEE?oc=5",
@@ -512,7 +488,7 @@
               "publishedAt": "2026-09-20T03:37:55.000Z"
             },
             {
-              "rank": 7,
+              "rank": 5,
               "translatedTitle": "华盛顿批准向乌克兰出售27亿美元防空武器-迪拜之眼103.8",
               "originalTitle": "Washington approves potential $2.7 billion air defence sale to Ukraine - Dubai Eye 103.8",
               "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2s5WTFDaUFqMXZrU2FENmRNN2c0UGdnREZCS2dYUzRhMld0M0xOMk9XVGxldEVTQ3hjNFlPak54Q2JTeTJEUURJeHVHaDg4RHMxdzlTWHRCVmR1alIxQUFzdzVsNUlUOGdrWHZZbUVSMzVodjdRX1gzMm9kQ09ZdmJudF9acGk2dHdQbDFZRlVGRjJvRUdRdWNkYzhQWTBzOG9MVjZHZDg3MDVBV1lfTVg4YkRzeTZJTEE?oc=5",
@@ -524,7 +500,7 @@
               "publishedAt": "2026-09-19T18:06:51.000Z"
             },
             {
-              "rank": 8,
+              "rank": 6,
               "translatedTitle": "菲律宾、阿联酋重申致力于加强国防合作--马尼拉标准",
               "originalTitle": "Philippines, UAE reaffirm commitment to boost defense cooperation - Manila Standard",
               "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzkwdEdHSGI3RlpzdzZjSDhJQ3BBYnhvNHNPTmtoeXdOY2RnS0Q5T0FRZ3A0Z1BjMDhjUkF2UVRkRlhEcm54T29rU3NjWkhab1R0RVRZZGhpemNYOTdBd2E1VmQxdm14RHUyRWRCLU12emRvdWFRNVlMN2VnMlFCZ1hMVDhyemFIeTdvQVRndG1ldFhsZVE?oc=5",
@@ -536,7 +512,7 @@
               "publishedAt": "2026-09-19T15:35:59.000Z"
             },
             {
-              "rank": 9,
+              "rank": 7,
               "translatedTitle": "华盛顿批准向乌克兰出售27亿美元防空武器--uaebarq.ae",
               "originalTitle": "Washington approves $2.7 billion air defence sale to Ukraine - uaebarq.ae",
               "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaG42TEtodDVtRlhkUmtSYVFVN2hyNTRlQjhGWFFDblpBT2dTcjU4LTBFekxOcWJmWmo3QWxXQkJ5R1FEbURFc3k3ZlJRR2kwTW91THdWTVdEeUhNRktGNmd0ZXA1c18xOGttVWtQZTYySzYwdVZPdm1fejNDcmNueXlxZmltbUZBTDB3R2dlTnlwcVFncnhvVEZuOVZjdw?oc=5",
@@ -548,7 +524,7 @@
               "publishedAt": "2026-09-19T14:07:53.000Z"
             },
             {
-              "rank": 10,
+              "rank": 8,
               "translatedTitle": "凭借300亿美元的年度国防预算，阿联酋将为中东市场生产韩国K9榴弹炮- Defense Express",
               "originalTitle": "With $30 Billion Annual Defense Budget, UAE Is Set to Produce South Korean K9 Howitzers for Middle Eastern Market - Defense Express",
               "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlVPR0w3MWhrTlVXZ2tTQU1remNTSzE1QjkwV2dzZWttOUFMZXA4LUhxZVBuTzA3eUJnOFJjUUFSb1BQa3VfTzBxSGM2Vm5OalV2SGxPdngtOWE3QVBVRDZwblBDYXlUeXA1NXBsOU94cnlLbXZscGpMdlJLN3V4M3JtWHNmWlo2ZWpUTjd5cG55RXV1aFE0aVdCbUhsVWVuMjVKdTZTMVYtbzZCdHVKWXh2dEU2MGNhdjZOSERrN2J5aVJ6MEVaV0p5cksxWS1zbDJlVFNaTmJTUFFGdlB2d3VxTEJENG9k?oc=5",
@@ -558,6 +534,30 @@
               ],
               "heatScore": 42,
               "publishedAt": "2026-09-19T13:28:04.000Z"
+            },
+            {
+              "rank": 9,
+              "translatedTitle": "阿联酋、菲律宾讨论加强国防和安全合作- gulfnews.com",
+              "originalTitle": "UAE, Philippines discuss stronger defence and security cooperation - gulfnews.com",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWVPR3NtUHJZTzdLMk1oblRiZ1BMdG1taVdNTDdPUTJvY09pbmF3dm5MTWR4S1kyamFicF9WZHpTY2J2VmljUmhYdmQtUS13VU5WMnkxNFI4NjhVRGtMSmtEZlQxTzBzTU1tMTZfdmx1Q2xSTVBGX1ZiUTExcEJtVlRyZnBiUXQ2aFdpMzVURE1NcHBwTlVtMjdSSkI0Rkp4UGxobNIBtAFBVV95cUxNY0lIcG1hbkxvbjdCLUhRZVNlc051SXdZVVpGZkotY3l4a194Qm55cHJVekVhWlJPT2pEdzRfZ09JYTZicmZuZjUzQjl6R3U0MGxBLUUyZjFxbUpLYWY0dUY4SVM4bGwzOXllbHRBQVFPRkZOaVYyc0NjNnBsc092c1J2NURTVTNIc2NWeDBaV2dIWWt0d1g3UnZVSDZVQW11bnVaczJkMjlZb0tvQUdqcmF2TmU?oc=5",
+              "source": "gulfnews.com",
+              "sources": [
+                "gulfnews.com"
+              ],
+              "heatScore": 42,
+              "publishedAt": "2026-09-19T06:58:32.000Z"
+            },
+            {
+              "rank": 10,
+              "translatedTitle": "PH ，阿联酋眼睛更深的防御关系- Inquirer.net",
+              "originalTitle": "PH, UAE eye deeper defense ties - Inquirer.net",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlZ3NuRzZQbzJ3TFZTRG5vSTQ3V3hBcGRqeW45Z1dKQ1BIakFkT3lSMWhwd0J5c0V2ZFd6OWdkWHZ4ekI2d0tmdGJtb2tWR3BXWFBKNzVoWGxzR0tqekd5SUtZZlE5ZHpRaVg4RE5BUnBuXzdLNHVYZGZOZ9IBgAFBVV95cUxPTTdoSmpSVUZMQnBEYTRVeU9VYUF0cG1EWkttdXRpZFFOZEt5c0ZjeGxZczh4Z1Z5M05MQmxOenNZd2V4X2RwWU1YTVZBQmF3ZkdwRXIzWC1qel9uOXJ1T1RJVl9NLXJyQzR3bXFHUGVtVGhYNThhTnFqaFpnRTVWXw?oc=5",
+              "source": "Inquirer.net",
+              "sources": [
+                "Inquirer.net"
+              ],
+              "heatScore": 42,
+              "publishedAt": "2026-09-18T21:48:00.000Z"
             }
           ],
           "social": [
@@ -566,9 +566,9 @@
               "translatedTitle": "据称Zara Larsson因苏丹战争取消了阿布扎比大奖赛音乐会- Far Out Magazine",
               "originalTitle": "Zara Larsson allegedly cancels Abu Dhabi Grand Prix concert over Sudan war - Far Out Magazine",
               "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0FkRm1fNlNPbVZIOFRQVUxQSXZtaE05VHVtSEVZczJWR3A2M3U0R2pGSV82anZ2bndwdlEtcjk4ZlliMHlUbzVlYWU3WU5IY0lkcmpETVAyc0JTNHpfUFpiOEpOUkhuUDF0WGF1dHl6dmhQcV91WHdOTW1QcmpfNlJVZ2dWWlh2dWZCQUd1NjgxWC1IWlhjWXIta3ZDTkJFZ19BSUtLM1Q4YlA4eXlzNUxqaHQ?oc=5",
-              "source": "NME",
+              "source": "nme.com",
               "sources": [
-                "NME",
+                "nme.com",
                 "Far Out Magazine"
               ],
               "heatScore": 72,
@@ -583,7 +583,7 @@
               "sources": [
                 "ARN News Centre"
               ],
-              "heatScore": 68,
+              "heatScore": 69,
               "publishedAt": "2026-09-20T17:26:15.000Z"
             },
             {
@@ -613,18 +613,6 @@
             },
             {
               "rank": 5,
-              "translatedTitle": "观看：穆罕默德·本·拉希德在访问迪拜购物中心期间给购物者带来惊喜-海湾新闻",
-              "originalTitle": "Watch: Mohammed bin Rashid surprises shoppers during visit to Dubai Mall - Gulf News",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUURiR2dxS0czSmJQMU9xVWZJcnhLaEdlY1V6TzJIVGEzNUhNaXNUT1M4S3dqQS1CQlZmSS10NTRZMlhPazZXOTJLUEpqLU9zMXJMei1ZOVpuWjRoaTVoTUZ1NGdZTVJta0hnR2V5MjVKWUNGNEtxUXl0M3NrU3pqR2VPMXMxdE5zLTJUbFJzX2hNMTVTcFNPNElOdW1iMEp3YVpBT1lDN0R6Z19SU0I3RjRkOA?oc=5",
-              "source": "Gulf News",
-              "sources": [
-                "Gulf News"
-              ],
-              "heatScore": 61,
-              "publishedAt": "2026-09-19T19:44:34.000Z"
-            },
-            {
-              "rank": 6,
               "translatedTitle": "病毒式传播的迪拜时装设计师Vlad Bykov是谁？ - Napolike.com",
               "originalTitle": "Who is Vlad Bykov, the Dubai couturier who went viral? - Napolike.com",
               "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGFfQ1lqVEF6SFF5MXo2NnRuY0I5TkNtS2xOOF9sbGJvV2VYWHo2cVNLcnZGY0owekE2ejBxM2R0bksyUHhJUVlIenBKd09BcjJNUThGYTV0X0ktVzdpQkJBRnJzckJ3RnZPY2xoVmlYSk1RellzWUlOQ2M5aE5Fdlpn?oc=5",
@@ -636,19 +624,19 @@
               "publishedAt": "2026-09-20T13:13:08.000Z"
             },
             {
-              "rank": 7,
-              "translatedTitle": "令人作呕的心态：孟加拉国男子故意撞到迪拜海滩的女游客游泳-观看-免费新闻杂志",
-              "originalTitle": "Disgusting Mentality: Bangladeshi Man Deliberatly Bumps Into Female Tourist Swimming At Dubai Beach - WATCH - Free Press Journal",
+              "rank": 6,
+              "translatedTitle": "令人作呕的心态：孟加拉国男子故意撞到迪拜海滩的女游客游泳-观看- freepressjournal.in",
+              "originalTitle": "Disgusting Mentality: Bangladeshi Man Deliberatly Bumps Into Female Tourist Swimming At Dubai Beach - WATCH - freepressjournal.in",
               "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW0tcnhSTmx5X3QwdHFwT3hielZMcHlwM3BQTTFiaDRZREJSUW1FYW1VV0lOQW9ZZHhfUUpjdTA3N1JtR3p5Ny1wM3hqUnZEeGtsa0JaUFFKUFdPWnBBWXZwOFc3b1NUSklVS2k3Wk5hYWFQN3JFSVlvNFNudGxaLUNJRWY2eE44ZGxDekFSd2hfcUNjdklOeldVVFNTV3hob1hVbXlvTjV2NDY0WVFpaGRQeDNzS2xNY0c1R3RtVDg4ckRHZWFXVFkwZ1NZY0phVEFpbVZaZnpJQdIB3wFBVV95cUxNV0xkVDBOaXNzcGNNTmJ4bzJaLWc4bEZDQ29uUHFpWjhzZjdHZElnTnhJalhkTlZSajVuUDNzVzF2WUtPald3cUtHV2dObEFabHZBelM3QkZ1S3pyTHk3X0JnNFFuMkE4dE54UGRRMzU3WGFUd2pYRFBFX1lGamRfdmVMVkNNTXBKaWdOR3ZvMDQtVU1SejRWb1dKSUdLZER0QlA1Qlh6N3I3N0x0RnY2REVNN1l2R0VhWkRBbWtsU1YweWRBaVRrN0xobWZ3ZTA0d183R3VPc2t1dzlmNENJ?oc=5",
-              "source": "Free Press Journal",
+              "source": "freepressjournal.in",
               "sources": [
-                "Free Press Journal"
+                "freepressjournal.in"
               ],
               "heatScore": 58,
               "publishedAt": "2026-09-20T12:29:27.000Z"
             },
             {
-              "rank": 8,
+              "rank": 7,
               "translatedTitle": "阿布扎比将举办动漫音乐会- アラブニュース",
               "originalTitle": "Abu Dhabi to host anime concert - アラブニュース",
               "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1F6dW5wdjg1d3lMUkVhUExrY3hGLUlwY3pEank5N0FHRmJaS1czTWRxRnUtWWJIRHlQX0ZCYXp5c3p5a285eVpZdUJYckZRNDNWWlp3N2tXVGJtZmNtYkpTY1BzMEpXV25mLTcxWG11N2wxU1AtbjBXc19qWTNvYw?oc=5",
@@ -656,11 +644,11 @@
               "sources": [
                 "アラブニュース"
               ],
-              "heatScore": 57,
+              "heatScore": 58,
               "publishedAt": "2026-09-20T07:19:26.000Z"
             },
             {
-              "rank": 9,
+              "rank": 8,
               "translatedTitle": "IPhone 18 Pro在迪拜比印度便宜吗？价格差距让印度买家进行数学运算- economictimes.com",
               "originalTitle": "Is iPhone 18 Pro cheaper in Dubai than India? The price gap has Indian buyers doing the maths - economictimes.com",
               "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeUw2cFBUb3d5OHNEUExUbkh2NnVFbnkzVkFYMXBUaWduYTk3aVlOVEZBWGRjN2wxVm9xbGsxczhxS1VLOXl1cGpMWVRUQzBwdVFqQXBNd1RNUXdpaHY5Y3h6QTI2RHdZb1RBTGpHdk1vZGNGNUIxRDAzQ2g0Z0tvMDZySXg0VUdJVDViNVN3RUg3N0R3cDgyTDVLWW1kbFBRVFhzQlltdW5CZV9yaWFQMnNHLU1tME1fNjVSSVRKWmJCSUJ2ODYwSjBvTk4tLWhvakpBYXdCWVg0X3JYbVJYak9xRnZHbWoyZk1qUzdqUDFXYnJmX1HSAfsBQVVfeXFMTVppLVpjZy04Q2luMHd3WkRYYXVTN3ZMNm5NZGU4NGt5a3ZPcmRCMEJldXBWSThoNW5hM241MzczMFFTVnJKX0NCQWdjT1RETlFIMUd2eWY1ZXV5RXppVm9fbFlmTGI5aTJ3eWNMYzhGMUhPd1hrclFmbTNKQ2I2dE1sbW1QYkRlWW41WGlqbXBTaV9JOXJIY0E3amp1MmZrb1VzX1pCa1QxSmdRTU9PNzN1OG5mV05HZVVkNGdwSDFSOFN1NE0yNk9WYnZtX3hjVGR4cDhqUWpWTnh4Qk9pbDVJVC1CV0ZJU0lRd0dQMGdXSENXLS1tSml5eWc?oc=5",
@@ -672,7 +660,7 @@
               "publishedAt": "2026-09-20T06:59:19.000Z"
             },
             {
-              "rank": 10,
+              "rank": 9,
               "translatedTitle": "但是在美国做节目？ Zara Larsson取消了她的阿布扎比音乐会，但粉丝们称她为“表演者”并质疑她的立场- Indiatimes",
               "originalTitle": "But doing shows in the US? Zara Larsson cancels her Abu Dhabi concert, but fans call her 'performative' and question her stance - Indiatimes",
               "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxON2doYktXamVQbHkxV2NrNV9ZZTNSUUFYZk5jcmFOTjBEVUZJZ1c0N05JZWt0U0pqNDNkY1BvSEszcVNTeklHeXNLSWtxMVByRmdxWG5lR2w0cE1ZQl84cmlEMHlfYlZQYWkwbGJwbV9CVWhvelQ4WWJEOXJNaHhvclBGUlhNU0dudlJObmFYOUsyQVpmZEFMQ1hGdnNSajFWak12TWpxeHZoanZRN1JhVzNrNzlfeWJvNVY0YTVSWV9rdzRhR0ZIaVVZUTRfQlZmSURGOEtjWkV3Zlg0bWxYZ29TUnBLM1Zidkw4bXpfQThJT2dlNnpkWjkzcVcwWVFOSFpMbnBUZUgyWnJDZGhDcy1uVXfSAZoCQVVfeXFMTVk0OHVQYzZZdTdMWDYzRnowQmJsbVJmUnZjQkM3OFNrZFlJMWVrTm5HcUZScnFlR3VpbFJmeTYxY0dQMWpmZE5BOXlxTHI5ZUR3TzBjUmt3OEZ1TW5BV1lSLXZBZmhuQUc4Tl9SUmg5RzE0M2ZWZm9MUlpIVUxSU3owNnAxeklJVnhBdlNQVHlYd0FVUmlpakhRbThWZjR2dUVsM2o0NnlpSE9LNnNVa21MQ2VYQ1lVcmx4LXZwdl82T3RKLWhyWF92NU9CcGgtbHNsTnl0amR3dzNKVl9tYmhYZm1USHllUkNzZlZNMGdWMVBTTjlvMmdYM3lkWUl4VlBXZnoxYVNkRGlfS0V5MjFtbjhmSXdyTURn?oc=5",
@@ -682,6 +670,18 @@
               ],
               "heatScore": 55,
               "publishedAt": "2026-09-20T08:43:09.000Z"
+            },
+            {
+              "rank": 10,
+              "translatedTitle": "计划购买Global Village VIP套餐？迪拜警方希望您先阅读此内容- curlytales.com",
+              "originalTitle": "Planning To Buy Global Village VIP Packages? Dubai Police Wants You To Read This First - curlytales.com",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbXVCbGFtaTJkQVRSYi1nZmtnRUxFcWtLeThIQ28xSzV4OHk5OXV0VGtkYzFRYm5VV0ZrVE9MenRueVR1WHJQOHZYcTYxZDJDVTY3TzU4S2FOa3VhcGktenFtcnBWQnpzVXhLS1ZFb0doTHhnUzhoTHJPUllJdjF1YTUxSWVSVW9DRjExaTJ2NkdfbVlVSUEwejAySW5qbm1qMVppN0x0WUhQY3R2bTNMdVdTbWFPMGNKNTl3TXlpQkx5bGdXRWhHQTNn0gHPAUFVX3lxTE1BSFRNRUYyNnlHRS1mLWs1a21MLUo3MmQxOVpwZ01QbWlTMHBrWWZOZGYtNVdwRkc5RWNEUTAxaXZvOGVxQkN0NVlDM2pWQWxLZGRtMHE4WDZCbUFKRFgzYmNMY2ZZS1pndnU1SElUQmxtR1dFSFFzRUJ5eC0yX0NDaEhVajJiSkxmRF80VFZUTVBlSXp3cV85Y005SE1jcC1JQlQtS1BKLW9RLWNOR2ZWT3lUcTVmMG5LZF9FUnZ6d0J3S1hwT0N4LXRCVDFzcw?oc=5",
+              "source": "curlytales.com",
+              "sources": [
+                "curlytales.com"
+              ],
+              "heatScore": 53,
+              "publishedAt": "2026-09-20T06:46:43.000Z"
             }
           ],
           "china": [
@@ -706,7 +706,7 @@
               "sources": [
                 "البيان"
               ],
-              "heatScore": 46,
+              "heatScore": 45,
               "publishedAt": "2026-09-19T20:00:00.000Z"
             },
             {
@@ -1532,7 +1532,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 12,
       "publishedAt": "2026-09-20T18:12:57.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News",
         "AniNews.in"
@@ -1547,7 +1547,7 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 94,
+      "rawHeatScore": 93,
       "sourceTier": "mainstream",
       "heatScore": 99,
       "heatLabel": "爆",
@@ -1565,7 +1565,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 7,
       "publishedAt": "2026-09-20T19:47:40.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -1581,7 +1581,7 @@
       "trendBoost": 0,
       "rawHeatScore": 81,
       "sourceTier": "mainstream",
-      "heatScore": 88,
+      "heatScore": 89,
       "heatLabel": "热",
       "heatRank": 2,
       "originalTitle": "UAE continues humanitarian efforts with aid to Colombia",
@@ -1598,7 +1598,7 @@
       "categoryHint": null,
       "feedRank": 0,
       "publishedAt": "2026-09-20T17:13:57.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -1612,7 +1612,7 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 81,
+      "rawHeatScore": 80,
       "sourceTier": "mainstream",
       "heatScore": 88,
       "heatLabel": "热",
@@ -1631,7 +1631,7 @@
       "categoryHint": null,
       "feedRank": 1,
       "publishedAt": "2026-09-20T15:51:22.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -1645,7 +1645,7 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 79,
+      "rawHeatScore": 78,
       "sourceTier": "mainstream",
       "heatScore": 86,
       "heatLabel": "热",
@@ -1663,7 +1663,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 2,
       "publishedAt": "2026-09-20T15:33:05.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -1679,7 +1679,7 @@
       "trendBoost": 0,
       "rawHeatScore": 78,
       "sourceTier": "mainstream",
-      "heatScore": 85,
+      "heatScore": 86,
       "heatLabel": "热",
       "heatRank": 5,
       "originalTitle": "Dubai to unite 1,000 leaders at Mbr Leadership Forum",
@@ -1688,14 +1688,14 @@
       "translationProvider": "MyMemory"
     },
     {
-      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324890069?-15565:1965",
-      "title": "UAE calls for action to counter extremism, hate speech",
-      "url": "https://c.newsnow.co.uk/A/1324890069?-15565:1965",
+      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324879128?-15565:1965",
+      "title": "Middle East conflict: What UAE residents need to know",
+      "url": "https://c.newsnow.co.uk/A/1324879128?-15565:1965",
       "source": "Gulf News",
       "sourceId": "newsnow-uae",
-      "feedRank": 14,
-      "publishedAt": "2026-09-20T17:14:34.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "feedRank": 1,
+      "publishedAt": "2026-09-20T13:37:27.000Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -1714,20 +1714,20 @@
       "heatScore": 84,
       "heatLabel": "热",
       "heatRank": 6,
-      "originalTitle": "UAE calls for action to counter extremism, hate speech",
-      "translatedTitle": "阿联酋呼吁采取行动打击极端主义和仇恨言论",
+      "originalTitle": "Middle East conflict: What UAE residents need to know",
+      "translatedTitle": "中东冲突：阿联酋居民需要了解的信息",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
     {
-      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324879128?-15565:1965",
-      "title": "Middle East conflict: What UAE residents need to know",
-      "url": "https://c.newsnow.co.uk/A/1324879128?-15565:1965",
+      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324890069?-15565:1965",
+      "title": "UAE calls for action to counter extremism, hate speech",
+      "url": "https://c.newsnow.co.uk/A/1324890069?-15565:1965",
       "source": "Gulf News",
       "sourceId": "newsnow-uae",
-      "feedRank": 1,
-      "publishedAt": "2026-09-20T13:37:27.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "feedRank": 14,
+      "publishedAt": "2026-09-20T17:14:34.000Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -1741,13 +1741,13 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 76,
+      "rawHeatScore": 75,
       "sourceTier": "mainstream",
-      "heatScore": 84,
+      "heatScore": 83,
       "heatLabel": "热",
       "heatRank": 7,
-      "originalTitle": "Middle East conflict: What UAE residents need to know",
-      "translatedTitle": "中东冲突：阿联酋居民需要了解的信息",
+      "originalTitle": "UAE calls for action to counter extremism, hate speech",
+      "translatedTitle": "阿联酋呼吁采取行动打击极端主义和仇恨言论",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -1759,7 +1759,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 15,
       "publishedAt": "2026-09-20T16:33:46.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -1773,7 +1773,7 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 75,
+      "rawHeatScore": 74,
       "sourceTier": "mainstream",
       "heatScore": 83,
       "heatLabel": "热",
@@ -1792,7 +1792,7 @@
       "categoryHint": null,
       "feedRank": 3,
       "publishedAt": "2026-09-20T13:39:17.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -1825,7 +1825,7 @@
       "categoryHint": null,
       "feedRank": 4,
       "publishedAt": "2026-09-20T13:29:52.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -1858,7 +1858,7 @@
       "categoryHint": null,
       "feedRank": 5,
       "publishedAt": "2026-09-20T13:07:53.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -1874,7 +1874,7 @@
       "trendBoost": 0,
       "rawHeatScore": 74,
       "sourceTier": "mainstream",
-      "heatScore": 82,
+      "heatScore": 83,
       "heatLabel": "热",
       "heatRank": 11,
       "originalTitle": "Meet Emirati Grade 12 student selected to represent UAE at Global Youth Council",
@@ -1890,7 +1890,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 18,
       "publishedAt": "2026-09-20T16:06:52.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "The National"
       ],
@@ -1906,7 +1906,7 @@
       "trendBoost": 0,
       "rawHeatScore": 73,
       "sourceTier": "mainstream",
-      "heatScore": 81,
+      "heatScore": 82,
       "heatLabel": "热",
       "heatRank": 12,
       "originalTitle": "UAE sends aid to Colombia under $10 million earthquake relief drive",
@@ -1923,7 +1923,7 @@
       "categoryHint": null,
       "feedRank": 6,
       "publishedAt": "2026-09-20T12:30:34.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -1939,7 +1939,7 @@
       "trendBoost": 0,
       "rawHeatScore": 73,
       "sourceTier": "mainstream",
-      "heatScore": 81,
+      "heatScore": 82,
       "heatLabel": "热",
       "heatRank": 13,
       "originalTitle": "Sharjah Safari to reopen on September 21; what's new this year?",
@@ -1955,7 +1955,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 19,
       "publishedAt": "2026-09-20T15:43:16.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -1971,7 +1971,7 @@
       "trendBoost": 0,
       "rawHeatScore": 72,
       "sourceTier": "mainstream",
-      "heatScore": 80,
+      "heatScore": 81,
       "heatLabel": "热",
       "heatRank": 14,
       "originalTitle": "Dubai traffic alert: Accident causes delays on key road",
@@ -1988,7 +1988,7 @@
       "categoryHint": null,
       "feedRank": 7,
       "publishedAt": "2026-09-20T11:43:45.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2004,11 +2004,44 @@
       "trendBoost": 0,
       "rawHeatScore": 72,
       "sourceTier": "mainstream",
-      "heatScore": 80,
+      "heatScore": 81,
       "heatLabel": "热",
       "heatRank": 15,
       "originalTitle": "Indian Consulate in Dubai to offer free legal advice on cybercrime, banking fraud",
       "translatedTitle": "印度驻迪拜领事馆提供有关网络犯罪、银行欺诈的免费法律咨询",
+      "translationStatus": "translated",
+      "translationProvider": "MyMemory"
+    },
+    {
+      "id": "khaleej-times:https://www.khaleejtimes.com/uae/transport/etihad-rail-direct-cargo-service-fujairah-to-abu-dhabi-industrial-city",
+      "title": "Etihad Rail launches direct cargo service from Fujairah to Abu Dhabi’s Industrial City",
+      "url": "https://www.khaleejtimes.com/uae/transport/etihad-rail-direct-cargo-service-fujairah-to-abu-dhabi-industrial-city",
+      "source": "Khaleej Times",
+      "sourceId": "khaleej-times",
+      "categoryHint": null,
+      "feedRank": 8,
+      "publishedAt": "2026-09-20T11:11:39.000Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
+      "sources": [
+        "Khaleej Times"
+      ],
+      "sourceIds": [
+        "khaleej-times"
+      ],
+      "sourceCount": 1,
+      "primaryCategoryId": "economy",
+      "categoryIds": [
+        "economy"
+      ],
+      "chinaRelated": false,
+      "trendBoost": 0,
+      "rawHeatScore": 71,
+      "sourceTier": "mainstream",
+      "heatScore": 80,
+      "heatLabel": "热",
+      "heatRank": 16,
+      "originalTitle": "Etihad Rail launches direct cargo service from Fujairah to Abu Dhabi’s Industrial City",
+      "translatedTitle": "阿提哈德铁路推出从富查伊拉到阿布扎比工业城市的直达货运服务",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -2020,39 +2053,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 21,
       "publishedAt": "2026-09-20T14:42:19.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
-      "sources": [
-        "Gulf News"
-      ],
-      "sourceIds": [
-        "newsnow-uae"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "domestic",
-      "categoryIds": [
-        "domestic"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 71,
-      "sourceTier": "mainstream",
-      "heatScore": 79,
-      "heatLabel": "热",
-      "heatRank": 16,
-      "originalTitle": "Your ultimate UAE family fun guide this week",
-      "translatedTitle": "本周终极阿联酋家庭娱乐指南",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324881305?-15565:1965",
-      "title": "Autumn begins in UAE this week: Rain, cooler days ahead",
-      "url": "https://c.newsnow.co.uk/A/1324881305?-15565:1965",
-      "source": "Gulf News",
-      "sourceId": "newsnow-uae",
-      "feedRank": 23,
-      "publishedAt": "2026-09-20T14:21:59.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -2071,20 +2072,20 @@
       "heatScore": 79,
       "heatLabel": "热",
       "heatRank": 17,
-      "originalTitle": "Autumn begins in UAE this week: Rain, cooler days ahead",
-      "translatedTitle": "阿联酋本周开始秋天：下雨，未来几天更凉爽",
+      "originalTitle": "Your ultimate UAE family fun guide this week",
+      "translatedTitle": "本周终极阿联酋家庭娱乐指南",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
     {
-      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324880852?-15565:1965",
-      "title": "Abu Dhabi Police graduates 202 trainees in Al Ain",
-      "url": "https://c.newsnow.co.uk/A/1324880852?-15565:1965",
+      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324881305?-15565:1965",
+      "title": "Autumn begins in UAE this week: Rain, cooler days ahead",
+      "url": "https://c.newsnow.co.uk/A/1324881305?-15565:1965",
       "source": "Gulf News",
       "sourceId": "newsnow-uae",
-      "feedRank": 24,
-      "publishedAt": "2026-09-20T14:11:38.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "feedRank": 23,
+      "publishedAt": "2026-09-20T14:21:59.000Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "Gulf News"
       ],
@@ -2103,6 +2104,38 @@
       "heatScore": 79,
       "heatLabel": "热",
       "heatRank": 18,
+      "originalTitle": "Autumn begins in UAE this week: Rain, cooler days ahead",
+      "translatedTitle": "阿联酋本周开始秋天：下雨，未来几天更凉爽",
+      "translationStatus": "translated",
+      "translationProvider": "MyMemory"
+    },
+    {
+      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324880852?-15565:1965",
+      "title": "Abu Dhabi Police graduates 202 trainees in Al Ain",
+      "url": "https://c.newsnow.co.uk/A/1324880852?-15565:1965",
+      "source": "Gulf News",
+      "sourceId": "newsnow-uae",
+      "feedRank": 24,
+      "publishedAt": "2026-09-20T14:11:38.000Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
+      "sources": [
+        "Gulf News"
+      ],
+      "sourceIds": [
+        "newsnow-uae"
+      ],
+      "sourceCount": 1,
+      "primaryCategoryId": "domestic",
+      "categoryIds": [
+        "domestic"
+      ],
+      "chinaRelated": false,
+      "trendBoost": 0,
+      "rawHeatScore": 70,
+      "sourceTier": "mainstream",
+      "heatScore": 79,
+      "heatLabel": "热",
+      "heatRank": 19,
       "originalTitle": "Abu Dhabi Police graduates 202 trainees in Al Ain",
       "translatedTitle": "阿布扎比警方在艾因毕业202名学员",
       "translationStatus": "translated",
@@ -2116,7 +2149,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 25,
       "publishedAt": "2026-09-20T13:55:27.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "The National"
       ],
@@ -2134,7 +2167,7 @@
       "sourceTier": "mainstream",
       "heatScore": 79,
       "heatLabel": "热",
-      "heatRank": 19,
+      "heatRank": 20,
       "originalTitle": "Value of goods through Sharjah-Oman logistics corridor jumps 66% in three months",
       "translatedTitle": "通过沙迦-阿曼物流走廊的货物价值在三个月内跃升66 ％",
       "translationStatus": "translated",
@@ -2149,7 +2182,7 @@
       "categoryHint": null,
       "feedRank": 9,
       "publishedAt": "2026-09-20T11:24:10.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2163,46 +2196,13 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 71,
-      "sourceTier": "mainstream",
-      "heatScore": 79,
-      "heatLabel": "热",
-      "heatRank": 20,
-      "originalTitle": "Abu Dhabi to digitise 100,000 Arabic books in push to strengthen language online",
-      "translatedTitle": "阿布扎比将对100,000本阿拉伯语书籍进行数字化，以加强在线语言",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "khaleej-times:https://www.khaleejtimes.com/uae/transport/etihad-rail-direct-cargo-service-fujairah-to-abu-dhabi-industrial-city",
-      "title": "Etihad Rail launches direct cargo service from Fujairah to Abu Dhabi’s Industrial City",
-      "url": "https://www.khaleejtimes.com/uae/transport/etihad-rail-direct-cargo-service-fujairah-to-abu-dhabi-industrial-city",
-      "source": "Khaleej Times",
-      "sourceId": "khaleej-times",
-      "categoryHint": null,
-      "feedRank": 8,
-      "publishedAt": "2026-09-20T11:11:39.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
-      "sources": [
-        "Khaleej Times"
-      ],
-      "sourceIds": [
-        "khaleej-times"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "economy",
-      "categoryIds": [
-        "economy"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 71,
+      "rawHeatScore": 70,
       "sourceTier": "mainstream",
       "heatScore": 79,
       "heatLabel": "热",
       "heatRank": 21,
-      "originalTitle": "Etihad Rail launches direct cargo service from Fujairah to Abu Dhabi’s Industrial City",
-      "translatedTitle": "阿提哈德铁路推出从富查伊拉到阿布扎比工业城市的直达货运服务",
+      "originalTitle": "Abu Dhabi to digitise 100,000 Arabic books in push to strengthen language online",
+      "translatedTitle": "阿布扎比将对100,000本阿拉伯语书籍进行数字化，以加强在线语言",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -2215,7 +2215,7 @@
       "categoryHint": null,
       "feedRank": 10,
       "publishedAt": "2026-09-20T11:06:40.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2248,7 +2248,7 @@
       "categoryHint": null,
       "feedRank": 2,
       "publishedAt": "2026-09-20T09:14:09.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2262,7 +2262,7 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 71,
+      "rawHeatScore": 70,
       "sourceTier": "mainstream",
       "heatScore": 79,
       "heatLabel": "热",
@@ -2280,7 +2280,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 28,
       "publishedAt": "2026-09-20T13:39:18.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "The National"
       ],
@@ -2305,48 +2305,15 @@
       "translationProvider": "MyMemory"
     },
     {
-      "id": "uae-military-google:https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODkwVEJhQTRTQnFIRUE1Vjd1LW9JendUSGc5ZlRPOVp0QUEzTWZiczY4VDhHNDloNDAwMW5hMnBIUk55X0ZMMk1KbjBId2p1T2hFY2RRUTM2QzAyZDlXbUdMZ2hvejVPQWRLS2NlUXhRVTNLRE9WMjU4dU9IN253bkxtd1hKT1Q5VExMWU12bm1OaEZoWXVwM0hIMVFFVldnNXhIZ2ozVDdETm9tZVZSbjFaaWhqMHk3Vllubi1od1I5SUFhOFlvd2hrUFI4cGhpaEZPamQ3SdIB5wFBVV95cUxQbTdBMzlGM2ZwRndDUG83LXJwMXhPU1o3dEgwUThKTHNSMDI1V0RQeWNRVUFMdzNUVndRNnQ1U1JXRmtlOHVnY3YzR2U4bUVscHVpeDE5aDRtbW5TQkduVW9zeTd0a011cjBhRmgyOFFvVXRYUHloZjdYdDZBYlZKTnlDYlZHeDVNZlQ0M3B2b2hCNDkzSXlnamd2SDV3b0pfTlpBeE9OajNJb0kweG5Ld1ozOGgzZFBUVmRMMGs2Zk1iVnVNRGIyREhBUnZwOExNSllhTnBDd3YzcDdSMjNBMHJHQWlmbHc?oc=5",
-      "title": "UAE residents’ update: US travel alert, Iran ceasefire terms, Saudi missile interception and flight updates - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODkwVEJhQTRTQnFIRUE1Vjd1LW9JendUSGc5ZlRPOVp0QUEzTWZiczY4VDhHNDloNDAwMW5hMnBIUk55X0ZMMk1KbjBId2p1T2hFY2RRUTM2QzAyZDlXbUdMZ2hvejVPQWRLS2NlUXhRVTNLRE9WMjU4dU9IN253bkxtd1hKT1Q5VExMWU12bm1OaEZoWXVwM0hIMVFFVldnNXhIZ2ozVDdETm9tZVZSbjFaaWhqMHk3Vllubi1od1I5SUFhOFlvd2hrUFI4cGhpaEZPamQ3SdIB5wFBVV95cUxQbTdBMzlGM2ZwRndDUG83LXJwMXhPU1o3dEgwUThKTHNSMDI1V0RQeWNRVUFMdzNUVndRNnQ1U1JXRmtlOHVnY3YzR2U4bUVscHVpeDE5aDRtbW5TQkduVW9zeTd0a011cjBhRmgyOFFvVXRYUHloZjdYdDZBYlZKTnlDYlZHeDVNZlQ0M3B2b2hCNDkzSXlnamd2SDV3b0pfTlpBeE9OajNJb0kweG5Ld1ozOGgzZFBUVmRMMGs2Zk1iVnVNRGIyREhBUnZwOExNSllhTnBDd3YzcDdSMjNBMHJHQWlmbHc?oc=5",
-      "source": "Gulf News",
-      "sourceId": "uae-military-google",
-      "categoryHint": "military",
-      "feedRank": 49,
-      "publishedAt": "2026-09-20T13:36:12.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
-      "sources": [
-        "Gulf News"
-      ],
-      "sourceIds": [
-        "uae-military-google"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "military",
-      "categoryIds": [
-        "military"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 69,
-      "sourceTier": "mainstream",
-      "heatScore": 78,
-      "heatLabel": "热",
-      "heatRank": 25,
-      "originalTitle": "UAE residents’ update: US travel alert, Iran ceasefire terms, Saudi missile interception and flight updates - Gulf News",
-      "translatedTitle": "阿联酋居民最新消息：美国旅行警报、伊朗停火条款、沙特导弹拦截和飞行更新-海湾新闻",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
       "id": "arab-news:https://www.arabnews.com/lifestyle/gigi-hadid-taps-malika-el-maslouhi-for-denim-launch-3002427",
       "title": "Gigi Hadid taps Malika El-Maslouhi for denim launch",
       "url": "https://www.arabnews.com/lifestyle/gigi-hadid-taps-malika-el-maslouhi-for-denim-launch-3002427",
       "source": "Arab News",
       "sourceId": "arab-news",
       "categoryHint": null,
-      "feedRank": 35,
+      "feedRank": 37,
       "publishedAt": "2026-09-20T13:15:15.000Z",
-      "fetchedAt": "2026-09-20T20:10:40.296Z",
+      "fetchedAt": "2026-09-20T20:24:45.784Z",
       "sources": [
         "Arab News"
       ],
@@ -2364,7 +2331,7 @@
       "sourceTier": "mainstream",
       "heatScore": 78,
       "heatLabel": "热",
-      "heatRank": 26,
+      "heatRank": 25,
       "originalTitle": "Gigi Hadid taps Malika El-Maslouhi for denim launch",
       "translatedTitle": "Gigi Hadid邀请Malika El-Maslouhi推出牛仔布",
       "translationStatus": "translated",
@@ -2379,7 +2346,7 @@
       "categoryHint": null,
       "feedRank": 11,
       "publishedAt": "2026-09-20T10:17:20.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2397,7 +2364,7 @@
       "sourceTier": "mainstream",
       "heatScore": 78,
       "heatLabel": "热",
-      "heatRank": 27,
+      "heatRank": 26,
       "originalTitle": "Dubai’s Global Village Season 31 VIP packs available for pre-booking from September 21",
       "translatedTitle": "9月21日起，迪拜环球村第31季VIP礼包可供提前预订",
       "translationStatus": "translated",
@@ -2412,7 +2379,7 @@
       "categoryHint": null,
       "feedRank": 12,
       "publishedAt": "2026-09-20T09:51:14.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2430,7 +2397,7 @@
       "sourceTier": "mainstream",
       "heatScore": 77,
       "heatLabel": "热",
-      "heatRank": 28,
+      "heatRank": 27,
       "originalTitle": "Arabic content gap in UAE grows as 80% of media kids consume is foreign, culture chief says",
       "translatedTitle": "阿联酋的阿拉伯语内容差距随着80%的儿童媒体消费来自国外而扩大，文化主管表示",
       "translationStatus": "translated",
@@ -2445,7 +2412,7 @@
       "categoryHint": null,
       "feedRank": 14,
       "publishedAt": "2026-09-20T08:58:52.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2461,44 +2428,11 @@
       "trendBoost": 0,
       "rawHeatScore": 66,
       "sourceTier": "mainstream",
-      "heatScore": 75,
+      "heatScore": 76,
       "heatLabel": "热",
-      "heatRank": 29,
+      "heatRank": 28,
       "originalTitle": "Sharjah Deputy Ruler announces new $1.6-million humanitarian innovation centre in Indonesia",
       "translatedTitle": "沙迦副统治者宣布在印度尼西亚新建价值160万$的人道主义创新中心",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "uae-military-google:https://news.google.com/rss/articles/CBMihgJBVV95cUxQeFRoYWM2UFB0SFlBSGtKSjM4blUtWlhqcTlOemRSN1FDOUl1QmpLUkJJcnNheE84UHQzTDQ4dUk0Q0Y5U29zdnE1SXVwbXJhX2dkUWNsYVVsTlVoM3FiVi1ZdHkxRFVUQUNJemtWdUhJZUt6SEZmcFczNWIwR1lJSF9pZUhyb1lTdlJaWmNFczBNQnlvaWNtdVpES1FocXJodlFqWHY4RGVHMEF4RTVraWV1U1VNVU5Gc3JpLWYySWEwaGd6cWtFMmhobTRQWkVvaUQ3dGMtc3lxNml0bkI2aDZuTl81T3kzV3dvV0VRQkF3WFEwT0w2eDhIb2lWNnBzd2FubTVn0gGLAkFVX3lxTE1FU2x2NkNDUnlxNXQ0Z0cyenZOdzByWS03dkpYUXpucWVVMXFYRGJGSms5OEp2bWUxOGFqMXVtbkdFNGtMVjczLVc4Nm9yREtaY1ZLZ1Y1dXNIQUhwN2JHSGxsaFhjQ1cyUkhrV25ja2wzaFUzX2NLREI4VGpiRTR4SWxfSncwT3NfeDBqTVBicVZ3eWRtcGlXWm5hSmx6VWllOWo3eGRHTExObTV2Wmh4MFlxLW55aE1rMXJnSHVYZV9UY1htb0xyN0Y1NTdqZHJRTnhQZWtOLTdNbzh1a3BZZDBINmF4TlF4a0Q5U0xZRU9GbDV0LUt5OUIzbEROU0dxRi1pV1ZUeW1vSQ?oc=5",
-      "title": "Houthi Attack On Riyadh Disrupts Air Travel Across West Asia; Etihad Cancels Delhi-Abu Dhabi Flight, Leaving 200 Passengers Stranded - The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeFRoYWM2UFB0SFlBSGtKSjM4blUtWlhqcTlOemRSN1FDOUl1QmpLUkJJcnNheE84UHQzTDQ4dUk0Q0Y5U29zdnE1SXVwbXJhX2dkUWNsYVVsTlVoM3FiVi1ZdHkxRFVUQUNJemtWdUhJZUt6SEZmcFczNWIwR1lJSF9pZUhyb1lTdlJaWmNFczBNQnlvaWNtdVpES1FocXJodlFqWHY4RGVHMEF4RTVraWV1U1VNVU5Gc3JpLWYySWEwaGd6cWtFMmhobTRQWkVvaUQ3dGMtc3lxNml0bkI2aDZuTl81T3kzV3dvV0VRQkF3WFEwT0w2eDhIb2lWNnBzd2FubTVn0gGLAkFVX3lxTE1FU2x2NkNDUnlxNXQ0Z0cyenZOdzByWS03dkpYUXpucWVVMXFYRGJGSms5OEp2bWUxOGFqMXVtbkdFNGtMVjczLVc4Nm9yREtaY1ZLZ1Y1dXNIQUhwN2JHSGxsaFhjQ1cyUkhrV25ja2wzaFUzX2NLREI4VGpiRTR4SWxfSncwT3NfeDBqTVBicVZ3eWRtcGlXWm5hSmx6VWllOWo3eGRHTExObTV2Wmh4MFlxLW55aE1rMXJnSHVYZV9UY1htb0xyN0Y1NTdqZHJRTnhQZWtOLTdNbzh1a3BZZDBINmF4TlF4a0Q5U0xZRU9GbDV0LUt5OUIzbEROU0dxRi1pV1ZUeW1vSQ?oc=5",
-      "source": "The Sunday Guardian",
-      "sourceId": "uae-military-google",
-      "categoryHint": "military",
-      "feedRank": 98,
-      "publishedAt": "2026-09-20T07:23:13.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
-      "sources": [
-        "The Sunday Guardian"
-      ],
-      "sourceIds": [
-        "uae-military-google"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "military",
-      "categoryIds": [
-        "military"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 65,
-      "sourceTier": "mainstream",
-      "heatScore": 74,
-      "heatLabel": "升",
-      "heatRank": 30,
-      "originalTitle": "Houthi Attack On Riyadh Disrupts Air Travel Across West Asia; Etihad Cancels Delhi-Abu Dhabi Flight, Leaving 200 Passengers Stranded - The Sunday Guardian",
-      "translatedTitle": "胡塞武装袭击利雅得扰乱西亚航空旅行；阿提哈德航空取消德里-阿布扎比航班，导致200名乘客滞留",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -2511,7 +2445,7 @@
       "categoryHint": null,
       "feedRank": 15,
       "publishedAt": "2026-09-20T08:37:54.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2527,9 +2461,9 @@
       "trendBoost": 0,
       "rawHeatScore": 65,
       "sourceTier": "mainstream",
-      "heatScore": 74,
-      "heatLabel": "升",
-      "heatRank": 31,
+      "heatScore": 75,
+      "heatLabel": "热",
+      "heatRank": 29,
       "originalTitle": "Dubai-backed kindness campaign brings water, education and healthcare to Ghana village",
       "translatedTitle": "迪拜支持的善意活动为加纳村庄带来水、教育和医疗保健",
       "translationStatus": "translated",
@@ -2544,7 +2478,7 @@
       "categoryHint": null,
       "feedRank": 16,
       "publishedAt": "2026-09-20T07:17:48.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2558,11 +2492,11 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 64,
+      "rawHeatScore": 63,
       "sourceTier": "mainstream",
       "heatScore": 73,
       "heatLabel": "升",
-      "heatRank": 32,
+      "heatRank": 30,
       "originalTitle": "Dubai RTA completes Oud Maitha, Al Asayel project; travel time cut from 20 minutes to 5",
       "translatedTitle": "迪拜RTA完成Oud Maitha ， Al Asayel项目；旅行时间从20分钟缩短到5分钟",
       "translationStatus": "translated",
@@ -2572,14 +2506,14 @@
       "id": "uae-social-google:https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0FkRm1fNlNPbVZIOFRQVUxQSXZtaE05VHVtSEVZczJWR3A2M3U0R2pGSV82anZ2bndwdlEtcjk4ZlliMHlUbzVlYWU3WU5IY0lkcmpETVAyc0JTNHpfUFpiOEpOUkhuUDF0WGF1dHl6dmhQcV91WHdOTW1QcmpfNlJVZ2dWWlh2dWZCQUd1NjgxWC1IWlhjWXIta3ZDTkJFZ19BSUtLM1Q4YlA4eXlzNUxqaHQ?oc=5",
       "title": "Zara Larsson allegedly cancels Abu Dhabi Grand Prix concert over Sudan war - Far Out Magazine",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0FkRm1fNlNPbVZIOFRQVUxQSXZtaE05VHVtSEVZczJWR3A2M3U0R2pGSV82anZ2bndwdlEtcjk4ZlliMHlUbzVlYWU3WU5IY0lkcmpETVAyc0JTNHpfUFpiOEpOUkhuUDF0WGF1dHl6dmhQcV91WHdOTW1QcmpfNlJVZ2dWWlh2dWZCQUd1NjgxWC1IWlhjWXIta3ZDTkJFZ19BSUtLM1Q4YlA4eXlzNUxqaHQ?oc=5",
-      "source": "NME",
+      "source": "nme.com",
       "sourceId": "uae-social-google",
       "categoryHint": "social",
       "feedRank": 8,
       "publishedAt": "2026-09-20T08:30:28.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
-        "NME",
+        "nme.com",
         "Far Out Magazine"
       ],
       "sourceIds": [
@@ -2596,7 +2530,7 @@
       "sourceTier": "other",
       "heatScore": 72,
       "heatLabel": "升",
-      "heatRank": 33,
+      "heatRank": 31,
       "originalTitle": "Zara Larsson allegedly cancels Abu Dhabi Grand Prix concert over Sudan war - Far Out Magazine",
       "translatedTitle": "据称Zara Larsson因苏丹战争取消了阿布扎比大奖赛音乐会- Far Out Magazine",
       "translationStatus": "translated",
@@ -2611,7 +2545,7 @@
       "categoryHint": null,
       "feedRank": 19,
       "publishedAt": "2026-09-20T05:48:29.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2629,7 +2563,7 @@
       "sourceTier": "mainstream",
       "heatScore": 71,
       "heatLabel": "升",
-      "heatRank": 34,
+      "heatRank": 32,
       "originalTitle": "Dubai deploys AI-powered feeder to monitor and manage wildlife",
       "translatedTitle": "迪拜部署人工智能供给器来监测和管理野生动物",
       "translationStatus": "translated",
@@ -2644,7 +2578,7 @@
       "categoryHint": null,
       "feedRank": 20,
       "publishedAt": "2026-09-20T05:18:40.000Z",
-      "fetchedAt": "2026-09-20T20:10:45.430Z",
+      "fetchedAt": "2026-09-20T20:24:55.585Z",
       "sources": [
         "Khaleej Times"
       ],
@@ -2660,9 +2594,9 @@
       "trendBoost": 0,
       "rawHeatScore": 60,
       "sourceTier": "mainstream",
-      "heatScore": 70,
+      "heatScore": 71,
       "heatLabel": "升",
-      "heatRank": 35,
+      "heatRank": 33,
       "originalTitle": "UAE subscription rules: Can you get a refund for charges after cancellation?",
       "translatedTitle": "阿联酋订阅规则：取消订阅后，您可以获得退款吗？",
       "translationStatus": "translated",
@@ -2677,7 +2611,7 @@
       "categoryHint": "china",
       "feedRank": 4,
       "publishedAt": "2026-09-20T18:16:59.000Z",
-      "fetchedAt": "2026-09-20T20:10:41.969Z",
+      "fetchedAt": "2026-09-20T20:24:49.566Z",
       "sources": [
         "البيان"
       ],
@@ -2692,11 +2626,11 @@
       ],
       "chinaRelated": true,
       "trendBoost": 0,
-      "rawHeatScore": 59,
+      "rawHeatScore": 58,
       "sourceTier": "other",
       "heatScore": 69,
       "heatLabel": "升",
-      "heatRank": 36,
+      "heatRank": 34,
       "originalTitle": "وفد بلدية عجمان يطلع على أحدث تقنيات الذكاء الاصطناعي بمؤتمر ومعرض \"HUAWEI CONNECT 2026\" - البيان",
       "translatedTitle": "阿治曼市代表团在“HUAWEI CONNECT 2026”大会暨展览会上简要介绍了最新人工智能技术-声明",
       "translationStatus": "translated",
@@ -2711,7 +2645,7 @@
       "categoryHint": "social",
       "feedRank": 3,
       "publishedAt": "2026-09-20T17:26:15.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "ARN News Centre"
       ],
@@ -2727,43 +2661,11 @@
       "trendBoost": 0,
       "rawHeatScore": 58,
       "sourceTier": "other",
-      "heatScore": 68,
+      "heatScore": 69,
       "heatLabel": "升",
-      "heatRank": 37,
+      "heatRank": 35,
       "originalTitle": "UAE student selected for inaugural Global Youth Council - ARN News Centre",
       "translatedTitle": "阿联酋学生入选首届全球青年理事会- ARN新闻中心",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324881556?-15565:1965",
-      "title": "Cocaine case leads to discovery of stolen luxury car reselling between Dubai and Beirut",
-      "url": "https://c.newsnow.co.uk/A/1324881556?-15565:1965",
-      "source": "L'Orient-Le Jour",
-      "sourceId": "newsnow-uae",
-      "feedRank": 0,
-      "publishedAt": "2026-09-20T14:28:15.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
-      "sources": [
-        "L'Orient-Le Jour"
-      ],
-      "sourceIds": [
-        "newsnow-uae"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "domestic",
-      "categoryIds": [
-        "domestic"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 56,
-      "sourceTier": "other",
-      "heatScore": 67,
-      "heatLabel": "升",
-      "heatRank": 38,
-      "originalTitle": "Cocaine case leads to discovery of stolen luxury car reselling between Dubai and Beirut",
-      "translatedTitle": "可卡因案导致发现在迪拜和贝鲁特之间转售被盗豪华车",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -2776,7 +2678,7 @@
       "categoryHint": "social",
       "feedRank": 15,
       "publishedAt": "2026-09-20T18:34:13.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "ARN News Centre"
       ],
@@ -2794,9 +2696,41 @@
       "sourceTier": "other",
       "heatScore": 66,
       "heatLabel": "升",
-      "heatRank": 39,
+      "heatRank": 36,
       "originalTitle": "UAE sends humanitarian aid to earthquake-hit Colombia - ARN News Centre",
       "translatedTitle": "阿联酋向哥伦比亚地震灾区提供人道主义援助- ARN新闻中心",
+      "translationStatus": "translated",
+      "translationProvider": "MyMemory"
+    },
+    {
+      "id": "newsnow-uae:https://c.newsnow.co.uk/A/1324881556?-15565:1965",
+      "title": "Cocaine case leads to discovery of stolen luxury car reselling between Dubai and Beirut",
+      "url": "https://c.newsnow.co.uk/A/1324881556?-15565:1965",
+      "source": "L'Orient-Le Jour",
+      "sourceId": "newsnow-uae",
+      "feedRank": 0,
+      "publishedAt": "2026-09-20T14:28:15.000Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
+      "sources": [
+        "L'Orient-Le Jour"
+      ],
+      "sourceIds": [
+        "newsnow-uae"
+      ],
+      "sourceCount": 1,
+      "primaryCategoryId": "domestic",
+      "categoryIds": [
+        "domestic"
+      ],
+      "chinaRelated": false,
+      "trendBoost": 0,
+      "rawHeatScore": 55,
+      "sourceTier": "other",
+      "heatScore": 66,
+      "heatLabel": "升",
+      "heatRank": 37,
+      "originalTitle": "Cocaine case leads to discovery of stolen luxury car reselling between Dubai and Beirut",
+      "translatedTitle": "可卡因案导致发现在迪拜和贝鲁特之间转售被盗豪华车",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -2809,7 +2743,7 @@
       "categoryHint": "social",
       "feedRank": 2,
       "publishedAt": "2026-09-19T17:37:27.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "The Express Tribune",
         "inmusicblog.com"
@@ -2828,75 +2762,9 @@
       "sourceTier": "other",
       "heatScore": 62,
       "heatLabel": "升",
-      "heatRank": 40,
+      "heatRank": 38,
       "originalTitle": "Zara Larsson says she won’t perform at Abu Dhabi show after Sudan concerns - The Express Tribune",
       "translatedTitle": "Zara Larsson表示，在苏丹的担忧之后，她将不会在阿布扎比演出- The Express Tribune",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "uae-social-google:https://news.google.com/rss/articles/CBMiswFBVV95cUxQUURiR2dxS0czSmJQMU9xVWZJcnhLaEdlY1V6TzJIVGEzNUhNaXNUT1M4S3dqQS1CQlZmSS10NTRZMlhPazZXOTJLUEpqLU9zMXJMei1ZOVpuWjRoaTVoTUZ1NGdZTVJta0hnR2V5MjVKWUNGNEtxUXl0M3NrU3pqR2VPMXMxdE5zLTJUbFJzX2hNMTVTcFNPNElOdW1iMEp3YVpBT1lDN0R6Z19SU0I3RjRkOA?oc=5",
-      "title": "Watch: Mohammed bin Rashid surprises shoppers during visit to Dubai Mall - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUURiR2dxS0czSmJQMU9xVWZJcnhLaEdlY1V6TzJIVGEzNUhNaXNUT1M4S3dqQS1CQlZmSS10NTRZMlhPazZXOTJLUEpqLU9zMXJMei1ZOVpuWjRoaTVoTUZ1NGdZTVJta0hnR2V5MjVKWUNGNEtxUXl0M3NrU3pqR2VPMXMxdE5zLTJUbFJzX2hNMTVTcFNPNElOdW1iMEp3YVpBT1lDN0R6Z19SU0I3RjRkOA?oc=5",
-      "source": "Gulf News",
-      "sourceId": "uae-social-google",
-      "categoryHint": "social",
-      "feedRank": 27,
-      "publishedAt": "2026-09-19T19:44:34.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
-      "sources": [
-        "Gulf News"
-      ],
-      "sourceIds": [
-        "uae-social-google"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "social",
-      "categoryIds": [
-        "social"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 49,
-      "sourceTier": "mainstream",
-      "heatScore": 61,
-      "heatLabel": "升",
-      "heatRank": 41,
-      "originalTitle": "Watch: Mohammed bin Rashid surprises shoppers during visit to Dubai Mall - Gulf News",
-      "translatedTitle": "观看：穆罕默德·本·拉希德在访问迪拜购物中心期间给购物者带来惊喜-海湾新闻",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "uae-military-google:https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWVPR3NtUHJZTzdLMk1oblRiZ1BMdG1taVdNTDdPUTJvY09pbmF3dm5MTWR4S1kyamFicF9WZHpTY2J2VmljUmhYdmQtUS13VU5WMnkxNFI4NjhVRGtMSmtEZlQxTzBzTU1tMTZfdmx1Q2xSTVBGX1ZiUTExcEJtVlRyZnBiUXQ2aFdpMzVURE1NcHBwTlVtMjdSSkI0Rkp4UGxobNIBtAFBVV95cUxNY0lIcG1hbkxvbjdCLUhRZVNlc051SXdZVVpGZkotY3l4a194Qm55cHJVekVhWlJPT2pEdzRfZ09JYTZicmZuZjUzQjl6R3U0MGxBLUUyZjFxbUpLYWY0dUY4SVM4bGwzOXllbHRBQVFPRkZOaVYyc0NjNnBsc092c1J2NURTVTNIc2NWeDBaV2dIWWt0d1g3UnZVSDZVQW11bnVaczJkMjlZb0tvQUdqcmF2TmU?oc=5",
-      "title": "UAE, Philippines discuss stronger defence and security cooperation - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWVPR3NtUHJZTzdLMk1oblRiZ1BMdG1taVdNTDdPUTJvY09pbmF3dm5MTWR4S1kyamFicF9WZHpTY2J2VmljUmhYdmQtUS13VU5WMnkxNFI4NjhVRGtMSmtEZlQxTzBzTU1tMTZfdmx1Q2xSTVBGX1ZiUTExcEJtVlRyZnBiUXQ2aFdpMzVURE1NcHBwTlVtMjdSSkI0Rkp4UGxobNIBtAFBVV95cUxNY0lIcG1hbkxvbjdCLUhRZVNlc051SXdZVVpGZkotY3l4a194Qm55cHJVekVhWlJPT2pEdzRfZ09JYTZicmZuZjUzQjl6R3U0MGxBLUUyZjFxbUpLYWY0dUY4SVM4bGwzOXllbHRBQVFPRkZOaVYyc0NjNnBsc092c1J2NURTVTNIc2NWeDBaV2dIWWt0d1g3UnZVSDZVQW11bnVaczJkMjlZb0tvQUdqcmF2TmU?oc=5",
-      "source": "Gulf News",
-      "sourceId": "uae-military-google",
-      "categoryHint": "military",
-      "feedRank": 53,
-      "publishedAt": "2026-09-19T06:58:32.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
-      "sources": [
-        "Gulf News"
-      ],
-      "sourceIds": [
-        "uae-military-google"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "military",
-      "categoryIds": [
-        "military"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 49,
-      "sourceTier": "mainstream",
-      "heatScore": 61,
-      "heatLabel": "升",
-      "heatRank": 42,
-      "originalTitle": "UAE, Philippines discuss stronger defence and security cooperation - Gulf News",
-      "translatedTitle": "阿联酋、菲律宾讨论加强国防和安全合作-海湾新闻",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -2907,9 +2775,9 @@
       "source": "Dubai Eye 103.8",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 59,
+      "feedRank": 60,
       "publishedAt": "2026-09-20T14:24:11.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
         "Dubai Eye 103.8"
       ],
@@ -2923,11 +2791,11 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 49,
+      "rawHeatScore": 48,
       "sourceTier": "other",
-      "heatScore": 61,
+      "heatScore": 60,
       "heatLabel": "升",
-      "heatRank": 43,
+      "heatRank": 39,
       "originalTitle": "Trump to use Washington triumphal arch as military complex - Dubai Eye 103.8",
       "translatedTitle": "特朗普将华盛顿凯旋门用作军事综合体-迪拜之眼103.8",
       "translationStatus": "translated",
@@ -2941,7 +2809,7 @@
       "sourceId": "newsnow-uae",
       "feedRank": 26,
       "publishedAt": "2026-09-20T13:42:23.000Z",
-      "fetchedAt": "2026-09-20T20:10:44.882Z",
+      "fetchedAt": "2026-09-20T20:24:54.941Z",
       "sources": [
         "The Hindu"
       ],
@@ -2955,13 +2823,46 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 48,
+      "rawHeatScore": 47,
       "sourceTier": "other",
-      "heatScore": 60,
-      "heatLabel": "升",
-      "heatRank": 44,
+      "heatScore": 59,
+      "heatLabel": "新",
+      "heatRank": 40,
       "originalTitle": "Etihad Airways cancels Abu Dhabi flight, passengers face harrowing time at Delhi airport",
       "translatedTitle": "阿提哈德航空取消阿布扎比航班，乘客在德里机场面临痛苦时刻",
+      "translationStatus": "translated",
+      "translationProvider": "MyMemory"
+    },
+    {
+      "id": "uae-military-google:https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODkwVEJhQTRTQnFIRUE1Vjd1LW9JendUSGc5ZlRPOVp0QUEzTWZiczY4VDhHNDloNDAwMW5hMnBIUk55X0ZMMk1KbjBId2p1T2hFY2RRUTM2QzAyZDlXbUdMZ2hvejVPQWRLS2NlUXhRVTNLRE9WMjU4dU9IN253bkxtd1hKT1Q5VExMWU12bm1OaEZoWXVwM0hIMVFFVldnNXhIZ2ozVDdETm9tZVZSbjFaaWhqMHk3Vllubi1od1I5SUFhOFlvd2hrUFI4cGhpaEZPamQ3SdIB5wFBVV95cUxQbTdBMzlGM2ZwRndDUG83LXJwMXhPU1o3dEgwUThKTHNSMDI1V0RQeWNRVUFMdzNUVndRNnQ1U1JXRmtlOHVnY3YzR2U4bUVscHVpeDE5aDRtbW5TQkduVW9zeTd0a011cjBhRmgyOFFvVXRYUHloZjdYdDZBYlZKTnlDYlZHeDVNZlQ0M3B2b2hCNDkzSXlnamd2SDV3b0pfTlpBeE9OajNJb0kweG5Ld1ozOGgzZFBUVmRMMGs2Zk1iVnVNRGIyREhBUnZwOExNSllhTnBDd3YzcDdSMjNBMHJHQWlmbHc?oc=5",
+      "title": "UAE residents’ update: US travel alert, Iran ceasefire terms, Saudi missile interception and flight updates - gulfnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODkwVEJhQTRTQnFIRUE1Vjd1LW9JendUSGc5ZlRPOVp0QUEzTWZiczY4VDhHNDloNDAwMW5hMnBIUk55X0ZMMk1KbjBId2p1T2hFY2RRUTM2QzAyZDlXbUdMZ2hvejVPQWRLS2NlUXhRVTNLRE9WMjU4dU9IN253bkxtd1hKT1Q5VExMWU12bm1OaEZoWXVwM0hIMVFFVldnNXhIZ2ozVDdETm9tZVZSbjFaaWhqMHk3Vllubi1od1I5SUFhOFlvd2hrUFI4cGhpaEZPamQ3SdIB5wFBVV95cUxQbTdBMzlGM2ZwRndDUG83LXJwMXhPU1o3dEgwUThKTHNSMDI1V0RQeWNRVUFMdzNUVndRNnQ1U1JXRmtlOHVnY3YzR2U4bUVscHVpeDE5aDRtbW5TQkduVW9zeTd0a011cjBhRmgyOFFvVXRYUHloZjdYdDZBYlZKTnlDYlZHeDVNZlQ0M3B2b2hCNDkzSXlnamd2SDV3b0pfTlpBeE9OajNJb0kweG5Ld1ozOGgzZFBUVmRMMGs2Zk1iVnVNRGIyREhBUnZwOExNSllhTnBDd3YzcDdSMjNBMHJHQWlmbHc?oc=5",
+      "source": "gulfnews.com",
+      "sourceId": "uae-military-google",
+      "categoryHint": "military",
+      "feedRank": 50,
+      "publishedAt": "2026-09-20T13:36:12.000Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
+      "sources": [
+        "gulfnews.com"
+      ],
+      "sourceIds": [
+        "uae-military-google"
+      ],
+      "sourceCount": 1,
+      "primaryCategoryId": "military",
+      "categoryIds": [
+        "military"
+      ],
+      "chinaRelated": false,
+      "trendBoost": 0,
+      "rawHeatScore": 47,
+      "sourceTier": "other",
+      "heatScore": 59,
+      "heatLabel": "新",
+      "heatRank": 41,
+      "originalTitle": "UAE residents’ update: US travel alert, Iran ceasefire terms, Saudi missile interception and flight updates - gulfnews.com",
+      "translatedTitle": "阿联酋居民最新消息：美国旅行警报、伊朗停火条款、沙特导弹拦截和飞行更新- gulfnews.com",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -2974,7 +2875,7 @@
       "categoryHint": "social",
       "feedRank": 37,
       "publishedAt": "2026-09-20T13:13:08.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "Napolike.com"
       ],
@@ -2992,7 +2893,7 @@
       "sourceTier": "other",
       "heatScore": 59,
       "heatLabel": "新",
-      "heatRank": 45,
+      "heatRank": 42,
       "originalTitle": "Who is Vlad Bykov, the Dubai couturier who went viral? - Napolike.com",
       "translatedTitle": "病毒式传播的迪拜时装设计师Vlad Bykov是谁？ - Napolike.com",
       "translationStatus": "translated",
@@ -3000,16 +2901,16 @@
     },
     {
       "id": "uae-social-google:https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW0tcnhSTmx5X3QwdHFwT3hielZMcHlwM3BQTTFiaDRZREJSUW1FYW1VV0lOQW9ZZHhfUUpjdTA3N1JtR3p5Ny1wM3hqUnZEeGtsa0JaUFFKUFdPWnBBWXZwOFc3b1NUSklVS2k3Wk5hYWFQN3JFSVlvNFNudGxaLUNJRWY2eE44ZGxDekFSd2hfcUNjdklOeldVVFNTV3hob1hVbXlvTjV2NDY0WVFpaGRQeDNzS2xNY0c1R3RtVDg4ckRHZWFXVFkwZ1NZY0phVEFpbVZaZnpJQdIB3wFBVV95cUxNV0xkVDBOaXNzcGNNTmJ4bzJaLWc4bEZDQ29uUHFpWjhzZjdHZElnTnhJalhkTlZSajVuUDNzVzF2WUtPald3cUtHV2dObEFabHZBelM3QkZ1S3pyTHk3X0JnNFFuMkE4dE54UGRRMzU3WGFUd2pYRFBFX1lGamRfdmVMVkNNTXBKaWdOR3ZvMDQtVU1SejRWb1dKSUdLZER0QlA1Qlh6N3I3N0x0RnY2REVNN1l2R0VhWkRBbWtsU1YweWRBaVRrN0xobWZ3ZTA0d183R3VPc2t1dzlmNENJ?oc=5",
-      "title": "Disgusting Mentality: Bangladeshi Man Deliberatly Bumps Into Female Tourist Swimming At Dubai Beach - WATCH - Free Press Journal",
+      "title": "Disgusting Mentality: Bangladeshi Man Deliberatly Bumps Into Female Tourist Swimming At Dubai Beach - WATCH - freepressjournal.in",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQW0tcnhSTmx5X3QwdHFwT3hielZMcHlwM3BQTTFiaDRZREJSUW1FYW1VV0lOQW9ZZHhfUUpjdTA3N1JtR3p5Ny1wM3hqUnZEeGtsa0JaUFFKUFdPWnBBWXZwOFc3b1NUSklVS2k3Wk5hYWFQN3JFSVlvNFNudGxaLUNJRWY2eE44ZGxDekFSd2hfcUNjdklOeldVVFNTV3hob1hVbXlvTjV2NDY0WVFpaGRQeDNzS2xNY0c1R3RtVDg4ckRHZWFXVFkwZ1NZY0phVEFpbVZaZnpJQdIB3wFBVV95cUxNV0xkVDBOaXNzcGNNTmJ4bzJaLWc4bEZDQ29uUHFpWjhzZjdHZElnTnhJalhkTlZSajVuUDNzVzF2WUtPald3cUtHV2dObEFabHZBelM3QkZ1S3pyTHk3X0JnNFFuMkE4dE54UGRRMzU3WGFUd2pYRFBFX1lGamRfdmVMVkNNTXBKaWdOR3ZvMDQtVU1SejRWb1dKSUdLZER0QlA1Qlh6N3I3N0x0RnY2REVNN1l2R0VhWkRBbWtsU1YweWRBaVRrN0xobWZ3ZTA0d183R3VPc2t1dzlmNENJ?oc=5",
-      "source": "Free Press Journal",
+      "source": "freepressjournal.in",
       "sourceId": "uae-social-google",
       "categoryHint": "social",
-      "feedRank": 39,
+      "feedRank": 40,
       "publishedAt": "2026-09-20T12:29:27.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
-        "Free Press Journal"
+        "freepressjournal.in"
       ],
       "sourceIds": [
         "uae-social-google"
@@ -3025,9 +2926,9 @@
       "sourceTier": "other",
       "heatScore": 58,
       "heatLabel": "新",
-      "heatRank": 46,
-      "originalTitle": "Disgusting Mentality: Bangladeshi Man Deliberatly Bumps Into Female Tourist Swimming At Dubai Beach - WATCH - Free Press Journal",
-      "translatedTitle": "令人作呕的心态：孟加拉国男子故意撞到迪拜海滩的女游客游泳-观看-免费新闻杂志",
+      "heatRank": 43,
+      "originalTitle": "Disgusting Mentality: Bangladeshi Man Deliberatly Bumps Into Female Tourist Swimming At Dubai Beach - WATCH - freepressjournal.in",
+      "translatedTitle": "令人作呕的心态：孟加拉国男子故意撞到迪拜海滩的女游客游泳-观看- freepressjournal.in",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -3040,7 +2941,7 @@
       "categoryHint": "social",
       "feedRank": 7,
       "publishedAt": "2026-09-20T07:19:26.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "アラブニュース"
       ],
@@ -3056,9 +2957,9 @@
       "trendBoost": 0,
       "rawHeatScore": 45,
       "sourceTier": "other",
-      "heatScore": 57,
+      "heatScore": 58,
       "heatLabel": "新",
-      "heatRank": 47,
+      "heatRank": 44,
       "originalTitle": "Abu Dhabi to host anime concert - アラブニュース",
       "translatedTitle": "阿布扎比将举办动漫音乐会- アラブニュース",
       "translationStatus": "translated",
@@ -3073,7 +2974,7 @@
       "categoryHint": "social",
       "feedRank": 11,
       "publishedAt": "2026-09-20T06:59:19.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "economictimes.com"
       ],
@@ -3091,7 +2992,7 @@
       "sourceTier": "other",
       "heatScore": 56,
       "heatLabel": "新",
-      "heatRank": 48,
+      "heatRank": 45,
       "originalTitle": "Is iPhone 18 Pro cheaper in Dubai than India? The price gap has Indian buyers doing the maths - economictimes.com",
       "translatedTitle": "IPhone 18 Pro在迪拜比印度便宜吗？价格差距让印度买家进行数学运算- economictimes.com",
       "translationStatus": "translated",
@@ -3099,16 +3000,16 @@
     },
     {
       "id": "uae-military-google:https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHoybkNhX0FEZ1dfbHlGemdfMk51Q2ZPdjVRNlpJb1NnRnY2X2d5SzRXbG8tcUZSRDZTalBjLXRNNjlDNjJWVjdwUUMxREtGc19nbnV2bFFIM3BVcVQyMG93U3VyUGJDN2xCNUdPR1VydnBDaXNSOHdmSGZRNkE1RGUzc0V1Ri1Od0ZTTG53QzV1ZkZEeG0xcTNVNUZKVHk2OGVUZXcteUpjM1FhVVlsdXJWaTFHVlRsZ29OeWN4RHQ3dmp0QjN0TEtqMHR0M1BNUGlCQS1B0gHWAUFVX3lxTE1UejJuQ2FfQURnV19seUZ6Z18yTnVDZk92NVE2WklvU2dGdjZfZ3lLNFdsby1xRlJENlNqUGMtdE02OUM2MlZWN3BRQzFES0ZzX2dudXZsUUgzcFVxVDIwb3dTdXJQYkM3bEI1R09HVXJ2cENpc1I4d2ZIZlE2QTVEZTNzRXVGLU53RlNMbndDNXVmRkR4bTFxM1U1RkpUeTY4ZVRldy15SmMzUWFVWWx1clZpMUdWVGxnb055Y3hEdDd2anRCM3RMS2owdHQzUE1QaUJBLUE?oc=5",
-      "title": "Etihad Airways cancels Delhi-Abu Dhabi flight after Houthi attack on Riyadh, passengers struck for hours - PTC News",
+      "title": "Etihad Airways cancels Delhi-Abu Dhabi flight after Houthi attack on Riyadh, passengers struck for hours - ptcnews.tv",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHoybkNhX0FEZ1dfbHlGemdfMk51Q2ZPdjVRNlpJb1NnRnY2X2d5SzRXbG8tcUZSRDZTalBjLXRNNjlDNjJWVjdwUUMxREtGc19nbnV2bFFIM3BVcVQyMG93U3VyUGJDN2xCNUdPR1VydnBDaXNSOHdmSGZRNkE1RGUzc0V1Ri1Od0ZTTG53QzV1ZkZEeG0xcTNVNUZKVHk2OGVUZXcteUpjM1FhVVlsdXJWaTFHVlRsZ29OeWN4RHQ3dmp0QjN0TEtqMHR0M1BNUGlCQS1B0gHWAUFVX3lxTE1UejJuQ2FfQURnV19seUZ6Z18yTnVDZk92NVE2WklvU2dGdjZfZ3lLNFdsby1xRlJENlNqUGMtdE02OUM2MlZWN3BRQzFES0ZzX2dudXZsUUgzcFVxVDIwb3dTdXJQYkM3bEI1R09HVXJ2cENpc1I4d2ZIZlE2QTVEZTNzRXVGLU53RlNMbndDNXVmRkR4bTFxM1U1RkpUeTY4ZVRldy15SmMzUWFVWWx1clZpMUdWVGxnb055Y3hEdDd2anRCM3RMS2owdHQzUE1QaUJBLUE?oc=5",
-      "source": "PTC News",
+      "source": "ptcnews.tv",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 83,
+      "feedRank": 84,
       "publishedAt": "2026-09-20T08:50:42.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
-        "PTC News"
+        "ptcnews.tv"
       ],
       "sourceIds": [
         "uae-military-google"
@@ -3124,9 +3025,9 @@
       "sourceTier": "other",
       "heatScore": 55,
       "heatLabel": "新",
-      "heatRank": 49,
-      "originalTitle": "Etihad Airways cancels Delhi-Abu Dhabi flight after Houthi attack on Riyadh, passengers struck for hours - PTC News",
-      "translatedTitle": "阿提哈德航空公司在胡塞武装袭击利雅得后取消德里-阿布扎比航班，乘客被击中数小时- PTC新闻",
+      "heatRank": 46,
+      "originalTitle": "Etihad Airways cancels Delhi-Abu Dhabi flight after Houthi attack on Riyadh, passengers struck for hours - ptcnews.tv",
+      "translatedTitle": "阿提哈德航空公司在胡塞武装袭击利雅得后取消德里-阿布扎比航班，乘客罢工数小时- ptcnews.tv",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -3139,7 +3040,7 @@
       "categoryHint": "social",
       "feedRank": 38,
       "publishedAt": "2026-09-20T08:43:09.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "Indiatimes"
       ],
@@ -3157,7 +3058,7 @@
       "sourceTier": "other",
       "heatScore": 55,
       "heatLabel": "新",
-      "heatRank": 50,
+      "heatRank": 47,
       "originalTitle": "But doing shows in the US? Zara Larsson cancels her Abu Dhabi concert, but fans call her 'performative' and question her stance - Indiatimes",
       "translatedTitle": "但是在美国做节目？ Zara Larsson取消了她的阿布扎比音乐会，但粉丝们称她为“表演者”并质疑她的立场- Indiatimes",
       "translationStatus": "translated",
@@ -3172,7 +3073,7 @@
       "categoryHint": "social",
       "feedRank": 19,
       "publishedAt": "2026-09-20T06:46:43.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "curlytales.com"
       ],
@@ -3190,7 +3091,7 @@
       "sourceTier": "other",
       "heatScore": 53,
       "heatLabel": "新",
-      "heatRank": 51,
+      "heatRank": 48,
       "originalTitle": "Planning To Buy Global Village VIP Packages? Dubai Police Wants You To Read This First - curlytales.com",
       "translatedTitle": "计划购买Global Village VIP套餐？迪拜警方希望您先阅读此内容- curlytales.com",
       "translationStatus": "translated",
@@ -3203,9 +3104,9 @@
       "source": "Gulf Daily News (Bahrain)",
       "sourceId": "uae-diplomacy-google",
       "categoryHint": "diplomacy",
-      "feedRank": 60,
+      "feedRank": 59,
       "publishedAt": "2026-09-20T06:34:45.000Z",
-      "fetchedAt": "2026-09-20T20:10:42.607Z",
+      "fetchedAt": "2026-09-20T20:24:51.112Z",
       "sources": [
         "Gulf Daily News (Bahrain)"
       ],
@@ -3219,11 +3120,11 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 40,
+      "rawHeatScore": 39,
       "sourceTier": "other",
-      "heatScore": 53,
+      "heatScore": 52,
       "heatLabel": "新",
-      "heatRank": 52,
+      "heatRank": 49,
       "originalTitle": "UAE Business: Abu Dhabi to host 5th Healthcare Leaders Summit - Gulf Daily News (Bahrain)",
       "translatedTitle": "阿联酋业务：阿布扎比将举办第五届医疗保健领导人峰会-海湾日报（巴林）",
       "translationStatus": "translated",
@@ -3236,9 +3137,9 @@
       "source": "The Indian Express",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 76,
+      "feedRank": 77,
       "publishedAt": "2026-09-20T03:37:55.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
         "The Indian Express"
       ],
@@ -3256,43 +3157,9 @@
       "sourceTier": "other",
       "heatScore": 50,
       "heatLabel": "新",
-      "heatRank": 53,
+      "heatRank": 50,
       "originalTitle": "Flight disruptions after Houthi attack in Saudi Arabia, Etihad cancels Abu Dhabi flight - The Indian Express",
       "translatedTitle": "胡塞武装袭击沙特阿拉伯后航班中断，阿提哈德取消阿布扎比航班-印度快报",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "china-uae-opinion:https://news.google.com/rss/articles/CBMia0FVX3lxTE5yT29UWmpQSE1McGNCSmZ0Mnl1TmNCYXhkMnlaRzBIOGxocm9Ha052SnE3ZF9HU0RXVHBUaVNUUEtFWXoyU2RZam9uc19yanBjRUx4YlE4S1dhTm12ZnpEazNaa0dKRXRaMDM40gFwQVVfeXFMUEE5SG5RRXBLWUVmQzVLWlk4eWh0QU1mdEtFejM1MXpQSEEzSElzUlBlblRzZmVVdUl5LWZlcHJscGpObU90QVRyd0xoYkVYWExKOUlDWmpNdHRsdGVfa3pPSTNFUjR1c0tKQzVmSkpLaA?oc=5",
-      "title": "غرفة أم القيوين تبحث تعزيز التعاون مع الصين في مجال ريادة الأعمال - البيان",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yT29UWmpQSE1McGNCSmZ0Mnl1TmNCYXhkMnlaRzBIOGxocm9Ha052SnE3ZF9HU0RXVHBUaVNUUEtFWXoyU2RZam9uc19yanBjRUx4YlE4S1dhTm12ZnpEazNaa0dKRXRaMDM40gFwQVVfeXFMUEE5SG5RRXBLWUVmQzVLWlk4eWh0QU1mdEtFejM1MXpQSEEzSElzUlBlblRzZmVVdUl5LWZlcHJscGpObU90QVRyd0xoYkVYWExKOUlDWmpNdHRsdGVfa3pPSTNFUjR1c0tKQzVmSkpLaA?oc=5",
-      "source": "البيان",
-      "sourceId": "china-uae-opinion",
-      "categoryHint": "china",
-      "feedRank": 8,
-      "publishedAt": "2026-09-19T20:00:00.000Z",
-      "fetchedAt": "2026-09-20T20:10:41.969Z",
-      "sources": [
-        "البيان"
-      ],
-      "sourceIds": [
-        "china-uae-opinion"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "domestic",
-      "categoryIds": [
-        "domestic",
-        "china"
-      ],
-      "chinaRelated": true,
-      "trendBoost": 0,
-      "rawHeatScore": 32,
-      "sourceTier": "other",
-      "heatScore": 46,
-      "heatLabel": "新",
-      "heatRank": 54,
-      "originalTitle": "غرفة أم القيوين تبحث تعزيز التعاون مع الصين في مجال ريادة الأعمال - البيان",
-      "translatedTitle": "乌姆盖万商会讨论加强与中国在创业领域的合作- Al Bayan",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -3305,7 +3172,7 @@
       "categoryHint": "social",
       "feedRank": 5,
       "publishedAt": "2026-09-19T14:31:01.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "Türkiye Today"
       ],
@@ -3323,9 +3190,42 @@
       "sourceTier": "other",
       "heatScore": 46,
       "heatLabel": "新",
-      "heatRank": 55,
+      "heatRank": 51,
       "originalTitle": "Zara Larsson cancels Abu Dhabi concert in solidarity with Sudan - Türkiye Today",
       "translatedTitle": "Zara Larsson取消阿布扎比音乐会声援苏丹-今日土耳其",
+      "translationStatus": "translated",
+      "translationProvider": "MyMemory"
+    },
+    {
+      "id": "uae-social-google:https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGF1dnVTUVNLeGJqQ0xqeGVvcHdDYXdIc1BQWHFfckJsN1lKRUFPaUFyLWlCaFROT0EzcHJzVmJKWEJLcDBhNzlGMXpoYmdmMGxvZHRZbnlianJJYldZdlFUZnQ5UW4ycHFqOXZnVjFfNWN1WVNqYl84bGlJclZFbkJnQmhKQkZDQ250XzBIdTdEVmpMZDZWZThBc3lxSTJkQVp1d2I1UUI5NnNzaEMwLXBYX3NZbFh1ZXJRbE5R?oc=5",
+      "title": "Zara Larsson Says No to Abu Dhabi After Fans Demand She \"Read About What UAE Is Doing to Sudan\" - Where Is The Buzz",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGF1dnVTUVNLeGJqQ0xqeGVvcHdDYXdIc1BQWHFfckJsN1lKRUFPaUFyLWlCaFROT0EzcHJzVmJKWEJLcDBhNzlGMXpoYmdmMGxvZHRZbnlianJJYldZdlFUZnQ5UW4ycHFqOXZnVjFfNWN1WVNqYl84bGlJclZFbkJnQmhKQkZDQ250XzBIdTdEVmpMZDZWZThBc3lxSTJkQVp1d2I1UUI5NnNzaEMwLXBYX3NZbFh1ZXJRbE5R?oc=5",
+      "source": "Where Is The Buzz",
+      "sourceId": "uae-social-google",
+      "categoryHint": "social",
+      "feedRank": 39,
+      "publishedAt": "2026-09-19T23:46:25.000Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
+      "sources": [
+        "Where Is The Buzz"
+      ],
+      "sourceIds": [
+        "uae-social-google"
+      ],
+      "sourceCount": 1,
+      "primaryCategoryId": "social",
+      "categoryIds": [
+        "social"
+      ],
+      "chinaRelated": false,
+      "trendBoost": 0,
+      "rawHeatScore": 31,
+      "sourceTier": "other",
+      "heatScore": 45,
+      "heatLabel": "新",
+      "heatRank": 52,
+      "originalTitle": "Zara Larsson Says No to Abu Dhabi After Fans Demand She \"Read About What UAE Is Doing to Sudan\" - Where Is The Buzz",
+      "translatedTitle": "Zara Larsson在粉丝要求她“阅读阿联酋对苏丹所做的事情”后对阿布扎比说不-嗡嗡声在哪里",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -3338,7 +3238,7 @@
       "categoryHint": "social",
       "feedRank": 34,
       "publishedAt": "2026-09-19T22:07:31.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "يابلادي"
       ],
@@ -3356,24 +3256,58 @@
       "sourceTier": "other",
       "heatScore": 45,
       "heatLabel": "新",
-      "heatRank": 56,
+      "heatRank": 53,
       "originalTitle": "UAE Moroccan Festival puts Morocco’s Arabian-horse ambitions on display - يابلادي",
       "translatedTitle": "阿联酋摩洛哥节展现了摩洛哥的阿拉伯马野心-我的国家",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
     {
-      "id": "uae-social-google:https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2prMHNOZHB5d2g1Yk5mclU1M3NYQXh1ZXhGMlVkTjRjSnV4dEVZUTZHTjNiUmw3QURZQW1BSmVuTmFzRjNjdU1GNmlETXhWT2tBWW1WeW9yY0NKQ3VVZ3Yxc1ROcjlEbS1yNFQxbnhzTThJRDhDOGZCY25Dai16Uw?oc=5",
-      "title": "Zara Larsson hints at cancelling Abu Dhabi Grand Prix concert over Sudan war - lbc.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2prMHNOZHB5d2g1Yk5mclU1M3NYQXh1ZXhGMlVkTjRjSnV4dEVZUTZHTjNiUmw3QURZQW1BSmVuTmFzRjNjdU1GNmlETXhWT2tBWW1WeW9yY0NKQ3VVZ3Yxc1ROcjlEbS1yNFQxbnhzTThJRDhDOGZCY25Dai16Uw?oc=5",
-      "source": "lbc.co.uk",
+      "id": "china-uae-opinion:https://news.google.com/rss/articles/CBMia0FVX3lxTE5yT29UWmpQSE1McGNCSmZ0Mnl1TmNCYXhkMnlaRzBIOGxocm9Ha052SnE3ZF9HU0RXVHBUaVNUUEtFWXoyU2RZam9uc19yanBjRUx4YlE4S1dhTm12ZnpEazNaa0dKRXRaMDM40gFwQVVfeXFMUEE5SG5RRXBLWUVmQzVLWlk4eWh0QU1mdEtFejM1MXpQSEEzSElzUlBlblRzZmVVdUl5LWZlcHJscGpObU90QVRyd0xoYkVYWExKOUlDWmpNdHRsdGVfa3pPSTNFUjR1c0tKQzVmSkpLaA?oc=5",
+      "title": "غرفة أم القيوين تبحث تعزيز التعاون مع الصين في مجال ريادة الأعمال - البيان",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yT29UWmpQSE1McGNCSmZ0Mnl1TmNCYXhkMnlaRzBIOGxocm9Ha052SnE3ZF9HU0RXVHBUaVNUUEtFWXoyU2RZam9uc19yanBjRUx4YlE4S1dhTm12ZnpEazNaa0dKRXRaMDM40gFwQVVfeXFMUEE5SG5RRXBLWUVmQzVLWlk4eWh0QU1mdEtFejM1MXpQSEEzSElzUlBlblRzZmVVdUl5LWZlcHJscGpObU90QVRyd0xoYkVYWExKOUlDWmpNdHRsdGVfa3pPSTNFUjR1c0tKQzVmSkpLaA?oc=5",
+      "source": "البيان",
+      "sourceId": "china-uae-opinion",
+      "categoryHint": "china",
+      "feedRank": 9,
+      "publishedAt": "2026-09-19T20:00:00.000Z",
+      "fetchedAt": "2026-09-20T20:24:49.566Z",
+      "sources": [
+        "البيان"
+      ],
+      "sourceIds": [
+        "china-uae-opinion"
+      ],
+      "sourceCount": 1,
+      "primaryCategoryId": "domestic",
+      "categoryIds": [
+        "domestic",
+        "china"
+      ],
+      "chinaRelated": true,
+      "trendBoost": 0,
+      "rawHeatScore": 31,
+      "sourceTier": "other",
+      "heatScore": 45,
+      "heatLabel": "新",
+      "heatRank": 54,
+      "originalTitle": "غرفة أم القيوين تبحث تعزيز التعاون مع الصين في مجال ريادة الأعمال - البيان",
+      "translatedTitle": "乌姆盖万商会讨论加强与中国在创业领域的合作- Al Bayan",
+      "translationStatus": "translated",
+      "translationProvider": "MyMemory"
+    },
+    {
+      "id": "uae-social-google:https://news.google.com/rss/articles/CBMiswFBVV95cUxQUURiR2dxS0czSmJQMU9xVWZJcnhLaEdlY1V6TzJIVGEzNUhNaXNUT1M4S3dqQS1CQlZmSS10NTRZMlhPazZXOTJLUEpqLU9zMXJMei1ZOVpuWjRoaTVoTUZ1NGdZTVJta0hnR2V5MjVKWUNGNEtxUXl0M3NrU3pqR2VPMXMxdE5zLTJUbFJzX2hNMTVTcFNPNElOdW1iMEp3YVpBT1lDN0R6Z19SU0I3RjRkOA?oc=5",
+      "title": "Watch: Mohammed bin Rashid surprises shoppers during visit to Dubai Mall - gulfnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUURiR2dxS0czSmJQMU9xVWZJcnhLaEdlY1V6TzJIVGEzNUhNaXNUT1M4S3dqQS1CQlZmSS10NTRZMlhPazZXOTJLUEpqLU9zMXJMei1ZOVpuWjRoaTVoTUZ1NGdZTVJta0hnR2V5MjVKWUNGNEtxUXl0M3NrU3pqR2VPMXMxdE5zLTJUbFJzX2hNMTVTcFNPNElOdW1iMEp3YVpBT1lDN0R6Z19SU0I3RjRkOA?oc=5",
+      "source": "gulfnews.com",
       "sourceId": "uae-social-google",
       "categoryHint": "social",
-      "feedRank": 13,
-      "publishedAt": "2026-09-19T11:42:52.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "feedRank": 27,
+      "publishedAt": "2026-09-19T19:44:34.000Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
-        "lbc.co.uk"
+        "gulfnews.com"
       ],
       "sourceIds": [
         "uae-social-google"
@@ -3385,13 +3319,46 @@
       ],
       "chinaRelated": false,
       "trendBoost": 0,
-      "rawHeatScore": 30,
+      "rawHeatScore": 27,
       "sourceTier": "other",
-      "heatScore": 45,
+      "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 57,
-      "originalTitle": "Zara Larsson hints at cancelling Abu Dhabi Grand Prix concert over Sudan war - lbc.co.uk",
-      "translatedTitle": "Zara Larsson暗示因苏丹战争取消阿布扎比大奖赛音乐会- lbc.co.uk",
+      "heatRank": 55,
+      "originalTitle": "Watch: Mohammed bin Rashid surprises shoppers during visit to Dubai Mall - gulfnews.com",
+      "translatedTitle": "观看：穆罕默德·本·拉希德在访问迪拜购物中心期间给购物者带来惊喜- gulfnews.com",
+      "translationStatus": "translated",
+      "translationProvider": "MyMemory"
+    },
+    {
+      "id": "uae-social-google:https://news.google.com/rss/articles/CBMirAFBVV95cUxOTlVhYkoyNTZqaktyZ3NzWlVvblRjZVB0cEI5Ym45Wldxa1JlUWRSa0xIZFNUUnY4dlBrWXdqN2RKOE9FSlVydU5EcXA4dkhHRDZUSDV5ald1NVd1MEdRVENGNVVWRHVHSmMxTVRMQnZEaG1rdHZiUzh3aklQb2U5R0tuUm1uRTY2RjE0T3p1WE5hMnVsZ29LdVBXZzQ1RE9mQnYyNV9kdG1zR2hN0gGyAUFVX3lxTE5RNUwxWjVBUDNUWGpoYTh5SVpQbnVZckdxVFJWelktbm8xV2x4Qm83a3V2MGFTelAtQl9xTU9aV0QwYjREam5BZDU1UzZxOFkwT0VWZklTX29KLXNHU2tXX19wOXZHLXN2M1FFYTI5M3dmRUZoUUMyRlFBdHJvaDZ6T1lYa0cwZ3VESUlDTGZBbjZYT2F4aE5sc1FTY19iaENXOUdmZV9YRDFQdkhMSXZmNlE?oc=5",
+      "title": "Viral Video: Bangladeshi Man Harasses Foreigner At Dubai Beach! (WATCH) - Asianet Newsable",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTlVhYkoyNTZqaktyZ3NzWlVvblRjZVB0cEI5Ym45Wldxa1JlUWRSa0xIZFNUUnY4dlBrWXdqN2RKOE9FSlVydU5EcXA4dkhHRDZUSDV5ald1NVd1MEdRVENGNVVWRHVHSmMxTVRMQnZEaG1rdHZiUzh3aklQb2U5R0tuUm1uRTY2RjE0T3p1WE5hMnVsZ29LdVBXZzQ1RE9mQnYyNV9kdG1zR2hN0gGyAUFVX3lxTE5RNUwxWjVBUDNUWGpoYTh5SVpQbnVZckdxVFJWelktbm8xV2x4Qm83a3V2MGFTelAtQl9xTU9aV0QwYjREam5BZDU1UzZxOFkwT0VWZklTX29KLXNHU2tXX19wOXZHLXN2M1FFYTI5M3dmRUZoUUMyRlFBdHJvaDZ6T1lYa0cwZ3VESUlDTGZBbjZYT2F4aE5sc1FTY19iaENXOUdmZV9YRDFQdkhMSXZmNlE?oc=5",
+      "source": "Asianet Newsable",
+      "sourceId": "uae-social-google",
+      "categoryHint": "social",
+      "feedRank": 44,
+      "publishedAt": "2026-09-19T18:39:01.000Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
+      "sources": [
+        "Asianet Newsable"
+      ],
+      "sourceIds": [
+        "uae-social-google"
+      ],
+      "sourceCount": 1,
+      "primaryCategoryId": "social",
+      "categoryIds": [
+        "social"
+      ],
+      "chinaRelated": false,
+      "trendBoost": 0,
+      "rawHeatScore": 27,
+      "sourceTier": "other",
+      "heatScore": 42,
+      "heatLabel": "新",
+      "heatRank": 56,
+      "originalTitle": "Viral Video: Bangladeshi Man Harasses Foreigner At Dubai Beach! (WATCH) - Asianet Newsable",
+      "translatedTitle": "病毒视频：孟加拉国男子在迪拜海滩骚扰外国人！ （观看） - Asianet Newsable",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -3402,9 +3369,9 @@
       "source": "Dubai Eye 103.8",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 52,
+      "feedRank": 53,
       "publishedAt": "2026-09-19T18:06:51.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
         "Dubai Eye 103.8"
       ],
@@ -3422,42 +3389,9 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 58,
+      "heatRank": 57,
       "originalTitle": "Washington approves potential $2.7 billion air defence sale to Ukraine - Dubai Eye 103.8",
       "translatedTitle": "华盛顿批准向乌克兰出售27亿美元防空武器-迪拜之眼103.8",
-      "translationStatus": "translated",
-      "translationProvider": "MyMemory"
-    },
-    {
-      "id": "uae-social-google:https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmZqS3RMZnc2Vms3S3dJTllQeHJtZndVRWhza2dUcjFYSTBya2w5bkhQcnFWTXE1clFUWGhLRnRJNXdpc3VYUXZWb3htRk10X25LekE5N3RiYTZ2WWJIaXZKUnQzSEdBeWJiRjJ1Tk1MWjRqWWNtclJCRTk1Y2wxMVRxMVp3dlZvUWFOTHp3?oc=5",
-      "title": "UAE begins campaign at Asian Games in Japan - ARN News Centre",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmZqS3RMZnc2Vms3S3dJTllQeHJtZndVRWhza2dUcjFYSTBya2w5bkhQcnFWTXE1clFUWGhLRnRJNXdpc3VYUXZWb3htRk10X25LekE5N3RiYTZ2WWJIaXZKUnQzSEdBeWJiRjJ1Tk1MWjRqWWNtclJCRTk1Y2wxMVRxMVp3dlZvUWFOTHp3?oc=5",
-      "source": "ARN News Centre",
-      "sourceId": "uae-social-google",
-      "categoryHint": "social",
-      "feedRank": 20,
-      "publishedAt": "2026-09-19T16:19:50.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
-      "sources": [
-        "ARN News Centre"
-      ],
-      "sourceIds": [
-        "uae-social-google"
-      ],
-      "sourceCount": 1,
-      "primaryCategoryId": "social",
-      "categoryIds": [
-        "social"
-      ],
-      "chinaRelated": false,
-      "trendBoost": 0,
-      "rawHeatScore": 27,
-      "sourceTier": "other",
-      "heatScore": 42,
-      "heatLabel": "新",
-      "heatRank": 59,
-      "originalTitle": "UAE begins campaign at Asian Games in Japan - ARN News Centre",
-      "translatedTitle": "阿联酋在日本亚运会上启动竞选活动- ARN新闻中心",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -3468,9 +3402,9 @@
       "source": "Manila Standard",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 64,
+      "feedRank": 66,
       "publishedAt": "2026-09-19T15:35:59.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
         "Manila Standard"
       ],
@@ -3488,7 +3422,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 60,
+      "heatRank": 58,
       "originalTitle": "Philippines, UAE reaffirm commitment to boost defense cooperation - Manila Standard",
       "translatedTitle": "菲律宾、阿联酋重申致力于加强国防合作--马尼拉标准",
       "translationStatus": "translated",
@@ -3501,9 +3435,9 @@
       "source": "Dubai Eye 103.8",
       "sourceId": "uae-social-google",
       "categoryHint": "social",
-      "feedRank": 22,
+      "feedRank": 23,
       "publishedAt": "2026-09-19T15:26:39.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.845Z",
+      "fetchedAt": "2026-09-20T20:24:53.836Z",
       "sources": [
         "Dubai Eye 103.8"
       ],
@@ -3521,7 +3455,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 61,
+      "heatRank": 59,
       "originalTitle": "Dubai Police warns of fake online adverts selling Global Village tickets - Dubai Eye 103.8",
       "translatedTitle": "迪拜警方警告假冒在线广告出售全球村门票-迪拜眼103.8",
       "translationStatus": "translated",
@@ -3534,9 +3468,9 @@
       "source": "uaebarq.ae",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 78,
+      "feedRank": 79,
       "publishedAt": "2026-09-19T14:07:53.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
         "uaebarq.ae"
       ],
@@ -3554,7 +3488,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 62,
+      "heatRank": 60,
       "originalTitle": "Washington approves $2.7 billion air defence sale to Ukraine - uaebarq.ae",
       "translatedTitle": "华盛顿批准向乌克兰出售27亿美元防空武器--uaebarq.ae",
       "translationStatus": "translated",
@@ -3567,9 +3501,9 @@
       "source": "Defense Express",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 35,
+      "feedRank": 36,
       "publishedAt": "2026-09-19T13:28:04.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
         "Defense Express"
       ],
@@ -3587,7 +3521,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 63,
+      "heatRank": 61,
       "originalTitle": "With $30 Billion Annual Defense Budget, UAE Is Set to Produce South Korean K9 Howitzers for Middle Eastern Market - Defense Express",
       "translatedTitle": "凭借300亿美元的年度国防预算，阿联酋将为中东市场生产韩国K9榴弹炮- Defense Express",
       "translationStatus": "translated",
@@ -3600,9 +3534,9 @@
       "source": "uaebarq.ae",
       "sourceId": "uae-diplomacy-google",
       "categoryHint": "diplomacy",
-      "feedRank": 62,
+      "feedRank": 61,
       "publishedAt": "2026-09-19T13:09:58.000Z",
-      "fetchedAt": "2026-09-20T20:10:42.607Z",
+      "fetchedAt": "2026-09-20T20:24:51.112Z",
       "sources": [
         "uaebarq.ae"
       ],
@@ -3620,7 +3554,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 64,
+      "heatRank": 62,
       "originalTitle": "Abu Dhabi to host 5th Healthcare Leaders Summit on 22 September - uaebarq.ae",
       "translatedTitle": "阿布扎比将于9月22日举办第五届医疗保健领导人峰会--uaebarq.ae",
       "translationStatus": "translated",
@@ -3635,7 +3569,7 @@
       "categoryHint": "china",
       "feedRank": 72,
       "publishedAt": "2026-09-19T10:59:26.000Z",
-      "fetchedAt": "2026-09-20T20:10:41.969Z",
+      "fetchedAt": "2026-09-20T20:24:49.566Z",
       "sources": [
         "شبكة فلسطين للأنباء - شفا"
       ],
@@ -3654,24 +3588,24 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 65,
+      "heatRank": 63,
       "originalTitle": "القنصلية العامة الصينية لدى دبي تقيم حفل استقبال بمناسبة العيد الوطني الصيني - شبكة فلسطين للأنباء - شفا",
       "translatedTitle": "中国驻迪拜总领事馆在中国国庆节之际举行招待会-巴勒斯坦新闻网-沙法",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
     {
-      "id": "uae-military-google:https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGtIZWF4bGF0UlNYMGhFZTNnLXNTdkFoNTNjeXJVakFtZG80bXYzbVdyQ05ua1JKbDdBNHRuRkFuazVFMzl6cGJZNE9QekREU1pXai1FbUZnUUM2SjM4TkV0Z1FCLWJzalJYOF9CZ0RHNmNQVGhGbGVlVVhVZTJtTDVQVk1zMHo0SThMXzZkZXlmMjFp?oc=5",
-      "title": "Is It Safe to Travel to Dubai and Abu Dhabi Now? Latest Advice - thetraveler.org",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGtIZWF4bGF0UlNYMGhFZTNnLXNTdkFoNTNjeXJVakFtZG80bXYzbVdyQ05ua1JKbDdBNHRuRkFuazVFMzl6cGJZNE9QekREU1pXai1FbUZnUUM2SjM4TkV0Z1FCLWJzalJYOF9CZ0RHNmNQVGhGbGVlVVhVZTJtTDVQVk1zMHo0SThMXzZkZXlmMjFp?oc=5",
-      "source": "thetraveler.org",
+      "id": "uae-military-google:https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWVPR3NtUHJZTzdLMk1oblRiZ1BMdG1taVdNTDdPUTJvY09pbmF3dm5MTWR4S1kyamFicF9WZHpTY2J2VmljUmhYdmQtUS13VU5WMnkxNFI4NjhVRGtMSmtEZlQxTzBzTU1tMTZfdmx1Q2xSTVBGX1ZiUTExcEJtVlRyZnBiUXQ2aFdpMzVURE1NcHBwTlVtMjdSSkI0Rkp4UGxobNIBtAFBVV95cUxNY0lIcG1hbkxvbjdCLUhRZVNlc051SXdZVVpGZkotY3l4a194Qm55cHJVekVhWlJPT2pEdzRfZ09JYTZicmZuZjUzQjl6R3U0MGxBLUUyZjFxbUpLYWY0dUY4SVM4bGwzOXllbHRBQVFPRkZOaVYyc0NjNnBsc092c1J2NURTVTNIc2NWeDBaV2dIWWt0d1g3UnZVSDZVQW11bnVaczJkMjlZb0tvQUdqcmF2TmU?oc=5",
+      "title": "UAE, Philippines discuss stronger defence and security cooperation - gulfnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWVPR3NtUHJZTzdLMk1oblRiZ1BMdG1taVdNTDdPUTJvY09pbmF3dm5MTWR4S1kyamFicF9WZHpTY2J2VmljUmhYdmQtUS13VU5WMnkxNFI4NjhVRGtMSmtEZlQxTzBzTU1tMTZfdmx1Q2xSTVBGX1ZiUTExcEJtVlRyZnBiUXQ2aFdpMzVURE1NcHBwTlVtMjdSSkI0Rkp4UGxobNIBtAFBVV95cUxNY0lIcG1hbkxvbjdCLUhRZVNlc051SXdZVVpGZkotY3l4a194Qm55cHJVekVhWlJPT2pEdzRfZ09JYTZicmZuZjUzQjl6R3U0MGxBLUUyZjFxbUpLYWY0dUY4SVM4bGwzOXllbHRBQVFPRkZOaVYyc0NjNnBsc092c1J2NURTVTNIc2NWeDBaV2dIWWt0d1g3UnZVSDZVQW11bnVaczJkMjlZb0tvQUdqcmF2TmU?oc=5",
+      "source": "gulfnews.com",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 99,
-      "publishedAt": "2026-09-19T02:14:02.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "feedRank": 54,
+      "publishedAt": "2026-09-19T06:58:32.000Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
-        "thetraveler.org"
+        "gulfnews.com"
       ],
       "sourceIds": [
         "uae-military-google"
@@ -3687,9 +3621,9 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 66,
-      "originalTitle": "Is It Safe to Travel to Dubai and Abu Dhabi Now? Latest Advice - thetraveler.org",
-      "translatedTitle": "现在去迪拜和阿布扎比旅行安全吗？最新建议- thetraveler.org",
+      "heatRank": 64,
+      "originalTitle": "UAE, Philippines discuss stronger defence and security cooperation - gulfnews.com",
+      "translatedTitle": "阿联酋、菲律宾讨论加强国防和安全合作- gulfnews.com",
       "translationStatus": "translated",
       "translationProvider": "MyMemory"
     },
@@ -3700,9 +3634,9 @@
       "source": "The Times of India",
       "sourceId": "uae-diplomacy-google",
       "categoryHint": "diplomacy",
-      "feedRank": 30,
+      "feedRank": 29,
       "publishedAt": "2026-09-19T00:24:00.000Z",
-      "fetchedAt": "2026-09-20T20:10:42.607Z",
+      "fetchedAt": "2026-09-20T20:24:51.112Z",
       "sources": [
         "The Times of India"
       ],
@@ -3720,7 +3654,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 67,
+      "heatRank": 65,
       "originalTitle": "UAE president dials PM Modi, discusses Middle East peace efforts, bilateral ties - The Times of India",
       "translatedTitle": "阿联酋总统致电莫迪总理，讨论中东和平努力、双边关系--《印度时报》",
       "translationStatus": "translated",
@@ -3735,7 +3669,7 @@
       "categoryHint": "diplomacy",
       "feedRank": 22,
       "publishedAt": "2026-09-18T22:48:55.000Z",
-      "fetchedAt": "2026-09-20T20:10:42.607Z",
+      "fetchedAt": "2026-09-20T20:24:51.112Z",
       "sources": [
         "Fana News -"
       ],
@@ -3753,7 +3687,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 68,
+      "heatRank": 66,
       "originalTitle": "UAE, India Leaders Talk Bilateral Ties, Region Over the Phone - Fana News -",
       "translatedTitle": "阿联酋，印度领导人通过电话洽谈双边关系，地区-法纳新闻-",
       "translationStatus": "translated",
@@ -3766,9 +3700,9 @@
       "source": "Inquirer.net",
       "sourceId": "uae-military-google",
       "categoryHint": "military",
-      "feedRank": 21,
+      "feedRank": 22,
       "publishedAt": "2026-09-18T21:48:00.000Z",
-      "fetchedAt": "2026-09-20T20:10:43.232Z",
+      "fetchedAt": "2026-09-20T20:24:52.661Z",
       "sources": [
         "Inquirer.net"
       ],
@@ -3786,7 +3720,7 @@
       "sourceTier": "other",
       "heatScore": 42,
       "heatLabel": "新",
-      "heatRank": 69,
+      "heatRank": 67,
       "originalTitle": "PH, UAE eye deeper defense ties - Inquirer.net",
       "translatedTitle": "PH ，阿联酋眼睛更深的防御关系- Inquirer.net",
       "translationStatus": "translated",
@@ -3805,7 +3739,7 @@
       "stale": false,
       "error": null,
       "itemCount": 0,
-      "lastSuccessAt": "2026-09-20T20:10:38.118Z"
+      "lastSuccessAt": "2026-09-20T20:24:43.496Z"
     },
     {
       "id": "al-jazeera",
@@ -3818,7 +3752,7 @@
       "stale": false,
       "error": null,
       "itemCount": 0,
-      "lastSuccessAt": "2026-09-20T20:10:38.650Z"
+      "lastSuccessAt": "2026-09-20T20:24:44.007Z"
     },
     {
       "id": "sky-news",
@@ -3831,7 +3765,7 @@
       "stale": false,
       "error": null,
       "itemCount": 0,
-      "lastSuccessAt": "2026-09-20T20:10:39.264Z"
+      "lastSuccessAt": "2026-09-20T20:24:44.696Z"
     },
     {
       "id": "the-guardian",
@@ -3844,7 +3778,7 @@
       "stale": false,
       "error": null,
       "itemCount": 0,
-      "lastSuccessAt": "2026-09-20T20:10:39.790Z"
+      "lastSuccessAt": "2026-09-20T20:24:45.251Z"
     },
     {
       "id": "arab-news",
@@ -3857,7 +3791,7 @@
       "stale": false,
       "error": null,
       "itemCount": 1,
-      "lastSuccessAt": "2026-09-20T20:10:40.296Z"
+      "lastSuccessAt": "2026-09-20T20:24:45.784Z"
     },
     {
       "id": "reuters-google",
@@ -3870,7 +3804,7 @@
       "stale": false,
       "error": null,
       "itemCount": 0,
-      "lastSuccessAt": "2026-09-20T20:10:41.340Z"
+      "lastSuccessAt": "2026-09-20T20:24:48.025Z"
     },
     {
       "id": "china-uae-opinion",
@@ -3883,7 +3817,7 @@
       "stale": false,
       "error": null,
       "itemCount": 3,
-      "lastSuccessAt": "2026-09-20T20:10:41.969Z"
+      "lastSuccessAt": "2026-09-20T20:24:49.566Z"
     },
     {
       "id": "uae-diplomacy-google",
@@ -3896,7 +3830,7 @@
       "stale": false,
       "error": null,
       "itemCount": 4,
-      "lastSuccessAt": "2026-09-20T20:10:42.607Z"
+      "lastSuccessAt": "2026-09-20T20:24:51.112Z"
     },
     {
       "id": "uae-military-google",
@@ -3908,8 +3842,8 @@
       "ok": true,
       "stale": false,
       "error": null,
-      "itemCount": 13,
-      "lastSuccessAt": "2026-09-20T20:10:43.232Z"
+      "itemCount": 11,
+      "lastSuccessAt": "2026-09-20T20:24:52.661Z"
     },
     {
       "id": "uae-social-google",
@@ -3922,7 +3856,7 @@
       "stale": false,
       "error": null,
       "itemCount": 18,
-      "lastSuccessAt": "2026-09-20T20:10:43.845Z"
+      "lastSuccessAt": "2026-09-20T20:24:53.836Z"
     },
     {
       "id": "newsnow-uae",
@@ -3935,7 +3869,7 @@
       "stale": false,
       "error": null,
       "itemCount": 18,
-      "lastSuccessAt": "2026-09-20T20:10:44.882Z"
+      "lastSuccessAt": "2026-09-20T20:24:54.941Z"
     },
     {
       "id": "khaleej-times",
@@ -3948,7 +3882,7 @@
       "stale": false,
       "error": null,
       "itemCount": 18,
-      "lastSuccessAt": "2026-09-20T20:10:45.430Z"
+      "lastSuccessAt": "2026-09-20T20:24:55.585Z"
     },
     {
       "id": "google-trends-uae",
@@ -3961,9 +3895,9 @@
       "stale": false,
       "error": null,
       "itemCount": 10,
-      "lastSuccessAt": "2026-09-20T20:10:47.325Z"
+      "lastSuccessAt": "2026-09-20T20:24:57.981Z"
     }
   ],
-  "generatedAt": "2026-09-20T20:10:47.369Z",
+  "generatedAt": "2026-09-20T20:24:58.021Z",
   "deploymentMode": "static"
 }
