@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f3f2">
+    <meta name="robots" content="noindex">
+    <title>项目进度确认 · 阿联酋新闻热点</title>
+    <link rel="stylesheet" href="/progress.css">
+  </head>
+  <body>
+    <main class="progress-shell">
+      <header class="topbar">
+        <a class="brand" href="/" aria-label="返回新闻首页">
+          <span class="brand__mark">U</span>
+          <span>
+            <strong>UAE Daily</strong>
+            <small>项目进度确认</small>
+          </span>
+        </a>
+        <a class="back-link" href="/">查看现有页面 ↗</a>
+      </header>
+
+      <section class="hero-card">
+        <div class="hero-card__copy">
+          <p class="eyebrow">BUILD STATUS / 2026-09-20</p>
+          <h1>分类热榜版本<br>正在构建</h1>
+          <p class="hero-card__intro">当前可运行版本不受影响。新版本将增加分类、多源热度排序、每日涉华舆论和自动刷新。</p>
+        </div>
+        <div class="progress-ring" style="--progress: 62">
+          <div>
+            <strong>62%</strong>
+            <span>本轮进度</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="summary-grid" aria-label="进度摘要">
+        <article class="metric-card">
+          <span class="metric-card__label">已验证新闻源</span>
+          <strong>8+</strong>
+          <small>含 RSS、NewsNow、Reuters 检索</small>
+        </article>
+        <article class="metric-card">
+          <span class="metric-card__label">当前翻译成功</span>
+          <strong>44 / 44</strong>
+          <small>实时接口验证，无失败标题</small>
+        </article>
+        <article class="metric-card">
+          <span class="metric-card__label">自动化测试</span>
+          <strong>5 / 5</strong>
+          <small>解析、过滤和标题清理通过</small>
+        </article>
+      </section>
+
+      <section class="board">
+        <div class="board__heading">
+          <div>
+            <p class="eyebrow">DELIVERY BOARD</p>
+            <h2>功能交付状态</h2>
+          </div>
+          <button type="button" onclick="location.reload()">刷新进度</button>
+        </div>
+
+        <div class="task-list">
+          <article class="task task--done">
+            <span class="task__state">已完成</span>
+            <div>
+              <h3>多来源新闻聚合</h3>
+              <p>BBC、Sky News、Al Jazeera、The Guardian、Arab News、Khaleej Times、NewsNow 和 Reuters 检索均已接入或验证。</p>
+            </div>
+          </article>
+          <article class="task task--done">
+            <span class="task__state">已完成</span>
+            <div>
+              <h3>中文标题与核实链接</h3>
+              <p>标题自动翻译为简体中文，每条新闻保留独立“阅读原文”链接，翻译失败不会影响整页。</p>
+            </div>
+          </article>
+          <article class="task task--done">
+            <span class="task__state">已完成</span>
+            <div>
+              <h3>缓存与失败降级</h3>
+              <p>单源失败保留上次成功数据；静态资源已禁用旧缓存，页面更新后不再长期显示旧版标题。</p>
+            </div>
+          </article>
+          <article class="task task--active">
+            <span class="task__state">正在做</span>
+            <div>
+              <h3>分类与热度排行榜</h3>
+              <p>正在实现国内、外交、经济、科技、军事热点分类，以及“同题媒体数 + 来源权重 + 时效 + Google Trends UAE”热度指数。</p>
+            </div>
+          </article>
+          <article class="task task--active">
+            <span class="task__state">源已验证</span>
+            <div>
+              <h3>每日涉华舆论</h3>
+              <p>已确认“阿联酋语境 + 中国 / Beijing / Belt and Road / Huawei”公开 RSS 可用，正在接入独立分类和排序。</p>
+            </div>
+          </article>
+          <article class="task task--next">
+            <span class="task__state">待开始</span>
+            <div>
+              <h3>自动刷新与新版界面</h3>
+              <p>打开页面自动抓取，页面内刷新强制更新；界面将按参考图改为更克制的白底、黑色大标题和珊瑚红强调色。</p>
+            </div>
+          </article>
+          <article class="task task--next">
+            <span class="task__state">后续</span>
+            <div>
+              <h3>周报与 PWA</h3>
+              <p>完成当前热榜分类并确认后，再加入每周日周报、离线缓存和添加到主屏幕。</p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="source-section">
+        <div class="source-section__heading">
+          <p class="eyebrow">VERIFIED SOURCES</p>
+          <h2>当前数据源</h2>
+        </div>
+        <div class="source-chips">
+          <span>BBC News</span>
+          <span>Al Jazeera</span>
+          <span>Sky News</span>
+          <span>The Guardian</span>
+          <span>Arab News</span>
+          <span>Reuters · Google News</span>
+          <span>NewsNow</span>
+          <span>Khaleej Times</span>
+          <span class="source-chips__trend">Google Trends UAE</span>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <p>说明：当前进度页是验收视图；新版本代码仍在构建，旧版首页保持运行。</p>
+        <a href="/">返回当前可运行版本</a>
+      </footer>
+    </main>
+  </body>
+</html>

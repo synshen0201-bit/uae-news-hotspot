@@ -1,0 +1,14 @@
+{
+  "name": "uae-news-hotspot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "阿联酋新闻热点聚合网页的最小可用版",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

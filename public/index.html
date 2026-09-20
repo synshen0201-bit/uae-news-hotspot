@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#f7f4f3">
+    <meta name="description" content="阿联酋新闻分类热度榜，自动翻译标题并保留原文核实链接。">
+    <title>UAE Daily · 阿联酋新闻热榜</title>
+    <link rel="stylesheet" href="./styles.css?v=8">
+  </head>
+  <body>
+    <div class="app-shell">
+
+      <main class="content-stack">
+        <section class="intro-card intro-card--top">
+          <div class="intro-card__main">
+            <p class="eyebrow">TODAY'S RANKING</p>
+            <h1>今天，阿联酋<br>在关注什么</h1>
+          </div>
+          <div class="intro-card__side">
+            <p>聚合公开新闻来源，按多源报道热度和时效排序。中文标题由机器翻译，原文链接可直接核实。</p>
+            <div class="intro-card__controls">
+              <div class="live-status">
+                <span class="live-status__dot" aria-hidden="true"></span>
+                <span id="updated-at">正在加载…</span>
+              </div>
+              <button id="refresh-button" class="refresh-button" type="button">
+                <span class="refresh-button__icon" aria-hidden="true">↻</span>
+                <span>刷新</span>
+              </button>
+            </div>
+          </div>
+        </section>
+
+        <nav class="category-panel category-panel--top" aria-label="新闻分类">
+          <div class="panel-heading">
+            <span>分类</span>
+            <small>按热度排序</small>
+          </div>
+          <div id="category-list" class="category-list">
+            <div class="category-skeleton"></div>
+            <div class="category-skeleton"></div>
+            <div class="category-skeleton"></div>
+          </div>
+        </nav>
+
+        <div class="page-layout">
+          <aside class="sidebar">
+            <section class="history-panel">
+              <div class="panel-heading">
+                <span>历史栏</span>
+                <small>每日各领域 Top 10</small>
+              </div>
+              <div id="history-list" class="history-list">
+                <div class="history-loading">正在整理历史热榜…</div>
+              </div>
+            </section>
+
+            <section class="source-panel">
+              <details>
+                <summary>
+                  <span>数据源状态</span>
+                  <small id="source-summary">检查中</small>
+                </summary>
+                <ul id="source-list" class="source-list"></ul>
+              </details>
+            </section>
+          </aside>
+
+          <section class="ranking-panel" aria-labelledby="ranking-title">
+            <header class="ranking-header">
+              <div>
+                <p id="ranking-kicker" class="eyebrow">COMPREHENSIVE</p>
+                <h2 id="ranking-title">综合热榜</h2>
+                <p id="ranking-description">跨分类按多源热度指数排序</p>
+              </div>
+              <div class="ranking-count">
+                <strong id="news-count">0</strong>
+                <span>条</span>
+              </div>
+            </header>
+
+            <div class="heat-method">
+              <span class="heat-method__badge">热度算法</span>
+              <p id="heat-method">同题媒体数、来源权重、时效与 Google Trends UAE 热词加权</p>
+              <span id="translation-summary" class="translation-summary">标题翻译准备中</span>
+            </div>
+
+            <ul id="news-list" class="news-list" aria-live="polite" aria-busy="true">
+              <li class="loading-state">
+                <strong>正在抓取最新新闻</strong>
+                <small>首次加载会同时合并来源并翻译标题，请稍候…</small>
+              </li>
+            </ul>
+
+            <footer class="feed-footer">
+              <p>热度指数用于站内排序，不代表官方搜索量。</p>
+              <button id="load-more-button" class="load-more-button" type="button" hidden>显示更多</button>
+            </footer>
+          </section>
+        </div>
+      </main>
+    </div>
+
+    <noscript>此页面需要启用 JavaScript 才能读取新闻。</noscript>
+    <script type="module" src="./app.js?v=8"></script>
+  </body>
+</html>
+
+
+
+

@@ -1,0 +1,73 @@
+name: Update news and deploy
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: uae-news-pages
+  cancel-in-progress: true
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch news and build static data
+        run: node scripts/generate-static.mjs
+
+      - name: Persist daily history
+        run: |
+          git config user.name "uae-news-bot"
+          git config user.email "uae-news-bot@users.noreply.github.com"
+          TODAY=$(TZ=Asia/Dubai date +%F)
+          DUBAI_HOUR=$(TZ=Asia/Dubai date +%H)
+          SHOULD_COMMIT=true
+          if git cat-file -e HEAD:public/data/history.json 2>/dev/null; then
+            git show HEAD:public/data/history.json > /tmp/committed-history.json
+            if node -e "const h=require('/tmp/committed-history.json'); process.exit(h.days && h.days[process.argv[1]] ? 0 : 1)" "$TODAY"; then
+              if [ "$DUBAI_HOUR" != "23" ]; then
+                SHOULD_COMMIT=false
+              fi
+            fi
+          fi
+          if [ "$SHOULD_COMMIT" = "true" ]; then
+            git add public/data/history.json
+            if git diff --cached --quiet; then
+              echo "No history changes"
+            else
+              git commit -m "Update daily UAE news history [skip ci]"
+              git push
+            fi
+          else
+            echo "History already persisted for $TODAY; skipping intermediate commit"
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
