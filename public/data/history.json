@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T19:38:45.838Z",
+  "updatedAt": "2026-09-21T19:50:00.472Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
-      "updatedAt": "2026-09-21T19:38:45.838Z",
+      "updatedAt": "2026-09-21T19:50:00.472Z",
       "categories": {
         "all": [
           {
@@ -68,7 +68,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-09-21T19:28:30.000Z"
           },
           {
@@ -239,38 +239,49 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-09-21T13:29:37.000Z"
           },
           {
             "rank": 10,
-            "translatedTitle": "阿布扎比命名三个乳腺癌治疗中心",
-            "originalTitle": "Abu Dhabi names three breast cancer treatment centres",
-            "url": "https://c.newsnow.co.uk/A/1324975010?-15565:1965",
-            "source": "Gulf News",
+            "translatedTitle": "迪拜奇迹花园第15季将于10月8日开幕：门票价格公布",
+            "originalTitle": "Dubai Miracle Garden Season 15 to open on October 8: Ticket prices announced",
+            "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-opening-season-15-october-8-ticket-prices",
+            "source": "Khaleej Times",
             "sources": [
-              "Gulf News"
+              "Khaleej Times"
             ],
             "heatScore": 80,
-            "publishedAt": "2026-09-21T16:39:55.000Z"
+            "publishedAt": "2026-09-21T13:22:07.000Z"
           }
         ],
         "diplomacy": [
           {
             "rank": 1,
-            "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的国防- markets.businessinsider.com",
-            "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - markets.businessinsider.com",
-            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRHJib0FlY2RGYkRzVEJvcTczNk9JaE5IVEhGOTBqdUxOUFpvU1lwMU9uVmQ0MmNIcldkODF1UFVSUk1XMENBTWp4VWdGaW9aWG5aOER2RG5VMGhoYVozYWlRbE81Sy1HbklrbkpZb3h2WW9MbUlUVU9CaUJJOXJDTF8xR2k0QlEzSTVGZ282dTA1NXB0Szc5RHVZVEV4VzlIeXhsalhyTkN0eDR3cThtRlFvZXBmbnlEWUZ1VUEyNmp1Nk5yc3VEcFVlNU5vQ2RTVks0aGdMZ0ozOFpPYzQ1b0x3ajNIdw?oc=5",
-            "source": "markets.businessinsider.com",
+            "translatedTitle": "SoundExchange和MusicNation扩大了美国和阿联酋之间的版税收取--Eric Alper",
+            "originalTitle": "SoundExchange And MusicNation Expand Royalty Collection Between U.S. And UAE - That Eric Alper",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTdHR1dBS2lIcVllUmFtZy10cUxDVDBnNWltMk5YblNJYnNtdjZwNGxYMlUyRkhRSy1veS13b2NTOER3NFZ3YWd3NHllV1o5VUtXbkd4LU5vSE9zV3ZrQml1TmtUWGQ3NXN5cVdQWHBwV2tsS3k2eWVjcXlFS0FjcUkyT2IzT1pJTV9zbEp0WVFxeW9CeTdiTklUaWhVaVk3bzQ5VlhOcFNXNmxYQjlRZ1c5eTZiNXhZ?oc=5",
+            "source": "That Eric Alper",
             "sources": [
-              "markets.businessinsider.com",
-              "The Manila Times"
+              "That Eric Alper"
             ],
-            "heatScore": 76,
-            "publishedAt": "2026-09-21T17:46:46.000Z"
+            "heatScore": 64,
+            "publishedAt": "2026-09-21T18:06:35.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的防御-马尼拉时报",
+            "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - The Manila Times",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOS1hqMnJMWk1jX2NlbUEwMFFwc1pWak5hMURpdm16Z01zOE9LQmlCdG5CeGJ0NEt3dGRRLUhBNmFhNktOVGRabFZ6NkxIamdyV1A5YTdTRkthVjd0WFl3MEtILVJzVVcyQXlqTkJRYkNUVDhTNy0xbUt6a0pUZFM1SDRSRkZFV09hVjVQSGliamJnU25iUDctSG1jYzNWd2R0bEpMSW5YMklhRUpCZklSa2Q4V1VlTE5KSzJjUVBmT2hVcVZyTi16VmVFRU41SThKVndPZlpOU3U0bmNRVm5OMjh3VzNlQzJxOXBrLTA2bm80bGRrUFFQWdIB_gFBVV95cUxQQjRRZ0RyR0gxcWVaSlBhZHVZQmFHcjFHd0tXSmxlUmtqNTNTeUhNSUlFUXRmQlh2QXdGaGZ0eWZBbHJRS2VzbnAyZU5CbXNDWnN6NW1Ebm9OT1VwNVVyc1RESGJSMWZrV0w5aHB2aTlBME1ORkktNktmR1BWVnc0a1lScE5KXzZKTk9VbnZRWWk2NVNzRnZLWTE4SWFHU0FNdXBKRFp0X2QzVURyUHAxbWxteUwxNERYRXBMV04yTldWTmdmUC03Vk5yTTREVm5RNVJMNmJ1M0hveHNZQ2x6anJ0cmtrVFAtNV9jWHFZSHpqc2JHX2hXcXZ0Y2U0Zw?oc=5",
+            "source": "The Manila Times",
+            "sources": [
+              "The Manila Times"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-09-21T17:34:34.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "国王和王储向迪拜统治者致哀，哀悼他的兄弟去世",
             "originalTitle": "King and Crown Prince offer condolences to Dubai ruler on death of his brother",
             "url": "https://c.newsnow.co.uk/A/1324977695?-15565:1965",
@@ -282,7 +293,7 @@
             "publishedAt": "2026-09-21T17:09:35.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "Aeroht与阿联酋的Ras Al Khaimah签署协议，共同建立先进的空中交通监管沙箱- Gasgoo",
             "originalTitle": "Aeroht Signs Agreement with UAE's Ras Al Khaimah to Jointly Establish Advanced Air Mobility Regulatory Sandbox - Gasgoo",
             "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLTFtZktzTkV3SDgzSG5hVXpPRkNmZGhJemNOdTZMWVBMU29VMkdDeHJRQzNybjVRZmEyN1RRXzl4Y0hVamNFYXdsSkJmNnUzU1loMlBWeS1FV2Mzc3pxbjFZUmVjcFBmbjAzVUt4WlpLdGw0Q3VxUlhvUndiRHBIUDNhMHVWdjlvZUhOMXljbXc5MzBBU21GdEdleUFNWmlFWVZHVk14WWs4amZLQzJwS0toQ2xFb1lOdGhPeElLZHhhQ3lCWEJBNUpyU3ktSU1GSkVDLUFiZkFBaWI0eGFoVUhER0g5cUE0aE5KcjRSMDc0c1dfblh6Q0tCaVZnUWs?oc=5",
@@ -294,7 +305,7 @@
             "publishedAt": "2026-09-21T15:23:32.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "SoundExchange和MusicNation签署阿联酋互惠权利协议- CelebrityAccess",
             "originalTitle": "SoundExchange And MusicNation Sign Reciprocal UAE Rights Agreement - CelebrityAccess",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTA5Z1lzVjBkakFaUk56LVhhdUd4SkJMblo3dF8ybDBacDF5TXNXWWFRYUt2U1JzNDdPS1lCNEZyZHZ2MEZlM1M4Xy1PM3pwdU4xZ0Q3NFlWYmFJVFNEMWdwMDJSZjlybGVuTUw1bE1zRVdvVHVzZzBJZnJQLVMxTFVtWkFtbGNsbERvUWQzYlN1Y1JlMkdvY042YVBCRTdRdjAyWkRxMnV0UQ?oc=5",
@@ -302,11 +313,11 @@
             "sources": [
               "CelebrityAccess"
             ],
-            "heatScore": 61,
+            "heatScore": 63,
             "publishedAt": "2026-09-21T13:40:39.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "阿联酋提议在伊朗、美国和阿拉伯国家之间进行调解--《外交洞察》",
             "originalTitle": "UAE Offers to Mediate Between Iran, US and Arab States - The Diplomatic Insight",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUJQUTVxb2FmbUQwZ2hSRURQZUhpdFRmNFNkT0JEbWtrejZYVVdWSl9QQVdGMm9QNWJNaUxhWnd4ZWxpWXphaWNCRGdTSHpxODNCVmMyaUN6M2gwZWwwVXVjSUxqV1FMTEliSl82dTYyVUJQQ180d2NaRklFczdvNWR6UXdxdkU?oc=5",
@@ -318,7 +329,7 @@
             "publishedAt": "2026-09-21T12:03:03.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "阿联酋呼吁阿拉伯国家在联合国大会高级别周开始之际开放与伊朗的直接渠道--《东方先驱报》",
             "originalTitle": "UAE Calls on Arab States to Open Direct Channel With Iran as UNGA High-Level Week Begins - The Eastern Herald",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1VBV2w5MnNxN2dXR1RabmRDcGM5QWVEcXlsSkp4WmxiYnowblJHeUY5TTBMalpqREJla09udmZBRlNNTGx2NU42Z2RmQ29HbkpDUEpyTHV5ODVlNFFqdjA2VmtJLXlaU0N5OWs0Q1R1dE5CTDdzVFFnNEZJVkpXV2ZXRDgyMjRfN2dPVWpR?oc=5",
@@ -330,7 +341,7 @@
             "publishedAt": "2026-09-21T10:44:26.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "阿联酋在金砖国家的角色如何为非洲打开新大门- KBC Digital",
             "originalTitle": "How the UAE’s role in BRICS opens a new door for Africa - KBC Digital",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzd1NkZIdGlXQ05oTFpINGpMUjRjVFpiejNWelNtZldNODVHX0hnWF9MRnQtUDJNZ19jeTZucE9BOGQ0UnRlVjB2dlpMVE5ZMHJhMVpiN19FRUt5ZGJCTGZ1a0VoT2FnUnNld2FQbS0yTmc4eTROZnpBWnVPR2FnTFVSWQ?oc=5",
@@ -342,25 +353,25 @@
             "publishedAt": "2026-09-21T08:11:18.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "马来西亚企业在亚拉商务峰会上探索阿联酋、海湾市场- sme.asia",
-            "originalTitle": "Malaysian Businesses To Explore UAE, Gulf Markets At Yalla Commerce Summit - sme.asia",
+            "rank": 9,
+            "translatedTitle": "马来西亚企业在Yalla商务峰会上探索阿联酋、海湾市场-《中小企业与创业》杂志",
+            "originalTitle": "Malaysian Businesses To Explore UAE, Gulf Markets At Yalla Commerce Summit - SME & Entrepreneurship Magazine",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0VwdEl5VFpBYnZncTc3YTRxTnE3MEFiQ0NHSmhGM1ctME8zOHZHMmdXM0V2N1VHanYyeUs1WjRINFhuTnk5blJzNWU3eUd2N0dZdzIta3FHdWNKQTg3VVFyUW1NeHdNSUtDc1B5VTNHVDhDbDFUNTFLbVE4MEx1WV9pY0NvTDh4NllkT25zby1rMmlrTGc?oc=5",
-            "source": "sme.asia",
+            "source": "SME & Entrepreneurship Magazine",
             "sources": [
-              "sme.asia"
+              "SME & Entrepreneurship Magazine"
             ],
             "heatScore": 53,
             "publishedAt": "2026-09-21T07:30:58.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "阿联酋大使Sajith讨论地区安全和双边关系- Newswire",
-            "originalTitle": "Sajith, UAE Ambassador discuss regional security and bilateral ties - Newswire",
+            "rank": 10,
+            "translatedTitle": "阿联酋大使Sajith讨论地区安全和双边关系- newswire.lk",
+            "originalTitle": "Sajith, UAE Ambassador discuss regional security and bilateral ties - newswire.lk",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZktTcS13Y0Z1MU9Td3YxZE56S052aDhja252cy1yMnRQb1pkVlVCMlZEcmQtazA2Y0wxRGNucXlnLTQzdUEwQXhLb1drLUthN1BGVHFlOW5Scks0TWRGeGxETHVHRHFrbUlPVlhjbU1xZjYwcF9LV1pSNVg1WFFKRUtuTWRKeW02WGh0UFBIeHIwcDFCaC0tTnhKYTFLT1k5LWREeQ?oc=5",
-            "source": "Newswire",
+            "source": "newswire.lk",
             "sources": [
-              "Newswire"
+              "newswire.lk"
             ],
             "heatScore": 51,
             "publishedAt": "2026-09-21T04:56:47.000Z"
@@ -376,7 +387,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-09-21T19:28:30.000Z"
           },
           {
@@ -424,7 +435,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 72,
+            "heatScore": 71,
             "publishedAt": "2026-09-21T08:20:48.000Z"
           },
           {
@@ -462,7 +473,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-09-21T11:03:57.000Z"
           },
           {
@@ -474,7 +485,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 73,
+            "heatScore": 72,
             "publishedAt": "2026-09-21T08:47:16.000Z"
           },
           {
@@ -499,7 +510,7 @@
             "source": "Big News Network.com",
             "sources": [
               "Big News Network.com",
-              "uaeteamemirates.com"
+              "UAE Team Emirates"
             ],
             "heatScore": 77,
             "publishedAt": "2026-09-21T17:42:00.000Z"
@@ -512,7 +523,7 @@
             "source": "Jagran Josh",
             "sources": [
               "Jagran Josh",
-              "Morocco World News"
+              "moroccoworldnews.com"
             ],
             "heatScore": 70,
             "publishedAt": "2026-09-21T11:47:16.000Z"
@@ -555,12 +566,12 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "对伊朗的重大袭击？ |阿联酋落后于也门胡塞武装？ |全球汽油、天然气危机|中东紧张局势- youtu.be",
-            "originalTitle": "Major Attack on Iran? | UAE Behind Yemen Houthi's? | Global Petrol,Gas Crisis | Middle East Tension - youtu.be",
+            "translatedTitle": "对伊朗的重大袭击？ |阿联酋落后于也门胡塞武装？ |全球汽油、天然气危机|中东紧张局势- YouTube",
+            "originalTitle": "Major Attack on Iran? | UAE Behind Yemen Houthi's? | Global Petrol,Gas Crisis | Middle East Tension - YouTube",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNNG95Y1Z0VVJkdTdSRGdsbmdCNXNxOExOTVotQW1WMTlIQVUwR3dKanBsckhxeklqQlhndFp2cERDYzFLQm5DRnFGTmpnRENoME5pREN4TEpBS0Rh?oc=5",
-            "source": "youtu.be",
+            "source": "YouTube",
             "sources": [
-              "youtu.be"
+              "YouTube"
             ],
             "heatScore": 59,
             "publishedAt": "2026-09-21T14:32:11.000Z"
@@ -603,12 +614,12 @@
           },
           {
             "rank": 10,
-            "translatedTitle": "老迪拜火灾视频被错误地兜售为周六胡塞武装对延布石油设施的袭击- saudigazette.com.sa",
-            "originalTitle": "Old Dubai fire video falsely peddled as Saturday's Houthi attack on Yanbu oil facilities - saudigazette.com.sa",
+            "translatedTitle": "老迪拜火灾视频被错误地兜售为周六胡塞武装对延布石油设施的袭击-沙特公报",
+            "originalTitle": "Old Dubai fire video falsely peddled as Saturday's Houthi attack on Yanbu oil facilities - Saudi Gazette",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jbjRQTzFKN2NRWng0aUZzejY1UHE2LXExTDFvcjNjY2hEY0tmcUpvdW14T3hock53UmtzUEtSTUZkWi1jcjFyb0JUN0RWOGMzOXNOMw?oc=5",
-            "source": "saudigazette.com.sa",
+            "source": "Saudi Gazette",
             "sources": [
-              "saudigazette.com.sa"
+              "Saudi Gazette"
             ],
             "heatScore": 49,
             "publishedAt": "2026-09-21T02:49:00.000Z"
@@ -693,12 +704,12 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "迪拜海滩病毒视频：孟加拉国男子看到与外国游客接触，阿联酋法律说- BRUT",
-            "originalTitle": "Dubai Beach Viral Video: Bangladeshi Man Seen Making Contact With Foreign Tourist, What UAE Law Says - Brut",
+            "translatedTitle": "迪拜海滩病毒视频：孟加拉国男子看到与外国游客接触，阿联酋法律的说法- brut.media",
+            "originalTitle": "Dubai Beach Viral Video: Bangladeshi Man Seen Making Contact With Foreign Tourist, What UAE Law Says - brut.media",
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbzg5SEdkc0tkQnhOMFY5LXlSdWl2UG9iMU5iU24zamxVQ2cwZ3ZGVEcxT3dWUXVYeTJhRGhOb2dVeEU0cFVmemx0NGRIQzlzVkZTOXMwQVhJd2xiNEsteEY5Wkh0bExnYjBxcHBPQjRvNVEzY2IwaUxkY3d3c01mZVVVQ096anhpMlduX2M0R0ZfX3NzbVBSTmhqcThNX1N1ZzJwQWhxSktwampyVEZJWXI1YUxLUENGUGlnSWVEaUczUHk2dnNlejZxTVY5NVQ4Z3N0NjBTUDFWbTBDeVE?oc=5",
-            "source": "Brut",
+            "source": "brut.media",
             "sources": [
-              "Brut"
+              "brut.media"
             ],
             "heatScore": 65,
             "publishedAt": "2026-09-21T14:26:13.000Z"
@@ -717,24 +728,24 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "阿布扎比加强温室气体排放监测- ARN新闻中心",
-            "originalTitle": "Abu Dhabi strengthens greenhouse gas emissions monitoring - ARN News Centre",
+            "translatedTitle": "阿布扎比加强温室气体排放监测- arnnewscentre.ae",
+            "originalTitle": "Abu Dhabi strengthens greenhouse gas emissions monitoring - arnnewscentre.ae",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDc0cXJ4bm1pQms0eXZNdUFrNHd2THBUMzlYREVoSzg4RXBGeGwta2NiMHZ6R2U3b2tTb2c1djhORHhyRVdzbWN2dE5jZzlBT2FUSlhrYXRLRTEtWWRhNkRqeWVObENUemMxOGlKR19oOFhnbEFWWm9XRHdBcGtPQ2g5ZmRHNWpPNHZydWZoWWVmdkVUV0lUTXBoeHRnUnNC?oc=5",
-            "source": "ARN News Centre",
+            "source": "arnnewscentre.ae",
             "sources": [
-              "ARN News Centre"
+              "arnnewscentre.ae"
             ],
             "heatScore": 63,
             "publishedAt": "2026-09-21T16:59:23.000Z"
           },
           {
             "rank": 10,
-            "translatedTitle": "阿联酋、巴拉圭向哥伦比亚地震灾区提供人道主义援助- filipinotimes.net",
-            "originalTitle": "UAE, Paraguay send humanitarian aid to earthquake-hit Colombia - filipinotimes.net",
+            "translatedTitle": "阿联酋、巴拉圭向地震灾区哥伦比亚提供人道主义援助--《菲律宾时报》",
+            "originalTitle": "UAE, Paraguay send humanitarian aid to earthquake-hit Colombia - The Filipino Times",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEoxbUZVaFhDYWVfc25pXzROV01mcjVyckZvZWRMUWFSUHdoZy0zNl9NQlpSSWFTMkJSOF9iT0ZPNmtoVERfekg5ZExWSjlHNDM5eW1HZ2tVZjFsVk91RFNaQ0xwUk10MlM3bzBLVHA2ZXlJQWFtaUc2UnI5M01mVFRKTXV0Z1NzRGFfdGtBQ3pKQ3hMZ0VnbEU1VnBITW8tdlBhN1g2bWFtbGRlUGN3Ng?oc=5",
-            "source": "filipinotimes.net",
+            "source": "The Filipino Times",
             "sources": [
-              "filipinotimes.net"
+              "The Filipino Times"
             ],
             "heatScore": 63,
             "publishedAt": "2026-09-21T16:21:22.000Z"
@@ -774,7 +785,7 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 45,
+            "heatScore": 44,
             "publishedAt": "2026-09-19T20:00:00.000Z"
           }
         ]
