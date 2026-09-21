@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T19:25:16.069Z",
+  "updatedAt": "2026-09-21T19:38:45.838Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
-      "updatedAt": "2026-09-21T19:25:16.069Z",
+      "updatedAt": "2026-09-21T19:38:45.838Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆是谁？迪拜统治者的弟弟去世，享年76岁–查看他的军事生涯、Al Wasl遗产、死因、马匹、妻子、孩子、净资产等- sundayguardianlive.com",
-            "originalTitle": "Who Was Sheikh Ahmed bin Rashid Al Maktoum? Dubai Ruler’s Younger Brother Dies At 76 – Check His Military Career, Al Wasl Legacy, Cause of Death, Horses, Wife, Children, Net Worth & More - sundayguardianlive.com",
+            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆是谁？迪拜统治者的弟弟去世，享年76岁–查看他的军事生涯、Al Wasl遗产、死因、马匹、妻子、孩子、净资产等-《星期日卫报》",
+            "originalTitle": "Who Was Sheikh Ahmed bin Rashid Al Maktoum? Dubai Ruler’s Younger Brother Dies At 76 – Check His Military Career, Al Wasl Legacy, Cause of Death, Horses, Wife, Children, Net Worth & More - The Sunday Guardian",
             "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZ9IBxgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZw?oc=5",
-            "source": "sundayguardianlive.com",
+            "source": "The Sunday Guardian",
             "sources": [
               "LatestLY",
               "The Express Tribune",
-              "sundayguardianlive.com",
+              "The Sunday Guardian",
               "Khaleej Times"
             ],
             "heatScore": 99,
@@ -44,7 +44,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 94,
+            "heatScore": 93,
             "publishedAt": "2026-09-21T09:58:18.000Z"
           },
           {
@@ -61,6 +61,18 @@
           },
           {
             "rank": 5,
+            "translatedTitle": "法国资产公司押注阿联酋不断增长的财富市场",
+            "originalTitle": "French asset firm bets on UAE’s growing wealth market",
+            "url": "https://c.newsnow.co.uk/A/1324988263?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-09-21T19:28:30.000Z"
+          },
+          {
+            "rank": 6,
             "translatedTitle": "阿联酋：供应中断威胁全球粮食安全",
             "originalTitle": "UAE: Supply disruptions threaten global food security",
             "url": "https://c.newsnow.co.uk/A/1324969991?-15565:1965",
@@ -68,11 +80,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-09-21T15:49:25.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "14晚，两架望远镜，一张令人惊叹的阿布扎比照片",
             "originalTitle": "14 nights, two telescopes, one stunning Abu Dhabi image",
             "url": "https://c.newsnow.co.uk/A/1324981022?-15565:1965",
@@ -80,11 +92,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-09-21T17:51:16.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "随着阿布扎比太阳能发电量飙升， Ewec计划将碳排放量减少45%",
             "originalTitle": "Ewec targets 45 per cent cut in carbon emissions as Abu Dhabi's solar capacity set to soar",
             "url": "https://c.newsnow.co.uk/A/1324980907?-15565:1965",
@@ -92,11 +104,11 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-09-21T17:49:54.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "在阿联酋的官方哀悼期间会发生什么？",
             "originalTitle": "What happens during an official mourning period in UAE?",
             "url": "https://www.khaleejtimes.com/uae/uae-what-happens-during-official-mourning-period",
@@ -106,18 +118,6 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-09-21T14:52:16.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "阿布扎比命名三个乳腺癌治疗中心",
-            "originalTitle": "Abu Dhabi names three breast cancer treatment centres",
-            "url": "https://c.newsnow.co.uk/A/1324975010?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 81,
-            "publishedAt": "2026-09-21T16:39:55.000Z"
           },
           {
             "rank": 10,
@@ -155,7 +155,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 94,
+            "heatScore": 93,
             "publishedAt": "2026-09-21T09:58:18.000Z"
           },
           {
@@ -179,7 +179,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-09-21T15:49:25.000Z"
           },
           {
@@ -191,7 +191,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-09-21T17:51:16.000Z"
           },
           {
@@ -203,7 +203,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-09-21T17:49:54.000Z"
           },
           {
@@ -220,18 +220,6 @@
           },
           {
             "rank": 8,
-            "translatedTitle": "阿布扎比命名三个乳腺癌治疗中心",
-            "originalTitle": "Abu Dhabi names three breast cancer treatment centres",
-            "url": "https://c.newsnow.co.uk/A/1324975010?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 81,
-            "publishedAt": "2026-09-21T16:39:55.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "华硕Zenbook 14 Copilot + PC为阿联酋带来日常奢华和更多选择",
             "originalTitle": "ASUS Zenbook 14 Copilot+ PC brings everyday luxury and more choice to the UAE",
             "url": "https://www.khaleejtimes.com/business/tech/asus-zenbook-14-copilot-pc-brings-everyday-luxury-and-more-choice-to-the-uae",
@@ -243,7 +231,7 @@
             "publishedAt": "2026-09-21T13:30:19.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "阿联酋明天的天气：迪拜气温高达41°C ；夜间天气潮湿",
             "originalTitle": "UAE weather tomorrow: High of 41°C in Dubai; humid conditions by night",
             "url": "https://www.khaleejtimes.com/uae/weather/september-22-2026",
@@ -253,11 +241,36 @@
             ],
             "heatScore": 81,
             "publishedAt": "2026-09-21T13:29:37.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿布扎比命名三个乳腺癌治疗中心",
+            "originalTitle": "Abu Dhabi names three breast cancer treatment centres",
+            "url": "https://c.newsnow.co.uk/A/1324975010?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-09-21T16:39:55.000Z"
           }
         ],
         "diplomacy": [
           {
             "rank": 1,
+            "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的国防- markets.businessinsider.com",
+            "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - markets.businessinsider.com",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRHJib0FlY2RGYkRzVEJvcTczNk9JaE5IVEhGOTBqdUxOUFpvU1lwMU9uVmQ0MmNIcldkODF1UFVSUk1XMENBTWp4VWdGaW9aWG5aOER2RG5VMGhoYVozYWlRbE81Sy1HbklrbkpZb3h2WW9MbUlUVU9CaUJJOXJDTF8xR2k0QlEzSTVGZ282dTA1NXB0Szc5RHVZVEV4VzlIeXhsalhyTkN0eDR3cThtRlFvZXBmbnlEWUZ1VUEyNmp1Nk5yc3VEcFVlNU5vQ2RTVks0aGdMZ0ozOFpPYzQ1b0x3ajNIdw?oc=5",
+            "source": "markets.businessinsider.com",
+            "sources": [
+              "markets.businessinsider.com",
+              "The Manila Times"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-09-21T17:46:46.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "国王和王储向迪拜统治者致哀，哀悼他的兄弟去世",
             "originalTitle": "King and Crown Prince offer condolences to Dubai ruler on death of his brother",
             "url": "https://c.newsnow.co.uk/A/1324977695?-15565:1965",
@@ -265,20 +278,8 @@
             "sources": [
               "Saudi Gazette"
             ],
-            "heatScore": 64,
-            "publishedAt": "2026-09-21T17:09:35.000Z"
-          },
-          {
-            "rank": 2,
-            "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的防御-马尼拉时报",
-            "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - The Manila Times",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOS1hqMnJMWk1jX2NlbUEwMFFwc1pWak5hMURpdm16Z01zOE9LQmlCdG5CeGJ0NEt3dGRRLUhBNmFhNktOVGRabFZ6NkxIamdyV1A5YTdTRkthVjd0WFl3MEtILVJzVVcyQXlqTkJRYkNUVDhTNy0xbUt6a0pUZFM1SDRSRkZFV09hVjVQSGliamJnU25iUDctSG1jYzNWd2R0bEpMSW5YMklhRUpCZklSa2Q4V1VlTE5KSzJjUVBmT2hVcVZyTi16VmVFRU41SThKVndPZlpOU3U0bmNRVm5OMjh3VzNlQzJxOXBrLTA2bm80bGRrUFFQWdIB_gFBVV95cUxQQjRRZ0RyR0gxcWVaSlBhZHVZQmFHcjFHd0tXSmxlUmtqNTNTeUhNSUlFUXRmQlh2QXdGaGZ0eWZBbHJRS2VzbnAyZU5CbXNDWnN6NW1Ebm9OT1VwNVVyc1RESGJSMWZrV0w5aHB2aTlBME1ORkktNktmR1BWVnc0a1lScE5KXzZKTk9VbnZRWWk2NVNzRnZLWTE4SWFHU0FNdXBKRFp0X2QzVURyUHAxbWxteUwxNERYRXBMV04yTldWTmdmUC03Vk5yTTREVm5RNVJMNmJ1M0hveHNZQ2x6anJ0cmtrVFAtNV9jWHFZSHpqc2JHX2hXcXZ0Y2U0Zw?oc=5",
-            "source": "The Manila Times",
-            "sources": [
-              "The Manila Times"
-            ],
             "heatScore": 63,
-            "publishedAt": "2026-09-21T17:34:34.000Z"
+            "publishedAt": "2026-09-21T17:09:35.000Z"
           },
           {
             "rank": 3,
@@ -301,7 +302,7 @@
             "sources": [
               "CelebrityAccess"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-09-21T13:40:39.000Z"
           },
           {
@@ -349,7 +350,7 @@
             "sources": [
               "sme.asia"
             ],
-            "heatScore": 54,
+            "heatScore": 53,
             "publishedAt": "2026-09-21T07:30:58.000Z"
           },
           {
@@ -361,13 +362,25 @@
             "sources": [
               "Newswire"
             ],
-            "heatScore": 52,
+            "heatScore": 51,
             "publishedAt": "2026-09-21T04:56:47.000Z"
           }
         ],
         "economy": [
           {
             "rank": 1,
+            "translatedTitle": "法国资产公司押注阿联酋不断增长的财富市场",
+            "originalTitle": "French asset firm bets on UAE’s growing wealth market",
+            "url": "https://c.newsnow.co.uk/A/1324988263?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-09-21T19:28:30.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿布扎比为设施引入强制性温室气体核查系统",
             "originalTitle": "Abu Dhabi introduces mandatory greenhouse gas verification system for facilities",
             "url": "https://www.khaleejtimes.com/uae/abu-dhabi-mandatory-greenhouse-gas-verification-system-facilities",
@@ -379,7 +392,7 @@
             "publishedAt": "2026-09-21T12:14:40.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "利雅得首次进入牛津经济学全球城市指数前50名",
             "originalTitle": "Riyadh reaches top 50 of Oxford Economics Global Cities Index for the first time",
             "url": "https://www.arabnews.com/business/riyadh-reaches-top-50-of-oxford-economics-global-cities-index-for-the-first-time-3002533",
@@ -391,7 +404,7 @@
             "publishedAt": "2026-09-21T11:17:55.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "游戏专家呼吁对阿拉伯语内容、本地开发的游戏进行更多投资",
             "originalTitle": "Gaming experts call for more investment in Arabic content, locally developed games",
             "url": "https://www.khaleejtimes.com/uae/gaming-experts-investment-arabic-content-local-games",
@@ -403,7 +416,7 @@
             "publishedAt": "2026-09-21T09:31:37.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "阿联酋部长表示，机场不会被人工智能取代，人类仍处于最前沿",
             "originalTitle": "UAE minister says airports won’t be replaced by AI, humans still at the forefront",
             "url": "https://www.khaleejtimes.com/business/uae-airports-not-replaced-by-ai-humans-at-forefront",
@@ -415,7 +428,19 @@
             "publishedAt": "2026-09-21T08:20:48.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
+            "translatedTitle": "苏格兰土地著名的迪拜物业荣誉",
+            "originalTitle": "Scot lands prestigious Dubai property honour",
+            "url": "https://c.newsnow.co.uk/A/1324988679?-15565:1965",
+            "source": "Deadline News",
+            "sources": [
+              "Deadline News"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-09-21T19:34:35.000Z"
+          },
+          {
+            "rank": 7,
             "translatedTitle": "Emaar看到迪拜酒店入住率目前为60 ％ ，在一年内恢复",
             "originalTitle": "Emaar sees Dubai hotel occupancy, now at 60%, recovering within a year",
             "url": "https://c.newsnow.co.uk/A/1324971019?-15565:1965",
@@ -423,7 +448,7 @@
             "sources": [
               "Gulf Times"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-09-21T16:00:04.000Z"
           }
         ],
@@ -506,30 +531,18 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "胡塞武装袭击利雅得扰乱西亚航空旅行；阿提哈德取消德里-阿布扎比航班，导致200名乘客滞留- sundayguardianlive.com",
-            "originalTitle": "Houthi Attack On Riyadh Disrupts Air Travel Across West Asia; Etihad Cancels Delhi-Abu Dhabi Flight, Leaving 200 Passengers Stranded - sundayguardianlive.com",
+            "translatedTitle": "胡塞武装袭击利雅得扰乱西亚航空旅行；阿提哈德航空取消德里-阿布扎比航班，导致200名乘客滞留",
+            "originalTitle": "Houthi Attack On Riyadh Disrupts Air Travel Across West Asia; Etihad Cancels Delhi-Abu Dhabi Flight, Leaving 200 Passengers Stranded - The Sunday Guardian",
             "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeFRoYWM2UFB0SFlBSGtKSjM4blUtWlhqcTlOemRSN1FDOUl1QmpLUkJJcnNheE84UHQzTDQ4dUk0Q0Y5U29zdnE1SXVwbXJhX2dkUWNsYVVsTlVoM3FiVi1ZdHkxRFVUQUNJemtWdUhJZUt6SEZmcFczNWIwR1lJSF9pZUhyb1lTdlJaWmNFczBNQnlvaWNtdVpES1FocXJodlFqWHY4RGVHMEF4RTVraWV1U1VNVU5Gc3JpLWYySWEwaGd6cWtFMmhobTRQWkVvaUQ3dGMtc3lxNml0bkI2aDZuTl81T3kzV3dvV0VRQkF3WFEwT0w2eDhIb2lWNnBzd2FubTVn0gGLAkFVX3lxTE1FU2x2NkNDUnlxNXQ0Z0cyenZOdzByWS03dkpYUXpucWVVMXFYRGJGSms5OEp2bWUxOGFqMXVtbkdFNGtMVjczLVc4Nm9yREtaY1ZLZ1Y1dXNIQUhwN2JHSGxsaFhjQ1cyUkhrV25ja2wzaFUzX2NLREI4VGpiRTR4SWxfSncwT3NfeDBqTVBicVZ3eWRtcGlXWm5hSmx6VWllOWo3eGRHTExObTV2Wmh4MFlxLW55aE1rMXJnSHVYZV9UY1htb0xyN0Y1NTdqZHJRTnhQZWtOLTdNbzh1a3BZZDBINmF4TlF4a0Q5U0xZRU9GbDV0LUt5OUIzbEROU0dxRi1pV1ZUeW1vSQ?oc=5",
-            "source": "sundayguardianlive.com",
+            "source": "The Sunday Guardian",
             "sources": [
-              "sundayguardianlive.com"
+              "The Sunday Guardian"
             ],
             "heatScore": 61,
             "publishedAt": "2026-09-20T07:23:13.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "对伊朗的重大袭击？ |阿联酋落后于也门胡塞武装？ |全球汽油、天然气危机|中东紧张局势- youtu.be",
-            "originalTitle": "Major Attack on Iran? | UAE Behind Yemen Houthi's? | Global Petrol,Gas Crisis | Middle East Tension - youtu.be",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNNG95Y1Z0VVJkdTdSRGdsbmdCNXNxOExOTVotQW1WMTlIQVUwR3dKanBsckhxeklqQlhndFp2cERDYzFLQm5DRnFGTmpnRENoME5pREN4TEpBS0Rh?oc=5",
-            "source": "youtu.be",
-            "sources": [
-              "youtu.be"
-            ],
-            "heatScore": 60,
-            "publishedAt": "2026-09-21T14:32:11.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "阿联酋居民最新消息：美国旅行警报、伊朗停火条款、沙特导弹拦截和飞行更新-海湾新闻",
             "originalTitle": "UAE residents’ update: US travel alert, Iran ceasefire terms, Saudi missile interception and flight updates - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODkwVEJhQTRTQnFIRUE1Vjd1LW9JendUSGc5ZlRPOVp0QUEzTWZiczY4VDhHNDloNDAwMW5hMnBIUk55X0ZMMk1KbjBId2p1T2hFY2RRUTM2QzAyZDlXbUdMZ2hvejVPQWRLS2NlUXhRVTNLRE9WMjU4dU9IN253bkxtd1hKT1Q5VExMWU12bm1OaEZoWXVwM0hIMVFFVldnNXhIZ2ozVDdETm9tZVZSbjFaaWhqMHk3Vllubi1od1I5SUFhOFlvd2hrUFI4cGhpaEZPamQ3SdIB5wFBVV95cUxQbTdBMzlGM2ZwRndDUG83LXJwMXhPU1o3dEgwUThKTHNSMDI1V0RQeWNRVUFMdzNUVndRNnQ1U1JXRmtlOHVnY3YzR2U4bUVscHVpeDE5aDRtbW5TQkduVW9zeTd0a011cjBhRmgyOFFvVXRYUHloZjdYdDZBYlZKTnlDYlZHeDVNZlQ0M3B2b2hCNDkzSXlnamd2SDV3b0pfTlpBeE9OajNJb0kweG5Ld1ozOGgzZFBUVmRMMGs2Zk1iVnVNRGIyREhBUnZwOExNSllhTnBDd3YzcDdSMjNBMHJHQWlmbHc?oc=5",
@@ -539,6 +552,18 @@
             ],
             "heatScore": 59,
             "publishedAt": "2026-09-20T13:36:12.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "对伊朗的重大袭击？ |阿联酋落后于也门胡塞武装？ |全球汽油、天然气危机|中东紧张局势- youtu.be",
+            "originalTitle": "Major Attack on Iran? | UAE Behind Yemen Houthi's? | Global Petrol,Gas Crisis | Middle East Tension - youtu.be",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNNG95Y1Z0VVJkdTdSRGdsbmdCNXNxOExOTVotQW1WMTlIQVUwR3dKanBsckhxeklqQlhndFp2cERDYzFLQm5DRnFGTmpnRENoME5pREN4TEpBS0Rh?oc=5",
+            "source": "youtu.be",
+            "sources": [
+              "youtu.be"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-09-21T14:32:11.000Z"
           },
           {
             "rank": 7,
@@ -592,14 +617,14 @@
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆是谁？迪拜统治者的弟弟去世，享年76岁–查看他的军事生涯、Al Wasl遗产、死因、马匹、妻子、孩子、净资产等- sundayguardianlive.com",
-            "originalTitle": "Who Was Sheikh Ahmed bin Rashid Al Maktoum? Dubai Ruler’s Younger Brother Dies At 76 – Check His Military Career, Al Wasl Legacy, Cause of Death, Horses, Wife, Children, Net Worth & More - sundayguardianlive.com",
+            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆是谁？迪拜统治者的弟弟去世，享年76岁–查看他的军事生涯、Al Wasl遗产、死因、马匹、妻子、孩子、净资产等-《星期日卫报》",
+            "originalTitle": "Who Was Sheikh Ahmed bin Rashid Al Maktoum? Dubai Ruler’s Younger Brother Dies At 76 – Check His Military Career, Al Wasl Legacy, Cause of Death, Horses, Wife, Children, Net Worth & More - The Sunday Guardian",
             "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZ9IBxgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZw?oc=5",
-            "source": "sundayguardianlive.com",
+            "source": "The Sunday Guardian",
             "sources": [
               "LatestLY",
               "The Express Tribune",
-              "sundayguardianlive.com",
+              "The Sunday Guardian",
               "Khaleej Times"
             ],
             "heatScore": 99,
@@ -627,7 +652,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 94,
+            "heatScore": 93,
             "publishedAt": "2026-09-21T09:58:18.000Z"
           },
           {
@@ -651,20 +676,20 @@
             "sources": [
               "travelsdubai.com"
             ],
-            "heatScore": 72,
+            "heatScore": 71,
             "publishedAt": "2026-09-21T08:12:00.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "“马主，公务员” ：谁是迪拜统治者的弟弟，享年76岁？ - The Indian Express",
-            "originalTitle": "‘Horse owner, public servant’: Who was Dubai ruler’s younger brother, who died at 76? - The Indian Express",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlI1Q2ZrVjBVREJyc180LU9kR2F0bEUxZXdsZm5rdnZmbHhkeEUtNXZ3c253V1BNN2cxRjI5dmJyaEJiTFp1SHloRVQ3bXdDS0drT2FMQUM3dGxmb050Q1pfT3pKQS0xWWdMODFEckRJcXVBQ1k5ajU1LUhyZWN2b2QycGxfdnI4Q3BMTlFmak10QW1MMnQ5QVRGREFkY1NsSDk1MEhWcTluMTJ5b09LbmprZUp6ajZDYmM0M05abkprS05UQXFFZ2dRc1lHSU9VZVZN0gHaAUFVX3lxTE52d29ERUlTQVZxUlRCNTF3ZWpab2VMMUwzYVZRLUhkLTliVHNER3dNLUk1WFBqSUVLb2NjbTlkSTFXNk0tZjZILUd5bHNUakROYm9Zb0tELUtGMkVnem90bGVmaTI3TGNFcWttOHRtMTFGOHktamgwa2tSV292Z0lHMUZoNjBEOWhCd0ZwdHg3b2l0allldExuSnpad2VPN0V2UjlCbnBwb2JTNGh2SFc2YWJOU2IwRmx2VTE4dW9UbGljYjl3QTZsU2xMX1BidG5vZEpZTW5SNnlB?oc=5",
-            "source": "The Indian Express",
+            "translatedTitle": "圣安东尼奥Alzer's Roastery的土耳其咖啡、迪拜巧克力和病毒甜点- KSAT",
+            "originalTitle": "Turkish Coffee, Dubai Chocolate and Viral Desserts in San Antonio at Alzer’s Roastery - KSAT",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3dYU1A3TUNPdXhyYm96aC11aHphWTdnYjlmbVNMeExubDBKMGVvN3pJWTdsNml4M0tPcjdNc3JnNWRqQVJ3SElEVnNJc2dQOXdMOENwblB1bkJpZWl1SS1yN2RYWERrX0NtQTJDeFBGcjRhVmZiRGVPZ0FlTTdjaUxoOGY3UThhN1NMUUhBTGRNdFJkYXNOeHlXbTN5XzJXSFMwckVnU0FaczJGdzJISEp2WHpKbUt2Szl3LXN3dE11czFjOGc?oc=5",
+            "source": "KSAT",
             "sources": [
-              "The Indian Express"
+              "KSAT"
             ],
-            "heatScore": 65,
-            "publishedAt": "2026-09-21T17:14:33.000Z"
+            "heatScore": 69,
+            "publishedAt": "2026-09-21T18:32:53.000Z"
           },
           {
             "rank": 7,
@@ -680,15 +705,15 @@
           },
           {
             "rank": 8,
-            "translatedTitle": "阿联酋、巴拉圭向哥伦比亚地震灾区提供人道主义援助- filipinotimes.net",
-            "originalTitle": "UAE, Paraguay send humanitarian aid to earthquake-hit Colombia - filipinotimes.net",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEoxbUZVaFhDYWVfc25pXzROV01mcjVyckZvZWRMUWFSUHdoZy0zNl9NQlpSSWFTMkJSOF9iT0ZPNmtoVERfekg5ZExWSjlHNDM5eW1HZ2tVZjFsVk91RFNaQ0xwUk10MlM3bzBLVHA2ZXlJQWFtaUc2UnI5M01mVFRKTXV0Z1NzRGFfdGtBQ3pKQ3hMZ0VnbEU1VnBITW8tdlBhN1g2bWFtbGRlUGN3Ng?oc=5",
-            "source": "filipinotimes.net",
+            "translatedTitle": "“马主，公务员” ：谁是迪拜统治者的弟弟，享年76岁？ - The Indian Express",
+            "originalTitle": "‘Horse owner, public servant’: Who was Dubai ruler’s younger brother, who died at 76? - The Indian Express",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlI1Q2ZrVjBVREJyc180LU9kR2F0bEUxZXdsZm5rdnZmbHhkeEUtNXZ3c253V1BNN2cxRjI5dmJyaEJiTFp1SHloRVQ3bXdDS0drT2FMQUM3dGxmb050Q1pfT3pKQS0xWWdMODFEckRJcXVBQ1k5ajU1LUhyZWN2b2QycGxfdnI4Q3BMTlFmak10QW1MMnQ5QVRGREFkY1NsSDk1MEhWcTluMTJ5b09LbmprZUp6ajZDYmM0M05abkprS05UQXFFZ2dRc1lHSU9VZVZN0gHaAUFVX3lxTE52d29ERUlTQVZxUlRCNTF3ZWpab2VMMUwzYVZRLUhkLTliVHNER3dNLUk1WFBqSUVLb2NjbTlkSTFXNk0tZjZILUd5bHNUakROYm9Zb0tELUtGMkVnem90bGVmaTI3TGNFcWttOHRtMTFGOHktamgwa2tSV292Z0lHMUZoNjBEOWhCd0ZwdHg3b2l0allldExuSnpad2VPN0V2UjlCbnBwb2JTNGh2SFc2YWJOU2IwRmx2VTE4dW9UbGljYjl3QTZsU2xMX1BidG5vZEpZTW5SNnlB?oc=5",
+            "source": "The Indian Express",
             "sources": [
-              "filipinotimes.net"
+              "The Indian Express"
             ],
             "heatScore": 64,
-            "publishedAt": "2026-09-21T16:21:22.000Z"
+            "publishedAt": "2026-09-21T17:14:33.000Z"
           },
           {
             "rank": 9,
@@ -704,15 +729,15 @@
           },
           {
             "rank": 10,
-            "translatedTitle": "迪拜统治者的兄弟谢赫·艾哈迈德·阿勒马克图姆去世，享年77岁- TVC新闻",
-            "originalTitle": "Dubai Ruler’s Brother Sheikh Ahmed Al Maktoum Dies at 77 - TVC News",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbjZTTUxlbEhyMkpTeDA4WlBaMzN0a21YUG1kRWRBSHVtX19QWTdDUUVYemNUQm5LaTJEUTRjTFJ0eW01UndMbmstVWdHWkNKcGdONHlsMG1ka190WkYzSTh5RmRhVy03dktMOXZUMl94QV9QaVl2bVRfeGtwc05kTTd1eXM3QQ?oc=5",
-            "source": "TVC News",
+            "translatedTitle": "阿联酋、巴拉圭向哥伦比亚地震灾区提供人道主义援助- filipinotimes.net",
+            "originalTitle": "UAE, Paraguay send humanitarian aid to earthquake-hit Colombia - filipinotimes.net",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEoxbUZVaFhDYWVfc25pXzROV01mcjVyckZvZWRMUWFSUHdoZy0zNl9NQlpSSWFTMkJSOF9iT0ZPNmtoVERfekg5ZExWSjlHNDM5eW1HZ2tVZjFsVk91RFNaQ0xwUk10MlM3bzBLVHA2ZXlJQWFtaUc2UnI5M01mVFRKTXV0Z1NzRGFfdGtBQ3pKQ3hMZ0VnbEU1VnBITW8tdlBhN1g2bWFtbGRlUGN3Ng?oc=5",
+            "source": "filipinotimes.net",
             "sources": [
-              "TVC News"
+              "filipinotimes.net"
             ],
-            "heatScore": 61,
-            "publishedAt": "2026-09-21T10:55:00.000Z"
+            "heatScore": 63,
+            "publishedAt": "2026-09-21T16:21:22.000Z"
           }
         ],
         "china": [
@@ -725,7 +750,7 @@
             "sources": [
               "Aviation International News"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-09-21T16:07:03.000Z"
           },
           {
