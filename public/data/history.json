@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T19:23:44.445Z",
+  "updatedAt": "2026-09-22T19:37:20.773Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -1590,7 +1590,7 @@
     },
     "2026-09-22": {
       "date": "2026-09-22",
-      "updatedAt": "2026-09-22T19:23:44.445Z",
+      "updatedAt": "2026-09-22T19:37:20.773Z",
       "categories": {
         "all": [
           {
@@ -1675,7 +1675,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 86,
             "publishedAt": "2026-09-22T16:16:39.000Z"
           },
           {
@@ -1773,7 +1773,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 86,
             "publishedAt": "2026-09-22T16:16:39.000Z"
           },
           {
@@ -2007,7 +2007,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-09-22T15:40:17.000Z"
           },
           {
@@ -2024,18 +2024,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "PhonePe确保阿联酋中央银行批准两项支付许可证",
-            "originalTitle": "PhonePe secures UAE central bank approval for two payment licences",
-            "url": "https://c.newsnow.co.uk/A/1325084258?-15565:1965",
-            "source": "The Hindu",
-            "sources": [
-              "The Hindu"
-            ],
-            "heatScore": 67,
-            "publishedAt": "2026-09-22T17:43:32.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "Emaar看到迪拜酒店入住率目前为60 ％ ，在一年内恢复-路透社",
             "originalTitle": "Emaar sees Dubai hotel occupancy, now at 60%, recovering within a year - Reuters",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3IwN0xlLVJJRjV6NHdhZXJkcDI5cmZQR0U3enpybHpVVk8yRVpSaHJhdTUwX3ZUcFZ5OGtCWXo2Zm9DSE5KcFFsMy1aLVppZ3FHTlNncVN5Y0VhZktDSk5sVWM1eExFSUR0SlRjN0ZTMzlLUGdyMGxXTElRNmF3QUU3YVhCNnk5NkkzNTFubDNkd1BrWXZFM3BSYlg0OU92TjlHaE1FUzlDN0JTanpWejhFbngzcmVsU21hUDZYYjJ6V1NXR0E?oc=5",
@@ -2045,6 +2033,18 @@
             ],
             "heatScore": 66,
             "publishedAt": "2026-09-21T15:07:07.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "PhonePe确保阿联酋中央银行批准两项支付许可证",
+            "originalTitle": "PhonePe secures UAE central bank approval for two payment licences",
+            "url": "https://c.newsnow.co.uk/A/1325084258?-15565:1965",
+            "source": "The Hindu",
+            "sources": [
+              "The Hindu"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-09-22T17:43:32.000Z"
           },
           {
             "rank": 8,
@@ -2088,19 +2088,6 @@
         "military": [
           {
             "rank": 1,
-            "translatedTitle": "迪拜统治者的兄弟谢赫·艾哈迈德·本·拉希德·阿勒马克图姆去世，享年76岁-摩洛哥世界新闻",
-            "originalTitle": "Dubai Ruler’s Brother Sheikh Ahmed bin Rashid Al Maktoum Dies at 76 - Morocco World News",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGhTdnRXdTE0MjBhNUd5R0tXQndGYkI3a20zMHJrc3hBVElSeXF6NDZpRGhIWWVvdzRFT1BPSkxuR1VyZzh4X1l5VEJzaU5ac2NNekgtU0ZCU1BVcWVSS2R6ajVlbzRNbUpzYll6SFNlMVJBbEU4X05JQll4bWxqdEtSUkY1UzZjYmFKaTVwaXIxR2pfVGV5SkRMQkNNdVJiVmgtRmpZaEN6OXZQUXF1U1RDOWR3TTZScFAyamc1bS1yUWtVb1BTX2VRVThRcWFSSVE?oc=5",
-            "source": "english.ratopati.com",
-            "sources": [
-              "english.ratopati.com",
-              "Morocco World News"
-            ],
-            "heatScore": 73,
-            "publishedAt": "2026-09-22T12:18:33.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的国防-供应链数字化",
             "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - Supply Chain Digital",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CZDVFVlFsOG5oNmxXbnZaOGlOcDAwUm1vSG1QZnowVDN4QjI4dVktY2RSZnpxcnJqQnQxbWZnT1l0cE15MDFNbGN3Nnk3aE95eGg5MmRjZ2ZKLTNfd1pSeUN3?oc=5",
@@ -2113,7 +2100,7 @@
             "publishedAt": "2026-09-22T00:53:10.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "阿联酋称伊朗导弹袭击霍尔木兹海峡油轮， 1名水手遇难- EnergyNow.com",
             "originalTitle": "UAE Says Iranian Missiles Struck Oil Tankers in Strait of Hormuz, One Sailor Killed - EnergyNow.com",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHI2dnA4RFFBdm9PemRsSGZPVE91QWpZRUprX084RjNiZmh4LUxUZ3RKRFZxRS1nTTkyemlUbmxJUjZocVl0Um5pWFZvN1R2Q2NIcThHQ2ZOalFRc21LQ3AyWVV4amMtal9pbmdySTdjcUxNRVlDQWlyc1RyVjA3RlpEN1F6VEEwU3VkTEhMR2ZqQmlwVHVOeFMwSkkyZmdINFp4bm9SX3ZSd1dMY0lmRi0tQQ?oc=5",
@@ -2121,11 +2108,11 @@
             "sources": [
               "EnergyNow.com"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-09-22T12:14:50.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆是谁？迪拜统治者的弟弟去世，享年76岁–查看他的军事生涯、Al Wasl遗产、死因、马匹、妻子、孩子、净资产等-《星期日卫报》",
             "originalTitle": "Who Was Sheikh Ahmed bin Rashid Al Maktoum? Dubai Ruler’s Younger Brother Dies At 76 – Check His Military Career, Al Wasl Legacy, Cause of Death, Horses, Wife, Children, Net Worth & More - The Sunday Guardian",
             "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZ9IBxgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZw?oc=5",
@@ -2137,7 +2124,7 @@
             "publishedAt": "2026-09-21T09:57:33.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "Tim Wellens将带领阿联酋阿联酋队-XRG在CRO比赛中的冠军防守-阿联酋队阿联酋队",
             "originalTitle": "Tim Wellens to lead UAE Team Emirates-XRG’s title defence at the CRO Race - UAE Team Emirates",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWFENnFjdUhwcDZxRERPM0EySE5jaUFyeTJJaUs3WkZERXFNS1RKcmNhejJqLU83WWtuNEtyVTRNak5TdWdWUkQ1N25PV2tFR0k1a2MwbGN0SzZqNWo3Q3hHYjlaWlh3YTdNV2VEWmJWY1RuNkR6QnJVaWpEZFJZOWhGNkI1aUV4SDNvZXpTMlFwU0hSbHVsY3FGVWw?oc=5",
@@ -2150,7 +2137,7 @@
             "publishedAt": "2026-09-21T18:45:07.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "深入了解阿联酋以情报为主导的网络防御战略及其与Cyble的新联盟- techbullion.com",
             "originalTitle": "Inside the UAE’s Intelligence-Led Cyber Defense Strategy and Its New Alliance with Cyble - techbullion.com",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGxnbjJ0cHE4eTBWbmJQa2pZeTJnUEhRcnlLVThCbXljSTM2S1Bvek83b0U4WV9TbWdSd0tldUxrRW9QZHA2ZVR5NkhPOU5ybzlTNWx2Vk1RdVNKS1VjYl9ERll1R3N1YWNfaENWeDg0XzJxNUMxRWRPTmtGbFROaThYY05qVzNFd0xpbUYtN3BGZ1pKcjFDYllBQXBSSkthM3ZzTFpRUmM0ajh3bExqRGp3?oc=5",
@@ -2160,6 +2147,18 @@
             ],
             "heatScore": 54,
             "publishedAt": "2026-09-22T06:58:03.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "前往迪拜和阿布扎比是否安全？地区冲突升级后的最新建议-《独立报》",
+            "originalTitle": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmV1QUxGNXBDTnRfMG9MVlR0WnBncHlnZ2haNzBobTRKblRuVEpvTFFMT1g2Y1V4QzdhRTZmYkJOaUpDbzdEQUhCV2pLOUpOM3N5N3FybHY5dnhXVWducnJvbEwtWFFjdk5NSmtiVU1BbF9XT19kVXJLY2FnMzR0dWZaTGVWT1FuMWVzWDV1UWVwZjI1RW1FSW9YLTRjSV92ekY4S2VjU3Y1N0s2TXlTOUpvOERfUkxhVmVvVWVnb0FRWnhB?oc=5",
+            "source": "The Independent",
+            "sources": [
+              "The Independent"
+            ],
+            "heatScore": 43,
+            "publishedAt": "2026-09-21T07:00:00.000Z"
           }
         ],
         "social": [
@@ -2177,19 +2176,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆（ Sheikh Ahmed bin Rashid Al Maktoum ）因其在迪拜安全和国防领域的遗产而闻名-阿联酋航空24",
-            "originalTitle": "Sheikh Ahmed bin Rashid Al Maktoum remembered for legacy in Dubai's security and defence sectors - Emirates 24|7",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLS13Z0VJc01UNHRxSVk4VUZaZlpxOC12ejNoNWxVbGE3WGhwZk1Qbk1iYVR4clR1Nk1uYVktejFTUG81dFMxR1p3azRSUVY2dVVFcUlmZUJlZGw3dGhjY2FOVHB0bHFqNVRZd3BPVlFYU1c2ajBueFRQOGZzWjJQbjdEZGExR014Rm83Ty1vTk1xMk0xWWdjMkhENDlic2RGNXhLYVF4OFM?oc=5",
-            "source": "Dubai Eye 103.8",
-            "sources": [
-              "Dubai Eye 103.8",
-              "Emirates 24|7"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-09-22T17:07:29.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "美伊冲突：阿联酋居民今天需要了解的信息， 2026年9月22日-海湾新闻",
             "originalTitle": "US-Iran conflict: What UAE residents need to know today, Sept. 22, 2026 - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUQ1Y09DUVh4OG9XRFJnQ3FKT04zeW04Z2NDUTlYNGdJZnJPZDVzOE0tcnN4SVB5TW96ZmJ2TDVZbWcxSXBrM1F3WC1LNUpSWEg1MjVRREhoSDhTV0Q4aXVfWWpNSldTaTJ5TVVMQXhVVG96aGRnZGtkSUVSRkZ3TUllSWdxaWpsR2Y4OHlmbFhjSVowOUI4dWRJWnItOWZiblJqNElUNNIBtwFBVV95cUxNTHQ4LUNOOUtIZ3hBNmFRc3luTmZBS203RGgwZkhXeWdaN1hBWFNuakMtUWhSSi1Lb1dYYWtGbHpGdV9zWV9QaW1TRGw0MjgtTlJTZGtqWnl6M2Z5UFZXeHlYSG9qeDJzSUpYcFdrOWROblpKZXJXN1ZIOV96UHpuWDNrdVp6WHQ0WUliYUNSdmFVdVRPT2dLUks0RjROZThBbHN3TmxKNGE2b2lIU0QxYjI3ZWttSkk?oc=5",
@@ -2201,19 +2187,19 @@
             "publishedAt": "2026-09-22T04:40:32.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "迪拜在2026年全球领先的在线旅游目的地排名中名列前茅- itij.com",
-            "originalTitle": "Dubai tops 2026 ranking of the world’s leading travel destinations online - itij.com",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalM5bWxFb1Q4MUQ1UFlDMmk3Ni1UMWU3ZWtSWFZ1bzBOTlJUcGViNlE1dmVwcVZ2VXZJaWgxdURVYkpPVGd1YWdLVWpjbVRYNWM5WmVsWk5CTnNyY3hwTEx1alBwTEdDVllaU2NrMEJDdGZ5TDcza3pHUGhDWXJXSmthcEhWQUI4RTFtUE9qaTh4UjFYbEZONmtQSWFSZWs?oc=5",
-            "source": "itij.com",
+            "rank": 3,
+            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆安息-迪拜之眼103.8",
+            "originalTitle": "Sheikh Ahmed bin Rashid Al Maktoum laid to rest - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLS13Z0VJc01UNHRxSVk4VUZaZlpxOC12ejNoNWxVbGE3WGhwZk1Qbk1iYVR4clR1Nk1uYVktejFTUG81dFMxR1p3azRSUVY2dVVFcUlmZUJlZGw3dGhjY2FOVHB0bHFqNVRZd3BPVlFYU1c2ajBueFRQOGZzWjJQbjdEZGExR014Rm83Ty1vTk1xMk0xWWdjMkhENDlic2RGNXhLYVF4OFM?oc=5",
+            "source": "Dubai Eye 103.8",
             "sources": [
-              "itij.com"
+              "Dubai Eye 103.8"
             ],
-            "heatScore": 67,
-            "publishedAt": "2026-09-22T14:06:38.000Z"
+            "heatScore": 66,
+            "publishedAt": "2026-09-22T17:07:29.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "阿联酋，合作伙伴重新推动加沙和平计划- ARN新闻中心",
             "originalTitle": "UAE, partners renew push for Gaza peace plan - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3QtejhzUTBGZERrQzhmd2lieVlPWnVwQkNzOXVyVkRIdVgzdlZoNnRyTENqTmtoaDRnU3NXMXhBV0NHSW9hT2lGTmZuNFltSVE5dndrU2dnYjZLLWw0YTdCaWlCV0d1TU1NUXZSWlhnNUhueFZtbk1BenNJNld1RnI5S3dGQUZzM0o4X1Nn?oc=5",
@@ -2223,6 +2209,18 @@
             ],
             "heatScore": 66,
             "publishedAt": "2026-09-22T13:28:37.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜在2026年全球领先的在线旅游目的地排名中名列前茅- itij.com",
+            "originalTitle": "Dubai tops 2026 ranking of the world’s leading travel destinations online - itij.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalM5bWxFb1Q4MUQ1UFlDMmk3Ni1UMWU3ZWtSWFZ1bzBOTlJUcGViNlE1dmVwcVZ2VXZJaWgxdURVYkpPVGd1YWdLVWpjbVRYNWM5WmVsWk5CTnNyY3hwTEx1alBwTEdDVllaU2NrMEJDdGZ5TDcza3pHUGhDWXJXSmthcEhWQUI4RTFtUE9qaTh4UjFYbEZONmtQSWFSZWs?oc=5",
+            "source": "itij.com",
+            "sources": [
+              "itij.com"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-09-22T14:06:38.000Z"
           },
           {
             "rank": 6,
@@ -2238,6 +2236,18 @@
           },
           {
             "rank": 7,
+            "translatedTitle": "迪拜每月提供饼干自助餐，提供3,000多种饼干供您选择！ - curlytales.com",
+            "originalTitle": "Dubai Has A Monthly Cookie Buffet With 3,000+ Cookies To Pick From! - curlytales.com",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDJuMW5NRk9pQjBuOVlITWlFQnpIY1M2MWxXSHJwdm5vVS1VbUFUNFExU01zclpmXzZrYWR2bzJ3ZHM3czRMRnBLZHd4dTV1UDFSblRaTU5rcE5MeWhodGZWcmNwdm9sQUY4c215SXV6YjdLeWQwN2ppNWdLVFBrYTVncU5KRTFmdTRwSUZWSHd0a0Y2WUh3SkZTNnpFWlQ0LXVGTkZIc9IBpwFBVV95cUxOaDJuMW5NRk9pQjBuOVlITWlFQnpIY1M2MWxXSHJwdm5vVS1VbUFUNFExU01zclpmXzZrYWR2bzJ3ZHM3czRMRnBLZHd4dTV1UDFSblRaTU5rcE5MeWhodGZWcmNwdm9sQUY4c215SXV6YjdLeWQwN2ppNWdLVFBrYTVncU5KRTFmdTRwSUZWSHd0a0Y2WUh3SkZTNnpFWlQ0LXVGTkZIcw?oc=5",
+            "source": "curlytales.com",
+            "sources": [
+              "curlytales.com"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-09-22T16:09:08.000Z"
+          },
+          {
+            "rank": 8,
             "translatedTitle": "Jono和Amy Castano出现在迪拜光滑的房地产宣传中-每日电讯报",
             "originalTitle": "Jono and Amy Castano appear in glossy Dubai property pitch - The Daily Telegraph",
             "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLVh2RUl0VVlRbDNHMjk3bUlrQWdXSUdMTzlXaUxaRzJBbnJCMm9PUElYS3pycWtMM09PT2ZSRURhT1k5R2NKREMxdWljYzNnaVJIZGhYN09aQkhLaHVnM3hDQndBelhyR0RyekthNUlUSmVGN0Z1MDRkM3hLekJyNmRCUXFCekZPOEJMS19XM1J3OWJkNHRSMWNlenRvTzViWndFQ1hrS3I1UDZ1R0lNSzlIaVVpc0N5YkdCY2tITHFCWV83UnFPZUFwdWtHcnJmdDdhczhZdHZFd1RHdnB0U3RvQk1ucHVHbnF2M2pkaXYwQ0c5ZXV2cjlHNnd1Z3dFY2swUU1OM1RLdjQ?oc=5",
@@ -2249,7 +2259,7 @@
             "publishedAt": "2026-09-22T15:09:21.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "印度女性分享迪拜最让她印象深刻的地方，而不是天际线- curlytales.com",
             "originalTitle": "Indian Woman Shares What Impressed Her Most About Dubai, And It Wasn’t The Skyline - curlytales.com",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTdNV0R2TndoXzhydV9aQjFIWkVsRHVubFYwaGNoRE1JWXpnOU5uaVFWSldYMk1OSHYwcW5HVWRXaTNoeEpMR2RvLVVyWTFKS2dQbU5OQzdyalNIM0JKVGp4TmxBYXpTZVlHV0dYX1B1d3lQYjllWVBKb0xvY0ZNQnhuX1dsRmxIQkpZZzFDMHhGM2txSG1QanU5aThYQkR0LWpVdVNlZUJBbXVDZmlGMHVSVEsyTUJwQnBUS084YjdWazhLNWNVONIByAFBVV95cUxPZTdNV0R2TndoXzhydV9aQjFIWkVsRHVubFYwaGNoRE1JWXpnOU5uaVFWSldYMk1OSHYwcW5HVWRXaTNoeEpMR2RvLVVyWTFKS2dQbU5OQzdyalNIM0JKVGp4TmxBYXpTZVlHV0dYX1B1d3lQYjllWVBKb0xvY0ZNQnhuX1dsRmxIQkpZZzFDMHhGM2txSG1QanU5aThYQkR0LWpVdVNlZUJBbXVDZmlGMHVSVEsyTUJwQnBUS084YjdWazhLNWNVOA?oc=5",
@@ -2257,11 +2267,11 @@
             "sources": [
               "curlytales.com"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-09-22T08:05:32.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "孟加拉国男子在迪拜海滩偶遇女子，拍摄“喜剧”片，人物标记警察-今日印度",
             "originalTitle": "Bangladeshi man bumps into woman at Dubai beach for 'comedy' reel, people tag cops - India Today",
             "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYl96ZTlzQzE1ckl6d2Y3QzBzbW9LTmEtZkE5UXVrcFFmdzBScHNKbkVfZ1IwcUtSempjV1JJRlJPNUlKc1pRakhOYVBrV2dlLXhoMUtMRUUxUUdwbVJVcXVvbV9qMW1yQXI4YXBvUmhUTUIyMUgxemtwemJEODh4VGE0TXVqU2IwZ2VCT20zVHdfY3QzeVc4Tmt4MlhsQVhXWExwaEYyWFhGVjUwd1dMNEdLOEJ3d1M2aGhWU1RvUlZtM3lWVUY1UlEzS3hOaHptQTBvcXp6ajdDeDY3WFJSOEJ30gHiAUFVX3lxTE9iX3plOXNDMTVySXp3ZjdDMHNtb0tOYS1mQTlRdWtwUWZ3MFJwc0puRV9nUjBxS1J6amNXUklGUk81SUpzWlFqSE5hUGtXZ2UteGgxS0xFRTFRR3BtUlVxdW9tX2oxbXJBcjhhcG9SaFRNQjIxSDF6a3B6YkQ4OHhUYTRNdWpTYjBnZUJPbTNUd19jdDN5VzhOa3gyWGxBWFdYTHBoRjJYWEZWNTB3V0w0R0s4Qnd3UzZoaFZTVG9SVm0zeVZVRjVSUTNLeE5oem1BMG9xenpqN0N4NjdYUlI4Qnc?oc=5",
@@ -2271,18 +2281,6 @@
             ],
             "heatScore": 58,
             "publishedAt": "2026-09-22T06:51:49.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "“India Me Hi Sahi Tha” ：迪拜的印度人分享生活挣扎； “搬家前三思” - Times Now",
-            "originalTitle": "‘India Me Hi Sahi Tha’: Indian In Dubai Shares Life Struggles; ‘Think Twice Before Moving’ - Times Now",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVC1iYW96U3BtaW9tNU5Ta0pzQkxaOW9HcGRqdXZDVXBGaVByUUhrNXcydWlvTVBBMk5WSUhRN1BKZXA2RjYtQ0lDbXlJcHpjb3dncmFEUFFTa0hFVGVPcEJ0OGdzUzlKbjNzRUxDWU5ZYzB4dzIyb1h6cTZtdmdlVldmeEVGYVlJQUdhcnFSTGpObzVMSzVjZGV1cG05WWVHQkxreUxIaUlMYnd3OXZ2Q1JqSXBySmctNXJHWUFobnFMZWNV0gHKAUFVX3lxTE9lNzNYbDJOc3VJU1BRMThvLVE4am9kZWt1eDI1bFBCdzlIVzRsNHMtY3QyZVA2aF93LUdLSFAtYkVZcWg0Q0dNNk1LVGJteXZzYklnanEtd2hsU2RLUC1ORnFSNHBoMnF2eC10eDZfWnZEQWpkSUJ2VEpHU3paeHZTTGZ2dXBMVHZzOXg0X1FmRTdzWjJDaTJ6a1pNSEk2eHdwZjVGUXZBTHlDdE83UDdSemplY3p4YTlQSG9GNXRtVXVJRDdfNE80dlE?oc=5",
-            "source": "Times Now",
-            "sources": [
-              "Times Now"
-            ],
-            "heatScore": 56,
-            "publishedAt": "2026-09-22T09:33:44.000Z"
           }
         ],
         "china": [
@@ -2308,7 +2306,7 @@
             "sources": [
               "صحيفة الخليج"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-09-22T12:52:24.000Z"
           },
           {
@@ -2332,7 +2330,7 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 50,
+            "heatScore": 49,
             "publishedAt": "2026-09-21T20:13:00.000Z"
           }
         ]
