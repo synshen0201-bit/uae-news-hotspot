@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T19:07:56.038Z",
+  "updatedAt": "2026-09-22T19:23:44.445Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -1590,23 +1590,11 @@
     },
     "2026-09-22": {
       "date": "2026-09-22",
-      "updatedAt": "2026-09-22T19:07:56.038Z",
+      "updatedAt": "2026-09-22T19:23:44.445Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "阿布扎比学生解决烟草、尼古丁使用问题",
-            "originalTitle": "Abu Dhabi students address tobacco, nicotine use",
-            "url": "https://c.newsnow.co.uk/A/1325079312?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-09-22T16:45:41.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "埃及国家银行接管Banque Misr阿联酋分行：声明",
             "originalTitle": "National Bank of Egypt to take over Banque Misr’s UAE branches: Statement",
             "url": "https://www.khaleejtimes.com/uae/national-bank-of-egypt-take-over-banque-misr-uae-branches-central-bank",
@@ -1619,116 +1607,6 @@
             "publishedAt": "2026-09-22T15:50:29.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "阿联酋总统就谢赫·艾哈迈德逝世向谢赫·穆罕默德表示哀悼",
-            "originalTitle": "UAE President offers condolences to Sheikh Mohammed on passing of Sheikh Ahmed",
-            "url": "https://www.khaleejtimes.com/uae/uae-president-condolences-sheikh-mohammed-sheikh-ahmed-death",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-09-22T19:00:49.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "谢赫·艾哈迈德·本·拉希德（ Sheikh Ahmed bin Rashid ）在迪拜的乌姆·胡雷尔（ Umm Hurair",
-            "originalTitle": "Sheikh Ahmed bin Rashid laid to rest at Umm Hurair cemetery in Dubai",
-            "url": "https://c.newsnow.co.uk/A/1325083540?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 89,
-            "publishedAt": "2026-09-22T17:34:39.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "富查伊拉警方警告驾驶者注意分心驾驶",
-            "originalTitle": "Fujairah Police warn motorists about distracted driving",
-            "url": "https://c.newsnow.co.uk/A/1325090249?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 88,
-            "publishedAt": "2026-09-22T18:58:17.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "沙迦的Al Freish Lake计划获得批准：瀑布，绿化卡尔巴",
-            "originalTitle": "Sharjah's Al Freish Lake plan approved: Waterfalls, greenery to transform Kalba",
-            "url": "https://www.khaleejtimes.com/uae/sharjahs-al-freish-lake-plan-approved-waterfalls-greenery-to-transform-kalba",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-09-22T16:20:19.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "阿联酋射手仍在寻找亚运会决赛， Safiya印象深刻",
-            "originalTitle": "UAE shooters remain in the hunt for Asian Games final, Safiya impresses",
-            "url": "https://www.khaleejtimes.com/sports/uae-shooters-remain-in-the-hunt-for-asian-games-final-safiya-impresses",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-09-22T16:16:39.000Z"
-          },
-          {
-            "rank": 8,
-            "translatedTitle": "观看：沙迦在11月4日开幕前推出Al Taawun Roundabout的新外观",
-            "originalTitle": "Watch: Sharjah unveils new look of Al Taawun Roundabout ahead of November 4 opening",
-            "url": "https://www.khaleejtimes.com/uae/transport/sharjah-al-taawun-square-new-design-tunner-dubai",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-09-22T16:12:53.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "800迪拉姆罚款和四个黑点：富查伊拉警方警告阿联酋驾驶者不要分心驾驶-海湾新闻",
-            "originalTitle": "Dh800 fine and four black points: Fujairah Police warn UAE motorists against distracted driving - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmY3a04zT3dWd0FaZ0ROUUZGVklwM04xX2RUMUZhVXJHMVpmUzVPc21YV255RTdKQjdyb3Y1bXRyY1FuV2lQYjljQUVjeTVMOW1LUG5FbmRjUHJQT190OXBlMldFOFlvay12a1g3NVVRc3dfQnYxMFlxUjJzYS1DaEFPQzE3N2FlbFNMTnd5a1dtUi0ydFlGUGE0RUpjMnlvQjdtNHQwdWZ4ckI5MlVKeGxxN0NpSXZNMzZST293OFR1a2NOQ0tQWWJ0VC1PREZvcGVUYXJ6Z9IB6gFBVV95cUxPNVhZOWp6YTVjeW1KZ2M5OUVZOVpBZ0xsMDlDUUNSTGtrcEpFbUIyQWJIWFhVZkpjcWxkUmdaMlBzaXo1RDhWUTdNMEFMaHhzOWlYZDVGcjQ2X1R2N1JULTJfbkNwcllTYkJWNU9xQ3dzMUNRejdael9NcWwtNkZ5T3k0VE14LWVaU3ZVeVZra0VDWmFsZ0RBQjlQSThyREE5bzdkblVmTWprNWt4WHVFb1ZodUJJREw0U3RualV3RWNhQ29iSVJxUmlZelZMeDZWTmFfcWVqdDhWbFR5X3R6OVJrazVGb3JUamc?oc=5",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 85,
-            "publishedAt": "2026-09-22T18:49:26.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "FM Cho与阿联酋同行讨论双边关系-韩联社",
-            "originalTitle": "FM Cho discusses bilateral ties with UAE counterpart - Yonhap News Agency",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VjhJdDlGTG1Zb21oSWJDZWtveFUtUXBZMWp1dUNGMGxib2J1R3N6bFZGR3daOWxXWTAxVDdUVEg3dm5aemFkWVhaZVF5cXVIdWNXV1IxMjZndw?oc=5",
-            "source": "Yonhap News Agency",
-            "sources": [
-              "Yonhap News Agency"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-09-22T14:26:29.000Z"
-          }
-        ],
-        "domestic": [
-          {
-            "rank": 1,
-            "translatedTitle": "阿布扎比学生解决烟草、尼古丁使用问题",
-            "originalTitle": "Abu Dhabi students address tobacco, nicotine use",
-            "url": "https://c.newsnow.co.uk/A/1325079312?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-09-22T16:45:41.000Z"
-          },
-          {
             "rank": 2,
             "translatedTitle": "阿联酋总统就谢赫·艾哈迈德逝世向谢赫·穆罕默德表示哀悼",
             "originalTitle": "UAE President offers condolences to Sheikh Mohammed on passing of Sheikh Ahmed",
@@ -1754,6 +1632,18 @@
           },
           {
             "rank": 4,
+            "translatedTitle": "键入：阿联酋迪拉姆符号在Unicode 18.0中首次亮相",
+            "originalTitle": "Keyed in: UAE dirham symbol makes debut in Unicode 18.0",
+            "url": "https://c.newsnow.co.uk/A/1325091467?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-09-22T19:11:20.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "富查伊拉警方警告驾驶者注意分心驾驶",
             "originalTitle": "Fujairah Police warn motorists about distracted driving",
             "url": "https://c.newsnow.co.uk/A/1325090249?-15565:1965",
@@ -1761,11 +1651,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-09-22T18:58:17.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "沙迦的Al Freish Lake计划获得批准：瀑布，绿化卡尔巴",
             "originalTitle": "Sharjah's Al Freish Lake plan approved: Waterfalls, greenery to transform Kalba",
             "url": "https://www.khaleejtimes.com/uae/sharjahs-al-freish-lake-plan-approved-waterfalls-greenery-to-transform-kalba",
@@ -1777,7 +1667,7 @@
             "publishedAt": "2026-09-22T16:20:19.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "阿联酋射手仍在寻找亚运会决赛， Safiya印象深刻",
             "originalTitle": "UAE shooters remain in the hunt for Asian Games final, Safiya impresses",
             "url": "https://www.khaleejtimes.com/sports/uae-shooters-remain-in-the-hunt-for-asian-games-final-safiya-impresses",
@@ -1789,7 +1679,7 @@
             "publishedAt": "2026-09-22T16:16:39.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "观看：沙迦在11月4日开幕前推出Al Taawun Roundabout的新外观",
             "originalTitle": "Watch: Sharjah unveils new look of Al Taawun Roundabout ahead of November 4 opening",
             "url": "https://www.khaleejtimes.com/uae/transport/sharjah-al-taawun-square-new-design-tunner-dubai",
@@ -1797,11 +1687,109 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 86,
             "publishedAt": "2026-09-22T16:12:53.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
+            "translatedTitle": "FM Cho与阿联酋同行讨论双边关系-韩联社",
+            "originalTitle": "FM Cho discusses bilateral ties with UAE counterpart - Yonhap News Agency",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VjhJdDlGTG1Zb21oSWJDZWtveFUtUXBZMWp1dUNGMGxib2J1R3N6bFZGR3daOWxXWTAxVDdUVEg3dm5aemFkWVhaZVF5cXVIdWNXV1IxMjZndw?oc=5",
+            "source": "Yonhap News Agency",
+            "sources": [
+              "Yonhap News Agency"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-09-22T14:26:29.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "800迪拉姆罚款和四个黑点：富查伊拉警方警告阿联酋驾驶者不要分心驾驶-海湾新闻",
+            "originalTitle": "Dh800 fine and four black points: Fujairah Police warn UAE motorists against distracted driving - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmY3a04zT3dWd0FaZ0ROUUZGVklwM04xX2RUMUZhVXJHMVpmUzVPc21YV255RTdKQjdyb3Y1bXRyY1FuV2lQYjljQUVjeTVMOW1LUG5FbmRjUHJQT190OXBlMldFOFlvay12a1g3NVVRc3dfQnYxMFlxUjJzYS1DaEFPQzE3N2FlbFNMTnd5a1dtUi0ydFlGUGE0RUpjMnlvQjdtNHQwdWZ4ckI5MlVKeGxxN0NpSXZNMzZST293OFR1a2NOQ0tQWWJ0VC1PREZvcGVUYXJ6Z9IB6gFBVV95cUxPNVhZOWp6YTVjeW1KZ2M5OUVZOVpBZ0xsMDlDUUNSTGtrcEpFbUIyQWJIWFhVZkpjcWxkUmdaMlBzaXo1RDhWUTdNMEFMaHhzOWlYZDVGcjQ2X1R2N1JULTJfbkNwcllTYkJWNU9xQ3dzMUNRejdael9NcWwtNkZ5T3k0VE14LWVaU3ZVeVZra0VDWmFsZ0RBQjlQSThyREE5bzdkblVmTWprNWt4WHVFb1ZodUJJREw0U3RualV3RWNhQ29iSVJxUmlZelZMeDZWTmFfcWVqdDhWbFR5X3R6OVJrazVGb3JUamc?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-09-22T18:49:26.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋总统就谢赫·艾哈迈德逝世向谢赫·穆罕默德表示哀悼",
+            "originalTitle": "UAE President offers condolences to Sheikh Mohammed on passing of Sheikh Ahmed",
+            "url": "https://www.khaleejtimes.com/uae/uae-president-condolences-sheikh-mohammed-sheikh-ahmed-death",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-09-22T19:00:49.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "谢赫·艾哈迈德·本·拉希德（ Sheikh Ahmed bin Rashid ）在迪拜的乌姆·胡雷尔（ Umm Hurair",
+            "originalTitle": "Sheikh Ahmed bin Rashid laid to rest at Umm Hurair cemetery in Dubai",
+            "url": "https://c.newsnow.co.uk/A/1325083540?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-09-22T17:34:39.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "富查伊拉警方警告驾驶者注意分心驾驶",
+            "originalTitle": "Fujairah Police warn motorists about distracted driving",
+            "url": "https://c.newsnow.co.uk/A/1325090249?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-09-22T18:58:17.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "沙迦的Al Freish Lake计划获得批准：瀑布，绿化卡尔巴",
+            "originalTitle": "Sharjah's Al Freish Lake plan approved: Waterfalls, greenery to transform Kalba",
+            "url": "https://www.khaleejtimes.com/uae/sharjahs-al-freish-lake-plan-approved-waterfalls-greenery-to-transform-kalba",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-09-22T16:20:19.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋射手仍在寻找亚运会决赛， Safiya印象深刻",
+            "originalTitle": "UAE shooters remain in the hunt for Asian Games final, Safiya impresses",
+            "url": "https://www.khaleejtimes.com/sports/uae-shooters-remain-in-the-hunt-for-asian-games-final-safiya-impresses",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-09-22T16:16:39.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "观看：沙迦在11月4日开幕前推出Al Taawun Roundabout的新外观",
+            "originalTitle": "Watch: Sharjah unveils new look of Al Taawun Roundabout ahead of November 4 opening",
+            "url": "https://www.khaleejtimes.com/uae/transport/sharjah-al-taawun-square-new-design-tunner-dubai",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-09-22T16:12:53.000Z"
+          },
+          {
+            "rank": 7,
             "translatedTitle": "迪拜将迎来10月起每周36个欧洲航班",
             "originalTitle": "Dubai to welcome 36 weekly European flights from Oct.",
             "url": "https://c.newsnow.co.uk/A/1325079802?-15565:1965",
@@ -1809,23 +1797,23 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-09-22T16:51:27.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "阿联酋明天天气：秋季正式开始；部分地区预计有雾",
-            "originalTitle": "UAE weather tomorrow: Autumn to officially begin; fog expected in some areas",
-            "url": "https://www.khaleejtimes.com/uae/weather/september-23-2026",
-            "source": "Khaleej Times",
+            "rank": 8,
+            "translatedTitle": "阿布扎比学生解决烟草、尼古丁使用问题",
+            "originalTitle": "Abu Dhabi students address tobacco, nicotine use",
+            "url": "https://c.newsnow.co.uk/A/1325079312?-15565:1965",
+            "source": "Gulf News",
             "sources": [
-              "Khaleej Times"
+              "Gulf News"
             ],
             "heatScore": 83,
-            "publishedAt": "2026-09-22T13:28:25.000Z"
+            "publishedAt": "2026-09-22T16:45:41.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "阿联酋学生开发人工智能系统，以保护医院之间共享的患者数据",
             "originalTitle": "UAE students develop AI system to protect patient data shared between hospitals",
             "url": "https://www.khaleejtimes.com/uae/education/uae-students-develop-ai-system-protect-patient-data-hospitals",
@@ -1835,6 +1823,18 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-09-22T13:04:43.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "吉达为2026年阿拉伯海湾杯开幕式做好准备",
+            "originalTitle": "Jeddah gets ready for opening ceremony of 2026 Arabian Gulf Cup",
+            "url": "https://www.arabnews.com/sport/jeddah-gets-ready-for-opening-ceremony-of-2026-arabian-gulf-cup-3002695",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-09-22T16:36:10.000Z"
           }
         ],
         "diplomacy": [
@@ -1864,24 +1864,24 @@
           },
           {
             "rank": 3,
-            "translatedTitle": "数字软实力与阿联酋：影响者、公共外交和战略沟通- uscpublicdiplomacy.org",
-            "originalTitle": "Digital Soft Power and the UAE: Influencers, Public Diplomacy, and Strategic Communication - uscpublicdiplomacy.org",
+            "translatedTitle": "数字软实力与阿联酋：影响者、公共外交和战略沟通--南加州大学公共外交中心|",
+            "originalTitle": "Digital Soft Power and the UAE: Influencers, Public Diplomacy, and Strategic Communication - USC Center on Public Diplomacy |",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0NNOWR2d3MtdktfNUV1UkNEQzE3SWROU0x4VU93YzQ2RTROOEU4bzdHMVZ5UllyeFdQWXU3bnJnbXhMSjFCMzlZbDVGNUpoc0NYalcxN0JjNElRdUlJNTN3NUtMU3JLZnUtTVdSNGNOdHJJa29rM1JiS3N5c0VwTG4zSE1zNnpJU2l3R25ucWhESDAxRG1FQXdvY3JKZV93SVFESmtwQUNkTTJuVTR4amNRRjYtVzQ4OWpj?oc=5",
-            "source": "uscpublicdiplomacy.org",
+            "source": "USC Center on Public Diplomacy |",
             "sources": [
-              "uscpublicdiplomacy.org"
+              "USC Center on Public Diplomacy |"
             ],
-            "heatScore": 69,
+            "heatScore": 68,
             "publishedAt": "2026-09-22T15:55:00.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "Sajith会见阿联酋大使；讨论双边关系和地区发展|英国《金融时报》-报纸- magzter.com",
-            "originalTitle": "Sajith meets UAE Ambassador; discuss bilateral relations and regional developments | Daily FT - newspaper - magzter.com",
+            "translatedTitle": "Sajith会见阿联酋大使；讨论双边关系和地区发展|英国《金融时报》-报纸- Magzter",
+            "originalTitle": "Sajith meets UAE Ambassador; discuss bilateral relations and regional developments | Daily FT - newspaper - Magzter",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNenJjNUVJX0M2VVliV29WeHBOa2dJLVBqTFFtby1oN0I0MGZ0dVJWRHIxQ0dqT3hvVkdCTWw5X1pLdzdMRTFxQndBWFZCcVBIaTQyczV4VXlFdzBWRE5aa2JiX21keHZ4VW8xTEZDWUJ3U2lnWkpmZzVGOUZSa3NlSXcwMklQTUEwbHQtZE5DeFdaVXppT1oweWNHUFZTVE8tRlNzVTVzc3Zuekl3cDI4STdNbWQ0ZTJPaGo2YnlNRXp2ek9kNEZNVUUtWkQ?oc=5",
-            "source": "magzter.com",
+            "source": "Magzter",
             "sources": [
-              "magzter.com",
+              "Magzter",
               "Daily FT"
             ],
             "heatScore": 64,
@@ -1908,7 +1908,7 @@
             "sources": [
               "Institute of Strategic Studies Islamabad (ISSI)"
             ],
-            "heatScore": 56,
+            "heatScore": 55,
             "publishedAt": "2026-09-22T08:16:04.000Z"
           },
           {
@@ -1920,7 +1920,7 @@
             "sources": [
               "Arise News"
             ],
-            "heatScore": 54,
+            "heatScore": 53,
             "publishedAt": "2026-09-22T06:26:44.000Z"
           },
           {
@@ -1944,7 +1944,7 @@
             "sources": [
               "daily-sun.com"
             ],
-            "heatScore": 53,
+            "heatScore": 52,
             "publishedAt": "2026-09-22T05:36:20.000Z"
           },
           {
@@ -1976,6 +1976,18 @@
           },
           {
             "rank": 2,
+            "translatedTitle": "键入：阿联酋迪拉姆符号在Unicode 18.0中首次亮相",
+            "originalTitle": "Keyed in: UAE dirham symbol makes debut in Unicode 18.0",
+            "url": "https://c.newsnow.co.uk/A/1325091467?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-09-22T19:11:20.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "印度的PhonePe首次获得阿联酋中央银行的支付许可证-路透社",
             "originalTitle": "India's PhonePe gets initial UAE central bank nod for payment licences - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ09TTHlmbG5mMFhMNWFLTEhQQk9vak1aMnRYdzVMZk9ZTWJQQUNoQzFnQTkxaUF6QWNqNC0wNFlqVUVyUjRpR1E0Q001ZmxFOUFJWmRfR21zdEw4SE40V1MwX0tjaGRVVld0ZWtQcGVRQWJYMERUVUFHcTM0MnZ5bkFCNllzbVQwZk1pRGxqa1NVaGJVSWlORVJaQVRubzE5S0d2NG5VYk5DaEkwbmVXZEhwRTdxYzhkemtB?oc=5",
@@ -1987,7 +1999,7 @@
             "publishedAt": "2026-09-22T06:49:00.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "阿联酋银行推出统一客户数据平台",
             "originalTitle": "UAE banks to launch unified customer data platform",
             "url": "https://c.newsnow.co.uk/A/1325072020?-15565:1965",
@@ -1997,18 +2009,6 @@
             ],
             "heatScore": 81,
             "publishedAt": "2026-09-22T15:40:17.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "阿联酋为第二家零售公司T-Sukuk设定了5.06%的利润率",
-            "originalTitle": "UAE sets 5.06% profit rate for second retail T-Sukuk",
-            "url": "https://c.newsnow.co.uk/A/1325065869?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-09-22T14:44:19.000Z"
           },
           {
             "rank": 5,
@@ -2055,7 +2055,7 @@
             "sources": [
               "World Oil"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-09-22T16:00:39.000Z"
           },
           {
@@ -2081,13 +2081,26 @@
             "sources": [
               "InfoRiskToday"
             ],
-            "heatScore": 67,
+            "heatScore": 66,
             "publishedAt": "2026-09-22T17:38:47.000Z"
           }
         ],
         "military": [
           {
             "rank": 1,
+            "translatedTitle": "迪拜统治者的兄弟谢赫·艾哈迈德·本·拉希德·阿勒马克图姆去世，享年76岁-摩洛哥世界新闻",
+            "originalTitle": "Dubai Ruler’s Brother Sheikh Ahmed bin Rashid Al Maktoum Dies at 76 - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGhTdnRXdTE0MjBhNUd5R0tXQndGYkI3a20zMHJrc3hBVElSeXF6NDZpRGhIWWVvdzRFT1BPSkxuR1VyZzh4X1l5VEJzaU5ac2NNekgtU0ZCU1BVcWVSS2R6ajVlbzRNbUpzYll6SFNlMVJBbEU4X05JQll4bWxqdEtSUkY1UzZjYmFKaTVwaXIxR2pfVGV5SkRMQkNNdVJiVmgtRmpZaEN6OXZQUXF1U1RDOWR3TTZScFAyamc1bS1yUWtVb1BTX2VRVThRcWFSSVE?oc=5",
+            "source": "english.ratopati.com",
+            "sources": [
+              "english.ratopati.com",
+              "Morocco World News"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-09-22T12:18:33.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的国防-供应链数字化",
             "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - Supply Chain Digital",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CZDVFVlFsOG5oNmxXbnZaOGlOcDAwUm1vSG1QZnowVDN4QjI4dVktY2RSZnpxcnJqQnQxbWZnT1l0cE15MDFNbGN3Nnk3aE95eGg5MmRjZ2ZKLTNfd1pSeUN3?oc=5",
@@ -2100,7 +2113,7 @@
             "publishedAt": "2026-09-22T00:53:10.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "阿联酋称伊朗导弹袭击霍尔木兹海峡油轮， 1名水手遇难- EnergyNow.com",
             "originalTitle": "UAE Says Iranian Missiles Struck Oil Tankers in Strait of Hormuz, One Sailor Killed - EnergyNow.com",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHI2dnA4RFFBdm9PemRsSGZPVE91QWpZRUprX084RjNiZmh4LUxUZ3RKRFZxRS1nTTkyemlUbmxJUjZocVl0Um5pWFZvN1R2Q2NIcThHQ2ZOalFRc21LQ3AyWVV4amMtal9pbmdySTdjcUxNRVlDQWlyc1RyVjA3RlpEN1F6VEEwU3VkTEhMR2ZqQmlwVHVOeFMwSkkyZmdINFp4bm9SX3ZSd1dMY0lmRi0tQQ?oc=5",
@@ -2112,7 +2125,7 @@
             "publishedAt": "2026-09-22T12:14:50.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆是谁？迪拜统治者的弟弟去世，享年76岁–查看他的军事生涯、Al Wasl遗产、死因、马匹、妻子、孩子、净资产等-《星期日卫报》",
             "originalTitle": "Who Was Sheikh Ahmed bin Rashid Al Maktoum? Dubai Ruler’s Younger Brother Dies At 76 – Check His Military Career, Al Wasl Legacy, Cause of Death, Horses, Wife, Children, Net Worth & More - The Sunday Guardian",
             "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZ9IBxgJBVV95cUxOZlE2SlRmYU41TDVrVmdJYVRKaVhUellkb3lqakp5N2NZcGhud2RnU2VRMmhhQTVLcWgtWmVTOGcwMlR5RVMyeEV0MVU5WFVqSWtBM0w0X2FjMmhGdGtkaTAzaW5ZYzZVLXMzSkZ6cnFUY1JoR0FmaHplWGtHQWhXekhxYnUtTWx5UkNib2xRemZVYnlqWEZ6N0dCclBSWE54ZThiUm5UY2lfUGJESFYxNWt6Rm5BN1IzblZvcDRwMk5IVXpsajRvOWZpTElBSWFXVUVNLWhjY0pJVEx0RE05cEowaEtJVnNLeUtPc2V3dExSMjNWTlJaamxoVXV0azFucnBaemQwc3RPc0FpRF94OFpZT3VoeFhNSDB4anVnQnh3MVdfY3VDRTlCS214Yk51MzQ2VERUdjdpUFQ5aHdjenQwV3VsZw?oc=5",
@@ -2124,7 +2137,7 @@
             "publishedAt": "2026-09-21T09:57:33.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "Tim Wellens将带领阿联酋阿联酋队-XRG在CRO比赛中的冠军防守-阿联酋队阿联酋队",
             "originalTitle": "Tim Wellens to lead UAE Team Emirates-XRG’s title defence at the CRO Race - UAE Team Emirates",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWFENnFjdUhwcDZxRERPM0EySE5jaUFyeTJJaUs3WkZERXFNS1RKcmNhejJqLU83WWtuNEtyVTRNak5TdWdWUkQ1N25PV2tFR0k1a2MwbGN0SzZqNWo3Q3hHYjlaWlh3YTdNV2VEWmJWY1RuNkR6QnJVaWpEZFJZOWhGNkI1aUV4SDNvZXpTMlFwU0hSbHVsY3FGVWw?oc=5",
@@ -2137,45 +2150,21 @@
             "publishedAt": "2026-09-21T18:45:07.000Z"
           },
           {
-            "rank": 5,
-            "translatedTitle": "深入了解阿联酋以情报为主导的网络防御战略及其与Cyble的新联盟- TechBullion",
-            "originalTitle": "Inside the UAE’s Intelligence-Led Cyber Defense Strategy and Its New Alliance with Cyble - TechBullion",
+            "rank": 6,
+            "translatedTitle": "深入了解阿联酋以情报为主导的网络防御战略及其与Cyble的新联盟- techbullion.com",
+            "originalTitle": "Inside the UAE’s Intelligence-Led Cyber Defense Strategy and Its New Alliance with Cyble - techbullion.com",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGxnbjJ0cHE4eTBWbmJQa2pZeTJnUEhRcnlLVThCbXljSTM2S1Bvek83b0U4WV9TbWdSd0tldUxrRW9QZHA2ZVR5NkhPOU5ybzlTNWx2Vk1RdVNKS1VjYl9ERll1R3N1YWNfaENWeDg0XzJxNUMxRWRPTmtGbFROaThYY05qVzNFd0xpbUYtN3BGZ1pKcjFDYllBQXBSSkthM3ZzTFpRUmM0ajh3bExqRGp3?oc=5",
-            "source": "TechBullion",
+            "source": "techbullion.com",
             "sources": [
-              "TechBullion"
+              "techbullion.com"
             ],
             "heatScore": 54,
             "publishedAt": "2026-09-22T06:58:03.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "前往迪拜和阿布扎比是否安全？地区冲突升级后的最新建议-《独立报》",
-            "originalTitle": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates - The Independent",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmV1QUxGNXBDTnRfMG9MVlR0WnBncHlnZ2haNzBobTRKblRuVEpvTFFMT1g2Y1V4QzdhRTZmYkJOaUpDbzdEQUhCV2pLOUpOM3N5N3FybHY5dnhXVWducnJvbEwtWFFjdk5NSmtiVU1BbF9XT19kVXJLY2FnMzR0dWZaTGVWT1FuMWVzWDV1UWVwZjI1RW1FSW9YLTRjSV92ekY4S2VjU3Y1N0s2TXlTOUpvOERfUkxhVmVvVWVnb0FRWnhB?oc=5",
-            "source": "The Independent",
-            "sources": [
-              "The Independent"
-            ],
-            "heatScore": 43,
-            "publishedAt": "2026-09-21T07:00:00.000Z"
           }
         ],
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "阿布扎比学生解决烟草、尼古丁使用问题",
-            "originalTitle": "Abu Dhabi students address tobacco, nicotine use",
-            "url": "https://c.newsnow.co.uk/A/1325079312?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-09-22T16:45:41.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "800迪拉姆罚款和四个黑点：富查伊拉警方警告阿联酋驾驶者不要分心驾驶-海湾新闻",
             "originalTitle": "Dh800 fine and four black points: Fujairah Police warn UAE motorists against distracted driving - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMmY3a04zT3dWd0FaZ0ROUUZGVklwM04xX2RUMUZhVXJHMVpmUzVPc21YV255RTdKQjdyb3Y1bXRyY1FuV2lQYjljQUVjeTVMOW1LUG5FbmRjUHJQT190OXBlMldFOFlvay12a1g3NVVRc3dfQnYxMFlxUjJzYS1DaEFPQzE3N2FlbFNMTnd5a1dtUi0ydFlGUGE0RUpjMnlvQjdtNHQwdWZ4ckI5MlVKeGxxN0NpSXZNMzZST293OFR1a2NOQ0tQWWJ0VC1PREZvcGVUYXJ6Z9IB6gFBVV95cUxPNVhZOWp6YTVjeW1KZ2M5OUVZOVpBZ0xsMDlDUUNSTGtrcEpFbUIyQWJIWFhVZkpjcWxkUmdaMlBzaXo1RDhWUTdNMEFMaHhzOWlYZDVGcjQ2X1R2N1JULTJfbkNwcllTYkJWNU9xQ3dzMUNRejdael9NcWwtNkZ5T3k0VE14LWVaU3ZVeVZra0VDWmFsZ0RBQjlQSThyREE5bzdkblVmTWprNWt4WHVFb1ZodUJJREw0U3RualV3RWNhQ29iSVJxUmlZelZMeDZWTmFfcWVqdDhWbFR5X3R6OVJrazVGb3JUamc?oc=5",
@@ -2183,24 +2172,24 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-09-22T18:49:26.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆（ Sheikh Ahmed bin Rashid Al Maktoum ）因其在迪拜安全和国防领域的遗产而闻名- emirates247",
-            "originalTitle": "Sheikh Ahmed bin Rashid Al Maktoum remembered for legacy in Dubai's security and defence sectors - emirates247.com",
+            "rank": 2,
+            "translatedTitle": "谢赫·艾哈迈德·本·拉希德·阿勒马克图姆（ Sheikh Ahmed bin Rashid Al Maktoum ）因其在迪拜安全和国防领域的遗产而闻名-阿联酋航空24",
+            "originalTitle": "Sheikh Ahmed bin Rashid Al Maktoum remembered for legacy in Dubai's security and defence sectors - Emirates 24|7",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLS13Z0VJc01UNHRxSVk4VUZaZlpxOC12ejNoNWxVbGE3WGhwZk1Qbk1iYVR4clR1Nk1uYVktejFTUG81dFMxR1p3azRSUVY2dVVFcUlmZUJlZGw3dGhjY2FOVHB0bHFqNVRZd3BPVlFYU1c2ajBueFRQOGZzWjJQbjdEZGExR014Rm83Ty1vTk1xMk0xWWdjMkhENDlic2RGNXhLYVF4OFM?oc=5",
             "source": "Dubai Eye 103.8",
             "sources": [
               "Dubai Eye 103.8",
-              "emirates247.com"
+              "Emirates 24|7"
             ],
             "heatScore": 80,
             "publishedAt": "2026-09-22T17:07:29.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "美伊冲突：阿联酋居民今天需要了解的信息， 2026年9月22日-海湾新闻",
             "originalTitle": "US-Iran conflict: What UAE residents need to know today, Sept. 22, 2026 - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUQ1Y09DUVh4OG9XRFJnQ3FKT04zeW04Z2NDUTlYNGdJZnJPZDVzOE0tcnN4SVB5TW96ZmJ2TDVZbWcxSXBrM1F3WC1LNUpSWEg1MjVRREhoSDhTV0Q4aXVfWWpNSldTaTJ5TVVMQXhVVG96aGRnZGtkSUVSRkZ3TUllSWdxaWpsR2Y4OHlmbFhjSVowOUI4dWRJWnItOWZiblJqNElUNNIBtwFBVV95cUxNTHQ4LUNOOUtIZ3hBNmFRc3luTmZBS203RGgwZkhXeWdaN1hBWFNuakMtUWhSSi1Lb1dYYWtGbHpGdV9zWV9QaW1TRGw0MjgtTlJTZGtqWnl6M2Z5UFZXeHlYSG9qeDJzSUpYcFdrOWROblpKZXJXN1ZIOV96UHpuWDNrdVp6WHQ0WUliYUNSdmFVdVRPT2dLUks0RjROZThBbHN3TmxKNGE2b2lIU0QxYjI3ZWttSkk?oc=5",
@@ -2208,11 +2197,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-09-22T04:40:32.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "迪拜在2026年全球领先的在线旅游目的地排名中名列前茅- itij.com",
             "originalTitle": "Dubai tops 2026 ranking of the world’s leading travel destinations online - itij.com",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalM5bWxFb1Q4MUQ1UFlDMmk3Ni1UMWU3ZWtSWFZ1bzBOTlJUcGViNlE1dmVwcVZ2VXZJaWgxdURVYkpPVGd1YWdLVWpjbVRYNWM5WmVsWk5CTnNyY3hwTEx1alBwTEdDVllaU2NrMEJDdGZ5TDcza3pHUGhDWXJXSmthcEhWQUI4RTFtUE9qaTh4UjFYbEZONmtQSWFSZWs?oc=5",
@@ -2224,7 +2213,7 @@
             "publishedAt": "2026-09-22T14:06:38.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "阿联酋，合作伙伴重新推动加沙和平计划- ARN新闻中心",
             "originalTitle": "UAE, partners renew push for Gaza peace plan - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3QtejhzUTBGZERrQzhmd2lieVlPWnVwQkNzOXVyVkRIdVgzdlZoNnRyTENqTmtoaDRnU3NXMXhBV0NHSW9hT2lGTmZuNFltSVE5dndrU2dnYjZLLWw0YTdCaWlCV0d1TU1NUXZSWlhnNUhueFZtbk1BenNJNld1RnI5S3dGQUZzM0o4X1Nn?oc=5",
@@ -2236,7 +2225,7 @@
             "publishedAt": "2026-09-22T13:28:37.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "“在印度过得更好” ： MAN表示，迪拜的高支出使其难以节省- The Indian Express",
             "originalTitle": "‘Better off in India’: Man says high expenses in Dubai make it hard to save - The Indian Express",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVJrcHp3S1VqXzVRc1ZHOWVTZmlpMVJuRmMtTHVVWTcyM2FObXRWU0lxeGdPME1wQXBrc1NNSVkxTDBTMVR0Q3hPQzFuU256Z0N3U2lWM2VsMmNWOEhIbXBKRzJqYXAzTndYUVM1bG1iRjFBWFpnY2lZTjByUklxeWZ6TUZyVEdMdGRzeWVLUzBpYTJ5V0dkSDB2Rk5yeDRteV94Z20wcW53Ykx3MVlF0gG2AUFVX3lxTE56Xy01SXc2d0FsM3ZtNTJyYmUxNnBQTktudmQ2b1FyNThCYW1kM2ZaUm1JWG5BVnVxbV9hUHFxR3FXNGs1ZlNJUElHR0JjVFNXcmpVdGplT3Bncm5pUnFzRDI4WlkzVkRod2NIUkdfQ0NYT3dHZUJjZWxDeE1WQ2FVbXJDM2xkYk1VcHlodlBNcEN4d3VsTVFvdGNnM0JyaWh4UTltbUE0d0p3LU90aGFFT0N1MjRn?oc=5",
@@ -2248,7 +2237,7 @@
             "publishedAt": "2026-09-22T12:04:10.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "Jono和Amy Castano出现在迪拜光滑的房地产宣传中-每日电讯报",
             "originalTitle": "Jono and Amy Castano appear in glossy Dubai property pitch - The Daily Telegraph",
             "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLVh2RUl0VVlRbDNHMjk3bUlrQWdXSUdMTzlXaUxaRzJBbnJCMm9PUElYS3pycWtMM09PT2ZSRURhT1k5R2NKREMxdWljYzNnaVJIZGhYN09aQkhLaHVnM3hDQndBelhyR0RyekthNUlUSmVGN0Z1MDRkM3hLekJyNmRCUXFCekZPOEJMS19XM1J3OWJkNHRSMWNlenRvTzViWndFQ1hrS3I1UDZ1R0lNSzlIaVVpc0N5YkdCY2tITHFCWV83UnFPZUFwdWtHcnJmdDdhczhZdHZFd1RHdnB0U3RvQk1ucHVHbnF2M2pkaXYwQ0c5ZXV2cjlHNnd1Z3dFY2swUU1OM1RLdjQ?oc=5",
@@ -2260,7 +2249,7 @@
             "publishedAt": "2026-09-22T15:09:21.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "印度女性分享迪拜最让她印象深刻的地方，而不是天际线- curlytales.com",
             "originalTitle": "Indian Woman Shares What Impressed Her Most About Dubai, And It Wasn’t The Skyline - curlytales.com",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTdNV0R2TndoXzhydV9aQjFIWkVsRHVubFYwaGNoRE1JWXpnOU5uaVFWSldYMk1OSHYwcW5HVWRXaTNoeEpMR2RvLVVyWTFKS2dQbU5OQzdyalNIM0JKVGp4TmxBYXpTZVlHV0dYX1B1d3lQYjllWVBKb0xvY0ZNQnhuX1dsRmxIQkpZZzFDMHhGM2txSG1QanU5aThYQkR0LWpVdVNlZUJBbXVDZmlGMHVSVEsyTUJwQnBUS084YjdWazhLNWNVONIByAFBVV95cUxPZTdNV0R2TndoXzhydV9aQjFIWkVsRHVubFYwaGNoRE1JWXpnOU5uaVFWSldYMk1OSHYwcW5HVWRXaTNoeEpMR2RvLVVyWTFKS2dQbU5OQzdyalNIM0JKVGp4TmxBYXpTZVlHV0dYX1B1d3lQYjllWVBKb0xvY0ZNQnhuX1dsRmxIQkpZZzFDMHhGM2txSG1QanU5aThYQkR0LWpVdVNlZUJBbXVDZmlGMHVSVEsyTUJwQnBUS084YjdWazhLNWNVOA?oc=5",
@@ -2272,7 +2261,7 @@
             "publishedAt": "2026-09-22T08:05:32.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "孟加拉国男子在迪拜海滩偶遇女子，拍摄“喜剧”片，人物标记警察-今日印度",
             "originalTitle": "Bangladeshi man bumps into woman at Dubai beach for 'comedy' reel, people tag cops - India Today",
             "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYl96ZTlzQzE1ckl6d2Y3QzBzbW9LTmEtZkE5UXVrcFFmdzBScHNKbkVfZ1IwcUtSempjV1JJRlJPNUlKc1pRakhOYVBrV2dlLXhoMUtMRUUxUUdwbVJVcXVvbV9qMW1yQXI4YXBvUmhUTUIyMUgxemtwemJEODh4VGE0TXVqU2IwZ2VCT20zVHdfY3QzeVc4Tmt4MlhsQVhXWExwaEYyWFhGVjUwd1dMNEdLOEJ3d1M2aGhWU1RvUlZtM3lWVUY1UlEzS3hOaHptQTBvcXp6ajdDeDY3WFJSOEJ30gHiAUFVX3lxTE9iX3plOXNDMTVySXp3ZjdDMHNtb0tOYS1mQTlRdWtwUWZ3MFJwc0puRV9nUjBxS1J6amNXUklGUk81SUpzWlFqSE5hUGtXZ2UteGgxS0xFRTFRR3BtUlVxdW9tX2oxbXJBcjhhcG9SaFRNQjIxSDF6a3B6YkQ4OHhUYTRNdWpTYjBnZUJPbTNUd19jdDN5VzhOa3gyWGxBWFdYTHBoRjJYWEZWNTB3V0w0R0s4Qnd3UzZoaFZTVG9SVm0zeVZVRjVSUTNLeE5oem1BMG9xenpqN0N4NjdYUlI4Qnc?oc=5",
@@ -2280,8 +2269,20 @@
             "sources": [
               "India Today"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-09-22T06:51:49.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "“India Me Hi Sahi Tha” ：迪拜的印度人分享生活挣扎； “搬家前三思” - Times Now",
+            "originalTitle": "‘India Me Hi Sahi Tha’: Indian In Dubai Shares Life Struggles; ‘Think Twice Before Moving’ - Times Now",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVC1iYW96U3BtaW9tNU5Ta0pzQkxaOW9HcGRqdXZDVXBGaVByUUhrNXcydWlvTVBBMk5WSUhRN1BKZXA2RjYtQ0lDbXlJcHpjb3dncmFEUFFTa0hFVGVPcEJ0OGdzUzlKbjNzRUxDWU5ZYzB4dzIyb1h6cTZtdmdlVldmeEVGYVlJQUdhcnFSTGpObzVMSzVjZGV1cG05WWVHQkxreUxIaUlMYnd3OXZ2Q1JqSXBySmctNXJHWUFobnFMZWNV0gHKAUFVX3lxTE9lNzNYbDJOc3VJU1BRMThvLVE4am9kZWt1eDI1bFBCdzlIVzRsNHMtY3QyZVA2aF93LUdLSFAtYkVZcWg0Q0dNNk1LVGJteXZzYklnanEtd2hsU2RLUC1ORnFSNHBoMnF2eC10eDZfWnZEQWpkSUJ2VEpHU3paeHZTTGZ2dXBMVHZzOXg0X1FmRTdzWjJDaTJ6a1pNSEk2eHdwZjVGUXZBTHlDdE83UDdSemplY3p4YTlQSG9GNXRtVXVJRDdfNE80dlE?oc=5",
+            "source": "Times Now",
+            "sources": [
+              "Times Now"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-09-22T09:33:44.000Z"
           }
         ],
         "china": [
@@ -2295,7 +2296,7 @@
               "البيان",
               "صحيفة الخليج"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-09-22T16:15:59.000Z"
           },
           {
