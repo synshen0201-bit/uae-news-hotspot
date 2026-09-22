@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T19:37:20.773Z",
+  "updatedAt": "2026-09-22T19:51:08.073Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -1590,7 +1590,7 @@
     },
     "2026-09-22": {
       "date": "2026-09-22",
-      "updatedAt": "2026-09-22T19:37:20.773Z",
+      "updatedAt": "2026-09-22T19:51:08.073Z",
       "categories": {
         "all": [
           {
@@ -1620,6 +1620,18 @@
           },
           {
             "rank": 3,
+            "translatedTitle": "键入：阿联酋迪拉姆符号在Unicode 18.0中首次亮相",
+            "originalTitle": "Keyed in: UAE dirham symbol makes debut in Unicode 18.0",
+            "url": "https://c.newsnow.co.uk/A/1325091467?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-09-22T19:11:20.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "谢赫·艾哈迈德·本·拉希德（ Sheikh Ahmed bin Rashid ）在迪拜的乌姆·胡雷尔（ Umm Hurair",
             "originalTitle": "Sheikh Ahmed bin Rashid laid to rest at Umm Hurair cemetery in Dubai",
             "url": "https://c.newsnow.co.uk/A/1325083540?-15565:1965",
@@ -1631,18 +1643,6 @@
             "publishedAt": "2026-09-22T17:34:39.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "键入：阿联酋迪拉姆符号在Unicode 18.0中首次亮相",
-            "originalTitle": "Keyed in: UAE dirham symbol makes debut in Unicode 18.0",
-            "url": "https://c.newsnow.co.uk/A/1325091467?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 88,
-            "publishedAt": "2026-09-22T19:11:20.000Z"
-          },
-          {
             "rank": 5,
             "translatedTitle": "富查伊拉警方警告驾驶者注意分心驾驶",
             "originalTitle": "Fujairah Police warn motorists about distracted driving",
@@ -1651,7 +1651,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 87,
+            "heatScore": 88,
             "publishedAt": "2026-09-22T18:58:17.000Z"
           },
           {
@@ -1663,7 +1663,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 88,
             "publishedAt": "2026-09-22T16:20:19.000Z"
           },
           {
@@ -1675,7 +1675,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 87,
             "publishedAt": "2026-09-22T16:16:39.000Z"
           },
           {
@@ -1687,7 +1687,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 87,
             "publishedAt": "2026-09-22T16:12:53.000Z"
           },
           {
@@ -1749,7 +1749,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 87,
+            "heatScore": 88,
             "publishedAt": "2026-09-22T18:58:17.000Z"
           },
           {
@@ -1761,7 +1761,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 88,
             "publishedAt": "2026-09-22T16:20:19.000Z"
           },
           {
@@ -1773,7 +1773,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 87,
             "publishedAt": "2026-09-22T16:16:39.000Z"
           },
           {
@@ -1785,7 +1785,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 87,
             "publishedAt": "2026-09-22T16:12:53.000Z"
           },
           {
@@ -1814,6 +1814,18 @@
           },
           {
             "rank": 9,
+            "translatedTitle": "阿联酋明天天气：秋季正式开始；部分地区预计有雾",
+            "originalTitle": "UAE weather tomorrow: Autumn to officially begin; fog expected in some areas",
+            "url": "https://www.khaleejtimes.com/uae/weather/september-23-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-09-22T13:28:25.000Z"
+          },
+          {
+            "rank": 10,
             "translatedTitle": "阿联酋学生开发人工智能系统，以保护医院之间共享的患者数据",
             "originalTitle": "UAE students develop AI system to protect patient data shared between hospitals",
             "url": "https://www.khaleejtimes.com/uae/education/uae-students-develop-ai-system-protect-patient-data-hospitals",
@@ -1823,18 +1835,6 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-09-22T13:04:43.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "吉达为2026年阿拉伯海湾杯开幕式做好准备",
-            "originalTitle": "Jeddah gets ready for opening ceremony of 2026 Arabian Gulf Cup",
-            "url": "https://www.arabnews.com/sport/jeddah-gets-ready-for-opening-ceremony-of-2026-arabian-gulf-cup-3002695",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-09-22T16:36:10.000Z"
           }
         ],
         "diplomacy": [
@@ -1871,11 +1871,23 @@
             "sources": [
               "USC Center on Public Diplomacy |"
             ],
-            "heatScore": 68,
+            "heatScore": 69,
             "publishedAt": "2026-09-22T15:55:00.000Z"
           },
           {
             "rank": 4,
+            "translatedTitle": "阿联酋外交在十字路口-《论坛报》",
+            "originalTitle": "UAE diplomacy at a crossroads - The Tribune",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1Z3RUXzJJUWM0SDBLQnNqVHgzUkhiS2tWVnlWT3Y4QXZTTlU4eVlpSkZmdWJRZkFIczJ0OWE2QjBkb3czcDhjUW5TZG9PcXVfM3hRM1JDTFlYRUtMUFdSTzVUM2Z4OC1xT05UZllaZWRpUk9HY3Z1dnhIbFLSAYABQVVfeXFMT0lvTElHUFJpNERDcHBiWFVxNXlsVThnOUZST2E4Yno4ZmltbFhNU1RMNldqMDJ0dkZpeFh0VWdXUEpRc0NncEtHMmVya3lpRHplQTljVlNqeXoyLUNoNmphS2RGczRIM2p1b1FsVU5BVlpfX3B4WElNam1QRzBaX0Y?oc=5",
+            "source": "The Tribune",
+            "sources": [
+              "The Tribune"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-09-22T19:32:52.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "Sajith会见阿联酋大使；讨论双边关系和地区发展|英国《金融时报》-报纸- Magzter",
             "originalTitle": "Sajith meets UAE Ambassador; discuss bilateral relations and regional developments | Daily FT - newspaper - Magzter",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNenJjNUVJX0M2VVliV29WeHBOa2dJLVBqTFFtby1oN0I0MGZ0dVJWRHIxQ0dqT3hvVkdCTWw5X1pLdzdMRTFxQndBWFZCcVBIaTQyczV4VXlFdzBWRE5aa2JiX21keHZ4VW8xTEZDWUJ3U2lnWkpmZzVGOUZSa3NlSXcwMklQTUEwbHQtZE5DeFdaVXppT1oweWNHUFZTVE8tRlNzVTVzc3Zuekl3cDI4STdNbWQ0ZTJPaGo2YnlNRXp2ek9kNEZNVUUtWkQ?oc=5",
@@ -1888,7 +1900,7 @@
             "publishedAt": "2026-09-22T03:24:59.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "独家：厄立特里亚外交部长表示，阿联酋在非洲各地追求“港口帝国主义” - Hiiraan Online",
             "originalTitle": "Exclusive: UAE pursuing 'port imperialism' across Africa, Eritrean foreign minister says - Hiiraan Online",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYjBQQWdrbTNXUWtsTE1wcHhjZ3VuOXlKdDVaVFI0RTZTSkNLUFpVdjhhcXQ2MGxDbklTdjdycXZOb0xuTFdHVEpHNFA5ZWN6S1BvV1F3VlBHb25Pd0VtS2hQSkd3eUQ5a1owclRlZENUdDdyVmVObGtDNTJZazNzenVjdDFVYXZXY0RPWElVQ0NKSUJBY0dkWmFveDkza0l3bjJTTkppRlRzVmNSRm9VTGhVdVNLNjlEajlUcnp6M3Nqa1RkUXdWSjhrblF5OElH?oc=5",
@@ -1900,7 +1912,7 @@
             "publishedAt": "2026-09-22T09:18:27.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "“2023年以来的印度-阿联酋关系：从双边合作到多层面伙伴关系”问题简报--伊斯兰堡战略研究所（ ISSI ）",
             "originalTitle": "Issue Brief on “India–UAE Relations Since 2023: From Bilateral Cooperation to a Multidimensional Partnership” - Institute of Strategic Studies Islamabad (ISSI)",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWJJdlp4MjdWX2RVSGZvNjFRQTVVbmQ5M0xidUgwaTYtdHU0S1g4NjdoSVdaWW5aOUJocnFMT09yeFU2SjZPM2ZPRGxxT3U1MjVBSEFCTjdpSzdEaEx6Y1BZV1k5UW1HQ0ZqRTNjZGVfZ3lSd0hoamltUXpmYWoxTkwxS3U0WWdxV0NHYkxNQXMtUXVZOWd3dVdzSzZCRVMya05FNHBBWXNUd2gxQWVsSkVKOWtMamhOX01QeDZXcjl5bEV2eEE?oc=5",
@@ -1912,7 +1924,7 @@
             "publishedAt": "2026-09-22T08:16:04.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "奥洛科拉港： Ogun计划与阿联酋达成交易，尽管Dangote主导了现有SPV 80%的股份- Arise News",
             "originalTitle": "Olokola Port: Ogun Plans UAE Deal Despite Dangote-Led 80% Stake In Existing SPV - Arise News",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckpjMGQ3SFFRclZVWl9Ta1dndnZpU0RRRkl2bEk5MWxDWUc1bUs5LU1HanQxaV92Ti1LM0o4Vm9jS3lUVnVUdFk3TVNDVXFSeFAyY0txVDdvNVV3YS1fX0xtLVRCNDNRUGFkMzBjVDF1WTE0b1ZoWEl1ekxieXlKeXNGTm9iM0ZZT1ZUekFRc2ktTDFYd01VZ2JiVUkzTXNw?oc=5",
@@ -1924,7 +1936,7 @@
             "publishedAt": "2026-09-22T06:26:44.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "秘鲁外交部长加强与阿联酋的双边关系|新闻|安第斯-秘鲁新闻社-安第斯通讯社",
             "originalTitle": "Peru's Foreign Affairs Minister strengthens bilateral relations with UAE | News | ANDINA - Peru News Agency - Agencia Andina",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjZiWC1tQ01VVnpXUnVmZ3dsQUlSeUQ5NkhqRnQwd0xkTF9qTHZQaXFvTS1PdTBJY0JVN2tBVU1PdTNNQmcwcm9JQlZLS1BXSE95Q0RqUTgtYVdYRENaQkt3LW1UNVZ3d3NmQlU5NFozQktWNXJ4T0dlNVkwYlRXOTNLRFdfVUQteXpqbmlJYXNZclBUOUJKeThIS1VmbVJlTF9SYW05RE9IR3dpLVB6azRvRGMxTlZf?oc=5",
@@ -1932,11 +1944,11 @@
             "sources": [
               "Agencia Andina"
             ],
-            "heatScore": 53,
+            "heatScore": 52,
             "publishedAt": "2026-09-22T06:04:09.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "阿联酋特使、FICCI执行董事讨论促进双边投资- daily-sun.com",
             "originalTitle": "UAE envoy, FICCI executive director discuss boosting bilateral investment - daily-sun.com",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDRiNEV2RUhsYm1rZWhYblNKLXNfYkhlOENBQUZHWTFya0xTOXZJajVoS0ZQbHNxN1Y3THNsR2FHbldXUEpJYnEwWXE4ZnBBaEs4YWRfZUxtZ3JYUk9zM25tZE1nOHdPekpzcFhIcFFmbkJENy0tYlVkcFRmTzQ1bUZfMzhVNF9NZjl2ZE9hbF9Jc3ptX3I1ZmNVRlhScW1SVV9JbWhNZXJ6TlQwU2ptek1ySXo?oc=5",
@@ -1946,18 +1958,6 @@
             ],
             "heatScore": 52,
             "publishedAt": "2026-09-22T05:36:20.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "SoundExchange和MusicNation签署阿联酋互惠权利协议- CelebrityAccess",
-            "originalTitle": "SoundExchange And MusicNation Sign Reciprocal UAE Rights Agreement - CelebrityAccess",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTA5Z1lzVjBkakFaUk56LVhhdUd4SkJMblo3dF8ybDBacDF5TXNXWWFRYUt2U1JzNDdPS1lCNEZyZHZ2MEZlM1M4Xy1PM3pwdU4xZ0Q3NFlWYmFJVFNEMWdwMDJSZjlybGVuTUw1bE1zRVdvVHVzZzBJZnJQLVMxTFVtWkFtbGNsbERvUWQzYlN1Y1JlMkdvY042YVBCRTdRdjAyWkRxMnV0UQ?oc=5",
-            "source": "CelebrityAccess",
-            "sources": [
-              "CelebrityAccess"
-            ],
-            "heatScore": 47,
-            "publishedAt": "2026-09-21T13:40:39.000Z"
           }
         ],
         "economy": [
@@ -1983,23 +1983,11 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 88,
+            "heatScore": 89,
             "publishedAt": "2026-09-22T19:11:20.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "印度的PhonePe首次获得阿联酋中央银行的支付许可证-路透社",
-            "originalTitle": "India's PhonePe gets initial UAE central bank nod for payment licences - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ09TTHlmbG5mMFhMNWFLTEhQQk9vak1aMnRYdzVMZk9ZTWJQQUNoQzFnQTkxaUF6QWNqNC0wNFlqVUVyUjRpR1E0Q001ZmxFOUFJWmRfR21zdEw4SE40V1MwX0tjaGRVVld0ZWtQcGVRQWJYMERUVUFHcTM0MnZ5bkFCNllzbVQwZk1pRGxqa1NVaGJVSWlORVJaQVRubzE5S0d2NG5VYk5DaEkwbmVXZEhwRTdxYzhkemtB?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-09-22T06:49:00.000Z"
-          },
-          {
-            "rank": 4,
             "translatedTitle": "阿联酋银行推出统一客户数据平台",
             "originalTitle": "UAE banks to launch unified customer data platform",
             "url": "https://c.newsnow.co.uk/A/1325072020?-15565:1965",
@@ -2007,11 +1995,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 80,
+            "heatScore": 81,
             "publishedAt": "2026-09-22T15:40:17.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "根据全面经济伙伴关系协议， Yalla Commerce的目标是阿联酋-马来西亚业务增长",
             "originalTitle": "Yalla Commerce targets UAE-Malaysia business growth under Comprehensive Economic Partnership Agreement",
             "url": "https://c.newsnow.co.uk/A/1325086758?-15565:1965",
@@ -2019,11 +2007,11 @@
             "sources": [
               "The Sun Daily"
             ],
-            "heatScore": 68,
+            "heatScore": 67,
             "publishedAt": "2026-09-22T18:11:10.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "Emaar看到迪拜酒店入住率目前为60 ％ ，在一年内恢复-路透社",
             "originalTitle": "Emaar sees Dubai hotel occupancy, now at 60%, recovering within a year - Reuters",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3IwN0xlLVJJRjV6NHdhZXJkcDI5cmZQR0U3enpybHpVVk8yRVpSaHJhdTUwX3ZUcFZ5OGtCWXo2Zm9DSE5KcFFsMy1aLVppZ3FHTlNncVN5Y0VhZktDSk5sVWM1eExFSUR0SlRjN0ZTMzlLUGdyMGxXTElRNmF3QUU3YVhCNnk5NkkzNTFubDNkd1BrWXZFM3BSYlg0OU92TjlHaE1FUzlDN0JTanpWejhFbngzcmVsU21hUDZYYjJ6V1NXR0E?oc=5",
@@ -2035,7 +2023,7 @@
             "publishedAt": "2026-09-21T15:07:07.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "PhonePe确保阿联酋中央银行批准两项支付许可证",
             "originalTitle": "PhonePe secures UAE central bank approval for two payment licences",
             "url": "https://c.newsnow.co.uk/A/1325084258?-15565:1965",
@@ -2047,7 +2035,7 @@
             "publishedAt": "2026-09-22T17:43:32.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿布扎比的XRG在合作伙伴权衡扩张时探索加拿大液化天然气股份",
             "originalTitle": "Abu Dhabi’s XRG explores LNG Canada stake as partners weigh expansion",
             "url": "https://c.newsnow.co.uk/A/1325074209?-15565:1965",
@@ -2059,7 +2047,7 @@
             "publishedAt": "2026-09-22T16:00:39.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "PhonePe获得阿联酋中央银行的零售付款、卡计划许可证",
             "originalTitle": "PhonePe gets UAE central bank nod for retail payments, card scheme licences",
             "url": "https://c.newsnow.co.uk/A/1325067086?-15565:1965",
@@ -2088,16 +2076,16 @@
         "military": [
           {
             "rank": 1,
-            "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的国防-供应链数字化",
-            "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - Supply Chain Digital",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CZDVFVlFsOG5oNmxXbnZaOGlOcDAwUm1vSG1QZnowVDN4QjI4dVktY2RSZnpxcnJqQnQxbWZnT1l0cE15MDFNbGN3Nnk3aE95eGg5MmRjZ2ZKLTNfd1pSeUN3?oc=5",
-            "source": "Supply Chain Digital",
+            "translatedTitle": "迪拜统治者的兄弟谢赫·艾哈迈德·本·拉希德·阿勒马克图姆去世，享年76岁-摩洛哥世界新闻",
+            "originalTitle": "Dubai Ruler’s Brother Sheikh Ahmed bin Rashid Al Maktoum Dies at 76 - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcGhTdnRXdTE0MjBhNUd5R0tXQndGYkI3a20zMHJrc3hBVElSeXF6NDZpRGhIWWVvdzRFT1BPSkxuR1VyZzh4X1l5VEJzaU5ac2NNekgtU0ZCU1BVcWVSS2R6ajVlbzRNbUpzYll6SFNlMVJBbEU4X05JQll4bWxqdEtSUkY1UzZjYmFKaTVwaXIxR2pfVGV5SkRMQkNNdVJiVmgtRmpZaEN6OXZQUXF1U1RDOWR3TTZScFAyamc1bS1yUWtVb1BTX2VRVThRcWFSSVE?oc=5",
+            "source": "english.ratopati.com",
             "sources": [
-              "Supply Chain Digital",
-              "markets.businessinsider.com"
+              "english.ratopati.com",
+              "Morocco World News"
             ],
-            "heatScore": 65,
-            "publishedAt": "2026-09-22T00:53:10.000Z"
+            "heatScore": 73,
+            "publishedAt": "2026-09-22T12:18:33.000Z"
           },
           {
             "rank": 2,
@@ -2108,7 +2096,7 @@
             "sources": [
               "EnergyNow.com"
             ],
-            "heatScore": 63,
+            "heatScore": 64,
             "publishedAt": "2026-09-22T12:14:50.000Z"
           },
           {
@@ -2120,11 +2108,24 @@
             "sources": [
               "The Sunday Guardian"
             ],
-            "heatScore": 62,
+            "heatScore": 63,
             "publishedAt": "2026-09-21T09:57:33.000Z"
           },
           {
             "rank": 4,
+            "translatedTitle": "Cyble加入阿联酋国家网络安全战略，以加强情报主导的国防-供应链数字化",
+            "originalTitle": "Cyble Joins the UAE’s National Cybersecurity Strategy to Strengthen Intelligence-Led Defense - Supply Chain Digital",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CZDVFVlFsOG5oNmxXbnZaOGlOcDAwUm1vSG1QZnowVDN4QjI4dVktY2RSZnpxcnJqQnQxbWZnT1l0cE15MDFNbGN3Nnk3aE95eGg5MmRjZ2ZKLTNfd1pSeUN3?oc=5",
+            "source": "Supply Chain Digital",
+            "sources": [
+              "Supply Chain Digital",
+              "The Manila Times"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-09-22T00:53:10.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "Tim Wellens将带领阿联酋阿联酋队-XRG在CRO比赛中的冠军防守-阿联酋队阿联酋队",
             "originalTitle": "Tim Wellens to lead UAE Team Emirates-XRG’s title defence at the CRO Race - UAE Team Emirates",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWFENnFjdUhwcDZxRERPM0EySE5jaUFyeTJJaUs3WkZERXFNS1RKcmNhejJqLU83WWtuNEtyVTRNak5TdWdWUkQ1N25PV2tFR0k1a2MwbGN0SzZqNWo3Q3hHYjlaWlh3YTdNV2VEWmJWY1RuNkR6QnJVaWpEZFJZOWhGNkI1aUV4SDNvZXpTMlFwU0hSbHVsY3FGVWw?oc=5",
@@ -2133,23 +2134,23 @@
               "UrduPoint",
               "UAE Team Emirates"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-09-21T18:45:07.000Z"
           },
           {
-            "rank": 5,
-            "translatedTitle": "深入了解阿联酋以情报为主导的网络防御战略及其与Cyble的新联盟- techbullion.com",
-            "originalTitle": "Inside the UAE’s Intelligence-Led Cyber Defense Strategy and Its New Alliance with Cyble - techbullion.com",
+            "rank": 6,
+            "translatedTitle": "深入了解阿联酋以情报为主导的网络防御战略及其与Cyble的新联盟- TechBullion",
+            "originalTitle": "Inside the UAE’s Intelligence-Led Cyber Defense Strategy and Its New Alliance with Cyble - TechBullion",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGxnbjJ0cHE4eTBWbmJQa2pZeTJnUEhRcnlLVThCbXljSTM2S1Bvek83b0U4WV9TbWdSd0tldUxrRW9QZHA2ZVR5NkhPOU5ybzlTNWx2Vk1RdVNKS1VjYl9ERll1R3N1YWNfaENWeDg0XzJxNUMxRWRPTmtGbFROaThYY05qVzNFd0xpbUYtN3BGZ1pKcjFDYllBQXBSSkthM3ZzTFpRUmM0ajh3bExqRGp3?oc=5",
-            "source": "techbullion.com",
+            "source": "TechBullion",
             "sources": [
-              "techbullion.com"
+              "TechBullion"
             ],
-            "heatScore": 54,
+            "heatScore": 53,
             "publishedAt": "2026-09-22T06:58:03.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "前往迪拜和阿布扎比是否安全？地区冲突升级后的最新建议-《独立报》",
             "originalTitle": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates - The Independent",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmV1QUxGNXBDTnRfMG9MVlR0WnBncHlnZ2haNzBobTRKblRuVEpvTFFMT1g2Y1V4QzdhRTZmYkJOaUpDbzdEQUhCV2pLOUpOM3N5N3FybHY5dnhXVWducnJvbEwtWFFjdk5NSmtiVU1BbF9XT19kVXJLY2FnMzR0dWZaTGVWT1FuMWVzWDV1UWVwZjI1RW1FSW9YLTRjSV92ekY4S2VjU3Y1N0s2TXlTOUpvOERfUkxhVmVvVWVnb0FRWnhB?oc=5",
@@ -2183,7 +2184,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 73,
+            "heatScore": 74,
             "publishedAt": "2026-09-22T04:40:32.000Z"
           },
           {
@@ -2200,18 +2201,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋，合作伙伴重新推动加沙和平计划- ARN新闻中心",
-            "originalTitle": "UAE, partners renew push for Gaza peace plan - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3QtejhzUTBGZERrQzhmd2lieVlPWnVwQkNzOXVyVkRIdVgzdlZoNnRyTENqTmtoaDRnU3NXMXhBV0NHSW9hT2lGTmZuNFltSVE5dndrU2dnYjZLLWw0YTdCaWlCV0d1TU1NUXZSWlhnNUhueFZtbk1BenNJNld1RnI5S3dGQUZzM0o4X1Nn?oc=5",
-            "source": "ARN News Centre",
-            "sources": [
-              "ARN News Centre"
-            ],
-            "heatScore": 66,
-            "publishedAt": "2026-09-22T13:28:37.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "迪拜在2026年全球领先的在线旅游目的地排名中名列前茅- itij.com",
             "originalTitle": "Dubai tops 2026 ranking of the world’s leading travel destinations online - itij.com",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalM5bWxFb1Q4MUQ1UFlDMmk3Ni1UMWU3ZWtSWFZ1bzBOTlJUcGViNlE1dmVwcVZ2VXZJaWgxdURVYkpPVGd1YWdLVWpjbVRYNWM5WmVsWk5CTnNyY3hwTEx1alBwTEdDVllaU2NrMEJDdGZ5TDcza3pHUGhDWXJXSmthcEhWQUI4RTFtUE9qaTh4UjFYbEZONmtQSWFSZWs?oc=5",
@@ -2219,8 +2208,20 @@
             "sources": [
               "itij.com"
             ],
-            "heatScore": 65,
+            "heatScore": 66,
             "publishedAt": "2026-09-22T14:06:38.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋，合作伙伴重新推动加沙和平计划- ARN新闻中心",
+            "originalTitle": "UAE, partners renew push for Gaza peace plan - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3QtejhzUTBGZERrQzhmd2lieVlPWnVwQkNzOXVyVkRIdVgzdlZoNnRyTENqTmtoaDRnU3NXMXhBV0NHSW9hT2lGTmZuNFltSVE5dndrU2dnYjZLLWw0YTdCaWlCV0d1TU1NUXZSWlhnNUhueFZtbk1BenNJNld1RnI5S3dGQUZzM0o4X1Nn?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-09-22T13:28:37.000Z"
           },
           {
             "rank": 6,
@@ -2243,7 +2244,7 @@
             "sources": [
               "curlytales.com"
             ],
-            "heatScore": 62,
+            "heatScore": 63,
             "publishedAt": "2026-09-22T16:09:08.000Z"
           },
           {
@@ -2255,7 +2256,7 @@
             "sources": [
               "The Daily Telegraph"
             ],
-            "heatScore": 62,
+            "heatScore": 63,
             "publishedAt": "2026-09-22T15:09:21.000Z"
           },
           {
@@ -2318,7 +2319,7 @@
             "sources": [
               "Forza Football"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-09-22T12:05:26.000Z"
           },
           {
