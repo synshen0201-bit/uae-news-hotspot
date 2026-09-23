@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T19:24:57.456Z",
+  "updatedAt": "2026-09-23T19:39:05.383Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -2339,7 +2339,7 @@
     },
     "2026-09-23": {
       "date": "2026-09-23",
-      "updatedAt": "2026-09-23T19:24:57.456Z",
+      "updatedAt": "2026-09-23T19:39:05.383Z",
       "categories": {
         "all": [
           {
@@ -2393,18 +2393,6 @@
           },
           {
             "rank": 5,
-            "translatedTitle": "阿联酋彩票：最新抽奖的中奖号码；一名参与者提取10万迪拉姆",
-            "originalTitle": "UAE Lottery: Winning numbers in latest draw out; one participant bags Dh100,000",
-            "url": "https://www.khaleejtimes.com/uae/lottery-wednesday-september-23-2026-draw-results",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 86,
-            "publishedAt": "2026-09-23T17:41:31.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "微软在UNGA上宣布与阿联酋、科威特、卡塔尔和沙特阿拉伯的技术框架",
             "originalTitle": "Microsoft announces technology framework with UAE, Kuwait, Qatar and Saudi Arabia at Unga",
             "url": "https://c.newsnow.co.uk/A/1325200015?-15565:1965",
@@ -2416,6 +2404,18 @@
             "publishedAt": "2026-09-23T19:07:55.000Z"
           },
           {
+            "rank": 6,
+            "translatedTitle": "阿联酋彩票：最新抽奖的中奖号码；一名参与者提取10万迪拉姆",
+            "originalTitle": "UAE Lottery: Winning numbers in latest draw out; one participant bags Dh100,000",
+            "url": "https://www.khaleejtimes.com/uae/lottery-wednesday-september-23-2026-draw-results",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-09-23T17:41:31.000Z"
+          },
+          {
             "rank": 7,
             "translatedTitle": "阿联酋核安全排名跃升至全球第四",
             "originalTitle": "UAE jumps to 4th globally in nuclear security ranking",
@@ -2424,7 +2424,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-09-23T15:42:13.000Z"
           },
           {
@@ -2498,7 +2498,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 85,
             "publishedAt": "2026-09-23T17:41:31.000Z"
           },
           {
@@ -2510,7 +2510,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-09-23T15:42:13.000Z"
           },
           {
@@ -2563,18 +2563,6 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "ADIPEC 2026将在阿布扎比召开",
-            "originalTitle": "ADIPEC 2026 to convene in Abu Dhabi",
-            "url": "https://c.newsnow.co.uk/A/1325185987?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 79,
-            "publishedAt": "2026-09-23T16:23:02.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "阿联酋在全球核设施保护中排名第四",
             "originalTitle": "UAE ranks fourth globally in nuclear facility protection",
             "url": "https://www.khaleejtimes.com/uae/uae-ranks-fourth-globally-nuclear-facility-protection",
@@ -2584,6 +2572,18 @@
             ],
             "heatScore": 79,
             "publishedAt": "2026-09-23T13:01:19.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "ADIPEC 2026将在阿布扎比召开",
+            "originalTitle": "ADIPEC 2026 to convene in Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1325185987?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-09-23T16:23:02.000Z"
           }
         ],
         "diplomacy": [
@@ -2609,7 +2609,7 @@
             "sources": [
               "wam.ae"
             ],
-            "heatScore": 77,
+            "heatScore": 76,
             "publishedAt": "2026-09-23T07:49:57.000Z"
           },
           {
@@ -2669,7 +2669,7 @@
             "sources": [
               "Big News Network.com"
             ],
-            "heatScore": 56,
+            "heatScore": 55,
             "publishedAt": "2026-09-23T10:09:00.000Z"
           },
           {
@@ -2693,7 +2693,7 @@
             "sources": [
               "Hiiraan Online"
             ],
-            "heatScore": 51,
+            "heatScore": 50,
             "publishedAt": "2026-09-23T04:03:10.000Z"
           },
           {
@@ -2791,7 +2791,7 @@
             "sources": [
               "Banking Gateway"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-09-23T17:56:12.000Z"
           },
           {
@@ -2855,7 +2855,7 @@
             "sources": [
               "EnergyNow.com"
             ],
-            "heatScore": 63,
+            "heatScore": 62,
             "publishedAt": "2026-09-23T12:59:17.000Z"
           },
           {
@@ -2872,6 +2872,18 @@
           },
           {
             "rank": 4,
+            "translatedTitle": "阿联酋和埃及的火灾片段与乌克兰无人机袭击莫斯科有关-雅虎",
+            "originalTitle": "Clips of fires in UAE and Egypt falsely linked to Ukraine drone strikes on Moscow - Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1EwMGJrUmRDNmxuczFhT0VqZl9rdFY3eEhyckZsMjFsTmZsa1Q5djlNYjBZWnBuS0pWMnhPMUJvTERHMHgxRmo1SHJpSjFYY3k5ODNYVnRwaDNVbXRsQkRaQUJuenhvVmJUdEEyTUhJdVpRMV9wWFExblo1Y3hnZXJR?oc=5",
+            "source": "Yahoo",
+            "sources": [
+              "Yahoo"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-09-23T10:35:10.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "迪拜国际机场在无人机袭击油箱后恢复航班-空中新闻",
             "originalTitle": "Dubai International Airport resumes flights after drone strike on fuel tank - News On AIR",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFN5VWtaOUxueTZBczZjSkpDLVBFdjBUd1ZfdkNTTGgzb1lTQmhTZmVXdmJyNGFJdVhCZDdqTVBhcnJ0SVBhOWdpNUR4LXFxLWl3QUlTS2xwUDlDUFVPaEhtQTFUQ3hQXzhzSWhtVWJnMzZuYlg4TExST0taRDBpNDdXckZyRnFzdTF2a0dZb1hxOFRPaVJ6Y3M0bzJXMkxYZXZ3?oc=5",
@@ -2879,20 +2891,8 @@
             "sources": [
               "News On AIR"
             ],
-            "heatScore": 57,
+            "heatScore": 56,
             "publishedAt": "2026-09-23T11:04:45.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "前往迪拜和阿布扎比是否安全？地区冲突升级后的最新建议-《独立报》",
-            "originalTitle": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates - The Independent",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVRQNE5xQWlWZEdnaF9hMXlpbUVNSHBfaW0teG1YcXBjUkh3MFhIU0xMRXN1QjI3VE9pR0VLa0drUXl5WEppdWVlM0ZMQnB4WXNFeVJUQTg2VjVLdzk0c245WTFrSzZCZi1haHdCOGZOWUY4bVJIaU4tMzRVZmNRN2tma1JVRllZd3YwV3RHTUs1VnBQVkxQay1LLU15NGgwUlBoRUpTUQ?oc=5",
-            "source": "The Independent",
-            "sources": [
-              "The Independent"
-            ],
-            "heatScore": 57,
-            "publishedAt": "2026-09-23T10:07:00.000Z"
           },
           {
             "rank": 6,
@@ -2908,18 +2908,6 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "阿联酋和埃及的火灾片段与乌克兰无人机袭击莫斯科有关-雅虎",
-            "originalTitle": "Clips of fires in UAE and Egypt falsely linked to Ukraine drone strikes on Moscow - Yahoo",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUFhU3BVTDRyMEludkRHYVhXd28xN0p5M1NuWDNsZUdud2tHUEtrMDJBYTNXSWpWU2Rhd0R6Wms4RzFfeXRVeGp0OThmMHpwQlJYUWFhQXNCZk95ZHRtOWZKaTFJdy1EdEtfcDU5Wkw0a0NnbXByS3lpSGp5aUxpWXVIRGYzdk9uazlxMUdHZw?oc=5",
-            "source": "Yahoo",
-            "sources": [
-              "Yahoo"
-            ],
-            "heatScore": 56,
-            "publishedAt": "2026-09-23T10:35:10.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "西亚紧张局势：美国对伊朗哈格岛发动袭击后，阿联酋加强安全警戒-新闻直播",
             "originalTitle": "West Asia Tensions: UAE on heightened security alert after US strikes on Iran’s Kharg Island - News On AIR",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnVmZjdMUmcwczMxX2ZJMmQ2U0pxX2FCVWcxWUNXN2lRZnZwM0tmdTFac0plOTNqS1BfTnY3d2pYanZLS1VaRkZmeUVFS2FjVnhWcGh4OWg5TDh2SU9VRlpzVDhQN2Nmclg5ekotQW9yVy1XWlAzYUhMVUVDR3dRc1RJTUxRTmVjZnhJbG01OENDcGJ6amJ5cDFzN2dtMkI5THlUX3FtaGlMLVdjRnFQQS1fZ2lSNUVnd1lPUWdvcHBsdVpHMW40?oc=5",
@@ -2929,6 +2917,18 @@
             ],
             "heatScore": 56,
             "publishedAt": "2026-09-23T10:22:18.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "前往迪拜和阿布扎比是否安全？地区冲突升级后的最新建议-《独立报》",
+            "originalTitle": "Is it safe to travel to Dubai and Abu Dhabi? Latest advice after regional conflict escalates - The Independent",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVRQNE5xQWlWZEdnaF9hMXlpbUVNSHBfaW0teG1YcXBjUkh3MFhIU0xMRXN1QjI3VE9pR0VLa0drUXl5WEppdWVlM0ZMQnB4WXNFeVJUQTg2VjVLdzk0c245WTFrSzZCZi1haHdCOGZOWUY4bVJIaU4tMzRVZmNRN2tma1JVRllZd3YwV3RHTUs1VnBQVkxQay1LLU15NGgwUlBoRUpTUQ?oc=5",
+            "source": "The Independent",
+            "sources": [
+              "The Independent"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-09-23T10:07:00.000Z"
           },
           {
             "rank": 9,
@@ -3073,7 +3073,7 @@
             "sources": [
               "SSBCrack"
             ],
-            "heatScore": 52,
+            "heatScore": 51,
             "publishedAt": "2026-09-23T04:56:50.000Z"
           }
         ],
@@ -3087,7 +3087,7 @@
             "sources": [
               "Vietnam.vn"
             ],
-            "heatScore": 52,
+            "heatScore": 51,
             "publishedAt": "2026-09-23T04:59:15.000Z"
           },
           {
