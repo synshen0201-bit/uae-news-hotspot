@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T19:37:31.666Z",
+  "updatedAt": "2026-09-25T19:52:01.782Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -3880,7 +3880,7 @@
     },
     "2026-09-25": {
       "date": "2026-09-25",
-      "updatedAt": "2026-09-25T19:37:31.666Z",
+      "updatedAt": "2026-09-25T19:52:01.782Z",
       "categories": {
         "all": [
           {
@@ -3922,18 +3922,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "总部位于迪拜的基金会首席执行官表示，知识可以帮助中东为不确定性做好准备",
-            "originalTitle": "Knowledge can help Middle East prepare for uncertainty, says CEO of Dubai-based foundation",
-            "url": "https://c.newsnow.co.uk/A/1325404537?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 91,
-            "publishedAt": "2026-09-25T19:04:52.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "阿联酋市场在区域航空旅行警告后下滑-路透社",
             "originalTitle": "UAE markets decline after warning on regional air travel - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmc1cG4yNlZ5Z2FjX3VJcHhsVDJmX0JMTFdKZ2JBODlNY3RYRS1VeWNhbXJXTlRTTEhXRUlualU0dHo1SzU1b3hjUFVHUlhpLUhhZk11WVU0dlFDcHRXaTN1ZEctd0pXaEFxQnAySlJiMzNOZGNFWk9qZUJNaThzOVhmNk5NeWQ3U2NTMFJuSGw0LXdoUHVXQTdiRXZPc2ZaQ1hoVS1zczFnUzg?oc=5",
@@ -3945,19 +3933,19 @@
             "publishedAt": "2026-09-25T12:17:43.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "沙迦警方否认谋杀受害者妻子和儿子失踪的报道",
-            "originalTitle": "Sharjah Police deny reports of murder victim's wife, son going missing",
-            "url": "https://www.khaleejtimes.com/uae/sharjah-police-deny-media-reports-missing-wife-son-of-alleged-murder-victim",
-            "source": "Khaleej Times",
+            "rank": 5,
+            "translatedTitle": "总部位于迪拜的基金会首席执行官表示，知识可以帮助中东为不确定性做好准备",
+            "originalTitle": "Knowledge can help Middle East prepare for uncertainty, says CEO of Dubai-based foundation",
+            "url": "https://c.newsnow.co.uk/A/1325404537?-15565:1965",
+            "source": "The National",
             "sources": [
-              "Khaleej Times"
+              "The National"
             ],
             "heatScore": 90,
-            "publishedAt": "2026-09-25T16:01:23.000Z"
+            "publishedAt": "2026-09-25T19:04:52.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "泽连斯基说，美国提议在阿联酋与乌克兰和俄罗斯举行三方会议-路透社",
             "originalTitle": "US proposes trilateral meeting with Ukraine, Russia in UAE, Zelenskiy says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUZFaW42R1pvVHRrNWppenRyRDZBUTl4YTN0TWVLVUJRaUJOaDdPbGFNWHM5M3o3aHhIT1FMVW95S2c4WVNDZXNFa0tCUWhhNUY5bFNiR1ZUMkhKR29oVjNISHZ0bU41WGJqSFpuaFczRHpRYUk2T2Q5QXpTd2NyZ0hwLXJ2cmQ2WXc5RTR0b1pJdTZmNnh5UXBYSWVyZkUwVTBKS1lvdHlaX3FOM2wtemRuMXNKd01qaWc?oc=5",
@@ -3969,7 +3957,7 @@
             "publishedAt": "2026-09-25T11:20:24.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "萨勒曼国王在迪拜扎比尔的哀悼",
             "originalTitle": "King Salman's condolences delivered at Zabeel in Dubai",
             "url": "https://c.newsnow.co.uk/A/1325402010?-15565:1965",
@@ -3981,6 +3969,18 @@
             "publishedAt": "2026-09-25T18:27:59.000Z"
           },
           {
+            "rank": 8,
+            "translatedTitle": "沙迦警方否认谋杀受害者妻子和儿子失踪的报道",
+            "originalTitle": "Sharjah Police deny reports of murder victim's wife, son going missing",
+            "url": "https://www.khaleejtimes.com/uae/sharjah-police-deny-media-reports-missing-wife-son-of-alleged-murder-victim",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-09-25T16:01:23.000Z"
+          },
+          {
             "rank": 9,
             "translatedTitle": "阿联酋博物馆：迪拜黄金市场中心的阿联酋女性庆祝活动",
             "originalTitle": "Museums of the UAE: A celebration of Emirati women in the heart of Dubai’s Gold Souq",
@@ -3989,7 +3989,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 89,
+            "heatScore": 88,
             "publishedAt": "2026-09-25T18:16:35.000Z"
           },
           {
@@ -4052,23 +4052,11 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-09-25T19:04:52.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "沙迦警方否认谋杀受害者妻子和儿子失踪的报道",
-            "originalTitle": "Sharjah Police deny reports of murder victim's wife, son going missing",
-            "url": "https://www.khaleejtimes.com/uae/sharjah-police-deny-media-reports-missing-wife-son-of-alleged-murder-victim",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-09-25T16:01:23.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "泽连斯基说，美国提议在阿联酋与乌克兰和俄罗斯举行三方会议-路透社",
             "originalTitle": "US proposes trilateral meeting with Ukraine, Russia in UAE, Zelenskiy says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUZFaW42R1pvVHRrNWppenRyRDZBUTl4YTN0TWVLVUJRaUJOaDdPbGFNWHM5M3o3aHhIT1FMVW95S2c4WVNDZXNFa0tCUWhhNUY5bFNiR1ZUMkhKR29oVjNISHZ0bU41WGJqSFpuaFczRHpRYUk2T2Q5QXpTd2NyZ0hwLXJ2cmQ2WXc5RTR0b1pJdTZmNnh5UXBYSWVyZkUwVTBKS1lvdHlaX3FOM2wtemRuMXNKd01qaWc?oc=5",
@@ -4080,7 +4068,7 @@
             "publishedAt": "2026-09-25T11:20:24.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "萨勒曼国王在迪拜扎比尔的哀悼",
             "originalTitle": "King Salman's condolences delivered at Zabeel in Dubai",
             "url": "https://c.newsnow.co.uk/A/1325402010?-15565:1965",
@@ -4092,6 +4080,18 @@
             "publishedAt": "2026-09-25T18:27:59.000Z"
           },
           {
+            "rank": 7,
+            "translatedTitle": "沙迦警方否认谋杀受害者妻子和儿子失踪的报道",
+            "originalTitle": "Sharjah Police deny reports of murder victim's wife, son going missing",
+            "url": "https://www.khaleejtimes.com/uae/sharjah-police-deny-media-reports-missing-wife-son-of-alleged-murder-victim",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-09-25T16:01:23.000Z"
+          },
+          {
             "rank": 8,
             "translatedTitle": "阿联酋博物馆：迪拜黄金市场中心的阿联酋女性庆祝活动",
             "originalTitle": "Museums of the UAE: A celebration of Emirati women in the heart of Dubai’s Gold Souq",
@@ -4100,23 +4100,11 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 89,
+            "heatScore": 88,
             "publishedAt": "2026-09-25T18:16:35.000Z"
           },
           {
             "rank": 9,
-            "translatedTitle": "阿联酋水上医院为42名受伤的巴勒斯坦人提供假肢",
-            "originalTitle": "UAE Floating Hospital provides prosthetic limbs to 42 injured Palestinians",
-            "url": "https://www.khaleejtimes.com/uae/uae-floating-hospital-prosthetic-limbs-42-injured-palestinians",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 88,
-            "publishedAt": "2026-09-25T14:53:23.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "迪拜痴呆症支持小组帮助阿联酋足球传奇和其他人保留宝贵的回忆",
             "originalTitle": "The Dubai dementia support group helping a UAE football legend and others preserve precious memories",
             "url": "https://c.newsnow.co.uk/A/1325400464?-15565:1965",
@@ -4126,6 +4114,18 @@
             ],
             "heatScore": 87,
             "publishedAt": "2026-09-25T18:05:26.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "从阿格拉到阿布扎比：为什么印度的泰姬陵让我想起了我在阿联酋的家",
+            "originalTitle": "From Agra to Abu Dhabi: Why India's Taj Mahal made me think of my UAE home",
+            "url": "https://c.newsnow.co.uk/A/1325400458?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-09-25T18:05:16.000Z"
           }
         ],
         "diplomacy": [
@@ -4192,18 +4192,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "阿联酋能否将美国、俄罗斯和乌克兰带到同一张桌子上？ -现代外交",
-            "originalTitle": "Could the UAE Bring the US, Russia and Ukraine to the Same Table? - Modern Diplomacy",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlpIdzZLVGZVQUs1SjlzVnNSN2FlWERmakp5Q1pwcVFNVDk2d3FSWmlleDF3Yjl3RGVnOEQ2UUYtQXdvMTlUYW5oVnFHaHdLX3NzQ1pic0gtUUZNMUV2Z1lNSVV3SVdwVG5MMWx5dEo1c0E3OFZiYk5JZWY4T290cEttdnpUbjZ6MlpNMG1WRzB0aEE4YzdPSk1ULXhRWUh0TVM4VA?oc=5",
-            "source": "Modern Diplomacy",
-            "sources": [
-              "Modern Diplomacy"
-            ],
-            "heatScore": 64,
-            "publishedAt": "2026-09-25T11:30:12.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "外交部长与阿联酋外交部长举行会谈–毛里塔尼亚通讯社-毛里塔尼亚通讯社",
             "originalTitle": "Foreign Minister Holds Talks with UAE Minister of State for Foreign Affairs – Mauritanian News Agency - الوكالة الموريتانية للأنباء",
             "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mSW9mTGlPX2w0NktfNGlUUUNUZG05TU5RRVBUbTJTMVl4VHp2SzhXU1F4ZDdrcHJWWDUyRTViZnJFZFJfa0lr?oc=5",
@@ -4215,16 +4203,28 @@
             "publishedAt": "2026-09-25T15:27:17.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "乌克兰：华盛顿提议在阿联酋与俄罗斯举行三方会议-贝宁网络电视",
-            "originalTitle": "Ukraine: Washington proposes a three-way meeting with Russia in the UAE - Benin Web TV",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUNzMEFrc0Q3VEhCWWFDLW9GWVRheTN0eHRHNjBVOHZYUmplN3dYb0hEazBqT0ZtRHlmcHBYdnNGa1hiQUltai1tOHhDaUJGLVE4QV9FT2YtSFRUSnJzU0lUdTZxcVhVZ0ItalFGYVVDN1Z5ZEVrVFVZVGIzU2hUYVF4Nk4tTGlSUVpicjd4LThLR3loZ0I0YXNweWQ?oc=5",
-            "source": "Benin Web TV",
+            "rank": 7,
+            "translatedTitle": "阿联酋能否将美国、俄罗斯和乌克兰带到同一张桌子上？ -现代外交",
+            "originalTitle": "Could the UAE Bring the US, Russia and Ukraine to the Same Table? - Modern Diplomacy",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlpIdzZLVGZVQUs1SjlzVnNSN2FlWERmakp5Q1pwcVFNVDk2d3FSWmlleDF3Yjl3RGVnOEQ2UUYtQXdvMTlUYW5oVnFHaHdLX3NzQ1pic0gtUUZNMUV2Z1lNSVV3SVdwVG5MMWx5dEo1c0E3OFZiYk5JZWY4T290cEttdnpUbjZ6MlpNMG1WRzB0aEE4YzdPSk1ULXhRWUh0TVM4VA?oc=5",
+            "source": "Modern Diplomacy",
             "sources": [
-              "Benin Web TV"
+              "Modern Diplomacy"
             ],
-            "heatScore": 60,
-            "publishedAt": "2026-09-25T12:06:20.000Z"
+            "heatScore": 63,
+            "publishedAt": "2026-09-25T11:30:12.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "乌克兰：华盛顿提议在阿联酋与俄罗斯举行三方会议- beninwebtv.com",
+            "originalTitle": "Ukraine: Washington proposes a three-way meeting with Russia in the UAE - beninwebtv.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM00tLVU2aGVZa3ZtTV91ODBiQ1o1SGc1NkM1MUtEcUR2QXNSOFliQXlSQklIME1sTTQwODl0bGpzblV4OUhLcklNSEdBb3JyaUxjNTlaU2NKaTZReG1TY2hzTDU0cWZvS1FMWWlRdU5ZS1FQalFLZ0dGU29qNG85MXFrdHN6UndXNVF1RW56MjNMVmMzQzRLNEE1X0daZw?oc=5",
+            "source": "beninwebtv.com",
+            "sources": [
+              "beninwebtv.com"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-09-25T12:06:14.000Z"
           },
           {
             "rank": 9,
@@ -4247,7 +4247,7 @@
             "sources": [
               "english.pravda.ru"
             ],
-            "heatScore": 48,
+            "heatScore": 47,
             "publishedAt": "2026-09-25T00:49:00.000Z"
           }
         ],
@@ -4317,6 +4317,30 @@
           },
           {
             "rank": 3,
+            "translatedTitle": "阿联酋谴责蒂格雷人阵袭击，呼吁立即停止埃塞俄比亚敌对行动--海湾新闻",
+            "originalTitle": "UAE condemns TPLF attacks, calls for immediate end to Ethiopia hostilities - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWlEZlAwNXYtV2sxdHRITGJTOFczRHd4ZlRpd2xTV0JZR2NyNEFXRXZQQnVHX1d3TWl3a1J1VWpxUU9pYmIwbWFrYXpFN0h6ZWpaT3VLZjNVMVpYWEY5N291bHVXSk9wMmp5bmVuUzNhd09iMzdNc2FCc29jenNyVzgxMmNadzZSRTFEeFBLRWIyMXNpbHRyaGUweFdpdzVZQ2lUNjhpcFJUWkFNbEZR0gG_AUFVX3lxTE03cEhRelI3ajRhQlpPOVo1RzI1Z2JrSDVmeU1mNEhIdWNIUmRFVThQUTBqaHdjMUtKREItMTFJb3NZWm5ldE5SbjBhN2o3Y2QwWWNnV2RzQXE1djJOQXllenprV1hURTE2QTl0OWtkX1lpbXpjSlBGR3lmWUxibWtIMTU4NUY0X29BQXJnV3pOem5WRkVkMm9RdHFMMEg1aE0wU3d1VEl5dHdBZ3p1eFNUcUtBdjNvRXhHbm9YYkRr?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-09-25T17:32:34.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "无人机袭击阿联酋核电站后油价触及两周高位- EnergyNow.com",
+            "originalTitle": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-09-25T16:22:26.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "美伊冲突：阿联酋居民今天需要了解的信息（ 2026年9月25日） -海湾新闻",
             "originalTitle": "US-Iran conflict: What UAE residents need to know today (Sept. 25, 2026) - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1V1SW9jZzU4VWhFdmRfQWdHdlRiQjZHTzJ1UnoxX3Zxd3VXWnhYVzFKZmNZRk5LTWhlelhONUdYZjVoSXBwVGVxSUdJZjhZMnJVQ1c5dkIyRnYzbV9OaHFGaWZpLXlYdTkzQ0NVWFhWNU01UkJSWlNMNzBrcTRDRjRzQzdGYUFJcU5UZ2tpQTVhTk1CVko5T1lBUkxRSEtzbFRyTWlQQdIBtwFBVV95cUxOeU94MGVjSUhlM3FwakJsaVdDb1ZTV2xQSE1KWUJqdmpzQzRRVmZBbS1fTHY4OXBvckIxVDBlVFRqZUh3NXZoamdndllab3R2eUxnS05oUHpiWlZMR2pqbEJXU1V3SUJ6UmJQYmRZd1lqVXZSTi0zaHFCOTdWOER6SlJRbmZlNnJHMlZfNHdMOWQzNS1ybWVLSUZUSndyeW9OeWZJOEJzMmJzTFUtUkxvekpKSGVUSE0?oc=5",
@@ -4324,11 +4348,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 70,
+            "heatScore": 69,
             "publishedAt": "2026-09-25T02:46:21.000Z"
           },
           {
-            "rank": 4,
+            "rank": 6,
             "translatedTitle": "萨达姆·哈夫塔尔将军在阿布扎比讨论加强与阿联酋的关系和国防合作- libyaupdate.com",
             "originalTitle": "General Saddam Haftar Discusses Enhancing Relations and Defense Cooperation with the UAE in Abu Dhabi - libyaupdate.com",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBBOXVCcElBTG83UnBzUjlxUlNBX0g1UUF1SkhaOUY3bFJfUUdMYkJBY2VubkhzanhUOHhMZEVab0JKbE9sU0YwTUUyXzA3NVJjRU5ZQ1dPUFVZNXJJcWFRNFNMV25pQzhBUXdYdVFqRTVVaUFvamRKOU9vZlpFZldnZDlhdW91RnVXYmRNUk1OR1hVMThrNUhCZ2M1OFNIM2NHMmxwQlBOenlhamY0RnByUVpvQTM3aE0xNldTSk9MNXdJ?oc=5",
@@ -4340,7 +4364,7 @@
             "publishedAt": "2026-09-25T15:57:22.000Z"
           },
           {
-            "rank": 5,
+            "rank": 7,
             "translatedTitle": "迪拜国际机场附近的无人机袭击引发火灾，航班暂停-新闻直播",
             "originalTitle": "Drone strike near Dubai International Airport triggers fire, flights suspended - News On AIR",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkVleWdmeDNxOUdjSkZwZVFOXzFfMDJKQ0lxNVFKT21TMmdHVHk3OFJlUXVSMHR6TmZDY2RMNzh3UjV3ZlNwUC1MdXVDZTNwVTRhT1R2OE9CekNuS1ZQSTF5SmcxY0pRaWR5Z1pJOXdCeGVLNVd3TW1ScWdkV1dXZ1RHYmNMX3NBeHRWVjlKbVhBN215QlRoaXM4LTd4Qi1kSUJNaG5n?oc=5",
@@ -4352,7 +4376,7 @@
             "publishedAt": "2026-09-25T15:01:17.000Z"
           },
           {
-            "rank": 6,
+            "rank": 8,
             "translatedTitle": "迪拜法院会让英国TikToker Brooke George面对行刑队吗？ -每日耀眼黎明",
             "originalTitle": "Will Dubai Court Spare British TikToker Brooke George Facing Firing Squad? - The Daily Dazzling Dawn",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObktBMlplOU9lVVFhbHAzb1FOOENtTHhqSnlLaVg0VjUyY3NHaTNHSnZfY3U4ZlA5NkNJb090eENFaFlvaFZiWVNCcHBkMFVaZ2Y1RkdjZ05lRGtJZnRnem9jWWFJMXdKcHZ6UWJleUhsLVFzNzIwd1MycENWbmlzQXZBaXpXWjBEaGZvaURRYVNWWXZmTzFQc3lfX2ljVVo4akpOdHVZTjJGS21pZ0E?oc=5",
@@ -4364,19 +4388,7 @@
             "publishedAt": "2026-09-25T16:10:47.000Z"
           },
           {
-            "rank": 7,
-            "translatedTitle": "阿布扎比媒体办公室称，无人机袭击造成阿布扎比沙阿油田火灾- energynow.com",
-            "originalTitle": "Fire at Abu Dhabi Shah Oil Field Caused by Drone Attack, Abu Dhabi Media Office Says - energynow.com",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkN3QXgtckxxR2tTMG44TXZ5OGhRLWZRcEIxc3pVY0ZPemxSV0xJN3BiR1NXYTRvVTV4U2g4azlVVU1zOC1CS3Z1cTFTX0lsbHJzQjJtbnB4TklfSWQ5Wmg3TUtFS092RmJ1NjZ4d2RNc3RnSmphNzFRNWZxLUdaR1BvQWFZbjZfbU9DcUd6TkE2SUxULUtMTGJiaFlpNmo4YkJCbjREUV9fZl9lMXdFeTFzZVI?oc=5",
-            "source": "energynow.com",
-            "sources": [
-              "energynow.com"
-            ],
-            "heatScore": 64,
-            "publishedAt": "2026-09-25T16:05:32.000Z"
-          },
-          {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "Cyble通过与阿联酋的合作推进积极的网络防御- TahawulTech.com",
             "originalTitle": "Cyble advances proactive cyber defence through UAE partnership - TahawulTech.com",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzlEUS1EQWpBbmhtUHV2SmNOS0pKeWlzZGE1UEZueE9CXzhiSzVSYWxFajJSbzJLQkhyaFp0VUx6TFVGR3RUZmZ5X1c3dHJNYXcyNDRkUXRRZ0VmTEduM0N0YWVTeVRjZmUtOXU3YXVxVWlVb3ZnTExBV0psc2ZzeWtQeUpwZWRieEdVSERIQUVIMkVlSEZnQ1BtNDBneWhPNUE?oc=5",
@@ -4388,7 +4400,7 @@
             "publishedAt": "2026-09-25T15:49:26.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "Cyble通过代理人工智能加强阿联酋的网络防御- TahawulTech.com",
             "originalTitle": "Cyble strengthens UAE cyber defence through agentic AI - TahawulTech.com",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMy1pc1duWEhNVjA5RlBReHBEaU9zZ0syVFNwYjZXV2VZT05EcGVuX1h4T21QOGJPaU1zM2RvX1hGSzBtRG1ubEJJLW9KSFFPMEs2YUthdlpiX1lMeDRRZ05KcnRLTFdmeU14UThLQ21kX3pLd3dCaDF0V0FvU1pmbzVTb1J2U3ZlckZhdjZpdTBWeFRZd0Zj?oc=5",
@@ -4396,20 +4408,8 @@
             "sources": [
               "TahawulTech.com"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-09-25T15:33:40.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "阿联酋国防部长会见利比亚军事副司令-沙迦24",
-            "originalTitle": "UAE Defence Minister meets Libyan military deputy commander - Sharjah24",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50QkpaT3ZTVkdOSGdpOXlfMGQ2T2p2eko3a1c1YVhZdnRFSUxkbTZ0by1keGtQVV81amYzdVhqWFQ2aEZ2Y1VkazBsSTBacWJDTURWblFZLW9wc1hhUEE?oc=5",
-            "source": "Sharjah24",
-            "sources": [
-              "Sharjah24"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-09-25T11:38:45.000Z"
           }
         ],
         "social": [
@@ -4458,7 +4458,7 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 72,
+            "heatScore": 71,
             "publishedAt": "2026-09-25T17:53:51.000Z"
           },
           {
