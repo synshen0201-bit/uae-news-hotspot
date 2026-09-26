@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T19:07:51.047Z",
+  "updatedAt": "2026-09-26T19:23:09.038Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -4539,11 +4539,23 @@
     },
     "2026-09-26": {
       "date": "2026-09-26",
-      "updatedAt": "2026-09-26T19:07:51.047Z",
+      "updatedAt": "2026-09-26T19:23:09.038Z",
       "categories": {
         "all": [
           {
             "rank": 1,
+            "translatedTitle": "谢赫·穆罕默德就谢赫·艾哈迈德逝世接受卡塔尔埃米尔的哀悼",
+            "originalTitle": "Sheikh Mohammed receives Qatar Emir's condolences over passing of Sheikh Ahmed",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-mohammed-qatar-emir-condolences-sheikh-ahmed-passing",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-09-26T19:21:11.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋向刚果民主共和国转达对飞机失事受害者的哀悼",
             "originalTitle": "UAE conveys condolences to Democratic Republic of Congo over victims of plane crash",
             "url": "https://www.khaleejtimes.com/uae/uae-conveys-condolences-to-democratic-republic-of-congo-over-victims-of-plane-crash",
@@ -4551,11 +4563,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 99,
+            "heatScore": 97,
             "publishedAt": "2026-09-26T18:21:54.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "translatedTitle": "阿联酋总统接见乌兹别克斯坦特使",
+            "originalTitle": "UAE President receives Uzbekistan envoy",
+            "url": "https://c.newsnow.co.uk/A/1325465553?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 96,
+            "publishedAt": "2026-09-26T19:03:05.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "阿联酋彩票：三个Lucky Chance IDS包，每个50,000迪拉姆；查看中奖号码",
             "originalTitle": "UAE Lottery: Three Lucky Chance IDs bag Dh50,000 each; check out winning numbers",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-sep-26-lucky-chance-ids-winning-numbers",
@@ -4563,11 +4587,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 98,
+            "heatScore": 96,
             "publishedAt": "2026-09-26T17:41:38.000Z"
           },
           {
-            "rank": 3,
+            "rank": 5,
             "translatedTitle": "阿联酋10月新增内容：全球村重新开放，迪拜健身挑战赛回归",
             "originalTitle": "What's new in UAE in October: Global Village reopens, Dubai Fitness Challenge returns",
             "url": "https://www.khaleejtimes.com/uae/whats-new-uae-october-2026-global-village-dubai-fitness-challenge",
@@ -4575,11 +4599,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 97,
+            "heatScore": 96,
             "publishedAt": "2026-09-26T17:18:57.000Z"
           },
           {
-            "rank": 4,
+            "rank": 6,
             "translatedTitle": "观看：阿布扎比警方警告在主要道路上骑电动滑板车的危险",
             "originalTitle": "Watch: Abu Dhabi Police warns of dangers of riding e-scooters on main roads",
             "url": "https://www.khaleejtimes.com/uae/abu-dhabi-police-dangers-riding-e-scooters-main-roads",
@@ -4587,11 +4611,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 96,
+            "heatScore": 95,
             "publishedAt": "2026-09-26T16:44:55.000Z"
           },
           {
-            "rank": 5,
+            "rank": 7,
             "translatedTitle": "Dh30m阿联酋彩票：查看最新中奖号码",
             "originalTitle": "Dh30m UAE Lottery: Check the latest winning numbers",
             "url": "https://c.newsnow.co.uk/A/1325462770?-15565:1965",
@@ -4599,11 +4623,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 95,
+            "heatScore": 93,
             "publishedAt": "2026-09-26T17:51:37.000Z"
           },
           {
-            "rank": 6,
+            "rank": 8,
             "translatedTitle": "阿联酋拨款1000万$支持遏制埃博拉疫情的国际努力",
             "originalTitle": "UAE allocates $10 million to support international efforts to contain Ebola outbreak",
             "url": "https://www.khaleejtimes.com/uae/uae-aid-international-efforts-contain-ebola-outbreak",
@@ -4611,11 +4635,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 95,
+            "heatScore": 93,
             "publishedAt": "2026-09-26T16:04:05.000Z"
           },
           {
-            "rank": 7,
+            "rank": 9,
             "translatedTitle": "日本大臣确认阿联酋与日本的牢固关系",
             "originalTitle": "Japan minister affirms strong UAE-Japan ties",
             "url": "https://c.newsnow.co.uk/A/1325461491?-15565:1965",
@@ -4623,11 +4647,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 92,
             "publishedAt": "2026-09-26T17:21:16.000Z"
           },
           {
-            "rank": 8,
+            "rank": 10,
             "translatedTitle": "阿联酋发布深夜雾气警报",
             "originalTitle": "UAE issues late-night fog alert",
             "url": "https://c.newsnow.co.uk/A/1325461093?-15565:1965",
@@ -4635,37 +4659,25 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 92,
             "publishedAt": "2026-09-26T17:11:13.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "“不要冒险” ：迪拜警方在司机晕倒后发出警告，导致碰撞",
-            "originalTitle": "'Don't risk it': Dubai Police issue warning after driver faints, causes collision",
-            "url": "https://www.khaleejtimes.com/uae/dubai-police-warning-tired-driver-faints-causes-collision",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 93,
-            "publishedAt": "2026-09-26T14:51:26.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "迪拜推出1000万餐活动，为加沙人民提供支持",
-            "originalTitle": "Dubai launches 10m-meal drive to support people in Gaza",
-            "url": "https://c.newsnow.co.uk/A/1325448964?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 93,
-            "publishedAt": "2026-09-26T12:57:46.000Z"
           }
         ],
         "domestic": [
           {
             "rank": 1,
+            "translatedTitle": "谢赫·穆罕默德就谢赫·艾哈迈德逝世接受卡塔尔埃米尔的哀悼",
+            "originalTitle": "Sheikh Mohammed receives Qatar Emir's condolences over passing of Sheikh Ahmed",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-mohammed-qatar-emir-condolences-sheikh-ahmed-passing",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-09-26T19:21:11.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋向刚果民主共和国转达对飞机失事受害者的哀悼",
             "originalTitle": "UAE conveys condolences to Democratic Republic of Congo over victims of plane crash",
             "url": "https://www.khaleejtimes.com/uae/uae-conveys-condolences-to-democratic-republic-of-congo-over-victims-of-plane-crash",
@@ -4673,11 +4685,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 99,
+            "heatScore": 97,
             "publishedAt": "2026-09-26T18:21:54.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
+            "translatedTitle": "阿联酋总统接见乌兹别克斯坦特使",
+            "originalTitle": "UAE President receives Uzbekistan envoy",
+            "url": "https://c.newsnow.co.uk/A/1325465553?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 96,
+            "publishedAt": "2026-09-26T19:03:05.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "阿联酋彩票：三个Lucky Chance IDS包，每个50,000迪拉姆；查看中奖号码",
             "originalTitle": "UAE Lottery: Three Lucky Chance IDs bag Dh50,000 each; check out winning numbers",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-sep-26-lucky-chance-ids-winning-numbers",
@@ -4685,11 +4709,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 98,
+            "heatScore": 96,
             "publishedAt": "2026-09-26T17:41:38.000Z"
           },
           {
-            "rank": 3,
+            "rank": 5,
             "translatedTitle": "阿联酋10月新增内容：全球村重新开放，迪拜健身挑战赛回归",
             "originalTitle": "What's new in UAE in October: Global Village reopens, Dubai Fitness Challenge returns",
             "url": "https://www.khaleejtimes.com/uae/whats-new-uae-october-2026-global-village-dubai-fitness-challenge",
@@ -4697,11 +4721,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 97,
+            "heatScore": 96,
             "publishedAt": "2026-09-26T17:18:57.000Z"
           },
           {
-            "rank": 4,
+            "rank": 6,
             "translatedTitle": "观看：阿布扎比警方警告在主要道路上骑电动滑板车的危险",
             "originalTitle": "Watch: Abu Dhabi Police warns of dangers of riding e-scooters on main roads",
             "url": "https://www.khaleejtimes.com/uae/abu-dhabi-police-dangers-riding-e-scooters-main-roads",
@@ -4709,11 +4733,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 96,
+            "heatScore": 95,
             "publishedAt": "2026-09-26T16:44:55.000Z"
           },
           {
-            "rank": 5,
+            "rank": 7,
             "translatedTitle": "Dh30m阿联酋彩票：查看最新中奖号码",
             "originalTitle": "Dh30m UAE Lottery: Check the latest winning numbers",
             "url": "https://c.newsnow.co.uk/A/1325462770?-15565:1965",
@@ -4721,11 +4745,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 95,
+            "heatScore": 93,
             "publishedAt": "2026-09-26T17:51:37.000Z"
           },
           {
-            "rank": 6,
+            "rank": 8,
             "translatedTitle": "阿联酋拨款1000万$支持遏制埃博拉疫情的国际努力",
             "originalTitle": "UAE allocates $10 million to support international efforts to contain Ebola outbreak",
             "url": "https://www.khaleejtimes.com/uae/uae-aid-international-efforts-contain-ebola-outbreak",
@@ -4733,11 +4757,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 95,
+            "heatScore": 93,
             "publishedAt": "2026-09-26T16:04:05.000Z"
           },
           {
-            "rank": 7,
+            "rank": 9,
             "translatedTitle": "日本大臣确认阿联酋与日本的牢固关系",
             "originalTitle": "Japan minister affirms strong UAE-Japan ties",
             "url": "https://c.newsnow.co.uk/A/1325461491?-15565:1965",
@@ -4745,11 +4769,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 92,
             "publishedAt": "2026-09-26T17:21:16.000Z"
           },
           {
-            "rank": 8,
+            "rank": 10,
             "translatedTitle": "阿联酋发布深夜雾气警报",
             "originalTitle": "UAE issues late-night fog alert",
             "url": "https://c.newsnow.co.uk/A/1325461093?-15565:1965",
@@ -4757,32 +4781,8 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 92,
             "publishedAt": "2026-09-26T17:11:13.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "“不要冒险” ：迪拜警方在司机晕倒后发出警告，导致碰撞",
-            "originalTitle": "'Don't risk it': Dubai Police issue warning after driver faints, causes collision",
-            "url": "https://www.khaleejtimes.com/uae/dubai-police-warning-tired-driver-faints-causes-collision",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 93,
-            "publishedAt": "2026-09-26T14:51:26.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "迪拜推出1000万餐活动，为加沙人民提供支持",
-            "originalTitle": "Dubai launches 10m-meal drive to support people in Gaza",
-            "url": "https://c.newsnow.co.uk/A/1325448964?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 93,
-            "publishedAt": "2026-09-26T12:57:46.000Z"
           }
         ],
         "diplomacy": [
@@ -4795,7 +4795,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 89,
+            "heatScore": 87,
             "publishedAt": "2026-09-26T12:15:30.000Z"
           },
           {
@@ -4807,7 +4807,7 @@
             "sources": [
               "The Nation, Nigeria"
             ],
-            "heatScore": 74,
+            "heatScore": 72,
             "publishedAt": "2026-09-26T18:06:11.000Z"
           },
           {
@@ -4819,35 +4819,11 @@
             "sources": [
               "UA.NEWS"
             ],
-            "heatScore": 69,
+            "heatScore": 68,
             "publishedAt": "2026-09-26T17:45:42.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋NDEA签署加强禁毒合作协议- dailytimesng.com",
-            "originalTitle": "NDLEA, UAE’s NDEA Sign Agreement to Enhance Anti-Drug Cooperation - dailytimesng.com",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWk1lcW1vZG9pOWJ6SkVJUkcxRi1OYllZNW9pUE01MWVKc1pIQ2Z1dzNUWGt1RV9ZcmUtZU9DZUY4NjdMN0VHTk16bmpLdnZFUWRvTjBhZFZWWFpXckJkQzdxMEgwbE8ya1M0VlRPRlYzRkswcW5FQTRqbjdrYkRMRGpWVmxTNWJKcTdfcklCY0F5dW8?oc=5",
-            "source": "dailytimesng.com",
-            "sources": [
-              "dailytimesng.com"
-            ],
-            "heatScore": 68,
-            "publishedAt": "2026-09-26T17:31:38.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "协议将收紧对尼日利亚-阿联酋毒品网络的束缚— MARWA -蓝图报纸",
-            "originalTitle": "Agreement will tighten noose on Nigeria-UAE drug networks — Marwa - Blueprint Newspapers",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0xvbTJmUkwwZlpUS2ZySng3RkpoNUdDdjJLRXRDTFNHcmh1a202WldqUXFVQTNIVkhVRmd1ZmpWeGxkZ0VzQUVfUHd3Y2RQSWw5VHdxdzNHRko4SEhRdUVqTVJ6SzI1ZHNtUUV0eHlrQUIyR3NQNU53bVFmX2xmdVdCMXljekZtR2xMLXdR?oc=5",
-            "source": "Blueprint Newspapers",
-            "sources": [
-              "Blueprint Newspapers"
-            ],
-            "heatScore": 66,
-            "publishedAt": "2026-09-26T15:07:13.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "Bourita在纽约与沙特、黎巴嫩和阿联酋官员举行会谈-摩洛哥世界新闻",
             "originalTitle": "Bourita Holds Talks with Saudi, Lebanese, UAE Officials in New York - Morocco World News",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSk1VbGJuMjQxamVHb2lDZnhhR3NRNy14Vk5rNFRYWE0wU1Z1ZVNnZlR3YVlOZkpQdUQ5OGRpd2gzdVRkS0RoTDNnTE5hT09oWkdVczVXdzRwYTl0Skh2YzhITW9IQmlFTWx1c1Y1QXpjRWpBVV9QLUR1a0lTWEdFY1hqSVpRbm50dzREY1BUaVVka0MtQ0drOHU1anJZOWxnSlhnQjViX2FYNExNU3NQek5DX3k?oc=5",
@@ -4859,6 +4835,30 @@
             "publishedAt": "2026-09-26T14:25:08.000Z"
           },
           {
+            "rank": 5,
+            "translatedTitle": "协议将收紧对尼日利亚-阿联酋毒品网络的束缚— MARWA -蓝图报纸",
+            "originalTitle": "Agreement will tighten noose on Nigeria-UAE drug networks — Marwa - Blueprint Newspapers",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0xvbTJmUkwwZlpUS2ZySng3RkpoNUdDdjJLRXRDTFNHcmh1a202WldqUXFVQTNIVkhVRmd1ZmpWeGxkZ0VzQUVfUHd3Y2RQSWw5VHdxdzNHRko4SEhRdUVqTVJ6SzI1ZHNtUUV0eHlrQUIyR3NQNU53bVFmX2xmdVdCMXljekZtR2xMLXdR?oc=5",
+            "source": "Blueprint Newspapers",
+            "sources": [
+              "Blueprint Newspapers"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-09-26T15:07:13.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋同意取消乌干达旅行限制，等待检查- ChimpReports",
+            "originalTitle": "UAE Agrees to Lift Uganda Travel Restrictions, Pending Inspection - ChimpReports",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWVyal9XcTVtNTl6M0RhT2ZMV1lFZkloV2JBV09VY3IyVGhVajBDUERwSDVIbVRBT3hlQzBXc2ZqRmlTUWNuWHh5Ynk0RTlEWWNPSDNMRFlkSlh4bVNsNkdLaUFCeWhza0dTb2FRNkEwZWthT0pKRi12djJOQ3RYd21aT2FzTUtzOHdIOE50bG9TaG9a?oc=5",
+            "source": "ChimpReports",
+            "sources": [
+              "ChimpReports"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-09-26T14:57:28.000Z"
+          },
+          {
             "rank": 7,
             "translatedTitle": "旁遮普原籍Angad Singh Dhillon被任命为加拿大驻阿联酋大使",
             "originalTitle": "Punjabi-origin Angad Singh Dhillon appointed as Canada’ ambassador to the UAE",
@@ -4867,7 +4867,7 @@
             "sources": [
               "The Times of India"
             ],
-            "heatScore": 65,
+            "heatScore": 64,
             "publishedAt": "2026-09-26T13:55:20.000Z"
           },
           {
@@ -4896,14 +4896,14 @@
           },
           {
             "rank": 10,
-            "translatedTitle": "阿联酋副总理塔里克·拉赫曼在纽约讨论加强双边关系- RTV新闻",
-            "originalTitle": "PM Tarique Rahman, UAE Deputy PM Discuss Strengthening Bilateral Relations in New York - RTV News",
+            "translatedTitle": "阿联酋副总理塔里克·拉赫曼讨论在纽约加强双边关系- rtvonline.com",
+            "originalTitle": "PM Tarique Rahman, UAE Deputy PM Discuss Strengthening Bilateral Relations in New York - rtvonline.com",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZQUg2dnh2ZE1VVG5keTk1MkRXcnBJVkk1bEw5Zy1KQy1WckpTSHpoNlRmaEpreTI1MnppemR1ZXVNYzl4WnhmU203NmVHTzk1SFY3bXExaGhhYm8?oc=5",
-            "source": "RTV News",
+            "source": "rtvonline.com",
             "sources": [
-              "RTV News"
+              "rtvonline.com"
             ],
-            "heatScore": 57,
+            "heatScore": 56,
             "publishedAt": "2026-09-26T07:21:07.000Z"
           }
         ],
@@ -4917,7 +4917,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-09-26T09:35:24.000Z"
           }
         ],
@@ -4932,23 +4932,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 91,
+            "heatScore": 89,
             "publishedAt": "2026-09-26T15:40:24.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "在阿联酋的巴基斯坦人，海湾合作委员会可以在新的汇款奖励计划中赢得高达132万迪拉姆",
-            "originalTitle": "Pakistanis in UAE, GCC can win up to Dh1.32 million in new remittance reward scheme",
-            "url": "https://www.khaleejtimes.com/uae/pakistani-uae-countries-win-up-to-dh212-million-prizes-remittances",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-09-26T03:39:50.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "阿联酋市场在区域航空旅行警告后下滑-路透社",
             "originalTitle": "UAE markets decline after warning on regional air travel - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmc1cG4yNlZ5Z2FjX3VJcHhsVDJmX0JMTFdKZ2JBODlNY3RYRS1VeWNhbXJXTlRTTEhXRUlualU0dHo1SzU1b3hjUFVHUlhpLUhhZk11WVU0dlFDcHRXaTN1ZEctd0pXaEFxQnAySlJiMzNOZGNFWk9qZUJNaThzOVhmNk5NeWQ3U2NTMFJuSGw0LXdoUHVXQTdiRXZPc2ZaQ1hoVS1zczFnUzg?oc=5",
@@ -4956,11 +4944,11 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-09-25T12:17:43.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "随着西非国家扩大与美国、阿联酋和欧洲的防务关系，非洲第二强大的军队向贝宁提供反恐专业知识- Business Insider Africa",
             "originalTitle": "Africa’s second most powerful army offers counterterrorism expertise to Benin as West African nation expands defence ties with US, UAE and Europe - Business Insider Africa",
             "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEpMUU0yMGRPdFdhZEZPLUYxZ1VTQW4yNFRtS3huMGxHSHdFVkdjbmJsSEMwOGxmWUJGcFJMZmp6ajQyNUNGRDhwQzN0cUNEVGZFdVE4UlJhVVZnMjd6YU1rOTBMNFVocUFES0NnQjdLaGNidkxyQjF0Z0I2LWdCd3hCcl9vamF0RXlVX19jVzVORGpWUHhJVld6Y2pWTVo2WS1wa1hoYzJDUmZEdnVJc0dnVlJzbEgtLXlZc3pfeUIwSkFzbE9nS1RqZFE1TEoyc2E4WGM0dEs?oc=5",
@@ -4968,11 +4956,11 @@
             "sources": [
               "Business Insider Africa"
             ],
-            "heatScore": 69,
+            "heatScore": 70,
             "publishedAt": "2026-09-26T18:00:00.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "沙特联军称拦截胡塞导弹和无人机-迪拜眼103.8",
             "originalTitle": "Saudi coalition says it intercepts Houthi missiles, drones - Dubai Eye 103.8",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmRwNkl3ZTZRaUo1X2NzQ3dWZ3JPbkNscEhtVGJLeHNmUkxYWFdCNk5fcERydlpsUERKdEVmaXFKZ2drQzRQUFNMM1pGLUtZbkFGc0psLUxPbnZ3dncwNWZWVmc4aTNFc3R5emg3SFdURGc2MU5Rdk96QjVCSFVXSVlfSUZhbWN4cjQtak16WGpJVjJxMmdnZmw1VUFVQ1V2Ym1idWtFZXZGUQ?oc=5",
@@ -4984,19 +4972,19 @@
             "publishedAt": "2026-09-26T16:25:42.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "巴基斯坦和阿联酋之间的新战略方程- atalayar.com",
-            "originalTitle": "The New Strategic Equation Between Pakistan and the UAE - atalayar.com",
+            "rank": 5,
+            "translatedTitle": "巴基斯坦和阿联酋之间的新战略方程-阿塔拉亚尔",
+            "originalTitle": "The New Strategic Equation Between Pakistan and the UAE - Atalayar",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkpEZjYtdWtzMUFGeUJSU21oZVBMN2VTNU5jdF9LdlBOTGpJODhKMHdhQ0RGQTAyUHNXODRKRWlQaU9tU2dtMjZROU5EeEFfdHctWXBsMnd3QWpNclhHanZ2OF9IQTh6UXV2bURzdUl3N3RGRDhqMDBReEJVVHl5V0Y3ckpxV3RtUUFzQzdWdXBXS3haZXV1dlFYTVN4Vm8wWEdQS0hzTG5VYzd1Q3lIOVF2Y0dmUVhyQWh2N01XMTFLUlF6b1E?oc=5",
-            "source": "atalayar.com",
+            "source": "Atalayar",
             "sources": [
-              "atalayar.com"
+              "Atalayar"
             ],
             "heatScore": 67,
             "publishedAt": "2026-09-26T13:00:00.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "阿联酋称其拦截伊朗导弹，富查伊拉油区在无人机袭击后遭遇火灾- EnergyNow.com",
             "originalTitle": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles - EnergyNow.com",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
@@ -5008,7 +4996,7 @@
             "publishedAt": "2026-09-26T11:01:21.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿联酋谴责蒂格雷人阵袭击，呼吁立即停止埃塞俄比亚敌对行动--海湾新闻",
             "originalTitle": "UAE condemns TPLF attacks, calls for immediate end to Ethiopia hostilities - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWlEZlAwNXYtV2sxdHRITGJTOFczRHd4ZlRpd2xTV0JZR2NyNEFXRXZQQnVHX1d3TWl3a1J1VWpxUU9pYmIwbWFrYXpFN0h6ZWpaT3VLZjNVMVpYWEY5N291bHVXSk9wMmp5bmVuUzNhd09iMzdNc2FCc29jenNyVzgxMmNadzZSRTFEeFBLRWIyMXNpbHRyaGUweFdpdzVZQ2lUNjhpcFJUWkFNbEZR0gG_AUFVX3lxTE03cEhRelI3ajRhQlpPOVo1RzI1Z2JrSDVmeU1mNEhIdWNIUmRFVThQUTBqaHdjMUtKREItMTFJb3NZWm5ldE5SbjBhN2o3Y2QwWWNnV2RzQXE1djJOQXllenprV1hURTE2QTl0OWtkX1lpbXpjSlBGR3lmWUxibWtIMTU4NUY0X29BQXJnV3pOem5WRkVkMm9RdHFMMEg1aE0wU3d1VEl5dHdBZ3p1eFNUcUtBdjNvRXhHbm9YYkRr?oc=5",
@@ -5020,7 +5008,7 @@
             "publishedAt": "2026-09-25T17:32:34.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "阿联酋称伊朗导弹袭击霍尔木兹海峡油轮， 1名水手遇难- EnergyNow.com",
             "originalTitle": "UAE Says Iranian Missiles Struck Oil Tankers in Strait of Hormuz, One Sailor Killed - EnergyNow.com",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHI2dnA4RFFBdm9PemRsSGZPVE91QWpZRUprX084RjNiZmh4LUxUZ3RKRFZxRS1nTTkyemlUbmxJUjZocVl0Um5pWFZvN1R2Q2NIcThHQ2ZOalFRc21LQ3AyWVV4amMtal9pbmdySTdjcUxNRVlDQWlyc1RyVjA3RlpEN1F6VEEwU3VkTEhMR2ZqQmlwVHVOeFMwSkkyZmdINFp4bm9SX3ZSd1dMY0lmRi0tQQ?oc=5",
@@ -5032,7 +5020,7 @@
             "publishedAt": "2026-09-26T11:08:17.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "刚果军用飞机坠毁13人死亡-迪拜眼103.8",
             "originalTitle": "Congo military plane crash kills 13 - Dubai Eye 103.8",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEpHMnNIQ19SUVQzdy1Fc3hQTWhHcldxTlVhUWRTV3hpNlBaN2h4ZVhwNFVvSklmcjZ0QW5kN2VEdUk0Y0N3bDZiRXhNQ3FDWWRVQl9NbWN4UHVHUlNrb0hJa2phZHU3SjZpTjFYUTZKTlNyWlhiRUM5LVFDTFlYRGsyZHZLWk1JZmtPSQ?oc=5",
@@ -5042,6 +5030,18 @@
             ],
             "heatScore": 54,
             "publishedAt": "2026-09-26T05:09:38.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "无人机袭击阿联酋核电站后油价触及两周高位- EnergyNow.com",
+            "originalTitle": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 49,
+            "publishedAt": "2026-09-25T16:22:26.000Z"
           }
         ],
         "social": [
@@ -5054,11 +5054,23 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 80,
+            "heatScore": 79,
             "publishedAt": "2026-09-26T07:50:05.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "阿联酋总统会见乌兹别克斯坦高级官员- ARN新闻中心",
+            "originalTitle": "UAE President meets senior Uzbekistan official - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX3hoVUNOa2Rldk03ZEdpWV9KNlYyNnJlUWpBUE9yMnlQd2pnWmFMY3loSUxJV2QwRGJDUFFGVEZtSUdzaHhuLVVJMkt1QmhWUHhfNTV5TDRjTDFwUmJJQ3ZjZlJCMGY3dlJadGZrdnluaGRhaEJLT0VvUTRpeWEyYjFPNHlvSnNIYU1zWWpTWFBaQQ?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-09-26T19:07:46.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "社交媒体上的陌生人如何在不到一周的时间内为一名迪拜幼儿的移植手术筹集了405,000迪拉姆-海湾新闻",
             "originalTitle": "How strangers on social media raised Dh405,000 for a Dubai toddler’s transplant in less than a week - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1kzMXFkQjdNVV9zTDdRVmRzYUVOWEQtMnNMZXRGcmFFdWJVYzlXZjkxdk9rZEt6Nkl3U1VLYmJQT1BjZWRjRnZma2FpT0tNOVFIUHZRbUJlbzZ5Qzk4NVA1RkUydG41dkx3TVp6WEJuejZseE1Ld29DSFVXUnBEai1zZG5CTTlVakd4UDVKMDZDR1AyY3JxMEozWVpUS0c5VTd3UGk4NENMcDVUT21malVqM1ZRR1lxTEc0RWQtQlZPWF9ZNGF6T2E1djh5UmNYQThPY1c5cmV1VFY2SExr0gHfAUFVX3lxTE5fWTMxcWRCN01VX3NMN1FWZHNhRU5YRC0yc0xldEZyYUV1YlVjOVdmOTF2T2tkS3o2SXdTVUtiYlBPUGNlZGNGdmZrYWlPS005UUhQdlFtQmVvNnlDOTg1UDVGRTJ0bjV2THdNWnpYQm56Nmx4TUt3b0NIVVdScERqLXNkbkJNOVVqR3hQNUowNkNHUDJjcnEwSjNZWlRLRzlVN3dQaTg0Q0xwNVRPbWZqVWozVlFHWXFMRzRFZC1CVk9YX1k0YXpPYTV2OHlSY1hBOE9jVzlyZXVUVjZITGs?oc=5",
@@ -5066,11 +5078,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-09-26T02:30:00.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "印度妇女比较15天逗留后迪拜孟买的成本： “如果薪水更高，就留在迪拜” |热门-印度斯坦时报",
             "originalTitle": "Indian woman compares Mumbai, Dubai costs after 15-day stay: ‘Stick to Dubai if salary is better’ | Trending - Hindustan Times",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOODh3S3VFdFBZeXBYSlZvTW1vaDFad0hwcHhiSXlncXNIMEpYcjREOUxpR29XTTB3MmplQXZfT2k2eE1mQ2ttb0FROGxnQlByRmZwVGJpVTNlOHoxYjljQkVVUXNzZE1EM1ZYS0h1QmNLZnBkY2ZhbncweDU5SzBZbENUV1k4bzNfbDdIbVVQTUh0V0oxQ2RNcVFuTE5nVnUtaXFoQmN1cjFaTjRsOV9MLVhocHM0dTZxRlNDSzcybUFrLU5lWHB0Nm1nMUZLckxFdzhLRjZ0RWR4ckRYX21nMWdmSGl4UWFwWWfSAe8BQVVfeXFMUERablBnenFqcjdjbzdONGpCQy11eDhIUkhaQm1ZWGEtLVo0WkRrdzl3bWhUcGMtNHYzaXRRYkluNWVJQ2gzTUpzXzVXaTVRQnJoTXBTcTdDTGY2cGxYNHdZVTNzNjhZX1N6WDRsdmp3YlhZeDQ2NVJvODRtNDB6aUh1NGlxYWZJLTZoRndBY0tQblhmQWQ0TXE1YzIxRHpIUDNBQ3FEVERxVFRGZkNLdlZ4LWN4NkJRMVhJaFdBMmdzWjhMYzFsVjJIb3dOc3ROczVIVF9ZNnMwSm9pMFhydmZvYTg5NXA2TUJZc2RSTmc?oc=5",
@@ -5078,11 +5090,11 @@
             "sources": [
               "Hindustan Times"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-09-26T15:25:16.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "“我的老板说这是人工智能” ：阿联酋的印度医学博士向员工赠送iPhone ；社交媒体对病毒视频做出反应- Livemint",
             "originalTitle": "‘My boss says this is AI’: Indian MD in UAE gifts iPhone to employees; social media reacts to viral video - Livemint",
             "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeTIybHpzYWJyUElHVEN2dzlNekNsX1JyRzk1UmZTQ1o4U2VUNkxGX05SelV6TUlaeGp3NzZMa0VOVERzVUhnWUp2QnhGOFdkc2RSN0Nfcm4tUFA1VTZTTFkxcThveThwNnUwWXVfMlFSSmRjTjExOE1RVDkzVlgyekZxamxGNl9CYTdISTlWWHB5QThoZE5qY1Q1Z3ZSSmFnVGRMX3JIQ3R3aWlrTnYxTThpQUFtRlR6U2ZsUnlvdkRmTnM2YzRpVmF1X20zVlpQbEdySkJVRTZWRnNvcTRDcHdONHpCRGVjRHpVWDl2a9IB9AFBVV95cUxPdFQ4ZlpEOVl2QVItTjFVczg3M0FabHdWSnVJd1plaWd1QkFHTjFWeTU1NW5rR3pabVdxbG10VmZVUlo0V05pamktbFhhYnpwUUNPd0p1cVFMSlU3NGR2MGRDQm5acFdPWlJBU1dtdk1KVEJyQlRYOTBhUkJKRHItRWc0eENFeVNpaVJlUzBQWndxRnRPd0E5TW9hcnV1MjJSeHVpeHFRZXpPRlR4OXJnWXMtbUVlLWczQW16Ukc2a1h2cFhqekpncV9oVk85RXhCSWFZYUJDbkNOVGtHeG5QRU9SU2M0eFVkMC1JNDNCVG1JNmI5?oc=5",
@@ -5090,11 +5102,11 @@
             "sources": [
               "Livemint"
             ],
-            "heatScore": 68,
+            "heatScore": 67,
             "publishedAt": "2026-09-26T17:00:04.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "“阿联酋成为她的家人” ：数百人参加分娩时去世的妈妈的葬礼- Khaleej Times",
             "originalTitle": "'UAE became her family': Hundreds turn up for funeral of mum who died giving birth - Khaleej Times",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3dRcFB3WGF1TXd5YldTVnBSbzdQLXFTLUN0elQzekdWVU8wQXE3NG00b1ZrTjRYZl9mbFJHY0hlMVpMODdEdXB0SzlNMFpnRnlvcEZQYmNaSlBrQW80dWpwRjRpMXFod0sxQ0ZVbkxpdEw2THZtUXQwVGV4UWZaZWdMdk5WSzJr0gGQAUFVX3lxTFB6UkZqaWd0dmxEU3REZUVIWFRhcFJxaFpmZVBWaFBSMWpKeEVzWjV3VHBDenl5NFpPN1dlMHJtVEFadzkwSDB2d2NnZXAtSGkyNHk2V0ZqUjFmTktKYUx2UmhDVDRhb1hTM0JVbnI2aWVXalZ5SGxCY0JaRTk3dEhUY1dHNGpFY3Q2LVNRdmpleg?oc=5",
@@ -5106,7 +5118,7 @@
             "publishedAt": "2026-09-25T15:03:23.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "因“沙门氏菌风险”而从英国超市货架上下架的流行迪拜风味巧克力- Shropshire Star",
             "originalTitle": "Trending Dubai-style chocolate pulled from UK supermarket shelves due to 'salmonella risk' - Shropshire Star",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnJfQTdYVzFTNHdIWTNBYkU2Y214OTdQdXRZVXZJUUpCRm5GMHpsbGNNSzYxWU5kdkw5a3VSalhFN1ZBQ1VzX3N4YWx6Q3hfZS1qNlRFWGRyT2UxN2hQN2lUSnBBdnJwWTJwQ0RUOTRnSzZ6NVROYzNEaU9yVXVQMjhWLUdpMF9zMzZNN2tiQnRDUEdVZFhHcm5iVkt4OTd6bi0yV1NDem9JazBsbWtXZjdRN0ZUU29yWVhvQWdfbHpxUHZ6RkM5dDQ3NVI?oc=5",
@@ -5118,7 +5130,7 @@
             "publishedAt": "2026-09-26T09:09:00.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "印度加强与非洲和阿联酋合作伙伴在水安全、可持续发展方面的合作- lokmattimes.com",
             "originalTitle": "India steps up engagement with African, UAE partners on water security, sustainability - lokmattimes.com",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXhTMHhZOW9zVXpkaG1Sb0N1QTYya0FhdzdmRUFvUko5bEV5bTFDY0g0MjZ1VERucmtMR3dndGx1TGNDT1psaVd2WVUtR004NkloRUk4dXhQZ2ZRRXlYMkM1TEEtTDR1dnhpYnc4S0lpWWJxUUJQYjJjMDZtTlVEUi1pRUo4RUxteVdQNWctZDNCMGY3Y3FCUWppb3lzTmkydkgxY01BUW5taFhkQnZobzVkSFhhN3NvVWQ4RDQ4amxfN3Iz?oc=5",
@@ -5130,7 +5142,7 @@
             "publishedAt": "2026-09-26T09:33:45.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "阿联酋代表团留在内塔尼亚胡的联合国演讲中，引发辩论- Siasat日报",
             "originalTitle": "UAE delegation stays during Netanyahu’s UN speech, sparks debate - The Siasat Daily",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWcxR2pEQS1JNzE3TDFXemVyX0czSEVEX0gzckJ5c1hBaE1DZjZlZjhTZTlkUXJ6dU1oMjZjU3lWekw2ZHN0eVNSUzJXUld4bXFUN2pqdXdEdXRJOWhqS1lpVlNZYlhLbC02TWo4TU8zRTNmTE1sSGhZZ2plT01RYUgyLVRFZG1pUE02NWV2QmdzSjhGU2pfUThRTUNJT2vSAZ8BQVVfeXFMTmVnMUdqREEtSTcxN0wxV3plcl9HM0hFRF9IM3JCeXNYQWhNQ2Y2ZWY4U2U5ZFFyenVNaDI2Y1N5VnpMNmRzdHlTUlMyV1JXeG1xVDdqanV3RHV0STloaktZaVZTWWJYS2wtNk1qOE1PM0UzZkxNbEhoWWdqZU9NUWFIMi1URWRtaVBNNjVldkJnc0o4RlNqX1E4UU1DSU9r?oc=5",
@@ -5142,28 +5154,16 @@
             "publishedAt": "2026-09-26T08:50:00.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "尽管发生了加沙种族灭绝事件，但阿联酋的影响者在内塔尼亚胡的联合国大会演讲中庆祝阿联酋留下来- presstv.co.uk",
-            "originalTitle": "Emirati influencers celebrate UAE for staying during Netanyahu’s UNGA speech despite Gaza genocide - presstv.co.uk",
+            "rank": 10,
+            "translatedTitle": "尽管发生了加沙种族灭绝事件，但阿联酋的影响者在内塔尼亚胡的联合国大会演讲中庆祝阿联酋留下来- PressTV",
+            "originalTitle": "Emirati influencers celebrate UAE for staying during Netanyahu’s UNGA speech despite Gaza genocide - PressTV",
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZFF4Y1ZrMlY2aFN2bFVIM2hWSVFrd1NWQWk3alFKZ0g1UGNYUkhfRDN5emc0R0VJU3RCSU1RU3loWTl2amFxTlVxdGdZNzk2WW42eGY4dER3OFJNajRBQlRrWW5wNEZlVTVPVDNjVHhNRzdtZG5JVXE3TWNOU2RFcjlLSWI3dlNtclFPQWlrVEdtUkxkcUY1ZEZtckhKVklhdjBiZzFOSzdseUExM09sT05HV1NhRWlRRFZGNEFvT1hiaFdCV2ozaXFCYlhvT0FBRUdQWUVyc3JYSXFGaHBoZGxiOVA?oc=5",
-            "source": "presstv.co.uk",
+            "source": "PressTV",
             "sources": [
-              "presstv.co.uk"
+              "PressTV"
             ],
             "heatScore": 58,
             "publishedAt": "2026-09-26T08:39:00.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "外籍母亲在等待12年后在迪拜分娩双胞胎- The Siasat Daily",
-            "originalTitle": "Expat mother dies birthing twins in Dubai after 12-year wait - The Siasat Daily",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnF1RFNsaXNmUkY1a1l0N3BfTWNrS1M3amVURlRhalhjN2dBMS12U3pVaEN0MW9mQ0dwMmlfRGhUdXVMU2wtaWd1VjB1OTFYSFlhSzRNOFRwdUxFWUlkNUtXSS1LRllybjdiQnpPaS1ZS0RMODZMTktDbzA2WmZBUEcwYV9PaVVMZFFMTW5jNVVQVm5HMEhv0gGcAUFVX3lxTE5WY042bU16Z0xubkk3UmlfSHZkaDlTRTAtWkNMalFRQS1FQ1FZQUVUOU53OTQ1elhZZUxhVjQ4eVNEbVZxbWtDLVJ0R1JMeFBIZkxQQzJrS1JmTFZrTlFySDhZSHBGWWJ5ekhoR0RmOW1aektqODNkbEhOajlqNEVzNXpwTmpocU1VVWQtUloyMHNqQ21iZ3dNTzk3ag?oc=5",
-            "source": "The Siasat Daily",
-            "sources": [
-              "The Siasat Daily"
-            ],
-            "heatScore": 57,
-            "publishedAt": "2026-09-26T07:39:38.000Z"
           }
         ],
         "china": [
@@ -5188,7 +5188,7 @@
             "sources": [
               "الإمارات اليوم"
             ],
-            "heatScore": 55,
+            "heatScore": 54,
             "publishedAt": "2026-09-26T00:05:00.000Z"
           },
           {
