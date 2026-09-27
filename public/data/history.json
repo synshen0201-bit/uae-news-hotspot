@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T19:09:32.441Z",
+  "updatedAt": "2026-09-27T19:23:47.327Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -5195,7 +5195,7 @@
     },
     "2026-09-27": {
       "date": "2026-09-27",
-      "updatedAt": "2026-09-27T19:09:32.441Z",
+      "updatedAt": "2026-09-27T19:23:47.327Z",
       "categories": {
         "all": [
           {
@@ -5219,11 +5219,23 @@
             "sources": [
               "Syrian Arab News Agency"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-09-27T15:52:57.000Z"
           },
           {
             "rank": 3,
+            "translatedTitle": "迪拜的长期战略将在未来十年内带来超过350亿迪拉姆的收入： Sheikh Hamdan",
+            "originalTitle": "Dubai's longevity strategy to bring in over Dh35 billion in next decade: Sheikh Hamdan",
+            "url": "https://www.khaleejtimes.com/uae/dubai-longevity-strategy-to-bring-in-over-dh35-billion-in-next-decade-sheikh-hamdan",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-09-27T12:20:54.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "谢赫扎耶德大清真寺是阿联酋的全球地标",
             "originalTitle": "Sheikh Zayed Grand Mosque is a global Emirati landmark",
             "url": "https://c.newsnow.co.uk/A/1325508486?-15565:1965",
@@ -5235,18 +5247,6 @@
             "publishedAt": "2026-09-27T15:33:36.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "迪拜的长期战略将在未来十年内带来超过350亿迪拉姆的收入： Sheikh Hamdan",
-            "originalTitle": "Dubai's longevity strategy to bring in over Dh35 billion in next decade: Sheikh Hamdan",
-            "url": "https://www.khaleejtimes.com/uae/dubai-longevity-strategy-to-bring-in-over-dh35-billion-in-next-decade-sheikh-hamdan",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 97,
-            "publishedAt": "2026-09-27T12:20:54.000Z"
-          },
-          {
             "rank": 5,
             "translatedTitle": "阿联酋进一步向加沙提供458吨援助以示支持",
             "originalTitle": "UAE sends further 458 tonnes of aid to Gaza in show of support",
@@ -5255,7 +5255,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 96,
+            "heatScore": 97,
             "publishedAt": "2026-09-27T15:12:48.000Z"
           },
           {
@@ -5267,7 +5267,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 96,
+            "heatScore": 97,
             "publishedAt": "2026-09-27T12:00:48.000Z"
           },
           {
@@ -5279,23 +5279,11 @@
             "sources": [
               "Nigerian Guardian"
             ],
-            "heatScore": 95,
+            "heatScore": 96,
             "publishedAt": "2026-09-27T14:00:00.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "阿联酋提出区域倡议，以打击战争期间激增后的跨境欺诈行为",
-            "originalTitle": "UAE proposes regional initiative to combat cross-border fraud after surge during war",
-            "url": "https://www.khaleejtimes.com/uae/uae-regional-initiative-combat-cross-border-fraud-conflict-money-laundering",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 95,
-            "publishedAt": "2026-09-27T11:08:14.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "谢赫·哈姆丹（ Sheikh Hamdan ）表示，迪拜的长寿运动可以改善健康状况并带来350亿迪拉姆的经济增长",
             "originalTitle": "Sheikh Hamdan says Dubai longevity drive can improve health and deliver Dh35bn economic boost",
             "url": "https://c.newsnow.co.uk/A/1325505778?-15565:1965",
@@ -5303,8 +5291,20 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 93,
+            "heatScore": 94,
             "publishedAt": "2026-09-27T14:33:56.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋提出区域倡议，以打击战争期间激增后的跨境欺诈行为",
+            "originalTitle": "UAE proposes regional initiative to combat cross-border fraud after surge during war",
+            "url": "https://www.khaleejtimes.com/uae/uae-regional-initiative-combat-cross-border-fraud-conflict-money-laundering",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-09-27T11:08:14.000Z"
           },
           {
             "rank": 10,
@@ -5315,7 +5315,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 94,
             "publishedAt": "2026-09-27T11:01:42.000Z"
           }
         ],
@@ -5334,6 +5334,18 @@
           },
           {
             "rank": 2,
+            "translatedTitle": "迪拜的长期战略将在未来十年内带来超过350亿迪拉姆的收入： Sheikh Hamdan",
+            "originalTitle": "Dubai's longevity strategy to bring in over Dh35 billion in next decade: Sheikh Hamdan",
+            "url": "https://www.khaleejtimes.com/uae/dubai-longevity-strategy-to-bring-in-over-dh35-billion-in-next-decade-sheikh-hamdan",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-09-27T12:20:54.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "谢赫扎耶德大清真寺是阿联酋的全球地标",
             "originalTitle": "Sheikh Zayed Grand Mosque is a global Emirati landmark",
             "url": "https://c.newsnow.co.uk/A/1325508486?-15565:1965",
@@ -5345,18 +5357,6 @@
             "publishedAt": "2026-09-27T15:33:36.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "迪拜的长期战略将在未来十年内带来超过350亿迪拉姆的收入： Sheikh Hamdan",
-            "originalTitle": "Dubai's longevity strategy to bring in over Dh35 billion in next decade: Sheikh Hamdan",
-            "url": "https://www.khaleejtimes.com/uae/dubai-longevity-strategy-to-bring-in-over-dh35-billion-in-next-decade-sheikh-hamdan",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 97,
-            "publishedAt": "2026-09-27T12:20:54.000Z"
-          },
-          {
             "rank": 4,
             "translatedTitle": "阿联酋进一步向加沙提供458吨援助以示支持",
             "originalTitle": "UAE sends further 458 tonnes of aid to Gaza in show of support",
@@ -5365,7 +5365,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 96,
+            "heatScore": 97,
             "publishedAt": "2026-09-27T15:12:48.000Z"
           },
           {
@@ -5377,7 +5377,7 @@
             "sources": [
               "Nigerian Guardian"
             ],
-            "heatScore": 95,
+            "heatScore": 96,
             "publishedAt": "2026-09-27T14:00:00.000Z"
           },
           {
@@ -5389,7 +5389,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 93,
+            "heatScore": 94,
             "publishedAt": "2026-09-27T14:33:56.000Z"
           },
           {
@@ -5401,7 +5401,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 94,
             "publishedAt": "2026-09-27T11:01:42.000Z"
           },
           {
@@ -5413,7 +5413,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 91,
+            "heatScore": 92,
             "publishedAt": "2026-09-27T13:31:48.000Z"
           },
           {
@@ -5425,20 +5425,20 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 90,
+            "heatScore": 91,
             "publishedAt": "2026-09-27T13:01:23.000Z"
           },
           {
             "rank": 10,
-            "translatedTitle": "重塑阿布扎比之旅的联系",
-            "originalTitle": "The connections reshaping travel across Abu Dhabi",
-            "url": "https://c.newsnow.co.uk/A/1325500635?-15565:1965",
-            "source": "Gulf News",
+            "translatedTitle": "阿联酋的新服务为卖家提供免费的家庭黄金估值和即时付款",
+            "originalTitle": "New service in UAE offers free home gold valuations, instant payment for sellers",
+            "url": "https://www.khaleejtimes.com/lifestyle/uae-gold-jewellery-free-home-valuation-service",
+            "source": "Khaleej Times",
             "sources": [
-              "Gulf News"
+              "Khaleej Times"
             ],
-            "heatScore": 90,
-            "publishedAt": "2026-09-27T12:41:01.000Z"
+            "heatScore": 91,
+            "publishedAt": "2026-09-27T08:45:35.000Z"
           }
         ],
         "diplomacy": [
@@ -5451,7 +5451,7 @@
             "sources": [
               "Syrian Arab News Agency"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-09-27T15:52:57.000Z"
           },
           {
@@ -5463,7 +5463,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 96,
+            "heatScore": 97,
             "publishedAt": "2026-09-27T12:00:48.000Z"
           },
           {
@@ -5476,7 +5476,7 @@
               "Anadolu Ajansı",
               "usmuslims.com"
             ],
-            "heatScore": 81,
+            "heatScore": 82,
             "publishedAt": "2026-09-27T10:50:30.000Z"
           },
           {
@@ -5500,7 +5500,7 @@
             "sources": [
               "وزارة الخارجية الإماراتية"
             ],
-            "heatScore": 73,
+            "heatScore": 74,
             "publishedAt": "2026-09-27T16:33:00.000Z"
           },
           {
@@ -5512,7 +5512,7 @@
             "sources": [
               "The Peninsula"
             ],
-            "heatScore": 65,
+            "heatScore": 66,
             "publishedAt": "2026-09-27T13:16:59.000Z"
           },
           {
@@ -5524,7 +5524,7 @@
             "sources": [
               "Operativ Məlumat Mərkəzi"
             ],
-            "heatScore": 64,
+            "heatScore": 65,
             "publishedAt": "2026-09-27T12:24:09.000Z"
           },
           {
@@ -5536,7 +5536,7 @@
             "sources": [
               "مكتب أبوظبي الإعلامي"
             ],
-            "heatScore": 64,
+            "heatScore": 65,
             "publishedAt": "2026-09-27T12:02:57.000Z"
           },
           {
@@ -5548,7 +5548,7 @@
             "sources": [
               "Hindusthan Samachar English"
             ],
-            "heatScore": 63,
+            "heatScore": 64,
             "publishedAt": "2026-09-27T11:20:40.000Z"
           },
           {
@@ -5560,25 +5560,13 @@
             "sources": [
               "Hürriyet Daily News"
             ],
-            "heatScore": 62,
+            "heatScore": 63,
             "publishedAt": "2026-09-27T07:55:02.000Z"
           }
         ],
         "economy": [
           {
             "rank": 1,
-            "translatedTitle": "Vitol成为伊拉克石油的第二大买家，仅次于阿联酋的ADNOC",
-            "originalTitle": "Vitol becomes second-largest buyer of Iraq’s oil after UAE’s ADNOC",
-            "url": "https://c.newsnow.co.uk/A/1325507306?-15565:1965",
-            "source": "Iraqi News",
-            "sources": [
-              "Iraqi News"
-            ],
-            "heatScore": 77,
-            "publishedAt": "2026-09-27T15:09:06.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "迪拜女商人向顶级员工赠送iPhone 18 ，称“员工是我们的力量”",
             "originalTitle": "Dubai businesswoman gifts iPhone 18 to top employees, says 'staff our strength'",
             "url": "https://www.khaleejtimes.com/uae/dubai-businesswoman-gifts-iphone-18-to-top-employees-2026",
@@ -5588,6 +5576,18 @@
             ],
             "heatScore": 76,
             "publishedAt": "2026-09-27T02:00:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Vitol成为伊拉克石油的第二大买家，仅次于阿联酋的ADNOC",
+            "originalTitle": "Vitol becomes second-largest buyer of Iraq’s oil after UAE’s ADNOC",
+            "url": "https://c.newsnow.co.uk/A/1325507306?-15565:1965",
+            "source": "Iraqi News",
+            "sources": [
+              "Iraqi News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-09-27T15:09:06.000Z"
           }
         ],
         "technology": [
@@ -5600,7 +5600,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 91,
+            "heatScore": 92,
             "publishedAt": "2026-09-27T13:31:48.000Z"
           },
           {
@@ -5612,7 +5612,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 80,
+            "heatScore": 81,
             "publishedAt": "2026-09-27T04:33:54.000Z"
           }
         ],
@@ -5626,7 +5626,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-09-27T11:08:14.000Z"
           },
           {
@@ -5638,7 +5638,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 89,
+            "heatScore": 90,
             "publishedAt": "2026-09-27T12:03:10.000Z"
           },
           {
@@ -5662,7 +5662,7 @@
             "sources": [
               "Haaretz"
             ],
-            "heatScore": 71,
+            "heatScore": 72,
             "publishedAt": "2026-09-27T11:44:00.000Z"
           },
           {
@@ -5674,7 +5674,7 @@
             "sources": [
               "Daily Sabah"
             ],
-            "heatScore": 71,
+            "heatScore": 72,
             "publishedAt": "2026-09-27T11:33:51.000Z"
           },
           {
@@ -5748,7 +5748,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 89,
+            "heatScore": 90,
             "publishedAt": "2026-09-27T08:42:22.000Z"
           },
           {
@@ -5760,7 +5760,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 83,
+            "heatScore": 84,
             "publishedAt": "2026-09-27T07:47:40.000Z"
           },
           {
@@ -5772,7 +5772,7 @@
             "sources": [
               "News18"
             ],
-            "heatScore": 70,
+            "heatScore": 69,
             "publishedAt": "2026-09-27T11:18:49.000Z"
           },
           {
@@ -5796,23 +5796,11 @@
             "sources": [
               "NewsMeter"
             ],
-            "heatScore": 69,
+            "heatScore": 68,
             "publishedAt": "2026-09-27T10:05:57.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "15天访问后，女性将孟买的生活与迪拜的生活进行了比较： “迪拜保持沉默，孟买给予......” -新闻18",
-            "originalTitle": "Woman Compares Life In Mumbai With Dubai After 15 Days Visit: ‘Dubai Gives Silence, Mumbai Gives...’ - News18",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDNaRl9VNGlKeDBSc1ZHMjZqbjFUMnpnUkZOT08xei1pZWRBdjZxWmZmSVlacUIwU1hQQXZpLUMtQXdxeTFKNzJnYURUM2xRMm9rZkxOWVc3R25tRWl5czFzajlqWEpRdDQtbHlMYndNSnk3M3FhWk50NDJKZm15TldEUVdZR2EtMElzeHZ1cGc1blhuOHd1SXN3Vno4NTVYMHdIQVNYQ0IwRWJUeWVmUzRiN2NkS1FaU0hqWnN5dDVuNmVnclJuMUkxS1Y2Z0dSczd5Yk8zY0bSAd4BQVVfeXFMTnBieXlucUh5cHZJNjB5N1dfWDBzWU54WkZ1SFJReXVqNnkxcVplaUtmS0ZzWVUwc3JHeDctTGszMVNEcENhMkt6bzl2NWJwQzFYOTlVTFhLYlozazhOcko3aWxhV0RtUjRsZ0xHTWlLYldPdkRsNnhTMDAybXQ0SkkxV252QmRjUmp4MXl2MzhJRS1qQUw5WGx2ZVhsMUluQnRZNllCVExkam5EUDAwTTNpTHk3MDR6T0xlakg5Xy1yRE1ldjU4X2VkbVlfdXpJU25KajJTbTVaUXEwcUJB?oc=5",
-            "source": "News18",
-            "sources": [
-              "News18"
-            ],
-            "heatScore": 64,
-            "publishedAt": "2026-09-27T12:10:07.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "阿联酋强调推进国际司法合作的努力- ARN新闻中心",
             "originalTitle": "UAE highlights efforts to advance international judicial cooperation - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeXlRdnFscWpXSkMxZHd0c1JJVmdobWp2dVFHc1hHU29PQkhzbGpjU0VhSm1HSm5iT245WDJqMzFZdDF6MzdYNXRSdFZKaDBpcXpFYzJuWm44YjZrOVNYMzYyUEdZQjZBd3BYTmFEQzY3QnVIbEdSd1BVcnREWDhnQTVDTWV0S1dlOGdTVzllODNMdEZiOFNKQjRISlQ2aVZ3U0VEeVd6ZTUzdFhoUkZz?oc=5",
@@ -5820,8 +5808,20 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 62,
+            "heatScore": 66,
             "publishedAt": "2026-09-27T10:01:04.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "15天访问后，女性将孟买的生活与迪拜的生活进行了比较： “迪拜保持沉默，孟买给予......” -新闻18",
+            "originalTitle": "Woman Compares Life In Mumbai With Dubai After 15 Days Visit: ‘Dubai Gives Silence, Mumbai Gives...’ - News18",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDNaRl9VNGlKeDBSc1ZHMjZqbjFUMnpnUkZOT08xei1pZWRBdjZxWmZmSVlacUIwU1hQQXZpLUMtQXdxeTFKNzJnYURUM2xRMm9rZkxOWVc3R25tRWl5czFzajlqWEpRdDQtbHlMYndNSnk3M3FhWk50NDJKZm15TldEUVdZR2EtMElzeHZ1cGc1blhuOHd1SXN3Vno4NTVYMHdIQVNYQ0IwRWJUeWVmUzRiN2NkS1FaU0hqWnN5dDVuNmVnclJuMUkxS1Y2Z0dSczd5Yk8zY0bSAd4BQVVfeXFMTnBieXlucUh5cHZJNjB5N1dfWDBzWU54WkZ1SFJReXVqNnkxcVplaUtmS0ZzWVUwc3JHeDctTGszMVNEcENhMkt6bzl2NWJwQzFYOTlVTFhLYlozazhOcko3aWxhV0RtUjRsZ0xHTWlLYldPdkRsNnhTMDAybXQ0SkkxV252QmRjUmp4MXl2MzhJRS1qQUw5WGx2ZVhsMUluQnRZNllCVExkam5EUDAwTTNpTHk3MDR6T0xlakg5Xy1yRE1ldjU4X2VkbVlfdXpJU25KajJTbTVaUXEwcUJB?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-09-27T12:10:07.000Z"
           },
           {
             "rank": 8,
@@ -5870,7 +5870,7 @@
             "sources": [
               "الإمارات اليوم"
             ],
-            "heatScore": 55,
+            "heatScore": 56,
             "publishedAt": "2026-09-27T00:05:00.000Z"
           },
           {
