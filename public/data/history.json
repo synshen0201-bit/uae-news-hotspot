@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T19:37:19.845Z",
+  "updatedAt": "2026-09-27T19:50:16.906Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -5195,7 +5195,7 @@
     },
     "2026-09-27": {
       "date": "2026-09-27",
-      "updatedAt": "2026-09-27T19:37:19.845Z",
+      "updatedAt": "2026-09-27T19:50:16.906Z",
       "categories": {
         "all": [
           {
@@ -5236,18 +5236,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "5分钟内：新的阿联酋系统缩短了处理司法合作请求的时间",
-            "originalTitle": "In 5 minutes: New UAE system cuts time to process judicial cooperation requests",
-            "url": "https://www.khaleejtimes.com/uae/new-digital-system-cuts-judicial-cooperation-requests-time-transnational-crime",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 97,
-            "publishedAt": "2026-09-27T12:00:48.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "谢赫扎耶德大清真寺是阿联酋的全球地标",
             "originalTitle": "Sheikh Zayed Grand Mosque is a global Emirati landmark",
             "url": "https://c.newsnow.co.uk/A/1325508486?-15565:1965",
@@ -5259,19 +5247,19 @@
             "publishedAt": "2026-09-27T15:33:36.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "阿联酋进一步向加沙提供458吨援助以示支持",
-            "originalTitle": "UAE sends further 458 tonnes of aid to Gaza in show of support",
-            "url": "https://c.newsnow.co.uk/A/1325507540?-15565:1965",
-            "source": "The National",
+            "rank": 5,
+            "translatedTitle": "5分钟内：新的阿联酋系统缩短了处理司法合作请求的时间",
+            "originalTitle": "In 5 minutes: New UAE system cuts time to process judicial cooperation requests",
+            "url": "https://www.khaleejtimes.com/uae/new-digital-system-cuts-judicial-cooperation-requests-time-transnational-crime",
+            "source": "Khaleej Times",
             "sources": [
-              "The National"
+              "Khaleej Times"
             ],
             "heatScore": 96,
-            "publishedAt": "2026-09-27T15:12:48.000Z"
+            "publishedAt": "2026-09-27T12:00:48.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "阿联酋Ndlea机构签署协议，深化禁毒合作",
             "originalTitle": "Ndlea, UAE agency sign pact to deepen anti-drug trafficking cooperation",
             "url": "https://c.newsnow.co.uk/A/1325504105?-15565:1965",
@@ -5281,6 +5269,18 @@
             ],
             "heatScore": 94,
             "publishedAt": "2026-09-27T14:00:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋进一步向加沙提供458吨援助以示支持",
+            "originalTitle": "UAE sends further 458 tonnes of aid to Gaza in show of support",
+            "url": "https://c.newsnow.co.uk/A/1325507540?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-09-27T15:12:48.000Z"
           },
           {
             "rank": 8,
@@ -5296,18 +5296,6 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "部长透露，阿联酋扣押了82处房产，在48小时内逮捕了爱尔兰犯罪老板",
-            "originalTitle": "UAE seized 82 properties, arrested Irish crime boss in 48 hours, minister reveals",
-            "url": "https://www.khaleejtimes.com/uae/uae-seize-properties-arrest-irish-crime-boss-crime-crackdown",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 94,
-            "publishedAt": "2026-09-27T11:01:42.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "谢赫·哈姆丹（ Sheikh Hamdan ）表示，迪拜的长寿运动可以改善健康状况并带来350亿迪拉姆的经济增长",
             "originalTitle": "Sheikh Hamdan says Dubai longevity drive can improve health and deliver Dh35bn economic boost",
             "url": "https://c.newsnow.co.uk/A/1325505778?-15565:1965",
@@ -5317,6 +5305,18 @@
             ],
             "heatScore": 93,
             "publishedAt": "2026-09-27T14:33:56.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "部长透露，阿联酋扣押了82处房产，在48小时内逮捕了爱尔兰犯罪老板",
+            "originalTitle": "UAE seized 82 properties, arrested Irish crime boss in 48 hours, minister reveals",
+            "url": "https://www.khaleejtimes.com/uae/uae-seize-properties-arrest-irish-crime-boss-crime-crackdown",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-09-27T11:01:42.000Z"
           }
         ],
         "domestic": [
@@ -5358,18 +5358,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋进一步向加沙提供458吨援助以示支持",
-            "originalTitle": "UAE sends further 458 tonnes of aid to Gaza in show of support",
-            "url": "https://c.newsnow.co.uk/A/1325507540?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 96,
-            "publishedAt": "2026-09-27T15:12:48.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "阿联酋Ndlea机构签署协议，深化禁毒合作",
             "originalTitle": "Ndlea, UAE agency sign pact to deepen anti-drug trafficking cooperation",
             "url": "https://c.newsnow.co.uk/A/1325504105?-15565:1965",
@@ -5381,19 +5369,19 @@
             "publishedAt": "2026-09-27T14:00:00.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "部长透露，阿联酋扣押了82处房产，在48小时内逮捕了爱尔兰犯罪老板",
-            "originalTitle": "UAE seized 82 properties, arrested Irish crime boss in 48 hours, minister reveals",
-            "url": "https://www.khaleejtimes.com/uae/uae-seize-properties-arrest-irish-crime-boss-crime-crackdown",
-            "source": "Khaleej Times",
+            "rank": 5,
+            "translatedTitle": "阿联酋进一步向加沙提供458吨援助以示支持",
+            "originalTitle": "UAE sends further 458 tonnes of aid to Gaza in show of support",
+            "url": "https://c.newsnow.co.uk/A/1325507540?-15565:1965",
+            "source": "The National",
             "sources": [
-              "Khaleej Times"
+              "The National"
             ],
             "heatScore": 94,
-            "publishedAt": "2026-09-27T11:01:42.000Z"
+            "publishedAt": "2026-09-27T15:12:48.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "谢赫·哈姆丹（ Sheikh Hamdan ）表示，迪拜的长寿运动可以改善健康状况并带来350亿迪拉姆的经济增长",
             "originalTitle": "Sheikh Hamdan says Dubai longevity drive can improve health and deliver Dh35bn economic boost",
             "url": "https://c.newsnow.co.uk/A/1325505778?-15565:1965",
@@ -5403,6 +5391,18 @@
             ],
             "heatScore": 93,
             "publishedAt": "2026-09-27T14:33:56.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "部长透露，阿联酋扣押了82处房产，在48小时内逮捕了爱尔兰犯罪老板",
+            "originalTitle": "UAE seized 82 properties, arrested Irish crime boss in 48 hours, minister reveals",
+            "url": "https://www.khaleejtimes.com/uae/uae-seize-properties-arrest-irish-crime-boss-crime-crackdown",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-09-27T11:01:42.000Z"
           },
           {
             "rank": 8,
@@ -5463,7 +5463,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 97,
+            "heatScore": 96,
             "publishedAt": "2026-09-27T12:00:48.000Z"
           },
           {
@@ -5481,6 +5481,18 @@
           },
           {
             "rank": 4,
+            "translatedTitle": "科威特、迪拜加强民航合作",
+            "originalTitle": "Kuwait, Dubai strengthen civil aviation cooperation",
+            "url": "https://c.newsnow.co.uk/A/1325519652?-15565:1965",
+            "source": "Kuwait Times",
+            "sources": [
+              "Kuwait Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-09-27T19:45:33.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "曼城的判决是对英国-阿联酋关系的最新考验-英国《金融时报》",
             "originalTitle": "Manchester City verdict poses latest test to UK-UAE relations - Financial Times",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0VsOE1oMUp1NUlxSmdEeDREOW1HVzZ1Qm94emE5aXJZdGdaRWFPbDE3SlljcFQ5LW5rcnRqa2VaOTdUTlkwa29OMnoyYjNydTNIbWpwTV9XLXBCVHNUUjlFdXNFM05uSG4zbmVvMzJTNThUcmRURmgtYlpCbU5DMVY0cks?oc=5",
@@ -5492,7 +5504,7 @@
             "publishedAt": "2026-09-26T12:34:15.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "阿联酋代表团在第81届联合国大会第三天继续举行重要会议--阿联酋外交部",
             "originalTitle": "UAE Delegation Continues Key Meetings on Third Day of 81st session of UN General Assembly - وزارة الخارجية الإماراتية",
             "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Dc1h4TUlJOTE2NGdsdmNsZ0pSOXRJbTVfMGFzczVxQkpCSC11Q3lieG1Xb0dpQm0wNzBQelJEZk0yOUROZmdwVGQ2WG1MYWYwMXVGand4Z0x4NUxFVExPUmRWTTRIXzBKZXlXMTFDZ1NRMUdSZnRkUDhsbGpxcDQ?oc=5",
@@ -5504,7 +5516,7 @@
             "publishedAt": "2026-09-27T16:33:00.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "外交部国务部长与阿联酋对应方会晤",
             "originalTitle": "Minister of State at Ministry of Foreign Affairs meets with UAE counterpart",
             "url": "https://c.newsnow.co.uk/A/1325502240?-15565:1965",
@@ -5516,7 +5528,7 @@
             "publishedAt": "2026-09-27T13:16:59.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "土耳其外交部长将于周一访问阿联酋进行会谈- Operativ Mëlumat Mërkëzi",
             "originalTitle": "Turkish foreign minister to visit UAE for talks on Monday - Operativ Məlumat Mərkəzi",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2hjNzhYWnZEeVFXbHA5d2xYR2lENGcxVGt1aXA0ZFFHNjBOMDZncDhsZnY4VDhvRXVvZVhNTTZmOGxTblgza0N0bXd3bDVEQkN3cHF6VnZMcThNaURsOXVGOXM2d01fdlQ1LW9meXdpRExuWHFYRlVWLUgzRFJlUUdDRE9sbV80elBlRi1RbHhLT0c1SlFqZw?oc=5",
@@ -5528,7 +5540,7 @@
             "publishedAt": "2026-09-27T12:24:09.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "哈立德·本·穆罕默德·本·扎耶德接待参加第18届金砖国家首脑会议的阿联酋团队-阿布扎比媒体办公室",
             "originalTitle": "Khaled bin Mohamed bin Zayed receives UAE team that participated in 18th BRICS Summit - مكتب أبوظبي الإعلامي",
             "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTmlKVnBhUlFLZlZWOWtJZExDZXJjMkVFNmJxb2FTc1QtQl91MEx1NldscXhoZnhveFBTdk5FWFp6S3hxMVhMYnY2cW9IeEZac0xHUmt4cFlYVDhacTMwMS1iWk9ITkRJT2RpWVRNU2piZnppV2lCeV9JMlM3ZE1XdWdUXzZqMjZpQlNpYXFMclEzZ3hTNFlHLXhLM2FGSFN0V3BteXdUTXBEMVdtY2VRNG9GaWk3MERkOXloWlBWR1dWaEh4a1ltX1BCZU5RNXRqTkZBTTVJYw?oc=5",
@@ -5540,7 +5552,7 @@
             "publishedAt": "2026-09-27T12:02:57.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "尼泊尔，阿联酋讨论扩大双边合作；加德满都感谢阿布扎比的洪水援助- Hindusthan Samachar English",
             "originalTitle": "Nepal, UAE Discuss Expanding Bilateral Cooperation; Kathmandu Thanks Abu Dhabi for Flood Assistance - Hindusthan Samachar English",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDNaOGVRYkppZzFVeXRKbmNQUWV5cVloa3BiTjJqVXJsOFc0RTJXeW05RGRQRjRtbnlNaWtzbTQ3Y0lMX1gzcmlURGoxbExHVDhNa2JfeGZqMkNQR0NEQ2txZnJ3OWl6Wk8zZUUzc3RIclc0dlJiUC1lMEFnSktUdHNhZVRsQjcybG5Udw?oc=5",
@@ -5548,37 +5560,13 @@
             "sources": [
               "Hindusthan Samachar English"
             ],
-            "heatScore": 64,
-            "publishedAt": "2026-09-27T11:20:40.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "菲丹将访问阿联酋，讨论结束地区危机的方法- Hürriyet每日新闻",
-            "originalTitle": "Fidan to visit UAE to discuss ways to end regional crises - Hürriyet Daily News",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnZaWmwyY3lJZ2RYV3Fhc2hxZFBiNzBkNVVLRkZBMlV0bGxuYTRLMmtRUTdPUGJqN2NYanhWc19FblFhMGxyTi15SmhQc2IxWkNvZjJLMXl5ZjUxejZHOHNHc2hfNjZkaG1xMUtFYUJVY05FaFNrb09sdFhWVGYycVJPR1gzbDNhckRuUjV5WGVYcndnV1Ewd0JLdS0yUHc?oc=5",
-            "source": "Hürriyet Daily News",
-            "sources": [
-              "Hürriyet Daily News"
-            ],
             "heatScore": 63,
-            "publishedAt": "2026-09-27T07:55:02.000Z"
+            "publishedAt": "2026-09-27T11:20:40.000Z"
           }
         ],
         "economy": [
           {
             "rank": 1,
-            "translatedTitle": "迪拜女商人向顶级员工赠送iPhone 18 ，称“员工是我们的力量”",
-            "originalTitle": "Dubai businesswoman gifts iPhone 18 to top employees, says 'staff our strength'",
-            "url": "https://www.khaleejtimes.com/uae/dubai-businesswoman-gifts-iphone-18-to-top-employees-2026",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 76,
-            "publishedAt": "2026-09-27T02:00:00.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "Vitol成为伊拉克石油的第二大买家，仅次于阿联酋的ADNOC",
             "originalTitle": "Vitol becomes second-largest buyer of Iraq’s oil after UAE’s ADNOC",
             "url": "https://c.newsnow.co.uk/A/1325507306?-15565:1965",
@@ -5588,6 +5576,18 @@
             ],
             "heatScore": 76,
             "publishedAt": "2026-09-27T15:09:06.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "迪拜女商人向顶级员工赠送iPhone 18 ，称“员工是我们的力量”",
+            "originalTitle": "Dubai businesswoman gifts iPhone 18 to top employees, says 'staff our strength'",
+            "url": "https://www.khaleejtimes.com/uae/dubai-businesswoman-gifts-iphone-18-to-top-employees-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-09-27T02:00:00.000Z"
           }
         ],
         "technology": [
@@ -5662,7 +5662,7 @@
             "sources": [
               "Defense Express"
             ],
-            "heatScore": 80,
+            "heatScore": 78,
             "publishedAt": "2026-09-27T19:28:57.000Z"
           },
           {
@@ -5679,18 +5679,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "阿联酋土耳其将在伊朗战争、以色列扩张期间举行新的会谈",
-            "originalTitle": "Türkiye, UAE set for new talks amid Iran war, Israeli expansion",
-            "url": "https://c.newsnow.co.uk/A/1325497795?-15565:1965",
-            "source": "Daily Sabah",
-            "sources": [
-              "Daily Sabah"
-            ],
-            "heatScore": 72,
-            "publishedAt": "2026-09-27T11:33:51.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "阿联酋官员批评海湾对伊朗袭击的反应-全球阿拉伯网络",
             "originalTitle": "UAE Official Criticizes Gulf Response to Iranian Attacks - Global Arab Network",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzliRU05ek9tekdkTmhSd281dlZGWXdrT3hrWGxJVGt1NkRXRVlpNXVHOElRcXB1YzFSQUZ1S3V1eFgwdDc2RGk0YzZHOFBFa3Z5cnltUEduY3UtQ3N5R3BTeTl0V2MyaDY3MDhBRVRuSDR0Qjd4czJqNy1XeXB2cEtvdVhzY2dKckstQzVXY0FGSnd6NmtfUmhRbExIUTNyMEdOdDRvaGVhUQ?oc=5",
@@ -5698,11 +5686,11 @@
             "sources": [
               "Global Arab Network"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-09-27T08:36:49.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "西亚紧张局势：美国对伊朗哈格岛发动袭击后，阿联酋加强安全警戒-新闻直播",
             "originalTitle": "West Asia Tensions: UAE on heightened security alert after US strikes on Iran’s Kharg Island - News On AIR",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnVmZjdMUmcwczMxX2ZJMmQ2U0pxX2FCVWcxWUNXN2lRZnZwM0tmdTFac0plOTNqS1BfTnY3d2pYanZLS1VaRkZmeUVFS2FjVnhWcGh4OWg5TDh2SU9VRlpzVDhQN2Nmclg5ekotQW9yVy1XWlAzYUhMVUVDR3dRc1RJTUxRTmVjZnhJbG01OENDcGJ6amJ5cDFzN2dtMkI5THlUX3FtaGlMLVdjRnFQQS1fZ2lSNUVnd1lPUWdvcHBsdVpHMW40?oc=5",
@@ -5714,7 +5702,7 @@
             "publishedAt": "2026-09-27T08:23:13.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "随着伊朗战争僵局的拖延，阿联酋和沙特阿拉伯报告了无人机事件- DD新闻",
             "originalTitle": "UAE and Saudi Arabia report drone incidents as Iran war deadlock drags on - DD News",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPczh6UlEtekFUYkhYNGVKY3ZLVmhvTXFnd3RhcmlqWU5oeG1RRllnSXJudEZWcW9QTVRFdHNpWnFvandGWGM0YW1BaDY1RTNCZnZ6QlM2RjlrNnVBaHJTZ3hZTFhLT1RFWmxPR0dGR1NyYnlydWxqbmxfU3JobVN5dDJJQjhnWldIbUJGSUV4N1FjODBvRWxDUlpWbHlPUDJy?oc=5",
@@ -5722,8 +5710,20 @@
             "sources": [
               "DD News"
             ],
-            "heatScore": 53,
+            "heatScore": 52,
             "publishedAt": "2026-09-27T03:31:14.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "无人机袭击阿联酋核电站后油价触及两周高位- EnergyNow.com",
+            "originalTitle": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 50,
+            "publishedAt": "2026-09-26T11:49:17.000Z"
           },
           {
             "rank": 10,
@@ -5734,7 +5734,7 @@
             "sources": [
               "Yemen Online"
             ],
-            "heatScore": 50,
+            "heatScore": 49,
             "publishedAt": "2026-09-26T23:21:07.000Z"
           }
         ],
@@ -5748,7 +5748,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 90,
+            "heatScore": 89,
             "publishedAt": "2026-09-27T08:42:22.000Z"
           },
           {
@@ -5760,7 +5760,7 @@
             "sources": [
               "News18"
             ],
-            "heatScore": 69,
+            "heatScore": 68,
             "publishedAt": "2026-09-27T11:18:49.000Z"
           },
           {
@@ -5772,7 +5772,7 @@
             "sources": [
               "The Economic Times"
             ],
-            "heatScore": 69,
+            "heatScore": 68,
             "publishedAt": "2026-09-27T10:07:57.000Z"
           },
           {
@@ -5784,23 +5784,11 @@
             "sources": [
               "NewsMeter"
             ],
-            "heatScore": 69,
+            "heatScore": 68,
             "publishedAt": "2026-09-27T10:05:57.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "15天访问后，女性将孟买的生活与迪拜的生活进行了比较： “迪拜保持沉默，孟买给予......” -新闻18",
-            "originalTitle": "Woman Compares Life In Mumbai With Dubai After 15 Days Visit: ‘Dubai Gives Silence, Mumbai Gives...’ - News18",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDNaRl9VNGlKeDBSc1ZHMjZqbjFUMnpnUkZOT08xei1pZWRBdjZxWmZmSVlacUIwU1hQQXZpLUMtQXdxeTFKNzJnYURUM2xRMm9rZkxOWVc3R25tRWl5czFzajlqWEpRdDQtbHlMYndNSnk3M3FhWk50NDJKZm15TldEUVdZR2EtMElzeHZ1cGc1blhuOHd1SXN3Vno4NTVYMHdIQVNYQ0IwRWJUeWVmUzRiN2NkS1FaU0hqWnN5dDVuNmVnclJuMUkxS1Y2Z0dSczd5Yk8zY0bSAd4BQVVfeXFMTnBieXlucUh5cHZJNjB5N1dfWDBzWU54WkZ1SFJReXVqNnkxcVplaUtmS0ZzWVUwc3JHeDctTGszMVNEcENhMkt6bzl2NWJwQzFYOTlVTFhLYlozazhOcko3aWxhV0RtUjRsZ0xHTWlLYldPdkRsNnhTMDAybXQ0SkkxV252QmRjUmp4MXl2MzhJRS1qQUw5WGx2ZVhsMUluQnRZNllCVExkam5EUDAwTTNpTHk3MDR6T0xlakg5Xy1yRE1ldjU4X2VkbVlfdXpJU25KajJTbTVaUXEwcUJB?oc=5",
-            "source": "News18",
-            "sources": [
-              "News18"
-            ],
-            "heatScore": 65,
-            "publishedAt": "2026-09-27T12:10:07.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "阿联酋强调推进国际司法合作的努力- ARN新闻中心",
             "originalTitle": "UAE highlights efforts to advance international judicial cooperation - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeXlRdnFscWpXSkMxZHd0c1JJVmdobWp2dVFHc1hHU29PQkhzbGpjU0VhSm1HSm5iT245WDJqMzFZdDF6MzdYNXRSdFZKaDBpcXpFYzJuWm44YjZrOVNYMzYyUEdZQjZBd3BYTmFEQzY3QnVIbEdSd1BVcnREWDhnQTVDTWV0S1dlOGdTVzllODNMdEZiOFNKQjRISlQ2aVZ3U0VEeVd6ZTUzdFhoUkZz?oc=5",
@@ -5808,8 +5796,20 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 61,
+            "heatScore": 65,
             "publishedAt": "2026-09-27T10:01:04.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "15天访问后，女性将孟买的生活与迪拜的生活进行了比较： “迪拜保持沉默，孟买给予......” -新闻18",
+            "originalTitle": "Woman Compares Life In Mumbai With Dubai After 15 Days Visit: ‘Dubai Gives Silence, Mumbai Gives...’ - News18",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDNaRl9VNGlKeDBSc1ZHMjZqbjFUMnpnUkZOT08xei1pZWRBdjZxWmZmSVlacUIwU1hQQXZpLUMtQXdxeTFKNzJnYURUM2xRMm9rZkxOWVc3R25tRWl5czFzajlqWEpRdDQtbHlMYndNSnk3M3FhWk50NDJKZm15TldEUVdZR2EtMElzeHZ1cGc1blhuOHd1SXN3Vno4NTVYMHdIQVNYQ0IwRWJUeWVmUzRiN2NkS1FaU0hqWnN5dDVuNmVnclJuMUkxS1Y2Z0dSczd5Yk8zY0bSAd4BQVVfeXFMTnBieXlucUh5cHZJNjB5N1dfWDBzWU54WkZ1SFJReXVqNnkxcVplaUtmS0ZzWVUwc3JHeDctTGszMVNEcENhMkt6bzl2NWJwQzFYOTlVTFhLYlozazhOcko3aWxhV0RtUjRsZ0xHTWlLYldPdkRsNnhTMDAybXQ0SkkxV252QmRjUmp4MXl2MzhJRS1qQUw5WGx2ZVhsMUluQnRZNllCVExkam5EUDAwTTNpTHk3MDR6T0xlakg5Xy1yRE1ldjU4X2VkbVlfdXpJU25KajJTbTVaUXEwcUJB?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-09-27T12:10:07.000Z"
           },
           {
             "rank": 7,
@@ -5832,7 +5832,7 @@
             "sources": [
               "gulfnews.com"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-09-27T07:47:40.000Z"
           },
           {
@@ -5844,7 +5844,7 @@
             "sources": [
               "Hindustan Times"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-09-27T02:00:04.000Z"
           },
           {
@@ -5870,7 +5870,7 @@
             "sources": [
               "Defense Express"
             ],
-            "heatScore": 80,
+            "heatScore": 78,
             "publishedAt": "2026-09-27T19:28:57.000Z"
           },
           {
@@ -5882,7 +5882,7 @@
             "sources": [
               "الإمارات اليوم"
             ],
-            "heatScore": 56,
+            "heatScore": 55,
             "publishedAt": "2026-09-27T00:05:00.000Z"
           },
           {
