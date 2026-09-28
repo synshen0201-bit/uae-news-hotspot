@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T19:11:08.287Z",
+  "updatedAt": "2026-09-28T19:27:22.068Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -5902,7 +5902,7 @@
     },
     "2026-09-28": {
       "date": "2026-09-28",
-      "updatedAt": "2026-09-28T19:11:08.287Z",
+      "updatedAt": "2026-09-28T19:27:22.068Z",
       "categories": {
         "all": [
           {
@@ -5921,6 +5921,32 @@
           },
           {
             "rank": 2,
+            "translatedTitle": "阿联酋总统接见土耳其外交部长- uaebarq.ae",
+            "originalTitle": "UAE President receives Turkish Foreign Minister - uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdllwWVM5NGpNQTFsakxfMHdJT0hGVVB6VWVEeGRHS1gzMmpkbUNSUjY1Q1Jaa1JXcHpVZDRVYkZjN1JHVG5NaU1JNGZVQTA0WTBSWkZBc0dOcXV1UkF0NThHSGF2Zm1aejVjb1h6M1BLTjZjLXJxazFiQzhnRnFkak9reUxYMHVfV3VUWjJXUQ?oc=5",
+            "source": "wam.ae",
+            "sources": [
+              "uaebarq.ae",
+              "wam.ae"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-09-28T18:02:31.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋在联合国- arabnews.com上敦促外交、对加沙采取更强有力的国际行动和地区危机",
+            "originalTitle": "UAE urges diplomacy, stronger international action on Gaza and regional crises at UN - arabnews.com",
+            "url": "https://www.arabnews.com/middle-east/uae-urges-diplomacy-stronger-international-action-on-gaza-and-regional-crises-at-un-3003616",
+            "source": "Arab News",
+            "sources": [
+              "arabnews.com",
+              "Arab News"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-09-28T18:40:02.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "以色列官员告诉路透社，以色列内塔尼亚胡周日访问了阿布扎比。 アラブニュース",
             "originalTitle": "Israel’s Netanyahu visited Abu Dhabi on Sunday, Israeli official told Reuters - アラブニュース",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0pGMVlCUkt6b01MNWJkNlc5WlA2dlV1bUs3MDl2LXhhWFU3MGVEenBLQk1SaHNSMU1LNlh1SUpDWUloTzROY0pvb3JnWjJOUmlFSXdiNDVEeXBsRDFZb3gyVUlOY1B3UWc2MVZFLXllN1BkVlV6SXNKWWx0ZVV2azFEOVRmSE84THhKX0lLZTMyanowSnNNb0ItOGc5blhxOVR6UDQwdXVpNVljMnpwbHJBRkEzYk9mQWc?oc=5",
@@ -5929,11 +5955,11 @@
               "アラブニュース",
               "Reuters"
             ],
-            "heatScore": 94,
+            "heatScore": 93,
             "publishedAt": "2026-09-28T08:49:55.000Z"
           },
           {
-            "rank": 3,
+            "rank": 5,
             "translatedTitle": "沙特国防部长邀请阿联酋副总统访问王国-路透社",
             "originalTitle": "Saudi defense minister invites UAE vice president to visit kingdom - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3hMalV1bGw4bXp1cHZ6VVl5MHFUM1RHY3l4TlpTNEtvWEtiU3FBaXQxeGtKbFl6S190Z0UwR3NiLVk1MVBpMDhITUpuQ3h6LWJObFMxeWZkR0dCakJRSGFxUFhyNTlTTnNEcjFENXpmY1p6UG1ackFzUDFuc0lzMExGbE4ySWF6SXlhVzVIRlg2Nlp3V3owZlY1RFEtVDY4WkhCWlowRzBSS2lMTXhkTnBoN2FWWGpU?oc=5",
@@ -5945,19 +5971,31 @@
             "publishedAt": "2026-09-28T19:05:19.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "阿联酋敦促联合国开展外交，加强对加沙的国际行动和地区危机-阿拉伯新闻",
-            "originalTitle": "UAE urges diplomacy, stronger international action on Gaza and regional crises at UN - Arab News",
-            "url": "https://www.arabnews.com/middle-east/uae-urges-diplomacy-stronger-international-action-on-gaza-and-regional-crises-at-un-3003616",
-            "source": "Arab News",
+            "rank": 6,
+            "translatedTitle": "阿联酋总统接见以色列总理，讨论双边关系",
+            "originalTitle": "UAE President receives Israeli PM, discusses bilateral relations",
+            "url": "https://www.khaleejtimes.com/uae/uae-president-receives-israeli-pm-netanyahu-september-2026",
+            "source": "Khaleej Times",
             "sources": [
-              "Arab News"
+              "Khaleej Times"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-09-28T18:40:02.000Z"
+            "heatScore": 87,
+            "publishedAt": "2026-09-28T19:24:51.000Z"
           },
           {
-            "rank": 5,
+            "rank": 7,
+            "translatedTitle": "阿联酋副总理谢赫·曼苏尔将于9月29日访问沙特阿拉伯",
+            "originalTitle": "UAE Deputy PM Sheikh Mansour to visit Saudi Arabia on September 29",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-mansour-visit-saudi-arabia-september-29-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-09-28T19:06:00.000Z"
+          },
+          {
+            "rank": 8,
             "translatedTitle": "印度驻阿联酋大使馆为护照服务开启新的竞标",
             "originalTitle": "Indian embassy in UAE opens fresh bids for passport services",
             "url": "https://www.khaleejtimes.com/uae/indian-embassy-fresh-bids-passport-services-supreme-court-retender",
@@ -5965,11 +6003,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 85,
             "publishedAt": "2026-09-28T17:24:57.000Z"
           },
           {
-            "rank": 6,
+            "rank": 9,
             "translatedTitle": "阿联酋推出打击人口贩运的数字化模式",
             "originalTitle": "UAE presents digital model to combat human trafficking",
             "url": "https://c.newsnow.co.uk/A/1325594579?-15565:1965",
@@ -5981,7 +6019,7 @@
             "publishedAt": "2026-09-28T16:00:43.000Z"
           },
           {
-            "rank": 7,
+            "rank": 10,
             "translatedTitle": "为阿联酋的印度护照服务发布新招标",
             "originalTitle": "Fresh tender issued for Indian passport services in UAE",
             "url": "https://c.newsnow.co.uk/A/1325593328?-15565:1965",
@@ -5991,47 +6029,23 @@
             ],
             "heatScore": 84,
             "publishedAt": "2026-09-28T15:48:20.000Z"
-          },
-          {
-            "rank": 8,
-            "translatedTitle": "消息人士称，阿联酋和科威特推动了石脑油对亚洲的出口，避开了霍尔木兹（ Hormuz ） -路透社",
-            "originalTitle": "UAE and Kuwait boost naphtha exports to Asia, sidestepping Hormuz, sources say - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUczVXFNcWZvTUVtRVBjZ2dlUVdDNWhKb3hQZFNkZGVFZnFjMFlzdUl0S2dwMWFfMHlMaFMyNmcwUFNtME9Lc1lHaDZSdENlTzZaRm5qVThmNGE0VTg0ck01bnAxX1Yta0dxWDdLZmxJSjRZWFlmS0IzUkswUHdkR2E5MGR2LUh0a3JDdTlTUHRPVGJWeXZMZ25wMEdBZXU0dm9LM3ZnR2ZQOFAxR2Qxb040eV9VVktpRjByX2ZR?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-09-28T14:08:29.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "Ahmed bin Saeed承诺继续为阿联酋迪拜提供服务",
-            "originalTitle": "Ahmed bin Saeed pledges continued service to Dubai, UAE",
-            "url": "https://c.newsnow.co.uk/A/1325606953?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-09-28T18:23:11.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "为什么内塔尼亚胡在以色列选举前推动阿联酋会议",
-            "originalTitle": "Why Netanyahu pushed for a UAE meeting before Israeli elections",
-            "url": "https://c.newsnow.co.uk/A/1325602395?-15565:1965",
-            "source": "The New Arab",
-            "sources": [
-              "The New Arab"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-09-28T17:22:46.000Z"
           }
         ],
         "domestic": [
           {
             "rank": 1,
+            "translatedTitle": "阿联酋副总理谢赫·曼苏尔将于9月29日访问沙特阿拉伯",
+            "originalTitle": "UAE Deputy PM Sheikh Mansour to visit Saudi Arabia on September 29",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-mansour-visit-saudi-arabia-september-29-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-09-28T19:06:00.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋推出打击人口贩运的数字化模式",
             "originalTitle": "UAE presents digital model to combat human trafficking",
             "url": "https://c.newsnow.co.uk/A/1325594579?-15565:1965",
@@ -6043,7 +6057,7 @@
             "publishedAt": "2026-09-28T16:00:43.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "为阿联酋的印度护照服务发布新招标",
             "originalTitle": "Fresh tender issued for Indian passport services in UAE",
             "url": "https://c.newsnow.co.uk/A/1325593328?-15565:1965",
@@ -6055,7 +6069,7 @@
             "publishedAt": "2026-09-28T15:48:20.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "Ahmed bin Saeed承诺继续为阿联酋迪拜提供服务",
             "originalTitle": "Ahmed bin Saeed pledges continued service to Dubai, UAE",
             "url": "https://c.newsnow.co.uk/A/1325606953?-15565:1965",
@@ -6065,18 +6079,6 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-09-28T18:23:11.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "为什么内塔尼亚胡在以色列选举前推动阿联酋会议",
-            "originalTitle": "Why Netanyahu pushed for a UAE meeting before Israeli elections",
-            "url": "https://c.newsnow.co.uk/A/1325602395?-15565:1965",
-            "source": "The New Arab",
-            "sources": [
-              "The New Arab"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-09-28T17:22:46.000Z"
           },
           {
             "rank": 5,
@@ -6092,18 +6094,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "叙利亚、阿联酋讨论参加2026年联合国水事会议的筹备工作",
-            "originalTitle": "Syria, UAE discuss preparations on participation in the 2026 U.N. Water Conference",
-            "url": "https://c.newsnow.co.uk/A/1325602952?-15565:1965",
-            "source": "Syrian Arab News Agency",
-            "sources": [
-              "Syrian Arab News Agency"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-09-28T17:30:56.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "Dalic很高兴阿联酋抨击巴林进入海湾杯半决赛",
             "originalTitle": "Dalic delighted as UAE thrash Bahrain to reach Gulf Cup semis",
             "url": "https://www.khaleejtimes.com/sports/football/dalic-delighted-as-uae-thrash-bahrain-to-reach-gulf-cup-semis",
@@ -6115,7 +6105,7 @@
             "publishedAt": "2026-09-28T15:13:21.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿联酋总统从阿布扎比乘坐阿提哈德铁路，谢赫·哈姆丹为迪拜车站揭幕",
             "originalTitle": "UAE President rides Etihad Rail from Abu Dhabi as Sheikh Hamdan inaugurates Dubai station",
             "url": "https://www.khaleejtimes.com/uae/transport/sheikh-hamdan-inaugurates-etihad-rail-dubai-station",
@@ -6127,16 +6117,28 @@
             "publishedAt": "2026-09-28T14:52:06.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "阿联酋在联合国大会上敦促各国“建设而不是破坏”",
-            "originalTitle": "UAE at Unga urges nations to 'build rather than destroy'",
-            "url": "https://c.newsnow.co.uk/A/1325602248?-15565:1965",
-            "source": "The National",
+            "rank": 8,
+            "translatedTitle": "为什么内塔尼亚胡在以色列选举前推动阿联酋会议",
+            "originalTitle": "Why Netanyahu pushed for a UAE meeting before Israeli elections",
+            "url": "https://c.newsnow.co.uk/A/1325602395?-15565:1965",
+            "source": "The New Arab",
             "sources": [
-              "The National"
+              "The New Arab"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-09-28T17:22:46.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "叙利亚、阿联酋讨论参加2026年联合国水事会议的筹备工作",
+            "originalTitle": "Syria, UAE discuss preparations on participation in the 2026 U.N. Water Conference",
+            "url": "https://c.newsnow.co.uk/A/1325602952?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency"
             ],
             "heatScore": 81,
-            "publishedAt": "2026-09-28T17:20:44.000Z"
+            "publishedAt": "2026-09-28T17:30:56.000Z"
           },
           {
             "rank": 10,
@@ -6154,18 +6156,44 @@
         "diplomacy": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋敦促联合国开展外交，加强对加沙的国际行动和地区危机-阿拉伯新闻",
-            "originalTitle": "UAE urges diplomacy, stronger international action on Gaza and regional crises at UN - Arab News",
-            "url": "https://www.arabnews.com/middle-east/uae-urges-diplomacy-stronger-international-action-on-gaza-and-regional-crises-at-un-3003616",
-            "source": "Arab News",
+            "translatedTitle": "阿联酋总统接见土耳其外交部长- uaebarq.ae",
+            "originalTitle": "UAE President receives Turkish Foreign Minister - uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdllwWVM5NGpNQTFsakxfMHdJT0hGVVB6VWVEeGRHS1gzMmpkbUNSUjY1Q1Jaa1JXcHpVZDRVYkZjN1JHVG5NaU1JNGZVQTA0WTBSWkZBc0dOcXV1UkF0NThHSGF2Zm1aejVjb1h6M1BLTjZjLXJxazFiQzhnRnFkak9reUxYMHVfV3VUWjJXUQ?oc=5",
+            "source": "wam.ae",
             "sources": [
-              "Arab News"
+              "uaebarq.ae",
+              "wam.ae"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-09-28T18:40:02.000Z"
+            "heatScore": 98,
+            "publishedAt": "2026-09-28T18:02:31.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "阿联酋在联合国- arabnews.com上敦促外交、对加沙采取更强有力的国际行动和地区危机",
+            "originalTitle": "UAE urges diplomacy, stronger international action on Gaza and regional crises at UN - arabnews.com",
+            "url": "https://www.arabnews.com/middle-east/uae-urges-diplomacy-stronger-international-action-on-gaza-and-regional-crises-at-un-3003616",
+            "source": "Arab News",
+            "sources": [
+              "arabnews.com",
+              "Arab News"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-09-28T18:40:02.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋总统接见以色列总理，讨论双边关系",
+            "originalTitle": "UAE President receives Israeli PM, discusses bilateral relations",
+            "url": "https://www.khaleejtimes.com/uae/uae-president-receives-israeli-pm-netanyahu-september-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-09-28T19:24:51.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "印度驻阿联酋大使馆为护照服务开启新的竞标",
             "originalTitle": "Indian embassy in UAE opens fresh bids for passport services",
             "url": "https://www.khaleejtimes.com/uae/indian-embassy-fresh-bids-passport-services-supreme-court-retender",
@@ -6173,23 +6201,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 85,
             "publishedAt": "2026-09-28T17:24:57.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "前摩萨德外交官员表示，他不知道埃及，阿联酋在10月7日之前警告内塔尼亚胡- yahoo.com",
-            "originalTitle": "Ex-Mossad diplomacy official says he was unaware of Egypt, UAE warning Netanyahu before Oct. 7 - yahoo.com",
+            "rank": 5,
+            "translatedTitle": "前摩萨德外交官员表示，他不知道埃及，阿联酋在10月7日之前警告内塔尼亚胡-雅虎",
+            "originalTitle": "Ex-Mossad diplomacy official says he was unaware of Egypt, UAE warning Netanyahu before Oct. 7 - Yahoo",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnVYNV9BZl9CSzlDdEZUSkJhRmM4anBNVlY2RjFkVjBHU0EwY3NTQXQ1MTU3MjhWX0E0MGFiaDc5alVFWkp5bUJPdHZDUkpnZmFMR3ZDaUw5SzFFWTk0cmRMdGVoaFU2WjgzWVoxRDVaNThIYUVPTzZCSXphcmR3aENwMG1nd3BmM2NTZlhLM1gzSkhBLWtrSQ?oc=5",
-            "source": "yahoo.com",
+            "source": "Yahoo",
             "sources": [
-              "yahoo.com"
+              "Yahoo"
             ],
             "heatScore": 78,
             "publishedAt": "2026-09-28T10:47:15.000Z"
           },
           {
-            "rank": 4,
+            "rank": 6,
             "translatedTitle": "海湾战争：阿联酋强调通过外交解决争端--今日特伦甘纳邦",
             "originalTitle": "Gulf War: UAE stresses diplomacy to resolve disputes - Telangana Today",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSzEyVnNMdUhJNGI3TWlPQzZnOWg5YnFxc3hiNUdnazdGWkhnWDVRWnJ6Nlcxbm1xODJIbU9neURFYVZ2Qjk0MHgxdTB6VF9MZkcyMGVGY2ZmTHZLNlpucTkyZ09ycWxFd2pzdkl3TXJjUTQtX0VPbDJUNFBfLXd5a2ZHMWg?oc=5",
@@ -6201,7 +6229,7 @@
             "publishedAt": "2026-09-28T18:58:58.000Z"
           },
           {
-            "rank": 5,
+            "rank": 7,
             "translatedTitle": "Mansour bin Zayed ，土耳其外交部长，讨论战略伙伴关系- uaebarq.ae",
             "originalTitle": "Mansour bin Zayed, Turkish Foreign Minister discuss strategic partnership - uaebarq.ae",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUM3Q01yaVBEeldYRHBLUUkya01hbngwSndjaEdGZUQ0bzdiakotOG9xQ0UzVTRJX0dNcmVoSy14dnVlcVpBUlVJc0hCZkZrcHloMmVKeHp3RUtxOFg1THNaV0hab1JET29vUlhDNTQwZlREMnhmRjhrMjFWWTB4aTlpTUpXcE1BRktwUVpxWG1rZmNDc2NUQmpWTVhWMW1CMmx5WFBrMjZaZHlTLWxV?oc=5",
@@ -6213,7 +6241,7 @@
             "publishedAt": "2026-09-28T18:09:43.000Z"
           },
           {
-            "rank": 6,
+            "rank": 8,
             "translatedTitle": "阿联酋总统、土耳其外交部长讨论双边关系和地区安全--迪拜之眼103.8",
             "originalTitle": "UAE President, Turkish Foreign Minister discuss bilateral ties and regional security - Dubai Eye 103.8",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZG1kS2s4Q1VMREx1OThSWlFsdjE0M24xOV9QWG96UWt5ajBOdmttYU1tVm9WWW9FLVpnYnhhWHI0M3Y1SjJpcXEtZUE0V2pxSmFvMDZuYzBCOXNkNk4xdl9BdXV3Uno1NU5zTzFrSlQtUzdkcWtFVEwzVlRQRE5WZU4tbmszTUhHVTJ0bW1yYjJHUlBmeF9wZkZQY3VPWEVjV01qMHFrWmM1X2JwcUlUVGt3cjNCTXlpUW4yX1FHZGo1dw?oc=5",
@@ -6225,19 +6253,7 @@
             "publishedAt": "2026-09-28T18:01:31.000Z"
           },
           {
-            "rank": 7,
-            "translatedTitle": "阿联酋总统接见土耳其外交部长- UrduPoint",
-            "originalTitle": "UAE President Receives Turkish Foreign Minister - UrduPoint",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHBjRlVBUExLMHpTQndFeG9xeXJ2WFgtcEo4UVZPM1dsbXVNdlh4T0FuWjlBWVVHajF1MHJhUG56WWVwR1lzN1l0Um5FZjNES1JRQUVua29wbDhGNG5tNWhHT2tRdlBRNWVRckRpazNFSG5pMnViaWRtSGl4R3FNUFZSZ0pvOXVOX0J5RE0tUE9BLUY0X1BIMnVvbWtaR2VD?oc=5",
-            "source": "UrduPoint",
-            "sources": [
-              "UrduPoint"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-09-28T17:15:13.000Z"
-          },
-          {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "印度-阿联酋的目标是到2032年实现2000亿美元的双边贸易；致力于本地货币、支付、数字计划—查看此处- Livemint",
             "originalTitle": "India-UAE target $200bn bilateral trade by 2032; commit to local currencies, payments, digital initiatives — Check here - Livemint",
             "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSjYzSVlOcklXWlZHUmFMeUlBMEJ1NVRsSW1xaWNXbGN6eGkyTnhPbHhmMjV1Nm95cTlDX0FmLWlJem14aGxvekl0VDJKNm1EOTlMU1FSZy1weldRa2NGSDctdDR1UXh3MmZDQ3dadnVaSE9YeXRJQ2Zhem9TdlVDR0swU2c0UHVOMXVZd3JISHJnUG9idGxzSk8wYUhyMkE0SW00TUE2THl4TXZGQnRfYTExSnFNUDlfNWlBU3V2RWlibzBQLUVGbXc2YUtxQmVrcmZiZXJRcjhOTE1LREptWHRQU083Q1E1VFlsSE9WNUV4amd2MzFxVEVTOE5VT1ZyejY00gGIAkFVX3lxTE1XTk0yTG5vdzlXaGM4UEVpOC1DMjdHT2RscWkwSVFxbHUyU3hEQ0gxeUdjR0Y5clE3eVVES3JnaTJ5emY1Y3NldnZtTW1UUVhkNERrUEZtZlhhaHFyZVhTWlhjclMxOXM0VlNrRE54WW02bV9HTFk1VDFZc3ZWMmc5RTVaODZxZXdVY0RXRi1BelhUQmdLa0RwbEllektzSnhwbkgzZVNjUWNaUE5nX3hnb3NfbGZFT3pZVGdUYWFtNUhNT19iU1BhZGlKN2VQZ3BHakxBWk5USWt0UHdoWThZNkw0VzBFeUN1dFFkd2Y0VUY0TmJFakRRUUU0anFNOTdkT3FoZXM1TA?oc=5",
@@ -6249,7 +6265,7 @@
             "publishedAt": "2026-09-28T16:36:12.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "印度教徒Piyush Goyal表示，印度和阿联酋的目标是到2032年将双边贸易额翻一番，达到2000亿美元（ $ ）",
             "originalTitle": "India and UAE target doubling bilateral trade to $200 billion by 2032, says Piyush Goyal - The Hindu",
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVlZNLVdsOTVEWEFLTUJNZEVVcHhOZmRzT3hnQVNVb0lPWkY1T0lxVUVCNnJPZGZtaTZNdjhJRHp5cldodHU0THNIZ3BCcTZKNEhlMTZ6WU04SHdYaEpSX3NVcWVBNWVweWNCazJ6TVJpM0p3TGttYVRuLWZGZWxNdzl5U1o3ZEZObTgwZ2pNTWg4LWRyaHpDclppbzlyRFdWOEhBdzhnYlZBbGdqMEtlV3Y2Mmh5Qi1vaTY2dlBERDlmUTJuZURlS3RWcjYyWjNtZGl3U0NJc05xSkpCa1HSAd4BQVVfeXFMUFZWTS1XbDk1RFhBS01CTWRFVXB4TmZkc094Z0FTVW9JT1pGNU9JcVVFQjZyT2RmbWk2TXY4SUR6eXJXaHR1NExzSGdwQnE2SjRIZTE2ellNOEh3WGhKUl9zVXFlQTVlcHljQmsyek1SaTNKd0xrbWFUbi1mRmVsTXc5eVNaN2RGTm04MGdqTU1oOC1kcmh6Q3JaaW85ckRXVjhIQXc4Z2JWQWxnajBLZVd2NjJoeUItb2k2NnZQREQ5ZlEybmVEZUt0VnI2MlozbWRpd1NDSXNOcUpKQmtR?oc=5",
@@ -6259,18 +6275,6 @@
             ],
             "heatScore": 60,
             "publishedAt": "2026-09-28T14:32:27.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "印度-阿联酋审查CEPA进展和推进联合投资项目-印度Awaaz",
-            "originalTitle": "India-UAE Review CEPA Progress and Advance Joint Investment Projects - The Indian Awaaz",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2NRRXBiSHI3cXpKekx6ZGhXcWlLYzhvQUxvbWFvSUxjZmNRc3Z3ekxrMEVyVy0xNE9TbGhzUEh6SFFrNHQwSEVOZURNZzdYbkJvXzlXVjFZWnRlMU9HaXl2WnlwWlBzelNPanNWM2tJYTBIRkgzNC1HcmVKYTM1TlpiY0t0QWJBTkRfaUUyb3M3eTAyMEVvcEIzT3I?oc=5",
-            "source": "The Indian Awaaz",
-            "sources": [
-              "The Indian Awaaz"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-09-28T14:01:00.000Z"
           }
         ],
         "economy": [
@@ -6295,11 +6299,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-09-28T13:27:16.000Z"
           },
           {
             "rank": 3,
+            "translatedTitle": "印度-阿联酋卢比贸易，迪拉姆进入两位数： Piyush Goyal",
+            "originalTitle": "India-UAE trade in rupees, dirhams enters double digits: Piyush Goyal",
+            "url": "https://c.newsnow.co.uk/A/1325611312?-15565:1965",
+            "source": "The Economic Times",
+            "sources": [
+              "The Economic Times"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-09-28T19:25:16.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "卢比，迪拉姆和UPI ：印度，阿联酋无摩擦地推动跨境贸易-经济时报",
             "originalTitle": "Rupee, dirham and UPI: India, UAE push cross-border trade without friction - The Economic Times",
             "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS3BkWGtBbnBSWGhqeTF0T2c5S2p2VTRRUWQ2emw4Qzg2TDBHYWN5M0ZsUFlDekFnSjVYSGNGRzZfTmlIQkF5MElMTGdMQ2NjbF93UFVuOWJsN25RQmpVX0RscnV4cEhGc1VVZGQtX0NVMms1VEtaWGZZSjJUN0R4cTNTaVFsbW1UajdWcFBIRF9lME51TE5ydjQxazVmYXRWMUNZWFNFRXBKUW04VFZGWXJJSTFHb0hUdjVhUU1vS0pSaWdUY0ptOFREaWVVRWtzUmRCQXNCNFh6Z1lTOXdRTzQtQzItYW_SAewBQVVfeXFMUElIRTZIRFl1TndhRWM1enJvdFlYNjRESU1heDhWTkloNmpYTzZrVDU4bW11SXd2dXBGdTBiVzNMM2I1eG1pSU5MLVc5VktOR3hoTGdlRnJsU21EeDczQXNfNXBWNjhtS2tjdDdmVmxLWVo2OWg2cUN4ajVqeV9HMUtfeDdQaHVsTUpldFVPRUVtdUszaEVJbk5xLTE0SzZOdFkwcDJqU3RZZlF0cldCNXljRHdham1sZ2xFVlM5WF9aRWVVaDI3UklsYV9NTGFicmRuZ0V4N0F0QzNPd0VsTGVpY2hwY01KZFpVUGo?oc=5",
@@ -6333,7 +6349,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 77,
+            "heatScore": 76,
             "publishedAt": "2026-09-28T12:59:12.000Z"
           },
           {
@@ -6383,7 +6399,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-09-28T13:38:52.000Z"
           },
           {
@@ -6400,18 +6416,6 @@
           },
           {
             "rank": 5,
-            "translatedTitle": "阿联酋医生警告30至50岁人群心脏病趋势“令人担忧”",
-            "originalTitle": "UAE doctor warns of 'alarming' heart disease trend among 30- to 50-year-olds",
-            "url": "https://www.khaleejtimes.com/lifestyle/health/uae-doctor-warning-heart-disease-among-30-to-50-year-olds",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 74,
-            "publishedAt": "2026-09-28T11:24:31.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "内塔尼亚胡在阿联酋霍尔木兹的“宵禁”中登陆，同时美国加强军事集结；伊朗接下来会怎么做？ - News24Online",
             "originalTitle": "Netanyahu lands in UAE amid ‘curfew’ in Hormuz, meanwhile US steps up military build-up; What will Iran do next? - News24Online",
             "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN2tlSXZKdnlDa0NPemtWOHlGcm9PUVFOYWlxQkVGbm1KUk8ydkQwMlV6Ymc3a2YtQjZ0d21nTWFGMHVLOHRzOFEtWWdKeHBreVRIZ2Jjam50cG5ZZlZVS2k0a3VTMEplQUhoaEVHQ3QzVFMyRDhzazVaWEJyeloyRWQxMVN4NDF3eVducXpMV0dHU1JqOWliZXdiVlQzUjR0aGRTUzdlbndwWWFzRmtYRG14blBjNHVjU1YtQXJxd3k3SWsxd1psb2NYRXBVYnZHS2hpUUtpOWtyTGI4LUNz0gHjAUFVX3lxTE4tOXAyX3EtdVhDNkh4cGxzcS1sclZyYUpOWjRSdFUwNnVJVmVjOWs2WlVVaGZQRFhpSjZzczZoQXVxV0pRX011UzJvRElGZko4NFM0Qkx4WC1aalp6YjN1VHpRSWI0Sm82OEU1MmVxVFR5NHJ6UTVYOWlNVlYyTzRPVkppRnlVUGRIZVpaYzlobEJTSjRFRy1nRkxaLTdpcGk5aHlKVFhsSFRZMFp5Sl9fMFRKRHRKYml1a0FEczU0RjhnNl84YnFCdXpwQjJYUFlaQXpwMUdIM1BXSVRxRldZZ08w?oc=5",
@@ -6423,7 +6427,7 @@
             "publishedAt": "2026-09-28T03:22:10.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "以色列可能已要求阿联酋否认10月7日的警告",
             "originalTitle": "Israel may have asked UAE to deny October 7 warning",
             "url": "https://c.newsnow.co.uk/A/1325608202?-15565:1965",
@@ -6435,7 +6439,7 @@
             "publishedAt": "2026-09-28T18:40:09.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "土耳其调频电台在阿联酋讨论也门战争、关闭霍尔木兹：须知",
             "originalTitle": "Turkey's FM in UAE to discuss Yemen war, Hormuz closure: What to know",
             "url": "https://c.newsnow.co.uk/A/1325606677?-15565:1965",
@@ -6443,11 +6447,11 @@
             "sources": [
               "Al-Monitor"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-09-28T18:20:08.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "阿联酋称其拦截伊朗导弹，富查伊拉油区在无人机袭击后遭遇火灾- EnergyNow.com",
             "originalTitle": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles - EnergyNow.com",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
@@ -6459,7 +6463,7 @@
             "publishedAt": "2026-09-28T15:41:07.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "胡塞武装袭击、沙特-阿联酋裂痕和地区新秩序- daily-sun.com",
             "originalTitle": "Houthi Attacks, Saudi-UAE Rift and New Regional Order - daily-sun.com",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WFpUR2VEWEx4MkZNRGFzaWtDU2JUSkw0cEg4NmN1eU1uMnBXYkh2YnZlcmF0VzFyMmhJeXQ1NEVXdGlHSnBVckEyNEJ3VUwxSzJQaw?oc=5",
@@ -6469,6 +6473,18 @@
             ],
             "heatScore": 63,
             "publishedAt": "2026-09-28T18:00:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋在联合国大会上概述了和平与解决冲突的愿景",
+            "originalTitle": "UAE Outlines Vision for Peace and Conflict Resolution at UN General Assembly",
+            "url": "https://c.newsnow.co.uk/A/1325601969?-15565:1965",
+            "source": "Voice Of Emirates",
+            "sources": [
+              "Voice Of Emirates"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-09-28T17:17:21.000Z"
           }
         ],
         "social": [
@@ -6496,7 +6512,7 @@
               "アラブニュース",
               "Reuters"
             ],
-            "heatScore": 94,
+            "heatScore": 93,
             "publishedAt": "2026-09-28T08:49:55.000Z"
           },
           {
@@ -6508,7 +6524,7 @@
             "sources": [
               "The New Arab"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-09-28T17:22:46.000Z"
           },
           {
@@ -6537,18 +6553,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "沙迦警告家庭注意流行的黏糊糊玩具和黏糊糊玩具的烧伤风险-海湾新闻",
-            "originalTitle": "Sharjah warns families over burn risks from popular squishy and slime toys - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakRaZXlGaFhtNWs0R2dOdlN0WURjaVIzVGRyeGJvYWttbG05Q2pWNzU5ZmxHV2JBOC1iU1ozRW9ycXRpbHJ1bkpHNmY5UC12eW9yWl9yS3pIby1rVlhZTld2SnNsZmN6bWh1R00tUVlNYWIxc1NnOF9ERjJfeTdRcWdjNmlhc1NSeWxjenFxTXBxNFJlbHAtVnVGeXJZU2ZuZHJNVzJVT0daQVNyeEFnajZ6OS1OcXgyYVHSAcwBQVVfeXFMTjFCVlV3bmFHMkRnc3hyTzNlVFFQdmJqenh2NTBzN1RpTS1UdzZ4b2c0bU41UXA3ekFJNkx6bXhMdWRIeHpTODZubHNWZEIwSDY4NV9HWFVseC1fT085bkJEZ1pVTzdjazhUV3B3U3pLTXBrMDc1Y25VbVpXZHdKSEdrYk9hd2N6MndLemxNQ3pwQmdpTUJLOGhNaHFmeFFManFsdHRZZkhvcEtKd3VZZnUtZW1IdUtHcnNtSTBhTEwxc3RZWEJUYVFFUlo0?oc=5",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 78,
-            "publishedAt": "2026-09-28T11:04:48.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "印度女子为迪拜的小房间支付45,000卢比的租金，说同样的钱可以在印度的部分地区获得3BHK的房子-经济时报",
             "originalTitle": "Indian woman pays Rs 45,000 rent for tiny Dubai room, says same money can get a 3BHK home in parts of Indi - The Economic Times",
             "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYjdmMExRX3kxSEFGdUs3TzJScW8zYmRxQXhOVVVtSFJwdXNJamx2b1RSR2FkdjdseWNUQ2VYV0YyQkVwTnZBUTVsTUljT3JRTkpYc0psMFA0NmdPNS1VTmtXeTVWb0t5SHFSY21aaTNZQVk4RkROYXpaNXBQN3AxNXdXVVJrdHExQks5ZEhKMGNCb1YyYkE4dEdCelBHVjFwMnBJRVdYVzR1TEw1S09Ccmo1cUQta3BfZlY2ZG5mRXNYTHFEZU9OYTBDVFlhaDVRR2hGYUdIYnp1WTRjRklyc09OMXc4X3M5dVJ5SHQ5QzNPOHZEcHRoODl2bUw3alFIWEx4VkNaME9USkpn0gGMAkFVX3lxTFBiN2YwTFFfeTFIQUZ1SzdPMlJxbzNiZHFBeE5VVW1IUnB1c0lqbHZvVFJHYWR2N2x5Y1RDZVhXRjJCRXBOdkFRNWxNSWNPclFOSlhzSmwwUDQ2Z081LVVOa1d5NVZvS3lIcVJjbVppM1lBWThGRE5helo1cFA3cDE1d1dVUmt0cTFCSzlkSEowY0JvVjJiQTh0R0J6UEdWMXAycElFV1hXNHVMTDVLT0JyajVxRC1rcF9mVjZkbmZFc1hMcURlT05hMENUWWFoNVFHaEZhR0hienVZNGNGSXJzT04xdzhfczl1UnlIdDlDM084dkRwdGg4OXZtTDdqUUhYTHhWQ1owT1RKSmc?oc=5",
@@ -6561,16 +6565,28 @@
             "publishedAt": "2026-09-28T15:32:00.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "前摩萨德外交官员表示，他不知道埃及，阿联酋在10月7日之前警告内塔尼亚胡- yahoo.com",
-            "originalTitle": "Ex-Mossad diplomacy official says he was unaware of Egypt, UAE warning Netanyahu before Oct. 7 - yahoo.com",
+            "rank": 7,
+            "translatedTitle": "前摩萨德外交官员表示，他不知道埃及，阿联酋在10月7日之前警告内塔尼亚胡-雅虎",
+            "originalTitle": "Ex-Mossad diplomacy official says he was unaware of Egypt, UAE warning Netanyahu before Oct. 7 - Yahoo",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnVYNV9BZl9CSzlDdEZUSkJhRmM4anBNVlY2RjFkVjBHU0EwY3NTQXQ1MTU3MjhWX0E0MGFiaDc5alVFWkp5bUJPdHZDUkpnZmFMR3ZDaUw5SzFFWTk0cmRMdGVoaFU2WjgzWVoxRDVaNThIYUVPTzZCSXphcmR3aENwMG1nd3BmM2NTZlhLM1gzSkhBLWtrSQ?oc=5",
-            "source": "yahoo.com",
+            "source": "Yahoo",
             "sources": [
-              "yahoo.com"
+              "Yahoo"
             ],
             "heatScore": 78,
             "publishedAt": "2026-09-28T10:47:15.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "沙迦警告家庭注意流行的黏糊糊玩具和黏糊糊玩具的烧伤风险-海湾新闻",
+            "originalTitle": "Sharjah warns families over burn risks from popular squishy and slime toys - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakRaZXlGaFhtNWs0R2dOdlN0WURjaVIzVGRyeGJvYWttbG05Q2pWNzU5ZmxHV2JBOC1iU1ozRW9ycXRpbHJ1bkpHNmY5UC12eW9yWl9yS3pIby1rVlhZTld2SnNsZmN6bWh1R00tUVlNYWIxc1NnOF9ERjJfeTdRcWdjNmlhc1NSeWxjenFxTXBxNFJlbHAtVnVGeXJZU2ZuZHJNVzJVT0daQVNyeEFnajZ6OS1OcXgyYVHSAcwBQVVfeXFMTjFCVlV3bmFHMkRnc3hyTzNlVFFQdmJqenh2NTBzN1RpTS1UdzZ4b2c0bU41UXA3ekFJNkx6bXhMdWRIeHpTODZubHNWZEIwSDY4NV9HWFVseC1fT085bkJEZ1pVTzdjazhUV3B3U3pLTXBrMDc1Y25VbVpXZHdKSEdrYk9hd2N6MndLemxNQ3pwQmdpTUJLOGhNaHFmeFFManFsdHRZZkhvcEtKd3VZZnUtZW1IdUtHcnNtSTBhTEwxc3RZWEJUYVFFUlo0?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-09-28T11:04:48.000Z"
           },
           {
             "rank": 9,
