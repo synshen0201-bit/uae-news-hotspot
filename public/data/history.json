@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T19:40:44.790Z",
+  "updatedAt": "2026-09-29T19:54:28.259Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -6641,24 +6641,11 @@
     },
     "2026-09-29": {
       "date": "2026-09-29",
-      "updatedAt": "2026-09-29T19:40:44.790Z",
+      "updatedAt": "2026-09-29T19:54:28.259Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "国家通讯社称，阿联酋总统讨论了与以色列内塔尼亚胡的双边关系 アラブニュース",
-            "originalTitle": "UAE president discussed bilateral relations with Israel's Netanyahu, state news agency says - アラブニュース",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazRQYzVlZmhxU1lnQU1XNnlzN1BnYkhvZnNFUDh0QXk0Skg2OWZJRUhCWjlqYWFwWno2ZDFlWThPZVZzay1OeHM0YlNZMGJFVXJvMlk3RUpXVkFzQklhcE5Qalp6anpyX2tOVUVlQ21NSjFlWC1hSzBVdDR3U1pYNXBSVFdnV1NrOW4yMUZkTVpOSGZnV3BYTnNudUZ1cVFyVm5WZ0pacG5hZXZFc3ZNWkdabzZuelplNWEyY1FlMmR2QkdhZjJTVFFMZw?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "アラブニュース",
-              "Reuters"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-09-29T15:54:46.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "沙特国防部长邀请阿联酋副总统访问王国— Asharq Al-Awsat - UA.NEWS",
             "originalTitle": "Saudi defense minister invites UAE vice president to kingdom — Asharq Al-Awsat - UA.NEWS",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3hMalV1bGw4bXp1cHZ6VVl5MHFUM1RHY3l4TlpTNEtvWEtiU3FBaXQxeGtKbFl6S190Z0UwR3NiLVk1MVBpMDhITUpuQ3h6LWJObFMxeWZkR0dCakJRSGFxUFhyNTlTTnNEcjFENXpmY1p6UG1ackFzUDFuc0lzMExGbE4ySWF6SXlhVzVIRlg2Nlp3V3owZlY1RFEtVDY4WkhCWlowRzBSS2lMTXhkTnBoN2FWWGpU?oc=5",
@@ -6672,7 +6659,7 @@
             "publishedAt": "2026-09-29T14:30:30.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "阿联酋总统和赞比亚总统讨论双边关系的增长- uaebarq.ae",
             "originalTitle": "UAE President and President of Zambia discuss growth of bilateral ties - uaebarq.ae",
             "url": "https://c.newsnow.co.uk/A/1325717356?-15565:1965",
@@ -6685,6 +6672,19 @@
             "publishedAt": "2026-09-29T19:16:52.000Z"
           },
           {
+            "rank": 3,
+            "translatedTitle": "埃及、阿联酋续签13.6亿美元货币互换协议-埃及公报",
+            "originalTitle": "Egypt, UAE renew $1.36b currency swap agreement - Egyptian Gazette",
+            "url": "https://www.khaleejtimes.com/uae/uae-egypt-central-banks-renew-currency-swap-agreement",
+            "source": "Khaleej Times",
+            "sources": [
+              "Egyptian Gazette",
+              "Khaleej Times"
+            ],
+            "heatScore": 96,
+            "publishedAt": "2026-09-29T17:48:05.000Z"
+          },
+          {
             "rank": 4,
             "translatedTitle": "阿联酋总统、土耳其外长讨论中东稳定与和平-叙利亚通讯社–萨那",
             "originalTitle": "UAE President, Turkish foreign minister discuss Middle East stability and peace - وكالة الأنباء السورية – سانا",
@@ -6692,7 +6692,7 @@
             "source": "Gulf News",
             "sources": [
               "وكالة الأنباء السورية – سانا",
-              "8AM Media",
+              "8am.media",
               "Gulf News"
             ],
             "heatScore": 95,
@@ -6702,31 +6702,17 @@
             "rank": 5,
             "translatedTitle": "埃及和阿联酋央行续签13.6亿美元货币互换协议- Zawya",
             "originalTitle": "Central banks of Egypt and UAE renew $1.36bln currency swap agreement - Zawya",
-            "url": "https://www.khaleejtimes.com/uae/uae-egypt-central-banks-renew-currency-swap-agreement",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHJjMVJSblNNNlpULXFlcnVHY1NqemNvd2czMzJlUWVDbnBDTC1kaFdyMUhnZ3RnNGFGZGJyN2gtZFhpRzJDVUN1LWtTdFpkZ1VGSHJXQ19lcE9oNU14UUJhSWVERTJtNHlyYUl0TEdkZ2x5MWVKMWY2d3pMMzRXNEoxODZadDlIV0taVVhKQdIBlwFBVV95cUxQU0l4UXE5NjBZbXVoUFY2SUV2Z2dWczdOOUlaa2RGNEtKOC1VQVZOUXh4QlpnOWx0czRuYWtKbFRHbE00Z3ZqbHp4LTFBS0J4aGVzM3FzZldtcUdVVmFWQXlQNW1Rb3VKTVJXV0Foc2JCVlNPZWdBMWw4U2xWUTJvVmstUFBZTHZmN0VfYW1Vd08wcV8taFdZ?oc=5",
             "source": "Khaleej Times",
             "sources": [
               "Zawya",
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 90,
             "publishedAt": "2026-09-29T14:54:00.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "沙特国防部长会见阿联酋副总统谢赫·曼苏尔·本·扎耶德- ASHARQ AL-AWSAT英语",
-            "originalTitle": "Saudi Defense Minister Meets with UAE Vice President Sheikh Mansour bin Zayed - ASHARQ AL-AWSAT English",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRlNwVmhzTlV3UGZCQTIyR3RpRGFUWksyTkdnV0phYnJXTWUycHpWdkZNRzdaLW91N2M0YVhIWWxrY004ZnBOQ3ZBQWZLdnpiN3hRN0FRTDZHWjFFaUVsc3ZwSGo3VkxwOGNieFVNWTNlMzZZZVljSUdvenlXeDZEc0NfRU1lZmtWQ1ZxTTdZdDl6SThDaTRxTzZZN1pwbl9KYVNLODJRTlk2NlZCM05XY2t3?oc=5",
-            "source": "ASHARQ AL-AWSAT English",
-            "sources": [
-              "Riyadh Daily",
-              "Asharq Al-Awsat",
-              "ASHARQ AL-AWSAT English"
-            ],
-            "heatScore": 92,
-            "publishedAt": "2026-09-29T19:03:25.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "沙特阿拉伯敦促与阿联酋和解，以击退也门的胡塞分离主义分子--《卫报》",
             "originalTitle": "Saudi Arabia urged to reconcile with UAE to drive back Houthi separatists in Yemen - The Guardian",
             "url": "https://www.theguardian.com/world/2026/sep/29/saudi-arabia-urged-to-reconcile-with-uae-to-drive-back-houthi-separatists-in-yemen",
@@ -6734,11 +6720,11 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-09-29T16:54:00.000Z"
+            "heatScore": 88,
+            "publishedAt": "2026-09-29T18:57:00.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿联酋谴责以色列部长本·格维尔袭击阿克萨庭院",
             "originalTitle": "UAE denounces Israel minister Ben Gvir's storming of Al Aqsa Courtyard",
             "url": "https://www.khaleejtimes.com/uae/denounces-israel-minister-ben-gvir-storming-al-aqsa-courtyard",
@@ -6750,7 +6736,7 @@
             "publishedAt": "2026-09-29T19:02:56.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "为阿联酋人提供750个迪拜政府工作岗位",
             "originalTitle": "750 Dubai Government jobs on offer for Emiratis",
             "url": "https://c.newsnow.co.uk/A/1325708591?-15565:1965",
@@ -6762,7 +6748,7 @@
             "publishedAt": "2026-09-29T17:27:34.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "阿联酋总统谢赫·哈姆丹（ Sheikh Hamdan ）成为首位前往迪拜火车站的阿提哈德铁路乘客",
             "originalTitle": "UAE President 'surprises' Sheikh Hamdan as first Etihad Rail passenger to Dubai station",
             "url": "https://www.khaleejtimes.com/uae/uae-president-surprises-sheikh-hamdan-first-etihad-rail-passenger-dubai-station",
@@ -6770,8 +6756,20 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-09-29T17:07:48.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋的Al Janahi、Al Awadhi公开亚运会活动获胜",
+            "originalTitle": "UAE's Al Janahi, Al Awadhi open Asian Games campaign with win",
+            "url": "https://www.khaleejtimes.com/sports/uaes-al-janahi-al-awadhi-open-asian-games-campaign-with-win",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-09-29T15:34:08.000Z"
           }
         ],
         "domestic": [
@@ -6790,20 +6788,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "沙特国防部长会见阿联酋副总统谢赫·曼苏尔·本·扎耶德- ASHARQ AL-AWSAT英语",
-            "originalTitle": "Saudi Defense Minister Meets with UAE Vice President Sheikh Mansour bin Zayed - ASHARQ AL-AWSAT English",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRlNwVmhzTlV3UGZCQTIyR3RpRGFUWksyTkdnV0phYnJXTWUycHpWdkZNRzdaLW91N2M0YVhIWWxrY004ZnBOQ3ZBQWZLdnpiN3hRN0FRTDZHWjFFaUVsc3ZwSGo3VkxwOGNieFVNWTNlMzZZZVljSUdvenlXeDZEc0NfRU1lZmtWQ1ZxTTdZdDl6SThDaTRxTzZZN1pwbl9KYVNLODJRTlk2NlZCM05XY2t3?oc=5",
-            "source": "ASHARQ AL-AWSAT English",
-            "sources": [
-              "Riyadh Daily",
-              "Asharq Al-Awsat",
-              "ASHARQ AL-AWSAT English"
-            ],
-            "heatScore": 92,
-            "publishedAt": "2026-09-29T19:03:25.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "阿联酋谴责以色列部长本·格维尔袭击阿克萨庭院",
             "originalTitle": "UAE denounces Israel minister Ben Gvir's storming of Al Aqsa Courtyard",
             "url": "https://www.khaleejtimes.com/uae/denounces-israel-minister-ben-gvir-storming-al-aqsa-courtyard",
@@ -6815,7 +6799,7 @@
             "publishedAt": "2026-09-29T19:02:56.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "为阿联酋人提供750个迪拜政府工作岗位",
             "originalTitle": "750 Dubai Government jobs on offer for Emiratis",
             "url": "https://c.newsnow.co.uk/A/1325708591?-15565:1965",
@@ -6827,7 +6811,7 @@
             "publishedAt": "2026-09-29T17:27:34.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "阿联酋总统谢赫·哈姆丹（ Sheikh Hamdan ）成为首位前往迪拜火车站的阿提哈德铁路乘客",
             "originalTitle": "UAE President 'surprises' Sheikh Hamdan as first Etihad Rail passenger to Dubai station",
             "url": "https://www.khaleejtimes.com/uae/uae-president-surprises-sheikh-hamdan-first-etihad-rail-passenger-dubai-station",
@@ -6835,23 +6819,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-09-29T17:07:48.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "沙特阿拉伯否认代表出席以色列-阿联酋会议",
-            "originalTitle": "Saudi Arabia denies representatives attended Israel-UAE meeting",
-            "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-denies-representatives-attended-israel-uae-meeting-3003768",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-09-29T17:26:30.000Z"
-          },
-          {
-            "rank": 7,
+            "rank": 5,
             "translatedTitle": "阿联酋的Al Janahi、Al Awadhi公开亚运会活动获胜",
             "originalTitle": "UAE's Al Janahi, Al Awadhi open Asian Games campaign with win",
             "url": "https://www.khaleejtimes.com/sports/uaes-al-janahi-al-awadhi-open-asian-games-campaign-with-win",
@@ -6863,7 +6835,7 @@
             "publishedAt": "2026-09-29T15:34:08.000Z"
           },
           {
-            "rank": 8,
+            "rank": 6,
             "translatedTitle": "首个阿提哈德铁路迪拜-阿布扎比客运列车服务的优质票已售罄",
             "originalTitle": "Premium tickets for first Etihad Rail Dubai-Abu Dhabi passenger train service sold out",
             "url": "https://www.khaleejtimes.com/uae/etihad-rail-dubai-abu-dhabi-train-tickets-sold-out-first-day",
@@ -6875,19 +6847,19 @@
             "publishedAt": "2026-09-29T15:12:18.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "迪拜人口在前九个月增加了226,885人",
-            "originalTitle": "Dubai population rises by 226,885 in first nine months",
-            "url": "https://c.newsnow.co.uk/A/1325708592?-15565:1965",
-            "source": "Gulf News",
+            "rank": 7,
+            "translatedTitle": "沙特阿拉伯否认代表出席以色列-阿联酋会议",
+            "originalTitle": "Saudi Arabia denies representatives attended Israel-UAE meeting",
+            "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-denies-representatives-attended-israel-uae-meeting-3003768",
+            "source": "Arab News",
             "sources": [
-              "Gulf News"
+              "Arab News"
             ],
             "heatScore": 81,
-            "publishedAt": "2026-09-29T17:27:34.000Z"
+            "publishedAt": "2026-09-29T17:26:30.000Z"
           },
           {
-            "rank": 10,
+            "rank": 8,
             "translatedTitle": "大学学位可以带您去哪里生活？阿联酋学生可以在KT UniExpo第2天找到答案",
             "originalTitle": "Where can college degree take you in life? UAE students can find out at KT UniExpo Day 2",
             "url": "https://www.khaleejtimes.com/uae/education/kt-uniexpo-day-2-students-what-to-expect",
@@ -6897,38 +6869,75 @@
             ],
             "heatScore": 81,
             "publishedAt": "2026-09-29T14:32:17.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜人口在前九个月增加了226,885人",
+            "originalTitle": "Dubai population rises by 226,885 in first nine months",
+            "url": "https://c.newsnow.co.uk/A/1325708592?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-09-29T17:27:34.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿治曼推出学士学位、共享住房新规定",
+            "originalTitle": "Ajman launches new rules for bachelor, shared housing",
+            "url": "https://c.newsnow.co.uk/A/1325707766?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-09-29T17:17:19.000Z"
           }
         ],
         "diplomacy": [
           {
             "rank": 1,
+            "translatedTitle": "埃及、阿联酋续签13.6亿美元货币互换协议-埃及公报",
+            "originalTitle": "Egypt, UAE renew $1.36b currency swap agreement - Egyptian Gazette",
+            "url": "https://www.khaleejtimes.com/uae/uae-egypt-central-banks-renew-currency-swap-agreement",
+            "source": "Khaleej Times",
+            "sources": [
+              "Egyptian Gazette",
+              "Khaleej Times"
+            ],
+            "heatScore": 96,
+            "publishedAt": "2026-09-29T17:48:05.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋总统、土耳其外长讨论中东稳定与和平-叙利亚通讯社–萨那",
             "originalTitle": "UAE President, Turkish foreign minister discuss Middle East stability and peace - وكالة الأنباء السورية – سانا",
             "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1N4RlM5SVBrb01CWnl2Y0hjR29GT3pwbUZFUzBmanZxTGlQMW9KaE5QU19IS3pzd2lrQ0x3VlUydkplTE1KaGV1X1RER0NydnlaLWR1OS12dXVmTXV2VllZS1ZSYk02aUktY0pNQS1ZWXI4RVRIb2Q4ckItWDlUQzA3VGdQaTRDUDdvSlN2cHZQY2lGT1lhbzFnVFZqUzJpZkZSWGMwN0s1QW50SlE2RGl5Q2xmMzhEQ3QtOFJnaGZXX3Ria2o0ajJ4bmtETmZoZDhCSjVVZWx1MnBQZnhj0gHyAUFVX3lxTE9ETlJrMlFWY2Q1Nk1NMnh1cHFfTTZsTTduOG12SzA4OXlnTnpWN0dzTDJMNHlYMS1CNFU1Ujl1d2dfWlhRSUhwYjc5TS1hdVZLb1huMEx1Xy1yMW9fb0YzNWZTaUFPa3l1cDdfZ1QzSXY2UjlRZ3lOWk1GeHh3bXlCT19icG5DZWw4SE53YkFpMkVGMV8wSTJ0WmJwNmcwOXk5VXZtYXZWWV9PMEpTZnc5Z3o3RHlTVjQzSW5lMDhrVnZKMlhGaVV1eHpTTTZsWWdjTnE2M3VOOWNuQkh0ZTluS3ZBSTZHd3VNM2lDWXl2N0lB?oc=5",
             "source": "Gulf News",
             "sources": [
               "وكالة الأنباء السورية – سانا",
-              "8AM Media",
+              "8am.media",
               "Gulf News"
             ],
             "heatScore": 95,
             "publishedAt": "2026-09-29T06:39:59.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "埃及和阿联酋央行续签13.6亿美元货币互换协议- Zawya",
             "originalTitle": "Central banks of Egypt and UAE renew $1.36bln currency swap agreement - Zawya",
-            "url": "https://www.khaleejtimes.com/uae/uae-egypt-central-banks-renew-currency-swap-agreement",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHJjMVJSblNNNlpULXFlcnVHY1NqemNvd2czMzJlUWVDbnBDTC1kaFdyMUhnZ3RnNGFGZGJyN2gtZFhpRzJDVUN1LWtTdFpkZ1VGSHJXQ19lcE9oNU14UUJhSWVERTJtNHlyYUl0TEdkZ2x5MWVKMWY2d3pMMzRXNEoxODZadDlIV0taVVhKQdIBlwFBVV95cUxQU0l4UXE5NjBZbXVoUFY2SUV2Z2dWczdOOUlaa2RGNEtKOC1VQVZOUXh4QlpnOWx0czRuYWtKbFRHbE00Z3ZqbHp4LTFBS0J4aGVzM3FzZldtcUdVVmFWQXlQNW1Rb3VKTVJXV0Foc2JCVlNPZWdBMWw4U2xWUTJvVmstUFBZTHZmN0VfYW1Vd08wcV8taFdZ?oc=5",
             "source": "Khaleej Times",
             "sources": [
               "Zawya",
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 90,
             "publishedAt": "2026-09-29T14:54:00.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "阿联酋王储、副总统谢赫·曼苏尔·本·扎耶德讨论双边关系、地区发展- ASHARQ AL-AWSAT English",
             "originalTitle": "Crown Prince, UAE Vice President Sheikh Mansour bin Zayed Discuss Bilateral Relations, Regional Developments - ASHARQ AL-AWSAT English",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVJHYW5SY0w1SzVUU1RCbVFVRjFVVlNHTkRNSGpNczFsYkVHcG1tUGJvcWJWWEFlN0ItUzZheEtiTXY2TjV5MEQwV21HeVp4azNVemZmek9DSXBrU0xwSWU3Y3NaLVlLbzZXS04wYjlmQ1VNbkwyTzgtbDNlQm5sTHZwc0trLXJvaW1HS1RVSzB6VDhycWM0bU1ZWWxsSHRNVFhfby1JZjRid0RDb1hyRHFzNnVZWVF5bUZycHRjUmV5Zw?oc=5",
@@ -6937,11 +6946,11 @@
               "Riyadh Daily",
               "ASHARQ AL-AWSAT English"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-09-29T19:03:25.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "阿联酋和埃及续签50亿迪拉姆货币互换协议以促进经济发展- thenationalnews.com",
             "originalTitle": "UAE and Egypt renew Dh5bn currency swap deal to enhance economic development - thenationalnews.com",
             "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDAxbVBzeGRMdUFKSEdnX052cUotNjl4RFQ4dmtseElSdlJ1SC1FSlk1U0xpQUd1STNrOG5nRHhCeF93LUdndHQwVkFMa3VXWFBWSzNtc3ZsdjBwVEo1R1puZm9HS19YQVJLY2p5NGlUSFNqYnhya1AwRWJpSURMLVp5TDYtVXFmNVE2R0Vpd2V1ejE0bUZ2amc1Y09uVWdTRjJGTmNxaFIwUmloVjlvZS1XNlFhaW02ajBZLXVobXM5U3JnVk9KS1E2MW1vWTlyTEo0?oc=5",
@@ -6949,11 +6958,11 @@
             "sources": [
               "thenationalnews.com"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-09-29T15:06:39.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "尼日利亚，阿联酋计划联合委员会深化经济关系-《卫报》尼日利亚新闻",
             "originalTitle": "Nigeria, UAE plan joint commission to deepen economic ties - The Guardian Nigeria News",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHI2VFcyVTJWdjdRbnctc2NqTHNJRHFtOExpXzN0RlJ4QjkzcDhxRGJ2Z0dpdzMtSWJkLUpRcWJuSEY4bjlxTnFzMzByM3hUeXhHSGNnam1FRzZycXVnR0VRSy14RjhoMnoyZElYaU96RllDVnFraTFud3d4WmtDOERHOGZkMnpGREpOdDV5NE9yek5ZS3c?oc=5",
@@ -6961,11 +6970,23 @@
             "sources": [
               "The Guardian Nigeria News"
             ],
-            "heatScore": 75,
+            "heatScore": 74,
             "publishedAt": "2026-09-29T10:19:00.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
+            "translatedTitle": "国家通讯社称，阿联酋总统讨论了与以色列内塔尼亚胡的双边关系-路透社",
+            "originalTitle": "UAE president discussed bilateral relations with Israel's Netanyahu, state news agency says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazRQYzVlZmhxU1lnQU1XNnlzN1BnYkhvZnNFUDh0QXk0Skg2OWZJRUhCWjlqYWFwWno2ZDFlWThPZVZzay1OeHM0YlNZMGJFVXJvMlk3RUpXVkFzQklhcE5Qalp6anpyX2tOVUVlQ21NSjFlWC1hSzBVdDR3U1pYNXBSVFdnV1NrOW4yMUZkTVpOSGZnV3BYTnNudUZ1cVFyVm5WZ0pacG5hZXZFc3ZNWkdabzZuelplNWEyY1FlMmR2QkdhZjJTVFFMZw?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-09-28T21:04:09.000Z"
+          },
+          {
+            "rank": 8,
             "translatedTitle": "阿联酋确认内塔尼亚胡突访，领导人就双边关系举行会谈- myind.net",
             "originalTitle": "UAE confirms Netanyahu’s unannounced visit, leaders held talks on bilateral ties - myind.net",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOanZyS2xNb0EtZ3Zpd3VFSWh4aXBPZWdzUUxVQ0hFZHFrWENXZkRVb25FaXRObHRDa2NSTW9Vb0ZhY0d1bFFYNFJPTGdIem9fcDVRNm5GSG92c3dfM3ZNRDFzYTU1WEhqdmxISFlqalhMSF9MdG1LLVM1Y2o2MEZqY0U5RlFPUHMwSDVkNDV0enRoYXpjUWtENWdQT0Y1NHp5SG5QS1VCSUdsVUZDNWdtUEZPTQ?oc=5",
@@ -6977,40 +6998,16 @@
             "publishedAt": "2026-09-29T18:20:32.000Z"
           },
           {
-            "rank": 7,
-            "translatedTitle": "埃及、阿联酋续签13.6亿美元货币互换协议- egyptian-gazette.com",
-            "originalTitle": "Egypt, UAE renew $1.36b currency swap agreement - egyptian-gazette.com",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODEtZ2ZsRElabks0QWxoRmtsOFg0LW1vRHQ3aFNQWXE0TzNUZm0wSmp0ZUgzZS1sajlja3YtMENlMUpMMkxSWkRGalVFSkFFa3NCdDBMWHdDQmIzelV3aThqdWRvYVlfZkItcEYxT3RXVlNxa0lrTGx3ZzRCXzZCUWZSRmJFVWk1?oc=5",
-            "source": "egyptian-gazette.com",
-            "sources": [
-              "egyptian-gazette.com"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-09-29T17:48:05.000Z"
-          },
-          {
-            "rank": 8,
-            "translatedTitle": "阿联酋确认内塔尼亚胡访问，称讨论了“双边关系” --《阿拉伯周刊》",
-            "originalTitle": "UAE confirms Netanyahu visit, says ‘bilateral relations’ discussed - The Arab Weekly",
+            "rank": 9,
+            "translatedTitle": "阿联酋确认内塔尼亚胡访问，称讨论了“双边关系” - thearabweekly.com",
+            "originalTitle": "UAE confirms Netanyahu visit, says ‘bilateral relations’ discussed - thearabweekly.com",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV1FLektBcjM5OHpZZFhEZmM5dEsxWnBOQlpDUE5nUkRMYlZ3VU5kalkwTGpVUS1uazhXOTVpNDVpUml4UmZnNW1IcXN0T0loN2NTSVhsUFhsemtYbWRVR2tzUDktOTVNVFVjaHVQeDBlVms4czF1NllnQ1lWYk5KYjFhNEk3YWVOVFl1U3l6ZThfN2M?oc=5",
-            "source": "The Arab Weekly",
+            "source": "thearabweekly.com",
             "sources": [
-              "The Arab Weekly"
+              "thearabweekly.com"
             ],
             "heatScore": 62,
             "publishedAt": "2026-09-29T12:25:55.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "阿联酋确认内塔尼亚胡访问，通过国家通讯社讨论与MBZ的双边关系-耶路撒冷邮报",
-            "originalTitle": "UAE confirms Netanyahu visit, discussion over bilateral relations with MBZ via state news agency - The Jerusalem Post",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KRXAzZHJnZk8zYlZzS0V2ZzRhdzd5MnhSMmUxLUw1bjlDaHJaR1pjQjl5MDVYekdXRFNueEVRWjY1MFNBT2pZdWppVFpaRmpSQVZveUE2NlVoVEdt?oc=5",
-            "source": "The Jerusalem Post",
-            "sources": [
-              "The Jerusalem Post"
-            ],
-            "heatScore": 62,
-            "publishedAt": "2026-09-29T10:41:42.000Z"
           },
           {
             "rank": 10,
@@ -7035,7 +7032,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 80,
+            "heatScore": 79,
             "publishedAt": "2026-09-29T13:45:44.000Z"
           },
           {
@@ -7113,8 +7110,8 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-09-29T16:54:00.000Z"
+            "heatScore": 88,
+            "publishedAt": "2026-09-29T18:57:00.000Z"
           },
           {
             "rank": 3,
@@ -7142,6 +7139,18 @@
           },
           {
             "rank": 5,
+            "translatedTitle": "沙特国防部长会见阿联酋副总统- qna.org.qa",
+            "originalTitle": "Saudi Defense Minister Meets UAE Vice President - qna.org.qa",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYlZmNmtlMG5OQzVpZEVONFFJcDF2WDNvc2ppaHZ3ajFVMXY3WGFNbHgxWElLVndza0ZwSE5JWjB0eUV3VUlTckthOTc2RFJqVDB1UWdRUzd0dzBoWWVnS1JHYXNsSHZ0S0MzLXUyNXV5RG56LTJvR3kzUGMxSTlqOGJYQWxRNDJKampVZUdHZC0weHNtMmU1X0lR?oc=5",
+            "source": "qna.org.qa",
+            "sources": [
+              "qna.org.qa"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-09-29T18:25:54.000Z"
+          },
+          {
+            "rank": 6,
             "translatedTitle": "迪拜摩天大楼大火的旧视频被错误地分享为伊朗导弹袭击以色列的视频- FACTLY",
             "originalTitle": "An old video of the Dubai Skyscraper Fire is being falsely shared as a video of an Iranian missile strike on Israel - FACTLY",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENFemxEMko1WmpkdE1RUWdiLWZycDItYUVSQjNwcC13UHdJSVl6U1otcUlNZi00aTF3aEZjbTNBN0ozSm5sTFFfbExHRzI1c3FMQVU2d0txX01fS21odlJzc1BvQUVYVnVrS0Fmdy16VXRtWGkzRWdBVjhFcG92NEhtZTF2a0ZyVlppcEhBeVgwUmhBLTJrV29acVlsLUIzckpMUEx6TGZwMUl1a3hDNjJNWmVpX2Jac0lXZjRRUzc3VkhHSmdhZ1FvWEFRTzQ?oc=5",
@@ -7151,18 +7160,6 @@
             ],
             "heatScore": 58,
             "publishedAt": "2026-09-29T10:21:49.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "阿联酋称伊朗导弹袭击霍尔木兹海峡油轮， 1名水手遇难- EnergyNow.com",
-            "originalTitle": "UAE Says Iranian Missiles Struck Oil Tankers in Strait of Hormuz, One Sailor Killed - EnergyNow.com",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHI2dnA4RFFBdm9PemRsSGZPVE91QWpZRUprX084RjNiZmh4LUxUZ3RKRFZxRS1nTTkyemlUbmxJUjZocVl0Um5pWFZvN1R2Q2NIcThHQ2ZOalFRc21LQ3AyWVV4amMtal9pbmdySTdjcUxNRVlDQWlyc1RyVjA3RlpEN1F6VEEwU3VkTEhMR2ZqQmlwVHVOeFMwSkkyZmdINFp4bm9SX3ZSd1dMY0lmRi0tQQ?oc=5",
-            "source": "EnergyNow.com",
-            "sources": [
-              "EnergyNow.com"
-            ],
-            "heatScore": 57,
-            "publishedAt": "2026-09-29T10:38:29.000Z"
           },
           {
             "rank": 7,
@@ -7178,6 +7175,18 @@
           },
           {
             "rank": 8,
+            "translatedTitle": "阿联酋称伊朗导弹袭击霍尔木兹海峡油轮， 1名水手遇难- EnergyNow.com",
+            "originalTitle": "UAE Says Iranian Missiles Struck Oil Tankers in Strait of Hormuz, One Sailor Killed - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHI2dnA4RFFBdm9PemRsSGZPVE91QWpZRUprX084RjNiZmh4LUxUZ3RKRFZxRS1nTTkyemlUbmxJUjZocVl0Um5pWFZvN1R2Q2NIcThHQ2ZOalFRc21LQ3AyWVV4amMtal9pbmdySTdjcUxNRVlDQWlyc1RyVjA3RlpEN1F6VEEwU3VkTEhMR2ZqQmlwVHVOeFMwSkkyZmdINFp4bm9SX3ZSd1dMY0lmRi0tQQ?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-09-29T10:38:29.000Z"
+          },
+          {
+            "rank": 9,
             "translatedTitle": "沙特阿拉伯在胡塞武装压力下邀请阿联酋副总统- middle-east-online.com",
             "originalTitle": "Saudi Arabia invites UAE vice president amid Houthi pressure - middle-east-online.com",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTliWVVCUUgtZDlwNDRrdG10T2NkZ1RkelBfY2VOSTU4Vk1MdDRkUlV4VzF4ei1WdERnTWozYWgxU2p2eHNfclBFOE5rVkVnUm14TGRheExzd1ZrbEMwemRZUWNtaW5iWmJ3OUxsR1lpUkxGRlpfbGhobllNNXdHaG5FQUZnSTIxaFlocWxjVVEtZmlhdC1ha2hB?oc=5",
@@ -7189,7 +7198,7 @@
             "publishedAt": "2026-09-29T09:54:48.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "也门紧张局势：沙特国防部长邀请阿联酋副总统访问沙特阿拉伯-印度展望",
             "originalTitle": "Yemen Tensions: Saudi Defence Minister Invites UAE Vice President To Saudi Arabia - Outlook India",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEo5b2hKZ0x2V1dVOWVUak9PSDlJU29JYXRhUW9QWjVOSnpSR3N5LWFxMFV3Ql9kNUJYRnN0Q2JBemh3RVpQMjhDb1luUktwS2pkNWM4TTdJMDRZQXpyRzFTald2UVdlWWZjN3d1d0RyU3BhZjlvejEza2tYTm4wbDRCNmtDNTZ1THAtMFdHMU9VWkNNVEtjaHp2cjJ5akg0OEJER1AyVi00ci1TZElVd1BVd3VmR2lUeVdGZ0lMalTSAc4BQVVfeXFMTmRGY0FfelowSEdUaHlEVnF4SDQ2M3NIbEZLbERQbklVTmRDQUJ3N0VpWmItcUFlbWpJWWhlQUhtUEt6aVU5Y1hha2FxZmVSS0pQbmZjZVgwQ3Zhcm8xcG40X2puZXZXTGxmNlF4aEc1M3QyQmNwRmg0TGpFTXh5ODR3b21GLXFVVXQ2SDMyek1TSk1aVVF3VjhDYUk0cUY2STFrRW45ajlWY2ZFd1BxV2NrSDVRT2VTdWdxVXhScXFMdTl4ekpkR2dLdXNyM0E?oc=5",
@@ -7199,36 +7208,11 @@
             ],
             "heatScore": 55,
             "publishedAt": "2026-09-29T09:48:06.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "摩洛哥加入阿联酋与内塔尼亚胡就伊朗和防空问题举行的会谈- Yabiladi.com",
-            "originalTitle": "Morocco joins UAE talks with Netanyahu on Iran and air defense - Yabiladi.com",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVE9sSjRwa25JZjFKcUNJNmFiWVAyOGZCTnU0UWZsT01Sb1pibVNTc2JsTFZCUXloVkl1aU42T1FPR09NeHdHaDd5cVB3TnJGanVqSllEeDhRTkxzSzhqQ1VhR01qWUJCMEFpV1JsVm5fUjRoZGRGTzRGZHZmZlladldIUHlZaC16VllHRU9NcUE?oc=5",
-            "source": "Yabiladi.com",
-            "sources": [
-              "Yabiladi.com"
-            ],
-            "heatScore": 55,
-            "publishedAt": "2026-09-29T09:21:46.000Z"
           }
         ],
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "国家通讯社称，阿联酋总统讨论了与以色列内塔尼亚胡的双边关系 アラブニュース",
-            "originalTitle": "UAE president discussed bilateral relations with Israel's Netanyahu, state news agency says - アラブニュース",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazRQYzVlZmhxU1lnQU1XNnlzN1BnYkhvZnNFUDh0QXk0Skg2OWZJRUhCWjlqYWFwWno2ZDFlWThPZVZzay1OeHM0YlNZMGJFVXJvMlk3RUpXVkFzQklhcE5Qalp6anpyX2tOVUVlQ21NSjFlWC1hSzBVdDR3U1pYNXBSVFdnV1NrOW4yMUZkTVpOSGZnV3BYTnNudUZ1cVFyVm5WZ0pacG5hZXZFc3ZNWkdabzZuelplNWEyY1FlMmR2QkdhZjJTVFFMZw?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "アラブニュース",
-              "Reuters"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-09-29T15:54:46.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "阿联酋航空在新的病毒视频中表示，迪拜将继续变得更好-海湾新闻",
             "originalTitle": "Dubai will keep getting better, says Emirates in new viral video - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1FVeThJRVRPT3VHTkgwdVozN1RrZ21FeGV0Sm5aMWFQcWgyaXBlTkQ2RnZVd2gxRU1DMXgtalVCS05QR2FKQzdiNW91Vnl1azhmNHBFUjAzY3dFUHRZazV1X0lWSjFSNUJ2Q1ZWeURMREdMNDl6OVpPWFVDSXBsTDc2Vi04NFpKVl9FNlVsaGI2MTBLUnBxbEt0ZmVXb0xPVG45d3FkYkZKLUpZcmNJeWV6OGTSAccBQVVfeXFMTklOcjZZWTgzTF90WGotUHcxdV9fTWJULXZvdXpYYXhFblIzTmVFTUNfbEQtVF82aldEaGQ0Sktwd3lFLUE1ek1HV01ydXVPcFRLOU5jRk5GWTNrTThyNm82Rk5UVVpNN1NoTHZLSkJRbGdWU2lmczhyMk5vMW1OLVgtajBWQjQ4Y2pnUXZpQkVfMzNrckFaY0hHa1RjdkttcDIwcXlxMHUxblNpZlNsNExoVG0xbkQ1SFZNWmE5Z2s0ajdxNFpmWQ?oc=5",
@@ -7240,7 +7224,7 @@
             "publishedAt": "2026-09-29T13:06:44.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "30天线下：阿联酋青少年可以放弃社交媒体吗？ -海湾新闻",
             "originalTitle": "30 days offline: Could UAE teens give up social media? - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjhVLUJBcXJaU09oYkNsNXdIZG5zWE1EMjA5UjV5dGZsZXdJcjlqOUhGbWZBVWVLZjFkbnZxT0hXYjFXam41WHlTUVhxaVZ5RHh1VFp3Y0RNdUZwUU1HY2l4NndXekdGQjRBRjRUXzNGZHQ1WHZSXzJHc0lqc1Rrc0RKWkNoV3BvMHRETTFOT0ZiYUFxSlZHS1FsU3XSAa8BQVVfeXFMTjZCazJvMjhzaHM4TVQ0RGpBLTdoblZmYzUwZGpZLVNXcFo1UWtjbkk3SlNXU1gxeEs5Yy1xZGdQcDVpNjFtY2ZNLUphSzBZNDUyZ21odzRNMHhURjdGbzZVUTFma2hPSU1hakRsMTFMb2Jtbk1MeWlTTy1MSjBEUml3dWJMNzNqdGU1S2t5MUNTUk10b0FiOWNHX3owSzhPTjlmekJKVVVjczUtQS1tOA?oc=5",
@@ -7252,7 +7236,7 @@
             "publishedAt": "2026-09-29T10:01:47.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "现场访谈；不同年龄段的工作： Ru 'ya 2026如何吸引阿联酋人",
             "originalTitle": "On-the-spot interviews; jobs for different age groups: How Ru'ya 2026 attracts Emiratis",
             "url": "https://www.khaleejtimes.com/uae/ruya-2026-on-the-spot-interviews-tech-cybersecurity-roles",
@@ -7264,7 +7248,7 @@
             "publishedAt": "2026-09-29T12:48:01.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "阿联酋确认以色列总理内塔尼亚胡访问阿布扎比--半岛电视台",
             "originalTitle": "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi - Al Jazeera",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOG9QSVhSSmpqbXRfRE90YXlhQVB4NFN6RWJDZDl0amZkS0xEcm1qcXdfSm9LRUhlT185OHIwV2J6Q1RobVplWVA5MTc0dzVQZG9BOTVzTzFFd1lSOHljWUtTNUlZTXdiWnVOZjB2RWI1N0RCNDNSVDFXb3VmZWpKcktZdXRrUHNnMVHSAY8BQVVfeXFMTmtZWEJOc2JSazVjOEVoLVVlcHUyZEdXY2hib2VEM05TSXQ4UlRxaU8tWG55ZFd2QjBRZWtnLUJMd1JGeVZIbnhLRlQyRzFyQmRpYXBMZU1OTXVwZ01YM0htNkF0QnZsbHEwUFEyMVVERVVjN0hBbkNOZlpPWnBRNTRVQXl3UG1RZERGdmdJcFU?oc=5",
@@ -7276,7 +7260,7 @@
             "publishedAt": "2026-09-28T22:54:28.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "阿联酋和沙特阿拉伯重申牢固的兄弟关系- ARN新闻中心",
             "originalTitle": "UAE and Saudi Arabia reaffirm strong fraternal ties - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcENNeDdsOVN6ZFFwb0NBbUh4WTh2S0FNOVhjTGRYMmU4My1uZTROa25FMUd5LU5abDU2Ynp4Rm1sVWlpYmRrbzlYYmJwVjBMaWFTWERaeFBmMUNJVkRDdHpBekdTNUJubHMycmx1Uld2a2JONDkyelpHbHFrY0NSNDFHb3ZqSUI1cmpaZ19GNmR4TDdu?oc=5",
@@ -7288,7 +7272,7 @@
             "publishedAt": "2026-09-29T16:25:47.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "阿联酋谴责对阿克萨清真寺庭院的袭击- ARN新闻中心",
             "originalTitle": "UAE condemns storming of Al-Aqsa Mosque courtyards - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0ZMb3k0ZnpsSFY2SGZhQjNkZExETkFqM2Q1eG1RdXF6TzVQcGxjcTVhT0ZXbEkxQkdITGotRm53UXJoQjVJSWlDRmdXZU1kSEN2bmxWZlVRWlhLaWQwb05NNld3Y0pYYVZycktFYlZRZjIybWNuTlpWbjhicm1XS2tndGRCRVU4ekZ0TUFra2VteVJRRmNJ?oc=5",
@@ -7300,40 +7284,52 @@
             "publishedAt": "2026-09-29T19:18:32.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "“他们只会把你当成鬼魂” ：迪拜企业家表示，印度客户“不知道如何成为客户” -《经济时报》",
-            "originalTitle": "‘They will simply ghost you’: Dubai entrepreneur says Indian clients ‘don’t know how to be clients’ - The Economic Times",
+            "rank": 7,
+            "translatedTitle": "“他们只会抛弃你” ：迪拜企业家表示，印度客户“不知道如何成为客户” -Economictimes.com",
+            "originalTitle": "‘They will simply ghost you’: Dubai entrepreneur says Indian clients ‘don’t know how to be clients’ - economictimes.com",
             "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSjBPX0NDSGM4QVJNdmVldU9UcUNDeDV5eHFqSVRkTG03dTFYZmlkeTh5VkkyQ0dkRUl4QTRadVBwYy1WRnlVX0FmaktWUFRZcTBRQkpvLXhvdHZnbFcwYS1IeEVjN3VrckFzNzJJb2hVSDJZN2ZxSXZvUzJBMElmbjBOVE9lbjNta3o2aWw4dGE1Sk03c3VndnR6S2d5dnNuQUVuQUxkMXVVbjBnSHM5WlAyb0M4Rmdid0NYSzRMMFdLajBaYU1DbnI3YVMzbHkxdTFqQVdBZ3hRYXZwTVEtc01sX1QzamxqR05YRnpzamQ4R2ZHNDhoQzhzclTSAfwBQVVfeXFMTUowT19DQ0hjOEFSTXZlZXVPVHFDQ3g1eXhxaklUZExtN3UxWGZpZHk4eVZJMkNHZEVJeEE0WnVQcGMtVkZ5VV9BZmpLVlBUWXEwUUJKby14b3R2Z2xXMGEtSHhFYzd1a3JBczcySW9oVUgyWTdmcUl2b1MyQTBJZm4wTlRPZW4zbWt6NmlsOHRhNUpNN3N1Z3Z0ektneXZzbkFFbkFMZDF1VW4wZ0hzOVpQMm9DOEZnYndDWEs0TDBXS2owWmFNQ25yN2FTM2x5MXUxakFXQWd4UWF2cE1RLXNNbF9UM2psakdOWEZ6c2pkOEdmRzQ4aEM4c3JU?oc=5",
-            "source": "The Economic Times",
+            "source": "economictimes.com",
             "sources": [
-              "The Economic Times"
+              "economictimes.com"
             ],
             "heatScore": 64,
             "publishedAt": "2026-09-29T15:57:00.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "爱尔兰商店销售的病毒式“迪拜风格”巧克力棒因健康风险而被召回-爱尔兰太阳报",
-            "originalTitle": "Viral ‘Dubai-style’ chocolate bar sold in Irish stores recalled over health risk - The Irish Sun",
+            "rank": 8,
+            "translatedTitle": "爱尔兰商店销售的病毒式“迪拜风格”巧克力棒因健康风险而被召回- thesun.ie",
+            "originalTitle": "Viral ‘Dubai-style’ chocolate bar sold in Irish stores recalled over health risk - thesun.ie",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlNESlpHXzBWRUJtQ19MaFJlQ1JBYzl0Q2ZURWxXUTdCaFRDcEZ1RjFsaW1HUDU5TlJJWjIzQUF6akpPSmNTaHNmZ2F0aDJybElueGQ2eDI3TWFIX0YzaTFhUHg1bG5iUzNlY1NINnRtbVF1M2hTVWNPalE3SjZSNWQ0T0NLX1NacEE0NlNsVzEzZ0dSOEx3?oc=5",
-            "source": "The Irish Sun",
+            "source": "thesun.ie",
             "sources": [
-              "The Irish Sun"
+              "thesun.ie"
             ],
             "heatScore": 59,
             "publishedAt": "2026-09-29T14:23:37.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "阿联酋的Rashid Rover 2完成了另一个重要里程碑- ARN新闻中心",
-            "originalTitle": "UAE's Rashid Rover 2 completes another major milestone - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXZsaXRMcEZ2REcteU81QjdIcGpWVnN5dnREeXdpZ3Ezb09BbHZWVDZkWl9zWEJDT1FjSC1naTR0dWRyNXo0WXQ0QTI5NXFjaEVMM0dtTW5Rck9Nc0hYdkxfaXJJUFc5UjdwOHpERnRzcmdiTk05TzQ3bXp2Z0hab0ZubmFubENKcUlrb2E1bXlCZTJkZlozMHo5aw?oc=5",
+            "rank": 9,
+            "translatedTitle": "阿联酋的Rashid Rover 2标志着另一个重要里程碑- ARN新闻中心",
+            "originalTitle": "UAE's Rashid Rover 2 marks another major milestone - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjFvQlVQUXhRMlVjVlB2dzFZdFhRdHFfV3dBVlBjVXRuWHBsbkVURlFZTURPODhWRXc5SElURkRkM19qTFVnWktyRXFycWRzb2NHRkFVSnpEN1VDTTZoMDI1RlBMd3RhOFgwRWFtV3M1U0MtbXNMVUFRLWxVQlJ5TGVDcmUzTlhlcE51aUplNlM1cFU1MEdn?oc=5",
             "source": "ARN News Centre",
             "sources": [
               "ARN News Centre"
             ],
             "heatScore": 59,
             "publishedAt": "2026-09-29T11:36:43.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "“迪拜比瓜利奥尔便宜” ：班加罗尔传单问题₹ 12,785机票，互联网反应- News18",
+            "originalTitle": "‘Dubai Is Cheaper Than Gwalior’: Bengaluru Flyer Questions ₹12,785 Flight Fare, Internet Reacts - News18",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZWxlRktDWWdEQjJmYnpxRUxhaHMwSlh2ZXVETW52YlZCbEczU0ltblEyUHRNMFRLQ1A5bVNnbml0YWcxUmNPb2MwTUprOXBFQ0xMQ251MnZBVHliMHRPS241czltQTliZEJqcTlEZHljbENZQTZkSXFyZ3hndUIydE9MdktlXzRXNUJEd281d3oyclU4NlBqY0lXYXhaZjUyNXgxaDVMaFltQU9GdUc4TTUydjRwOFZKNlpWUnZZaFlRbkIzVUZudVBQN3cwNVJlMnln0gHYAUFVX3lxTE9WVG9IY2pPdlFDX0tXREpxZjd5Q0NIbVpWMXEwM0dLVjhpQ2xoQi1fQWFKdlhhckJQdWVxMkJZcHluWklUdk5BS1hCbU45b0xzMTZ1TWFackpESnFWQWRuSjU4V1BOalFzRUhZSEthQjdUc1VLQUVtVTNlVGtsM1VLZGFob0xlOXROeXl1akg0MkltWWMyUU1iR2JpVEVpVzIzNHlrVzdpQUJFNXBqVzZXZzZ1XzB5QTFaTUJmc1p5djNHQ2hfTi1Jd1NxdWxUakZWd1dGZHRfcw?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-09-29T09:13:35.000Z"
           }
         ],
         "china": [
@@ -7359,7 +7355,7 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 63,
+            "heatScore": 62,
             "publishedAt": "2026-09-29T12:28:00.000Z"
           }
         ]
