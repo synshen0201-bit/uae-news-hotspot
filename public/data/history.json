@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T19:15:17.106Z",
+  "updatedAt": "2026-09-30T19:32:03.452Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -7363,24 +7363,11 @@
     },
     "2026-09-30": {
       "date": "2026-09-30",
-      "updatedAt": "2026-09-30T19:15:17.106Z",
+      "updatedAt": "2026-09-30T19:32:03.452Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋海关试图走私隐藏在车辆轮胎中的16.2公斤水晶冰毒",
-            "originalTitle": "UAE customs foil attempt to smuggle 16.2kg of crystal meth hidden in vehicle tyre",
-            "url": "https://www.khaleejtimes.com/uae/crime/uae-customs-foil-crystal-meth-smuggling-attempt",
-            "source": "Khaleej Times",
-            "sources": [
-              "The National",
-              "Khaleej Times"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-09-30T17:13:34.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "以色列表示，乘客克服了试图坠毁flydubai航班的飞行员-路透社",
             "originalTitle": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
@@ -7388,11 +7375,11 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 92,
+            "heatScore": 99,
             "publishedAt": "2026-09-30T18:55:07.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "飞行员争吵，然后是快速下降：乘客讲述迪拜航空公司航班上的混乱情况-路透社",
             "originalTitle": "A pilot brawl, then a rapid descent: passengers recount chaos on flydubai flight - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFhSTGhnbHJhUlRuSFFZbTd2b1RZSzRpSlFMck93RzRLSXBUOW5vTmpONjJSbW9vcjk4aGpGSEtfNXlWRFl0bmFWcThQNnljRk52cThqU3JLYU0wQkU4c1JwSUxkSkM1cVdxOXJlQ0lPaWJ3eU1STDNhV1NBcWMyUEZib2lRUFY0ZWd4ekRfa3pzSTQ3c0RzaXM1TXdTaE8yVkRWaVVLNEEycmM5a0NZZnoxdw?oc=5",
@@ -7400,11 +7387,11 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 92,
+            "heatScore": 98,
             "publishedAt": "2026-09-30T18:05:50.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "我们对飞往以色列的Flydubai航班上刺伤的了解",
             "originalTitle": "What we know about stabbing on Flydubai flight to Israel",
             "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
@@ -7412,11 +7399,11 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 89,
+            "heatScore": 95,
             "publishedAt": "2026-09-30T17:51:49.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "谢赫·阿卜杜拉（ Sheikh Abdullah ）与以色列调频电台通话，询问迪拜航空乘客的安全问题",
             "originalTitle": "Sheikh Abdullah inquires about flydubai passengers' safety in phone call with Israeli FM",
             "url": "https://www.khaleejtimes.com/uae/sheikh-abdullah-flydubai-passengers-safety-phone-call-israeli-fm",
@@ -7424,8 +7411,20 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 89,
+            "heatScore": 94,
             "publishedAt": "2026-09-30T18:53:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "以色列在flydubai恐慌后加强试点检查-路透社",
+            "originalTitle": "Israel to ramp up pilot checks after flydubai scare - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-09-30T17:14:25.000Z"
           },
           {
             "rank": 6,
@@ -7436,7 +7435,7 @@
             "sources": [
               "Al Jazeera"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T17:36:17.000Z"
           },
           {
@@ -7448,11 +7447,35 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T15:07:00.000Z"
           },
           {
             "rank": 8,
+            "translatedTitle": "迪拜阿布扎比在全球城市排名中脱颖而出",
+            "originalTitle": "Abu Dhabi, Dubai shine in global city rankings",
+            "url": "https://c.newsnow.co.uk/A/1325825179?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-09-30T19:23:56.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋警告人工智能诈骗、deepfake和虚假工作机会",
+            "originalTitle": "UAE warns of AI scams, deepfakes and fake job offers",
+            "url": "https://c.newsnow.co.uk/A/1325825178?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-09-30T19:23:56.000Z"
+          },
+          {
+            "rank": 10,
             "translatedTitle": "阿布扎比警方向司机发出雾警告",
             "originalTitle": "Abu Dhabi Police issue fog warning to drivers",
             "url": "https://c.newsnow.co.uk/A/1325822792?-15565:1965",
@@ -7460,32 +7483,8 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T18:53:27.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "阿联酋彩票：在周三晚上的幸运日抽奖中，一位幸运赢家将获得100,000迪拉姆的奖金",
-            "originalTitle": "UAE Lottery: One lucky winner bags Dh100,000 at Wednesday night's Lucky Day draw",
-            "url": "https://www.khaleejtimes.com/uae/uae-lottery-wednesday-draw-sep-30-2026",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-09-30T17:40:48.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "阿联酋GCAA表示，迪拜-特拉维夫flydubai航班事件的调查正在进行中",
-            "originalTitle": "UAE's GCAA says investigations ongoing in Dubai-Tel Aviv flydubai flight incident",
-            "url": "https://www.khaleejtimes.com/business/aviation/uaes-gcaa-says-investigations-ongoing-in-dubai-tel-aviv-flydubai-flight-incident",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-09-30T17:30:00.000Z"
           }
         ],
         "domestic": [
@@ -7498,11 +7497,23 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T15:07:00.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "迪拜阿布扎比在全球城市排名中脱颖而出",
+            "originalTitle": "Abu Dhabi, Dubai shine in global city rankings",
+            "url": "https://c.newsnow.co.uk/A/1325825179?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-09-30T19:23:56.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "阿布扎比警方向司机发出雾警告",
             "originalTitle": "Abu Dhabi Police issue fog warning to drivers",
             "url": "https://c.newsnow.co.uk/A/1325822792?-15565:1965",
@@ -7510,11 +7521,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T18:53:27.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "阿联酋彩票：在周三晚上的幸运日抽奖中，一位幸运赢家将获得100,000迪拉姆的奖金",
             "originalTitle": "UAE Lottery: One lucky winner bags Dh100,000 at Wednesday night's Lucky Day draw",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-wednesday-draw-sep-30-2026",
@@ -7522,11 +7533,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T17:40:48.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "阿联酋GCAA表示，迪拜-特拉维夫flydubai航班事件的调查正在进行中",
             "originalTitle": "UAE's GCAA says investigations ongoing in Dubai-Tel Aviv flydubai flight incident",
             "url": "https://www.khaleejtimes.com/business/aviation/uaes-gcaa-says-investigations-ongoing-in-dubai-tel-aviv-flydubai-flight-incident",
@@ -7534,11 +7545,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T17:30:00.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "“学习的投资回报率” ：阿联酋大学将重点从学位转向工作、行业曝光",
             "originalTitle": "'ROI of studying': UAE universities shift focus from degrees to jobs, industry exposure",
             "url": "https://www.khaleejtimes.com/uae/education/kt-uni-expo-dubai-2026-uae-universities-beyond-degrees-jobs-industry-exposure",
@@ -7546,20 +7557,8 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T17:19:04.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "3000万迪拉姆阿联酋彩票：一名幸运中奖者口袋10万迪拉姆",
-            "originalTitle": "Dh30m UAE Lottery: One lucky winner pockets Dh100,000",
-            "url": "https://c.newsnow.co.uk/A/1325818648?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 85,
-            "publishedAt": "2026-09-30T18:02:18.000Z"
           },
           {
             "rank": 7,
@@ -7570,35 +7569,11 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 84,
+            "heatScore": 90,
             "publishedAt": "2026-09-30T18:26:11.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "“无论谁在听我说话，我们都需要帮助” ： 1073航班如何在17,000英尺的坠落中幸存下来",
-            "originalTitle": "‘Whoever is hearing me, we need help’: how flight 1073 survived its 17,000ft plunge",
-            "url": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
-            "source": "The Guardian",
-            "sources": [
-              "The Guardian"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-09-30T17:47:25.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "《耶路撒冷日报》：载有以色列人的航班在刺伤后被转移",
-            "originalTitle": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-            "source": "Al Jazeera",
-            "sources": [
-              "Al Jazeera"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-09-30T16:36:52.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "阿联酋12年级学生在大学竞争中权衡奖学金、职业选择",
             "originalTitle": "UAE Year 12 students weigh scholarships, career options as universities compete",
             "url": "https://www.khaleejtimes.com/uae/education/kt-uniexpo-dubai-2026-universities-year-12-students-weigh-options",
@@ -7606,8 +7581,32 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 84,
+            "heatScore": 90,
             "publishedAt": "2026-09-30T15:44:40.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "“无论谁在听我说话，我们都需要帮助” ： 1073航班如何在17,000英尺的坠落中幸存下来",
+            "originalTitle": "‘Whoever is hearing me, we need help’: how flight 1073 survived its 17,000ft plunge",
+            "url": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-09-30T17:47:25.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "《耶路撒冷日报》：载有以色列人的航班在刺伤后被转移",
+            "originalTitle": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-09-30T16:36:52.000Z"
           }
         ],
         "diplomacy": [
@@ -7620,7 +7619,7 @@
             "sources": [
               "thenationalnews.com"
             ],
-            "heatScore": 86,
+            "heatScore": 91,
             "publishedAt": "2026-09-30T16:30:00.000Z"
           },
           {
@@ -7632,7 +7631,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 80,
+            "heatScore": 85,
             "publishedAt": "2026-09-30T15:55:42.000Z"
           },
           {
@@ -7645,7 +7644,7 @@
               "Dubai Eye 103.8",
               "ARN News Centre"
             ],
-            "heatScore": 77,
+            "heatScore": 80,
             "publishedAt": "2026-09-30T17:08:16.000Z"
           },
           {
@@ -7657,7 +7656,7 @@
             "sources": [
               "thenationalnews.com"
             ],
-            "heatScore": 74,
+            "heatScore": 78,
             "publishedAt": "2026-09-30T09:56:45.000Z"
           },
           {
@@ -7669,7 +7668,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 74,
+            "heatScore": 78,
             "publishedAt": "2026-09-30T09:15:27.000Z"
           },
           {
@@ -7681,7 +7680,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 73,
+            "heatScore": 78,
             "publishedAt": "2026-09-30T09:07:49.000Z"
           },
           {
@@ -7693,7 +7692,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 68,
+            "heatScore": 72,
             "publishedAt": "2026-09-28T21:04:09.000Z"
           },
           {
@@ -7705,7 +7704,7 @@
             "sources": [
               "Middle East Eye"
             ],
-            "heatScore": 66,
+            "heatScore": 69,
             "publishedAt": "2026-09-30T18:17:00.000Z"
           },
           {
@@ -7717,7 +7716,7 @@
             "sources": [
               "Türkiye Today"
             ],
-            "heatScore": 64,
+            "heatScore": 67,
             "publishedAt": "2026-09-30T18:32:45.000Z"
           },
           {
@@ -7729,26 +7728,13 @@
             "sources": [
               "Arabian Gulf Business Insight | AGBI"
             ],
-            "heatScore": 63,
+            "heatScore": 66,
             "publishedAt": "2026-09-30T17:39:29.000Z"
           }
         ],
         "economy": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋海关试图走私隐藏在车辆轮胎中的16.2公斤水晶冰毒",
-            "originalTitle": "UAE customs foil attempt to smuggle 16.2kg of crystal meth hidden in vehicle tyre",
-            "url": "https://www.khaleejtimes.com/uae/crime/uae-customs-foil-crystal-meth-smuggling-attempt",
-            "source": "Khaleej Times",
-            "sources": [
-              "The National",
-              "Khaleej Times"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-09-30T17:13:34.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "以色列表示，乘客克服了试图坠毁flydubai航班的飞行员-路透社",
             "originalTitle": "Passengers overcame pilot who tried to crash flydubai flight, Israel says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWnpLNmZJUXN6UzQ0RlhKSFhxT2xYMWZ1R1VwYVdZX3ZuZWFTYUZyV1VYTVhralA5Y0ROVjlNVl9XOGpTSWhEcGM3UE01WVA3clNKcm5KdDZ2dUY1U3FyODdsWkkzSWs2VW5NZUJWQXFYQ0dxamNudlljZl92REs3SnFXSEUzTEswdjh4NnRia2VWZGd2TGE2SmZ6VDBQTXpiRDM0SDZSZ29ubUZUd3Zsa0E4LTBoRmxpSDRjd0JkcmhYbkNV?oc=5",
@@ -7756,11 +7742,11 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 92,
+            "heatScore": 99,
             "publishedAt": "2026-09-30T18:55:07.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "飞行员争吵，然后是快速下降：乘客讲述迪拜航空公司航班上的混乱情况-路透社",
             "originalTitle": "A pilot brawl, then a rapid descent: passengers recount chaos on flydubai flight - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFhSTGhnbHJhUlRuSFFZbTd2b1RZSzRpSlFMck93RzRLSXBUOW5vTmpONjJSbW9vcjk4aGpGSEtfNXlWRFl0bmFWcThQNnljRk52cThqU3JLYU0wQkU4c1JwSUxkSkM1cVdxOXJlQ0lPaWJ3eU1STDNhV1NBcWMyUEZib2lRUFY0ZWd4ekRfa3pzSTQ3c0RzaXM1TXdTaE8yVkRWaVVLNEEycmM5a0NZZnoxdw?oc=5",
@@ -7768,11 +7754,11 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 92,
+            "heatScore": 98,
             "publishedAt": "2026-09-30T18:05:50.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "我们对飞往以色列的Flydubai航班上刺伤的了解",
             "originalTitle": "What we know about stabbing on Flydubai flight to Israel",
             "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
@@ -7780,11 +7766,11 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 89,
+            "heatScore": 95,
             "publishedAt": "2026-09-30T17:51:49.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "谢赫·阿卜杜拉（ Sheikh Abdullah ）与以色列调频电台通话，询问迪拜航空乘客的安全问题",
             "originalTitle": "Sheikh Abdullah inquires about flydubai passengers' safety in phone call with Israeli FM",
             "url": "https://www.khaleejtimes.com/uae/sheikh-abdullah-flydubai-passengers-safety-phone-call-israeli-fm",
@@ -7792,8 +7778,20 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 89,
+            "heatScore": 94,
             "publishedAt": "2026-09-30T18:53:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "以色列在flydubai恐慌后加强试点检查-路透社",
+            "originalTitle": "Israel to ramp up pilot checks after flydubai scare - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1J1a0RUdFZlOHpZY3RrM0FDaWVyamd4Rk5hUHZ4aVpMZHFwd0NpS1RYaGthT0NkOXNKRUlnam9PelFpUGM5V1RTN2hvMzY5X0EwWUlDa2xLUUp6SlNBRktQWE1JSERza004ellOTTFMaXR0N293VDl1WGxWRnd6eXVsN3BlZ1RwMkRNa1VJM05qc3RqS2k3OU15M1RrVEpTbnFwaA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-09-30T17:14:25.000Z"
           },
           {
             "rank": 6,
@@ -7804,11 +7802,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 91,
             "publishedAt": "2026-09-30T15:27:22.000Z"
           },
           {
             "rank": 7,
+            "translatedTitle": "阿联酋海关试图走私隐藏在车辆轮胎中的16.2公斤水晶冰毒",
+            "originalTitle": "UAE customs foil attempt to smuggle 16.2kg of crystal meth hidden in vehicle tyre",
+            "url": "https://www.khaleejtimes.com/uae/crime/uae-customs-foil-crystal-meth-smuggling-attempt",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-09-30T15:15:08.000Z"
+          },
+          {
+            "rank": 8,
             "translatedTitle": "从迪拜飞往特拉维夫的Flydubai航班发生了什么事？",
             "originalTitle": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
             "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
@@ -7816,11 +7826,11 @@
             "sources": [
               "Al Jazeera"
             ],
-            "heatScore": 82,
+            "heatScore": 87,
             "publishedAt": "2026-09-30T15:27:26.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "Flydubai确认船上的争执导致其迪拜-特拉维夫航班转向",
             "originalTitle": "Flydubai confirms altercation on board led to diversion of its Dubai-Tel Aviv flight",
             "url": "https://www.khaleejtimes.com/business/aviation/flydubai-confirms-altercation-on-board-led-to-diversion-of-its-dubai-tel-aviv-flight",
@@ -7828,11 +7838,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 82,
+            "heatScore": 86,
             "publishedAt": "2026-09-30T13:39:18.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "“每个迪拉姆都很重要” ：迪拜驾驶者在10月燃油价格上涨之前急于加油",
             "originalTitle": "‘Every dirham matters’: Dubai motorists rush to fill up before October fuel price hike",
             "url": "https://www.khaleejtimes.com/uae/transport/dubai-motorists-fill-up-before-october-2026-fuel-price-hike",
@@ -7840,20 +7850,8 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 79,
             "publishedAt": "2026-09-30T09:44:08.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "阿提哈德铁路Al Dhaid站开业：乘客称阿布扎比之旅的“最佳选择”",
-            "originalTitle": "Etihad Rail Al Dhaid station opens: ‘Best option’ for Abu Dhabi trips, say passengers",
-            "url": "https://www.khaleejtimes.com/uae/transport/etihad-rail-al-dhaid-station-open-ease-trip-to-abu-dhabi-fujairah",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 73,
-            "publishedAt": "2026-09-30T08:22:01.000Z"
           }
         ],
         "technology": [],
@@ -7867,11 +7865,23 @@
             "sources": [
               "Al Jazeera"
             ],
-            "heatScore": 87,
+            "heatScore": 92,
             "publishedAt": "2026-09-30T17:36:17.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "阿联酋警告人工智能诈骗、deepfake和虚假工作机会",
+            "originalTitle": "UAE warns of AI scams, deepfakes and fake job offers",
+            "url": "https://c.newsnow.co.uk/A/1325825178?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-09-30T19:23:56.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "阿联酋当局警告国家象征的人工智能图像",
             "originalTitle": "UAE authority warns against AI images of national symbols",
             "url": "https://www.khaleejtimes.com/uae/uae-national-media-authority-warns-against-ai-images-of-national-symbols-rules",
@@ -7879,11 +7889,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 73,
+            "heatScore": 78,
             "publishedAt": "2026-09-30T08:51:11.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
+            "translatedTitle": "以色列在空袭后暂停Flydubai航班六天",
+            "originalTitle": "Israel suspends Flydubai flights for six days after mid-air attack",
+            "url": "https://c.newsnow.co.uk/A/1325824543?-15565:1965",
+            "source": "CTech",
+            "sources": [
+              "CTech"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-09-30T19:15:34.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "英雄Flydubai飞行员击退了被称为印度国民的“副驾驶攻击者”",
             "originalTitle": "Hero Flydubai pilot who fought off 'co-pilot attacker' named as Indian national",
             "url": "https://c.newsnow.co.uk/A/1325819409?-15565:1965",
@@ -7891,11 +7913,11 @@
             "sources": [
               "Daily Star"
             ],
-            "heatScore": 67,
+            "heatScore": 69,
             "publishedAt": "2026-09-30T18:10:26.000Z"
           },
           {
-            "rank": 4,
+            "rank": 6,
             "translatedTitle": "以色列国防部长：杜拜航空公司被挫败的劫机事件“是一次未遂的圣战恐怖袭击” - oann.com",
             "originalTitle": "Israel defense minister: Thwarted hijacking on flydubai flight 'was an attempted jihadist terrorist attack' - oann.com",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdkRzbzhFWXdhc1FUc0RvLThRWl85NUpYaU91MURHX0R3RW5VZ3FsYTdmZmctZFZhY3E3U3hDSjJrenVDanhlMkpheUxHZ0xfcHo3UDVYTTFobnpJV2FZU1ZFTHlBbDBNZG5hckNZM0tzbUMtYUgtdnpibnhOeEM0TlRNZU9yZS00cFpJeThFVnVqd01sVThuVndFeXI0VktOLUE0eXBMZGlGVVVJclBoTTh3Rnh5OFMyaTU1RzB4M01EMkREMDAtVXk2aE5ZYU1G?oc=5",
@@ -7903,11 +7925,11 @@
             "sources": [
               "oann.com"
             ],
-            "heatScore": 65,
+            "heatScore": 67,
             "publishedAt": "2026-09-30T18:53:26.000Z"
           },
           {
-            "rank": 5,
+            "rank": 7,
             "translatedTitle": "部分错误：这张照片不是伊朗导弹袭击阿联酋美军基地的照片- PesaCheck",
             "originalTitle": "PARTLY FALSE: This image isn’t of an Iranian missile attack on a US military base in the UAE - PesaCheck",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlQtVllvSUE4UGd0Q0JuaVdCcXUxamZaOWlsNk9kdXF1RVFWTHlQWU02ckhvR2k5WWl4U1VvNjFqcFZPU09odlhYenFNUTdMbEZtR3Z1Smxxc05FWTZWYTJQVG9IelVUbGgwWHJqcy0ta09KWDQxWk1KNUpFeUpDRElCN2lncmNhMnAtYlJMcC1BNVpnRmVxLVdLVEdQaDExS1JDOGY5ZFo5UHo4NzdobUROcw?oc=5",
@@ -7915,47 +7937,11 @@
             "sources": [
               "PesaCheck"
             ],
-            "heatScore": 64,
+            "heatScore": 67,
             "publishedAt": "2026-09-30T15:35:01.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "“我抓住了袭击者，把他掐死，把他拉了出来” ：以色列叙述了Flydubai驾驶舱的战斗",
-            "originalTitle": "“I grabbed the attacker, put him in a chokehold and pulled him out”: Israeli recounts Flydubai cockpit fight",
-            "url": "https://c.newsnow.co.uk/A/1325815789?-2809:1022",
-            "source": "CTech",
-            "sources": [
-              "CTech"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-09-30T17:23:58.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "以色列国防部长表示， Flydubai事件“企图进行圣战恐怖袭击” -电视频道",
-            "originalTitle": "Flydubai Incident ‘Attempted Jihadist Terror Attack’, Says Israel’s Defence Minister - Channels Television",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1N3dmViWkxlMklhVHVnV2dJOEdyLXhtamJpTUxFRnVNTUFKaDdtbFFSck1uTzNWdUNaZmZxcHJaR2NJTnZBMGJMd0JBdEMwYjJUSVQ5VFFZcFdtUF9Vd3ppSkF5U2s5a01JeVctdHpQa3k5bXA5RWVKZEZNOHZXN2diVFhvc1QwUnNJQVBRbTNMRWFYeFJqYVpqWVVhNU9PSF8wRk9WMG9IQ1FjakJRRThSZXIzNE85aFdZ?oc=5",
-            "source": "Channels Television",
-            "sources": [
-              "Channels Television"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-09-30T16:31:35.000Z"
-          },
-          {
             "rank": 8,
-            "translatedTitle": "沙特阿拉伯拒绝以色列派军用飞机接载杜拜航空乘客的请求：报告- ABP现场英语",
-            "originalTitle": "Saudi Arabia Rejects Israel Request To Send Military Planes For Flydubai Passengers Pickup: Report - ABP Live English",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDA4dEFlNlZSS2FKcXVIVl9ncDdRbTdCTU9Ga3BMZHp2NVBOSWpUYmc0bE5rSHZoeDhrWjYxNF9GWFlBOVBtZGhPMEdmREZFUTBCdW1uY0Zha25qQzRlNU13ODJ6d2ZUbURsYWVLWl9URHM3ZnlndUVhSzNQdi1rV0U0N092NWJ0R2F1enVjTUdlUUNBZGF2MmMycjEtZWRySnNSVHpFTk1QZE1NMkRwTWI1a2lzTXdsTVp6elVtZENQbmRaQ3BGcHI2cFRmWFhCY2YwdUhLdlHSAd4BQVVfeXFMT3JvOHpjSmdPSmhQN1l0X25IRGRuRzBLdHJITGNaZ29oZ2dhSWF4WVZ5XzNwTFpDUkZaUV9nUGQ2cmlTSXU5ekdDaTlWNDVHYzE5NGx0aVAwQ2dvdkotRV9VbFoySWVXR1hvTXp6ZlQ3bnNtQmVVNzhoNHFfcjBOSzBtVG1ZNjd0eG5rU1kxMXpneGFaRFl6ODdGUVBKS0NHSm9Tbnd4SXR3VkZrLTJZMTJWaTMwb2tLQ29SRVR1Q0RVZ3c0WkNzWEFISDhnVXI4dk8yWUYtSnJoZTFXUTN3?oc=5",
-            "source": "ABP Live English",
-            "sources": [
-              "ABP Live English"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-09-30T16:16:07.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "阿联酋转向俄罗斯影子航空公司在非洲执行任务：调查-国防新闻",
             "originalTitle": "UAE turns to Russian shadow airline for missions in Africa: Investigation - Defense News",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU1JlcU80X1BqWmZxSk1nVnJfRjIwNGFEUWlha2JvUENCQ1VRS2ZEVmJqMy1DekNvMzJfcDY1aEVUWC1kVUZ0ZFk4OHRCdFJMNWFkNjlTNDFpa0RzMENyWENtM0I5ZEt3cHp2NGlqQmxKdWpzN0tKeFpaYXRxcDliZXVIODdXQ1pUZExETlRRMG9nY08zVjhQLTQtNGVhV1BCRVNHOVlQeC1TMHA1NU90THdXd3NrQ0RnVDVHVVJISlM1SnpwZEFtbzEwMnh2Mzg?oc=5",
@@ -7963,20 +7949,32 @@
             "sources": [
               "Defense News"
             ],
-            "heatScore": 63,
+            "heatScore": 66,
             "publishedAt": "2026-09-30T12:06:52.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "以色列部长呼吁在杜拜苍蝇事件后加强军事行动--《耶路撒冷邮报》",
-            "originalTitle": "Israeli ministers call for increased military action after flydubai incident - The Jerusalem Post",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hb2xmamFpMGpKSTE4WmE1NGdqdDRRcVh0Z3VncXRqTnhSR0lNU3FmcnBIOWRMTU5yYTRuWFVPWk9DdUZtRjRrS3dUYWl1b1p6WmJjZHBuV2RfTm9RTzNTRnJBenFacktVRG9IV3VKaG5jZFd3LVlaN3dzZw?oc=5",
-            "source": "The Jerusalem Post",
+            "rank": 9,
+            "translatedTitle": "以色列国防部长表示， Flydubai事件“企图进行圣战恐怖袭击” -电视频道",
+            "originalTitle": "Flydubai Incident ‘Attempted Jihadist Terror Attack’, Says Israel’s Defence Minister - Channels Television",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1N3dmViWkxlMklhVHVnV2dJOEdyLXhtamJpTUxFRnVNTUFKaDdtbFFSck1uTzNWdUNaZmZxcHJaR2NJTnZBMGJMd0JBdEMwYjJUSVQ5VFFZcFdtUF9Vd3ppSkF5U2s5a01JeVctdHpQa3k5bXA5RWVKZEZNOHZXN2diVFhvc1QwUnNJQVBRbTNMRWFYeFJqYVpqWVVhNU9PSF8wRk9WMG9IQ1FjakJRRThSZXIzNE85aFdZ?oc=5",
+            "source": "Channels Television",
             "sources": [
-              "The Jerusalem Post"
+              "Channels Television"
             ],
-            "heatScore": 62,
-            "publishedAt": "2026-09-30T15:50:26.000Z"
+            "heatScore": 65,
+            "publishedAt": "2026-09-30T16:31:35.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "沙特阿拉伯拒绝以色列派军用飞机接载杜拜航空乘客的请求：报告- ABP现场英语",
+            "originalTitle": "Saudi Arabia Rejects Israel Request To Send Military Planes For Flydubai Passengers Pickup: Report - ABP Live English",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDA4dEFlNlZSS2FKcXVIVl9ncDdRbTdCTU9Ga3BMZHp2NVBOSWpUYmc0bE5rSHZoeDhrWjYxNF9GWFlBOVBtZGhPMEdmREZFUTBCdW1uY0Zha25qQzRlNU13ODJ6d2ZUbURsYWVLWl9URHM3ZnlndUVhSzNQdi1rV0U0N092NWJ0R2F1enVjTUdlUUNBZGF2MmMycjEtZWRySnNSVHpFTk1QZE1NMkRwTWI1a2lzTXdsTVp6elVtZENQbmRaQ3BGcHI2cFRmWFhCY2YwdUhLdlHSAd4BQVVfeXFMT3JvOHpjSmdPSmhQN1l0X25IRGRuRzBLdHJITGNaZ29oZ2dhSWF4WVZ5XzNwTFpDUkZaUV9nUGQ2cmlTSXU5ekdDaTlWNDVHYzE5NGx0aVAwQ2dvdkotRV9VbFoySWVXR1hvTXp6ZlQ3bnNtQmVVNzhoNHFfcjBOSzBtVG1ZNjd0eG5rU1kxMXpneGFaRFl6ODdGUVBKS0NHSm9Tbnd4SXR3VkZrLTJZMTJWaTMwb2tLQ29SRVR1Q0RVZ3c0WkNzWEFISDhnVXI4dk8yWUYtSnJoZTFXUTN3?oc=5",
+            "source": "ABP Live English",
+            "sources": [
+              "ABP Live English"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-09-30T16:16:07.000Z"
           }
         ],
         "social": [
@@ -7989,7 +7987,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 79,
+            "heatScore": 83,
             "publishedAt": "2026-09-30T12:03:22.000Z"
           },
           {
@@ -8001,7 +7999,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 78,
+            "heatScore": 81,
             "publishedAt": "2026-09-30T12:51:51.000Z"
           },
           {
@@ -8013,71 +8011,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 76,
+            "heatScore": 80,
             "publishedAt": "2026-09-30T11:40:33.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "今年10月在阿联酋购物中心免费进行乳房X光检查：这里可以找到粉红色大篷车的诊所-海湾新闻",
-            "originalTitle": "Free mammograms at UAE malls this October: Here's where to find Pink Caravan's clinics - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZS11eGN4ajRYa181Q3ZjZWkzejc1MGpiNWowQ1J5RG1vX0d3bkNEVmVrMlJIR3l6REM3cHhXNFNpZTVtUWJGaTN6NFJ6Z0hjWVBhOE42MTNqZGgtOFprY001SWlKMkh6NnZNNS1oMkFXVC1wRk1vbUlzLWtPLS1FQjB5Ymc4MWIxRjZKNmlkMzh1QTM4d256VXpuVV9JNG1JcmZ3d3hRTWlQSEFOOE14dXdYVUhXLU0zRlM0N3k4bjA1VnFf0gHUAUFVX3lxTE5aY2RYWWg4YWswc0pvLWpySWZyQ2hWNkp1N3BQNmlyRW1DTjlOWWxBdFl2ZTNHajZuTG5mLWZGTmFqbi1fVldPNzl5Z0pQd0dPVGlrbUdYaTE1QXpuMnRaWGRvaWljMUhXX3I1UHVZdng5eE5paVdEaXhCNjJIYjlOT1lwbjdCSHR1eE9HV2FlcjBvRGtaY0tHQ3ZkODlQM3l6Q244MVhZbjhOMGN3Zkx4Tl9MMzJPWVBlMkZwZUJqemFYUE5IUk9kMHlKYXhsTjRVMXRU?oc=5",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 73,
-            "publishedAt": "2026-09-30T09:10:12.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "印度媒体命名的Smit Machchhar Hero Flydubai近乎失望的航班机长- www.israelhayom.com",
-            "originalTitle": "Smit Machchhar Hero Flydubai captain of almost-doomed flight named by Indian media - www.israelhayom.com",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94alF5TERLY1AyTkI0T2Z2UWo0d1lTeWQ3a0NkaFp5enhITzl0aWRJaWgtT3hSaWNZUEFkVnlHYVZVZFlBM3BrLTJzT25sOVhIVWdRMHU4YXAzbF9uSE92VktGR0VRTzBEQllIYklLTWpBd0NWZmF4VHZTRQ?oc=5",
-            "source": "www.israelhayom.com",
-            "sources": [
-              "www.israelhayom.com"
-            ],
-            "heatScore": 66,
-            "publishedAt": "2026-09-30T14:10:43.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "阿联酋预算战略以效率和未来准备为目标- ARN新闻中心",
-            "originalTitle": "UAE budget strategy targets efficiency and future readiness - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0pSYloxc29HN0F5NEQ0Tk9FRWM3TDlsZUFoVjcxRjhRRmRmVmRwUG9tdjFkT251Y1AxU3NRZVdhOERDdGVxZ05tVTJNbXU4NHlXRzdvVTZSWThqT21mUWx2S2R6VF9pV1V2bmh1Wi1VZ1B4R09EMGVEdUc4bnp3YTYyM0xoS3RIVV9FOElwMDU0YjVydGxkdjB1V0ZtbWtRVmNlWmtjd0hBdw?oc=5",
-            "source": "ARN News Centre",
-            "sources": [
-              "ARN News Centre"
-            ],
-            "heatScore": 65,
-            "publishedAt": "2026-09-30T15:19:21.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "迪拜航空公司-特拉维夫乘客回忆起恐怖事件，发布视频： “发生了劫机事件，我们制服了恐怖分子” -印度快报",
-            "originalTitle": "Flydubai Dubai-Tel Aviv passengers recall horror, post videos: ‘There was a hijacking, we have subdued the terrorists’ - The Indian Express",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmxqQUJyelZLZl9aUlpoeWFqeU9Sd0tJX05GU2k4SEtyRVdxUlExVmpuZ0xESHhibG1OVmFrWExtM3ZZSnVxTGNCWWRxRW1JRENYdTdHQmRrZDJWYTk3VlAtQTVzNElnT29TZ0h1OGw1aXhUSEtzSFF5bU95XzNwTXRiLThMVlRKSnR1ZllCdHctRzdKSGdqQXI5RHdiNktDSWU0VTM4QlpaaXMwS1NYb0hNZU1ONnlZNHYwcDRpMmphcWpu0gHLAUFVX3lxTE9uVjhrVkRZYUJ6bi13S0U2eWhNV2tCNzhGRG1rNDVfUE5waG9DZ1RaRWtqMW93VUZHSnVtU05WMGhmR0JrRGlxaEI5TVNxUUpxUkhSRE03elJOc05ENm50VG00S2pLa3pqRmpqVjl1Xy1CTzhQNktNaFo2N1hnWjVONDRqbHJxUzJ1LWRfdUJIXzBRWnp1X0hCZV9tTFZXS0lKc1NPdkVrdHd3MFB2WHM3a1BxaTFRQ1R3RXVJYzRtTml0WkE5NTJyNGFF?oc=5",
-            "source": "The Indian Express",
-            "sources": [
-              "The Indian Express"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-09-30T11:33:45.000Z"
-          },
-          {
-            "rank": 8,
-            "translatedTitle": "“3或4人获救180人” ：乘客讲述迪拜-特拉维夫航班的恐怖事件-《国土报》",
-            "originalTitle": "'3 or 4 People Saved 180': Passengers Recount Horror on Dubai-Tel Aviv Flight - Haaretz",
-            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVUk0TFhGWkRDY1RCZUZPRkdwQmVraVdtNl9RRmpjYkR1VFNQVlh0MzVVUW9fRFFwT21fSnpxSVhEX2JGS2VLZXA2cFFoR21xLWtmd1otNTBPX3VHVkNHZTZjOWI3YTZpMEZZdzZENDlreGNTVUpLUEROSFlkYWpXN2NIaDFXQ1Z2WS1HWmZmX25VTndzaWN1czFjMjhLdi1vWXV6ZWdBR0RIUHBfUmotS2lBLVZQakhadXdJbzJnUjB5Tm5xSGdGRUpRcDhtQ2pidFpIRVZQVGs1TGo5ajlHanFpdkxTRVFibE9ncUdZZlB5V28xbXdnaG1DS29ReVpxcHJucXVJZmVTdw?oc=5",
-            "source": "Haaretz",
-            "sources": [
-              "Haaretz"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-09-30T10:43:00.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "Flydubai航班离坠机有多近？沙特阿拉伯的奇迹解释- www.israelhayom.com",
             "originalTitle": "How close was the Flydubai flight to crashing? Miracle over Saudi Arabia explained - www.israelhayom.com",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWtZd1BoN25DUHZvd1A2NzAwWG83NGZVU21RRW9KamY0bkpyejNEck8yY3JlNGNnSk44Q0xZRDRleExYZ3dHeFBJMDU3RTVubVRIb1BReHpaSE54S3lBeXhPcFphanN3UHJoRWw5c0tPbGFQZnRSNUdPU0NZd0FmN2thZ3AybEs4?oc=5",
@@ -8085,20 +8023,80 @@
             "sources": [
               "www.israelhayom.com"
             ],
-            "heatScore": 62,
+            "heatScore": 70,
             "publishedAt": "2026-09-30T15:25:43.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "阿提哈德铁路在沙迦开设迪拜车站- ARN新闻中心",
-            "originalTitle": "Etihad Rail opens Dubai, Sharjah stations - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0JkVDd0VG5ac1NDVm43ZTRzQ0RjVEhGeUZJME0yWXFMY2RwOGtYdmhYV1YxYzQ3dkg4QVpxSmtBM29mZ1dHeHRVMmQ2MDRodDJMcHBsRzBlNW8yWHJYZzNCQk43RU5iaUNtQXUtYjVWYkVrYTd6M3M4cDFWZU1XX2FhNTFuSzBhaWVKbktKZEE4b3hMODJJcUZ4MXlZRkVG?oc=5",
+            "rank": 5,
+            "translatedTitle": "阿联酋预算战略以效率和未来准备为目标- ARN新闻中心",
+            "originalTitle": "UAE budget strategy targets efficiency and future readiness - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM0pSYloxc29HN0F5NEQ0Tk9FRWM3TDlsZUFoVjcxRjhRRmRmVmRwUG9tdjFkT251Y1AxU3NRZVdhOERDdGVxZ05tVTJNbXU4NHlXRzdvVTZSWThqT21mUWx2S2R6VF9pV1V2bmh1Wi1VZ1B4R09EMGVEdUc4bnp3YTYyM0xoS3RIVV9FOElwMDU0YjVydGxkdjB1V0ZtbWtRVmNlWmtjd0hBdw?oc=5",
             "source": "ARN News Centre",
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 60,
-            "publishedAt": "2026-09-30T09:17:50.000Z"
+            "heatScore": 67,
+            "publishedAt": "2026-09-30T15:19:21.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "印度媒体命名的Smit Machchhar Hero Flydubai近乎失望的航班机长- www.israelhayom.com",
+            "originalTitle": "Smit Machchhar Hero Flydubai captain of almost-doomed flight named by Indian media - www.israelhayom.com",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94alF5TERLY1AyTkI0T2Z2UWo0d1lTeWQ3a0NkaFp5enhITzl0aWRJaWgtT3hSaWNZUEFkVnlHYVZVZFlBM3BrLTJzT25sOVhIVWdRMHU4YXAzbF9uSE92VktGR0VRTzBEQllIYklLTWpBd0NWZmF4VHZTRQ?oc=5",
+            "source": "www.israelhayom.com",
+            "sources": [
+              "www.israelhayom.com"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-09-30T14:10:43.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "摩根·吉布斯-怀特（ Morgan Gibbs-White ）在迪拜度假期间应召参加英格兰公务后，与未婚妻解释了“愚蠢”和“愚蠢”的病毒片段-并坚称他对三狮队的职业生涯非常认真-每日邮报",
+            "originalTitle": "Morgan Gibbs-White explains 'silly' and 'stupid' viral clip with fiancee after being called up for England duty while on Dubai holiday - and insists he is deadly serious about Three Lions career - Daily Mail",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEdMTzJ6MW12ZTd2UXpXRi1xVXdXYm5hdkhyZFJpb0pKWi1QbGZBdWRRSnp4Z0NHazdWdFRmektyZTRVc082UDlvWUc3aDNQNnIwRXh1UFY0dkNkeXVxWjNwY29iWjhTWjU4VWRpb0JybVIweXFjaUgtR3JheW5zaU1jRDV2WUpuRFdGeFRLaDBDMlo2ZkswQi1Nd0TSAaIBQVVfeXFMT214T0diWnlfNDQ4WkRUOHlhLW5hNHlDUzBUSjNoZGFidEpTR1lqN2JwbnctckxTZzFiWkFfTmplOUdKYnlhd014MjQ3TGdYYW0tbjR0bVlRV3N5bGlFYl9USVVxSklPbi1RVklSNkVhanpOclFaODJNSGhyLXFreDVRZHYxQ2pWZjlzdzhZZHlQUXRDOFZGZ29jZnRYMEhOMHlB?oc=5",
+            "source": "Daily Mail",
+            "sources": [
+              "Daily Mail"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-09-30T18:00:46.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "迪拜航空公司-特拉维夫乘客回忆起恐怖事件，发布视频： “发生了劫机事件，我们制服了恐怖分子” - indianexpress.com",
+            "originalTitle": "Flydubai Dubai-Tel Aviv passengers recall horror, post videos: ‘There was a hijacking, we have subdued the terrorists’ - indianexpress.com",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmxqQUJyelZLZl9aUlpoeWFqeU9Sd0tJX05GU2k4SEtyRVdxUlExVmpuZ0xESHhibG1OVmFrWExtM3ZZSnVxTGNCWWRxRW1JRENYdTdHQmRrZDJWYTk3VlAtQTVzNElnT29TZ0h1OGw1aXhUSEtzSFF5bU95XzNwTXRiLThMVlRKSnR1ZllCdHctRzdKSGdqQXI5RHdiNktDSWU0VTM4QlpaaXMwS1NYb0hNZU1ONnlZNHYwcDRpMmphcWpu0gHLAUFVX3lxTE9uVjhrVkRZYUJ6bi13S0U2eWhNV2tCNzhGRG1rNDVfUE5waG9DZ1RaRWtqMW93VUZHSnVtU05WMGhmR0JrRGlxaEI5TVNxUUpxUkhSRE03elJOc05ENm50VG00S2pLa3pqRmpqVjl1Xy1CTzhQNktNaFo2N1hnWjVONDRqbHJxUzJ1LWRfdUJIXzBRWnp1X0hCZV9tTFZXS0lKc1NPdkVrdHd3MFB2WHM3a1BxaTFRQ1R3RXVJYzRtTml0WkE5NTJyNGFF?oc=5",
+            "source": "indianexpress.com",
+            "sources": [
+              "indianexpress.com"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-09-30T11:33:45.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "“3或4人获救180人” ：乘客讲述迪拜-特拉维夫航班的恐怖事件-《国土报》",
+            "originalTitle": "'3 or 4 People Saved 180': Passengers Recount Horror on Dubai-Tel Aviv Flight - Haaretz",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVUk0TFhGWkRDY1RCZUZPRkdwQmVraVdtNl9RRmpjYkR1VFNQVlh0MzVVUW9fRFFwT21fSnpxSVhEX2JGS2VLZXA2cFFoR21xLWtmd1otNTBPX3VHVkNHZTZjOWI3YTZpMEZZdzZENDlreGNTVUpLUEROSFlkYWpXN2NIaDFXQ1Z2WS1HWmZmX25VTndzaWN1czFjMjhLdi1vWXV6ZWdBR0RIUHBfUmotS2lBLVZQakhadXdJbzJnUjB5Tm5xSGdGRUpRcDhtQ2pidFpIRVZQVGs1TGo5ajlHanFpdkxTRVFibE9ncUdZZlB5V28xbXdnaG1DS29ReVpxcHJucXVJZmVTdw?oc=5",
+            "source": "Haaretz",
+            "sources": [
+              "Haaretz"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-09-30T10:43:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "沙特阿拉伯否认代表出席了以色列-阿联酋会议- アラブニュース",
+            "originalTitle": "Saudi Arabia denies representatives attended Israel-UAE meeting - アラブニュース",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXpCX3VvUTN4c0RTTTlXaDM2SjBTalB0cjBJLS1WcWhTM0xnaFFoRnFTay1obFR6ZmNYRW5nMzAyRG10X1JUSTJKM3BJWmtzUFdKTGtvR05QRUxnQW8xdXVuS1JtcXk0NjBNSTB6eGpmd19Yb1FCWDktMTR2U25kY1hOdXphMXV4OG9NcFQ4aFpOd1kwMjFzTC1JSUwzUlVzd1d0Y1hyeW9KMVp2czR0bA?oc=5",
+            "source": "アラブニュース",
+            "sources": [
+              "アラブニュース"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-09-30T13:17:09.000Z"
           }
         ],
         "china": []
