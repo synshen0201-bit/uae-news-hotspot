@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T19:12:36.813Z",
+  "updatedAt": "2026-10-01T19:30:25.843Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -8106,16 +8106,17 @@
     },
     "2026-10-01": {
       "date": "2026-10-01",
-      "updatedAt": "2026-10-01T19:12:36.813Z",
+      "updatedAt": "2026-10-01T19:30:25.843Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站- Khaleej Times",
-            "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Madinah - Khaleej Times",
+            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站- khaleejtimes.com",
+            "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Madinah - khaleejtimes.com",
             "url": "https://www.khaleejtimes.com/uae/uae-condemns-houthi-attack-power-station-madinah",
             "source": "Khaleej Times",
             "sources": [
+              "khaleejtimes.com",
               "Khaleej Times",
               "GulfToday"
             ],
@@ -8156,7 +8157,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-01T15:53:13.000Z"
           },
           {
@@ -8185,18 +8186,6 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "沙迦珠宝展2.12米高的金条，全球最高，让参观者叹为观止",
-            "originalTitle": "2.12-metre gold bar, world's tallest, wows visitors at Sharjah jewellery show",
-            "url": "https://www.khaleejtimes.com/uae/world-tallest-gold-bar-on-display-sharjah-show",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-01T17:39:59.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "以色列乘客表示，在观看电视节目后，他知道在迪拜航空公司的飞机上该怎么做-路透社",
             "originalTitle": "Israeli passenger says he knew what to do on flydubai plane after watching TV show - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWZnVHV0eE10U2dwMERaTTNPU0pla1NHSUllX1o4R1J6dzRaN2FiVmlWWGNyZGlRZjgwRGFzOE1nVjNvcFI1bmxuRmJVQnEzeUxaeWp4am1KbzVobndTVHVmRVRzSXlOWHVGTG1idUt2WGMtd3pBTXp6STFFN0hTTG51ajQ0VWRVRFE5Q2VCV3B5czE1VnVSSGQ5Mnp6WUhpN2k5UTJzUHVYM1hXSXZiVHNKMGFOVnhBRFNqRVVBM3JPeGZKRURJM29n?oc=5",
@@ -8208,19 +8197,19 @@
             "publishedAt": "2026-10-01T16:14:49.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
-            "originalTitle": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-            "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC News",
+            "rank": 8,
+            "translatedTitle": "沙迦珠宝展2.12米高的金条，全球最高，让参观者叹为观止",
+            "originalTitle": "2.12-metre gold bar, world's tallest, wows visitors at Sharjah jewellery show",
+            "url": "https://www.khaleejtimes.com/uae/world-tallest-gold-bar-on-display-sharjah-show",
+            "source": "Khaleej Times",
             "sources": [
-              "BBC News"
+              "Khaleej Times"
             ],
             "heatScore": 85,
-            "publishedAt": "2026-10-01T15:04:32.000Z"
+            "publishedAt": "2026-10-01T17:39:59.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "迪拜健身挑战赛开放2026年版报名",
             "originalTitle": "Dubai Fitness Challenge opens registration for 2026 edition",
             "url": "https://www.khaleejtimes.com/uae/dubai-fitness-challenge-2026-registration-opens",
@@ -8230,6 +8219,18 @@
             ],
             "heatScore": 85,
             "publishedAt": "2026-10-01T17:00:46.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
+            "originalTitle": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+            "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-01T15:04:32.000Z"
           }
         ],
         "domestic": [
@@ -8255,23 +8256,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 85,
             "publishedAt": "2026-10-01T17:39:59.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
-            "originalTitle": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-            "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-            "source": "BBC News",
-            "sources": [
-              "BBC News"
-            ],
-            "heatScore": 85,
-            "publishedAt": "2026-10-01T15:04:32.000Z"
-          },
-          {
-            "rank": 4,
             "translatedTitle": "迪拜健身挑战赛开放2026年版报名",
             "originalTitle": "Dubai Fitness Challenge opens registration for 2026 edition",
             "url": "https://www.khaleejtimes.com/uae/dubai-fitness-challenge-2026-registration-opens",
@@ -8283,19 +8272,19 @@
             "publishedAt": "2026-10-01T17:00:46.000Z"
           },
           {
-            "rank": 5,
-            "translatedTitle": "Hero Fly迪拜飞行员Smit Machchhar搬到阿布扎比医院",
-            "originalTitle": "Hero FlyDubai pilot Smit Machchhar moved to Abu Dhabi hospital",
-            "url": "https://www.arabnews.com/middle-east/hero-flydubai-pilot-smit-machchhar-moved-to-abu-dhabi-hospital-3004142",
-            "source": "Arab News",
+            "rank": 4,
+            "translatedTitle": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
+            "originalTitle": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+            "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
             "sources": [
-              "Arab News"
+              "BBC News"
             ],
             "heatScore": 84,
-            "publishedAt": "2026-10-01T17:34:33.000Z"
+            "publishedAt": "2026-10-01T15:04:32.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "曼城的成功如何帮助Andy Burnham掌权",
             "originalTitle": "How success of Manchester City helped put Andy Burnham in power",
             "url": "https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power",
@@ -8307,6 +8296,18 @@
             "publishedAt": "2026-10-01T18:53:05.000Z"
           },
           {
+            "rank": 6,
+            "translatedTitle": "Hero Fly迪拜飞行员Smit Machchhar搬到阿布扎比医院",
+            "originalTitle": "Hero FlyDubai pilot Smit Machchhar moved to Abu Dhabi hospital",
+            "url": "https://www.arabnews.com/middle-east/hero-flydubai-pilot-smit-machchhar-moved-to-abu-dhabi-hospital-3004142",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-01T17:34:33.000Z"
+          },
+          {
             "rank": 7,
             "translatedTitle": "《耶路撒冷日报》：内塔尼亚胡称再次发生9/11航班事故",
             "originalTitle": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
@@ -8315,7 +8316,7 @@
             "sources": [
               "Al Jazeera"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-01T16:19:35.000Z"
           },
           {
@@ -8344,15 +8345,15 @@
           },
           {
             "rank": 10,
-            "translatedTitle": "阿联酋被评为全球税收效率和签证处理最佳退休目的地之一",
-            "originalTitle": "UAE named among world’s best retirement destinations for tax efficiency, visa processing",
-            "url": "https://www.khaleejtimes.com/uae/uae-named-among-worlds-best-retirement-destinations-for-tax-efficiency-visa-processing",
-            "source": "Khaleej Times",
+            "translatedTitle": "迪拜警方“脉搏”室跟踪投诉直至关闭",
+            "originalTitle": "Dubai Police ‘Pulse’ room tracks complaints to closure",
+            "url": "https://c.newsnow.co.uk/A/1325931618?-15565:1965",
+            "source": "Gulf News",
             "sources": [
-              "Khaleej Times"
+              "Gulf News"
             ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-01T14:33:06.000Z"
+            "heatScore": 81,
+            "publishedAt": "2026-10-01T18:16:45.000Z"
           }
         ],
         "diplomacy": [
@@ -8415,7 +8416,7 @@
               "Dubai Eye 103.8",
               "ARN News Centre"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-09-30T22:46:47.000Z"
           }
         ],
@@ -8429,7 +8430,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-01T15:53:13.000Z"
           },
           {
@@ -8465,7 +8466,7 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-01T14:22:14.000Z"
           },
           {
@@ -8477,7 +8478,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-01T09:33:44.000Z"
           },
           {
@@ -8489,7 +8490,7 @@
             "sources": [
               "Al Jazeera"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-01T15:03:08.000Z"
           },
           {
@@ -8570,11 +8571,12 @@
         "military": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站- Khaleej Times",
-            "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Madinah - Khaleej Times",
+            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站- khaleejtimes.com",
+            "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Madinah - khaleejtimes.com",
             "url": "https://www.khaleejtimes.com/uae/uae-condemns-houthi-attack-power-station-madinah",
             "source": "Khaleej Times",
             "sources": [
+              "khaleejtimes.com",
               "Khaleej Times",
               "GulfToday"
             ],
@@ -8614,23 +8616,11 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-01T13:57:28.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "Flydubai袭击事件在以色列投票前向内塔尼亚胡发出新的安全信息",
-            "originalTitle": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
-            "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
-            "source": "Al Jazeera",
-            "sources": [
-              "Al Jazeera"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-01T15:47:23.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "以色列总理表示，现在判断伊朗是否参与迪拜-特拉维夫航班袭击还为时过早",
             "originalTitle": "Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
             "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
@@ -8642,7 +8632,32 @@
             "publishedAt": "2026-10-01T11:26:46.000Z"
           },
           {
+            "rank": 6,
+            "translatedTitle": "Flydubai袭击事件在以色列投票前向内塔尼亚胡发出新的安全信息",
+            "originalTitle": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+            "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-01T15:47:23.000Z"
+          },
+          {
             "rank": 7,
+            "translatedTitle": "阿联酋谴责胡塞武装无人机袭击麦地那电站- ARN新闻中心",
+            "originalTitle": "UAE condemns Houthi drone attack on Madinah power station - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0piZEpDR0R6SzI0ZzRYcnBtUjlZbklrYjlrMVdEbWh5emNzd0hfV0dFamVROXVoQUhMaG9rMk85U3JLU1pnMlhVbjBjZHcwMkIzaE5kb1hQekZrNXlDWEQxYmk0bHZWVngwc251SEhrLXVRaUtPY2hyVFdGbUxlQTZ1NFRDdGw0VGZDOHp3NWE4YzVLengzMjhWbnNVQlJi?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre",
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-01T19:19:25.000Z"
+          },
+          {
+            "rank": 8,
             "translatedTitle": "4家总部位于阿联酋的公司因性别平衡、女性代表性而获奖",
             "originalTitle": "4 UAE-based companies win award for gender balance, women representation",
             "url": "https://www.khaleejtimes.com/uae/gender-balance-awards-uae-based-companies",
@@ -8650,11 +8665,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 77,
+            "heatScore": 76,
             "publishedAt": "2026-10-01T10:59:20.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "Flydubai乘客描述在驾驶舱刺伤后将袭击者置于窒息状态",
             "originalTitle": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
             "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
@@ -8662,11 +8677,11 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 68,
+            "heatScore": 67,
             "publishedAt": "2026-09-30T21:38:54.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "曼城的辩护：资金来自阿布扎比政府–而不是赞助商-这是安菲尔德",
             "originalTitle": "Man City’s defence: Money came from Abu Dhabi government – not sponsors - This Is Anfield",
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zeTB1czBPM0lJUWNSR0dwOFIwMno1QmpqMDcxRjZhd0FlLWc1LXFnaEVfRW9xZHVjNDhUV0RkdlVfLVduRFlJckx0d0JyWV8yNWVYTGRxcjE2SkhVY05RcGFHaG9MOG9GTHdKVW54MFpRQ1E?oc=5",
@@ -8676,18 +8691,6 @@
             ],
             "heatScore": 60,
             "publishedAt": "2026-10-01T14:51:11.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "曼城的辩护：阿布扎比政府支付赞助资金，而不是业主-《每日电讯报》",
-            "originalTitle": "Man City’s defence: Abu Dhabi government paid sponsorship money, not owners - The Telegraph",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRW0wNVY4Qzk0ZkNjOURmakFCLUVyb2wtel9ENXZDcDdmT3ZPWkZyazBUcUlEdWM4TzFkMndGSFU4WWt1dUdya0l6U0Y5d0FHMGhYS1QxYUhDdGR6MFFPRW9WV0MwZl9zNjFRckFVV1FBbjRYUXV3OEkzb2d3cmFVb2F4OUFkbWRuRDRJV1JGZ2lDZi0tVmdsNHh4WldRWTV3WkZXb0xR?oc=5",
-            "source": "The Telegraph",
-            "sources": [
-              "The Telegraph"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-01T13:53:00.000Z"
           }
         ],
         "social": [
@@ -8695,7 +8698,7 @@
             "rank": 1,
             "translatedTitle": "致阿布扎比及其他地区读者的一封信-海湾新闻",
             "originalTitle": "A letter to our readers in Abu Dhabi and beyond - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU252S1lCOGxYMldfNEJyeWhnamtpMTNsRkRmTkkyR0hzRkxaeFc3eENBWGFaUE1DMUJRcGpwV0JuTG9QTWNSbGZyTHpCR3FZSndBRDBYVlJsbXdvSVFWTzg4cEhpdTVMTEpCeDdYd3o4cGI4dlNKWU9lb1Awbk5FSzNPLWYxSjRCZDRRbjhyc1lUVUdzZWZoWXZ30gGsAUFVX3lxTE9kODRLeF9ma2ZoT094N0gyeTBoQWx5R3V2UlFNNWQzdFUyOE9wZUROZnZaTGtHcjdNUGxRTWpBdDZkNkIzLVNleGk4U0FfcTlUazQtdG5xdHZRQ3o2MF96Z2pKVmhjcE1meExZVzQ3WUZrOU9kbm5NSnNYME1KNDk5Rmd3eXVncXdNdXhqRFZqU2VDQTlIbXl0Z3pkRnFrQVdSS1ZhNDBrQmxFeDQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDg0S3hfZmtmaE9PeDdIMnkwaEFseUd1dlJRTTVkM3RVMjhPcGVETmZ2WkxrR3I3TVBsUU1qQXQ2ZDZCMy1TZXhpOFNBX3E5VGs0LXRucXR2UUN6NjBfemdqSlZoY3BNZnhMWVc0N1lGazlPZG5uTUpzWDBNSjQ5OUZnd3l1Z3F3TXV4akRWalNlQ0E5SG15dGd6ZEZxa0FXUktWYTQwa0JsRXg00gGsAUFVX3lxTE9kODRLeF9ma2ZoT094N0gyeTBoQWx5R3V2UlFNNWQzdFUyOE9wZUROZnZaTGtHcjdNUGxRTWpBdDZkNkIzLVNleGk4U0FfcTlUazQtdG5xdHZRQ3o2MF96Z2pKVmhjcE1meExZVzQ3WUZrOU9kbm5NSnNYME1KNDk5Rmd3eXVncXdNdXhqRFZqU2VDQTlIbXl0Z3pkRnFrQVdSS1ZhNDBrQmxFeDQ?oc=5",
             "source": "Gulf News",
             "sources": [
               "Gulf News"
@@ -8789,18 +8792,6 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "“原始摩萨德阴谋” ？虚假的英国广播公司报道指责印度企图劫持真实病毒的杜拜飞机-Newschecker",
-            "originalTitle": "‘RAW-Mossad Conspiracy’? Fake BBC Report Accusing Indian Of Attempting To Hijack Flydubai Plane Viral As Real - Newschecker",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXQ0T3ZaTFI4OGg3Vkx4dnpOcUZkTWtUaUpCN3h5NFRRc3NUMW9scHZyNFRHbUZLMml4S0VaaDlvRVIyYWp3ejZNZ2paVENyZkk2MnlwWnM4eTY4dEkwMzVUenM3TUJCb1pUM2NDdjVjZ0VMY3FoUnU3Tmp0YVZYZ3VwN0R2c1VsdHExSWNrQ1p3ekNkWmtIaTU4djVwM3VoSTk2Y19JYjRyTWIwSElJdGdXekpCOURsZmhnX0JKYkhhZnlsclluVXlB?oc=5",
-            "source": "Newschecker",
-            "sources": [
-              "Newschecker"
-            ],
-            "heatScore": 58,
-            "publishedAt": "2026-10-01T07:40:06.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "早鸟皮涅罗首次登陆迪拜-海峡时报",
             "originalTitle": "Early bird Pinheiro 1st to land in Dubai - The Straits Times",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXM3UmVtVkhHTHdUZUMyLWVVd19yczVQcEtydmxCaktZRE9VWEVva0NSbkMzRHNTaHBUVXNmeGtnM09qLUI5LUxsNTdYOXpqdDZXVDNCbzJCT0dVMXhvc0s1NkFvLXh1bWZzT2w2cUZvTXg1cy1RT0JLTDNwaWdmLWFJTDA3SWJRX1VqREVKRzJuMjdyUjFrNDg4Nm9IaHpmSWpSSHhB?oc=5",
