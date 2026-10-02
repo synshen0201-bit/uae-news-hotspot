@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T19:42:21.289Z",
+  "updatedAt": "2026-10-02T19:56:20.082Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -8781,7 +8781,7 @@
     },
     "2026-10-02": {
       "date": "2026-10-02",
-      "updatedAt": "2026-10-02T19:42:21.289Z",
+      "updatedAt": "2026-10-02T19:56:20.082Z",
       "categories": {
         "all": [
           {
@@ -8800,26 +8800,13 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "阿联酋首颗商业卫星成功发射- arnnewscentre.ae",
-            "originalTitle": "First UAE-built commercial satellite launches successfully - arnnewscentre.ae",
-            "url": "https://www.khaleejtimes.com/space/first-commercial-satellite-built-in-uae-launches",
-            "source": "Khaleej Times",
-            "sources": [
-              "arnnewscentre.ae",
-              "Khaleej Times"
-            ],
-            "heatScore": 98,
-            "publishedAt": "2026-10-02T18:48:49.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站-海湾新闻",
             "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Medina - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmRYZVIzUkNzMzB1U0t4b0FtU3ZwOFJ3QloyMHVuT3VsZzA3clJSWmdtMWdvMms2ZGduTHdybDN0RGN5R3JBRThacDJuOVprQjBrUWhaY2hqbnJVN2V4WmFoUnVkZWVHRFUxd1JJR2xaMkNQQzZKUFJBeEFldkRQdF90WGREa0cycjFrY1R1Z1Y0ZzlGUy1NUlNYcVAxd2cwQUxCemlWYmxVRXRNd1FXSmt2VkF0RHFzRjI5dFZrcjXSAdMBQVVfeXFMT1Y0MGJSeGNDdFJEMmJuZGhlU2pWZmZOakRYbnRTOW9McTRqcW8td0UwS2hxQ1FQZENZanJkU3BZMDZ5R1lSQ2V5WFdnMEduaC11aDZFMEd0V2VrUmd5dzUybjVTa3NnbnJOd184WE9PMndwSjV1NExLMkhkZ0lBd2pXX3ZYTGpORU5QUkRyZ2M2cER4a0YxdmZOSDIxVXNDdkNJR0xYaUNnYjROOWpmOGxzWmNFZHdVdkVvT2V3ZVM0ZjY4cVEyOGk4Nmt5VEJGMG1vZw?oc=5",
             "source": "Gulf News",
             "sources": [
               "Gulf News",
-              "emirates247.com",
+              "Emirates 24|7",
               "Khaleej Times",
               "Menafn"
             ],
@@ -8827,7 +8814,7 @@
             "publishedAt": "2026-10-01T19:28:25.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "阿联酋和叙利亚央行同意深化合作- thenationalnews.com",
             "originalTitle": "UAE and Syria central banks agree to deepen co-operation - thenationalnews.com",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFNyWEpvcl9nVDZCSmdrRmtPMllOeGtVNkc3RkhZSTlDWU1NZ1NJeU1uVXRRclRsRDZ1eDh3dEoxeHJoTXdTaEVsOWQtb3ZlUnhGTk5CY1dJSWhKZnAzeXhVM3VLN3VMXzloV051Ym04bjdGVDhOWGVlVkRWajNocGVBeGhJSnFhcVdCY0ZxMmZyT0MzRHhlVW5YNExKUVp3UGUyU3R1ZnB6dmhiM3VfeFhOdTFvM3Fp?oc=5",
@@ -8840,19 +8827,7 @@
             "publishedAt": "2026-10-02T18:32:27.000Z"
           },
           {
-            "rank": 5,
-            "translatedTitle": "印度飞行员告诉莫迪总理，他在袭击期间打开了flydubai驾驶舱门-路透社",
-            "originalTitle": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-10-02T17:09:58.000Z"
-          },
-          {
-            "rank": 6,
+            "rank": 4,
             "translatedTitle": "消息人士称，以色列官员质疑flydubai航班的副驾驶-路透社",
             "originalTitle": "Israeli officials to question co-pilot of flydubai flight, source says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5",
@@ -8860,11 +8835,11 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 87,
-            "publishedAt": "2026-10-02T15:30:51.000Z"
+            "heatScore": 90,
+            "publishedAt": "2026-10-02T19:02:22.000Z"
           },
           {
-            "rank": 7,
+            "rank": 5,
             "translatedTitle": "微软《2026年数字防御报告》强调，随着阿联酋加速人工智能驱动的安全，网络风险不断变化- wam.ae",
             "originalTitle": "Microsoft Digital Defence Report 2026 highlights evolving cyber risks as UAE accelerates AI-powered security - wam.ae",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnBlNXl2bFgxU3dyMjVhZlBiRm5zZlp3WHpadHRVNFJxamx5Q2taWWU4Q3pUR1JTa3hjQXJfN3NwcG0ta2FGUVNNd1NKZ0VPaVBoVWVWbW5BTW5TVjR2azMwd0pHNFNCTWNENGZyN3NzODZOQ0ZCT3JtWnZQOVBIYmN0S3RicWNlMzB2bmliWQ?oc=5",
@@ -8876,19 +8851,19 @@
             "publishedAt": "2026-10-02T17:58:56.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "解释者：我们对迪拜航空公司1073航班了解多少？ -路透社",
-            "originalTitle": "Explainer: What do we know about flydubai flight 1073? - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5",
+            "rank": 6,
+            "translatedTitle": "印度飞行员告诉莫迪总理，他在袭击期间打开了flydubai驾驶舱门-路透社",
+            "originalTitle": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
             "source": "Reuters",
             "sources": [
               "Reuters"
             ],
             "heatScore": 86,
-            "publishedAt": "2026-10-02T19:02:17.000Z"
+            "publishedAt": "2026-10-02T17:09:58.000Z"
           },
           {
-            "rank": 9,
+            "rank": 7,
             "translatedTitle": "“一开始很震惊” ：阿布扎比的印度外籍人士在Big Ticket每周抽奖中赢得25,000迪拉姆",
             "originalTitle": "'Was shocked at first': Indian expat in Abu Dhabi wins Dh25,000 in Big Ticket weekly draw",
             "url": "https://www.khaleejtimes.com/uae/indian-pakistani-expats-win-big-ticket-weekly-draw",
@@ -8900,7 +8875,7 @@
             "publishedAt": "2026-10-02T19:14:45.000Z"
           },
           {
-            "rank": 10,
+            "rank": 8,
             "translatedTitle": "阿联酋专家呼吁扩大慢性病筛查范围",
             "originalTitle": "UAE experts call for wider chronic disease screening",
             "url": "https://c.newsnow.co.uk/A/1326029687?-15565:1965",
@@ -8910,6 +8885,30 @@
             ],
             "heatScore": 86,
             "publishedAt": "2026-10-02T18:22:36.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜统治者任命Sheikh Ahmed bin Mohammed为Al Wasl体育俱乐部主席",
+            "originalTitle": "Dubai Ruler appoints Sheikh Ahmed bin Mohammed as Chairman of Al Wasl Sports Club",
+            "url": "https://www.khaleejtimes.com/uae/dubai-ruler-sheikh-ahmed-bin-mohammed-chairman-al-wasl",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-02T17:32:29.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "灾难发生几分钟： flydubai 1073的暴跌-路透社",
+            "originalTitle": "Minutes from disaster: inside flydubai 1073's plunge - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWd196Nmo1cXFGMTJacld1b21wRW1LZHlCdzJ0cXZqQmJfMXowT2xXbkk0ZDNsTzBBTzNCS1hpV3Y3N015SjZxem9zS3ZYS0sxel83S1Awbk54RVBndnlKTWR1bzdSZkRRYTZxV3U0YUtTXzZFeURNcQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-02T13:45:00.000Z"
           }
         ],
         "domestic": [
@@ -8951,18 +8950,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋内政部警告居民投资诈骗，敦促他们首先核实",
-            "originalTitle": "UAE Ministry of Interior warns residents of investment scams, urges them to verify first",
-            "url": "https://www.khaleejtimes.com/uae/uae-warns-residents-investment-scams-urges-verify-first",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-02T15:56:45.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "Machboos ，但让它成为Arancini ：精致的餐饮浪潮重塑阿联酋美食",
             "originalTitle": "Machboos, but make it arancini: The fine dining wave reshaping Emirati cuisine",
             "url": "https://c.newsnow.co.uk/A/1326029048?-15565:1965",
@@ -8972,6 +8959,18 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-02T18:13:52.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋内政部警告居民投资诈骗，敦促他们首先核实",
+            "originalTitle": "UAE Ministry of Interior warns residents of investment scams, urges them to verify first",
+            "url": "https://www.khaleejtimes.com/uae/uae-warns-residents-investment-scams-urges-verify-first",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-02T15:56:45.000Z"
           },
           {
             "rank": 6,
@@ -9093,7 +9092,7 @@
             "sources": [
               "The Times of Israel"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-10-02T14:56:24.000Z"
           },
           {
@@ -9119,20 +9118,20 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 87,
-            "publishedAt": "2026-10-02T15:30:51.000Z"
+            "heatScore": 90,
+            "publishedAt": "2026-10-02T19:02:22.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "解释者：我们对迪拜航空公司1073航班了解多少？ -路透社",
-            "originalTitle": "Explainer: What do we know about flydubai flight 1073? - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5",
+            "translatedTitle": "灾难发生几分钟： flydubai 1073的暴跌-路透社",
+            "originalTitle": "Minutes from disaster: inside flydubai 1073's plunge - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWd196Nmo1cXFGMTJacld1b21wRW1LZHlCdzJ0cXZqQmJfMXowT2xXbkk0ZDNsTzBBTzNCS1hpV3Y3N015SjZxem9zS3ZYS0sxel83S1Awbk54RVBndnlKTWR1bzdSZkRRYTZxV3U0YUtTXzZFeURNcQ?oc=5",
             "source": "Reuters",
             "sources": [
               "Reuters"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-02T19:02:17.000Z"
+            "heatScore": 84,
+            "publishedAt": "2026-10-02T13:45:00.000Z"
           },
           {
             "rank": 3,
@@ -9155,7 +9154,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-02T18:07:03.000Z"
           },
           {
@@ -9241,8 +9240,20 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-02T18:53:08.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "在阿联酋建造的第一颗商业卫星在SpaceX上发射",
+            "originalTitle": "First commercial satellite built in UAE launches aboard SpaceX",
+            "url": "https://www.khaleejtimes.com/space/first-commercial-satellite-built-in-uae-launches",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-02T15:04:30.000Z"
           }
         ],
         "military": [
@@ -9268,7 +9279,7 @@
             "source": "Gulf News",
             "sources": [
               "Gulf News",
-              "emirates247.com",
+              "Emirates 24|7",
               "Khaleej Times",
               "Menafn"
             ],
@@ -9277,18 +9288,6 @@
           },
           {
             "rank": 3,
-            "translatedTitle": "印度飞行员告诉莫迪总理，他在袭击期间打开了flydubai驾驶舱门-路透社",
-            "originalTitle": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-10-02T17:09:58.000Z"
-          },
-          {
-            "rank": 4,
             "translatedTitle": "微软《2026年数字防御报告》强调，随着阿联酋加速人工智能驱动的安全，网络风险不断变化- wam.ae",
             "originalTitle": "Microsoft Digital Defence Report 2026 highlights evolving cyber risks as UAE accelerates AI-powered security - wam.ae",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnBlNXl2bFgxU3dyMjVhZlBiRm5zZlp3WHpadHRVNFJxamx5Q2taWWU4Q3pUR1JTa3hjQXJfN3NwcG0ta2FGUVNNd1NKZ0VPaVBoVWVWbW5BTW5TVjR2azMwd0pHNFNCTWNENGZyN3NzODZOQ0ZCT3JtWnZQOVBIYmN0S3RicWNlMzB2bmliWQ?oc=5",
@@ -9300,6 +9299,18 @@
             "publishedAt": "2026-10-02T17:58:56.000Z"
           },
           {
+            "rank": 4,
+            "translatedTitle": "印度飞行员告诉莫迪总理，他在袭击期间打开了flydubai驾驶舱门-路透社",
+            "originalTitle": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-02T17:09:58.000Z"
+          },
+          {
             "rank": 5,
             "translatedTitle": "乘飞机自杀还是恐怖主义自杀？对1073航班袭击动机的猜测",
             "originalTitle": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
@@ -9308,7 +9319,7 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 80,
+            "heatScore": 79,
             "publishedAt": "2026-10-02T15:40:05.000Z"
           },
           {
@@ -9332,7 +9343,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 77,
+            "heatScore": 76,
             "publishedAt": "2026-10-02T14:07:04.000Z"
           },
           {
@@ -9344,7 +9355,7 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-10-02T08:39:40.000Z"
           },
           {
@@ -9375,19 +9386,6 @@
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋首颗商业卫星成功发射- arnnewscentre.ae",
-            "originalTitle": "First UAE-built commercial satellite launches successfully - arnnewscentre.ae",
-            "url": "https://www.khaleejtimes.com/space/first-commercial-satellite-built-in-uae-launches",
-            "source": "Khaleej Times",
-            "sources": [
-              "arnnewscentre.ae",
-              "Khaleej Times"
-            ],
-            "heatScore": 98,
-            "publishedAt": "2026-10-02T18:48:49.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "Flydubai事件最新消息：船长Smit Machchhar在社交媒体上被誉为“孟买男孩”;呼吁Ashok Chakra勇敢-周日卫报",
             "originalTitle": "Flydubai Incident Latest News: Captain Smit Machchhar Hailed as ‘Mumbai Boy’ on Social Media; Calls for Ashok Chakra for His Bravery - The Sunday Guardian",
             "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZTF4aTVnVWVEZlI0ajdlMW1tSEg3S2VmR2dHWFFVQ3k0c3J0M0UxLTdiR0o0RWJBRTNQV1lfaTFKOFREb2lveUNVRUZBUGJabkp0YzhVck9SOUUzRWlzeHoxajFfVS1rMmZIU3VRYkJPN0FGbzBBVXVmRG1Qbm9pZm10VU5BNXRreHNfdkxsdmZZWWhpYjJqeHpKcUNvUnhmZnpxempydU44b0RBTlFpRXB2TmxXTkhBQ2RCSnJGdF9NaWVOdVpKUE90U1FmMlFacEloWEE0Ulh4VjN3aXREeG9PaTEzVms2ZDhCZG1JMWVDa184dFA0VVg4UlJEQjVkRHBj?oc=5",
@@ -9399,18 +9397,30 @@
             "publishedAt": "2026-10-02T05:56:47.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "迪拜航空袭击中的阿曼副驾驶员在社交媒体上讨论了“杀害犹太人” ：以色列官员- ANI新闻",
-            "originalTitle": "Omani co-pilot in flydubai attack discussed 'killing jews' on social media: Israeli official - ANI News",
+            "rank": 2,
+            "translatedTitle": "阿曼副驾驶员在Flydubai袭击中讨论在社交媒体上杀害犹太人：以色列官员- Free Press Journal",
+            "originalTitle": "Omani Co-Pilot In Flydubai Attack Discussed Killing Jews On Social Media: Israeli Official - Free Press Journal",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGdHckdZM0V6YU9IdERWaFlxTnNxMm02ZmxBdTBlRVVFT2J1SkJ3RzBHaTFUX2pZYUJ1MFpwUEktUFNMT1RnNXZtYUdHaHNnZUg5eWZzb2xINnJfOEd6dGVRX3FCemxXSUpHd09Wc0E3VGVER2NOVlRCcm1RQ09ZVlhwOWJ3UnNYYWREemFmcnVsYTB6M0IydkNQZ0xRZGhBeWdPd0QtVEpqa3NuWEw1Mjk0TV9tYWdWNUEwS3p2cVQ0dXpjUFHSAcsBQVVfeXFMTlBXVlNkZHJ0Rmx5T1d1c0pibWV3YlpUOGVBTlkzOUZzbkUteG05NV9NYWJaZlliYkUtWXBXZ0sxendjNHhab3lvQkN3YWJPam1aRzl5SUROVk92cVVWQkt4VkMyaklCMFZPVUV2UFJiV0J1cDlBUVVYRDAzcDlKU3NDdW9UOGk5U0gyTFl0RDBRS2NwR2lMT3VJZWU1aEhRWlItTlVydDhZVGVyOWdjOW1CdnA5ZDZaOWVnT1hDcmFCSUowemdEanZyUkk?oc=5",
-            "source": "freepressjournal.in",
+            "source": "Free Press Journal",
             "sources": [
-              "freepressjournal.in",
+              "Free Press Journal",
               "LatestLY",
               "ANI News"
             ],
             "heatScore": 70,
             "publishedAt": "2026-10-01T18:27:41.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋首颗商业卫星成功发射- ARN新闻中心",
+            "originalTitle": "First UAE-built commercial satellite launches successfully - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaExxZ3FJSDQ5dFUtZXVpOTZUNVJkLW5XUGdLNF9ZQmpJX01JLW1EM3ZqNFNIaWRPQ0VRU0dCc2RsMjhKU1pPNERaVjhVdTBfVFRmVV9hQVRSa1JpZTdqWnhUQzExWkRCMzlhbi12N1g4ZkNJX0lLbDN0M0RJakRSaVROcjh6RkpWZkdCd0RRam5zanRxaUQ0RWJ5NTQtZkxfZzEyTWVmU0s?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-02T18:48:49.000Z"
           },
           {
             "rank": 4,
@@ -9445,7 +9455,7 @@
             "sources": [
               "Hindustan Times"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-02T15:39:07.000Z"
           },
           {
@@ -9462,18 +9472,6 @@
           },
           {
             "rank": 8,
-            "translatedTitle": "视频| flydubai Hero的2025年播客是病毒式的。采访者Zalak Mehta分享他的第一印象- NDTV",
-            "originalTitle": "Video | flydubai Hero's 2025 Podcast Is Viral. Interviewer Zalak Mehta Shares His 1st Impression - NDTV",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzAwbkdyQXYwbU54RHFMb1lRVGRYZkI3TlRoMzk1RmUzT19CYlYwNUVJazBjNDNXWEpKY0g1V18ydk9ERVNhaFB5XzVyYm5IRWR6Z1gwU2E2WlVWN256bTJxWC01Q3VrdldUX2tQT3owX3pLUEEyODBsNzFmU0tMekFlb2VadGpBN3p0WXNXWkVTTXJlU2NJM3EtUXNBellIYl96TTRfVGRUSmRaS1Eta1p3LVhYY1lCTE42TDZTRQ?oc=5",
-            "source": "NDTV",
-            "sources": [
-              "NDTV"
-            ],
-            "heatScore": 60,
-            "publishedAt": "2026-10-02T11:50:14.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "“杀死犹太人” ： Flydubai攻击者令人不安的社交媒体帖子揭示了什么- Firstpost",
             "originalTitle": "‘Kill Jews’: What Flydubai attacker’s disturbing social media posts reveal - Firstpost",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdS16SmduaFd0cTNRV2duX3B2SkE1T0xJdkU1OG55NUh4eHlHSzYyLWZNQVlpTmJLN1NZTGw3ekktbXk4cDRteHZzVC1sQkRfY2FySzdRMkJ5REhpdGJnMDFDVHJjaE5mYlZkZ05RTjdYZ195MGx0dXdQdDZSbDVRcDZxSzg4dWxEeTBNOGdHY1NGalFMN0RtSl9KX2hlaHRRVGRxVVU3WTNBd1h6SVZNY0Q4d2FrTjlxYS1tMXJB0gHDAUFVX3lxTE5EWXdKSW9kYURKUlpwaFVGaXBkQXd2SkVvZjB5ekRTWE1mWFpSZHh1Wkw2eE5OdkZ2N3NqbW82MHpBOU54NUM2cTJ2UmhyaGtCVnBjb2dJODhmWWE4VjJidUpJa2RzV2szeWV2aDB3RW9LRlRpdlh5a3ZUN2x6aU15V2o4dGxUVDl0a2ZjUUpOWWZYWlB3M1d1UHlIa1ZSSzVnYV9laVFyc3pXQU1lTzB2SU9ZTVFoRkItRWNOLWlFN2ViSQ?oc=5",
@@ -9485,7 +9483,7 @@
             "publishedAt": "2026-10-02T09:03:26.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "在FlyDubai事件发生后，阿联酋撤销了以色列“救援航班”的着陆许可- thecradle.co",
             "originalTitle": "UAE withdraws landing permits for Israeli 'rescue flights' after FlyDubai incident - thecradle.co",
             "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZTOHFzXzBaalVNZ3VIUEtSbmdWOGdsdUJhNTd0Rmt2djJ4cFNqbkJ0ODFUdnhvQmN5SlN6b3hPMVFiMHI1a2ZGcDBfaVdyYWdIQ3BvY3RPajBCeDl6Q21NRlV5cEFLOGlzN1dnamtQd1hPNzVBY2pLWUJkUmUxSUNmNkhwQXpfTFRNWmM1WV9NWjZPUGVSWG5XSWtzQVE0amdrWV9qRVF6b2d3NjVF?oc=5",
@@ -9495,6 +9493,18 @@
             ],
             "heatScore": 59,
             "publishedAt": "2026-10-02T14:13:15.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "视频| flydubai Hero的2025年播客是病毒式的。采访者Zalak Mehta分享他的第一印象- ndtv.com",
+            "originalTitle": "Video | flydubai Hero's 2025 Podcast Is Viral. Interviewer Zalak Mehta Shares His 1st Impression - ndtv.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzAwbkdyQXYwbU54RHFMb1lRVGRYZkI3TlRoMzk1RmUzT19CYlYwNUVJazBjNDNXWEpKY0g1V18ydk9ERVNhaFB5XzVyYm5IRWR6Z1gwU2E2WlVWN256bTJxWC01Q3VrdldUX2tQT3owX3pLUEEyODBsNzFmU0tMekFlb2VadGpBN3p0WXNXWkVTTXJlU2NJM3EtUXNBellIYl96TTRfVGRUSmRaS1Eta1p3LVhYY1lCTE42TDZTRQ?oc=5",
+            "source": "ndtv.com",
+            "sources": [
+              "ndtv.com"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-02T11:50:14.000Z"
           }
         ],
         "china": []
