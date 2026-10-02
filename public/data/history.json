@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T19:18:27.242Z",
+  "updatedAt": "2026-10-02T19:42:21.289Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -8781,11 +8781,25 @@
     },
     "2026-10-02": {
       "date": "2026-10-02",
-      "updatedAt": "2026-10-02T19:18:27.242Z",
+      "updatedAt": "2026-10-02T19:42:21.289Z",
       "categories": {
         "all": [
           {
             "rank": 1,
+            "translatedTitle": "哈扎·本·扎耶德接待来自阿布扎比警方、民防和危机管理中心-阿布扎比媒体办公室的代表团",
+            "originalTitle": "Hazza bin Zayed receives delegation from Abu Dhabi Police, Civil Defence and Crises Management Centre - مكتب أبوظبي الإعلامي",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUU5aThWWXJiNUM4MDNRVmg1TDQ4WTYtRFVzUHpHaWI1TnFXTnI1YWk3SlZxeUNydmNsUGdkWXAteFJ3ZGoyVzRQNGFTc2hrTUY2d1JBNDl4VWV2VVNoUmdGd3RscG1QQnRKTFhqd0lpNDlZbGZ4Mk9PLURrYmoyeUxReE9lRmNmZ0xnbzV5UEN6QQ?oc=5",
+            "source": "wam.ae",
+            "sources": [
+              "مكتب أبوظبي الإعلامي",
+              "UrduPoint",
+              "wam.ae"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-02T07:17:45.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋首颗商业卫星成功发射- arnnewscentre.ae",
             "originalTitle": "First UAE-built commercial satellite launches successfully - arnnewscentre.ae",
             "url": "https://www.khaleejtimes.com/space/first-commercial-satellite-built-in-uae-launches",
@@ -8794,26 +8808,26 @@
               "arnnewscentre.ae",
               "Khaleej Times"
             ],
-            "heatScore": 99,
+            "heatScore": 98,
             "publishedAt": "2026-10-02T18:48:49.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站-海湾新闻",
             "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Medina - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmRYZVIzUkNzMzB1U0t4b0FtU3ZwOFJ3QloyMHVuT3VsZzA3clJSWmdtMWdvMms2ZGduTHdybDN0RGN5R3JBRThacDJuOVprQjBrUWhaY2hqbnJVN2V4WmFoUnVkZWVHRFUxd1JJR2xaMkNQQzZKUFJBeEFldkRQdF90WGREa0cycjFrY1R1Z1Y0ZzlGUy1NUlNYcVAxd2cwQUxCemlWYmxVRXRNd1FXSmt2VkF0RHFzRjI5dFZrcjXSAdMBQVVfeXFMT1Y0MGJSeGNDdFJEMmJuZGhlU2pWZmZOakRYbnRTOW9McTRqcW8td0UwS2hxQ1FQZENZanJkU3BZMDZ5R1lSQ2V5WFdnMEduaC11aDZFMEd0V2VrUmd5dzUybjVTa3NnbnJOd184WE9PMndwSjV1NExLMkhkZ0lBd2pXX3ZYTGpORU5QUkRyZ2M2cER4a0YxdmZOSDIxVXNDdkNJR0xYaUNnYjROOWpmOGxzWmNFZHdVdkVvT2V3ZVM0ZjY4cVEyOGk4Nmt5VEJGMG1vZw?oc=5",
             "source": "Gulf News",
             "sources": [
               "Gulf News",
-              "Emirates 24|7",
+              "emirates247.com",
               "Khaleej Times",
               "Menafn"
             ],
-            "heatScore": 99,
+            "heatScore": 97,
             "publishedAt": "2026-10-01T19:28:25.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "阿联酋和叙利亚央行同意深化合作- thenationalnews.com",
             "originalTitle": "UAE and Syria central banks agree to deepen co-operation - thenationalnews.com",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFNyWEpvcl9nVDZCSmdrRmtPMllOeGtVNkc3RkhZSTlDWU1NZ1NJeU1uVXRRclRsRDZ1eDh3dEoxeHJoTXdTaEVsOWQtb3ZlUnhGTk5CY1dJSWhKZnAzeXhVM3VLN3VMXzloV051Ym04bjdGVDhOWGVlVkRWajNocGVBeGhJSnFhcVdCY0ZxMmZyT0MzRHhlVW5YNExKUVp3UGUyU3R1ZnB6dmhiM3VfeFhOdTFvM3Fp?oc=5",
@@ -8822,21 +8836,8 @@
               "thenationalnews.com",
               "The National"
             ],
-            "heatScore": 94,
+            "heatScore": 93,
             "publishedAt": "2026-10-02T18:32:27.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "哈扎·本·扎耶德接待来自阿布扎比警方、民防和危机管理中心-阿布扎比媒体办公室的代表团",
-            "originalTitle": "Hazza bin Zayed receives delegation from Abu Dhabi Police, Civil Defence and Crises Management Centre - مكتب أبوظبي الإعلامي",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUU5aThWWXJiNUM4MDNRVmg1TDQ4WTYtRFVzUHpHaWI1TnFXTnI1YWk3SlZxeUNydmNsUGdkWXAteFJ3ZGoyVzRQNGFTc2hrTUY2d1JBNDl4VWV2VVNoUmdGd3RscG1QQnRKTFhqd0lpNDlZbGZ4Mk9PLURrYmoyeUxReE9lRmNmZ0xnbzV5UEN6QQ?oc=5",
-            "source": "wam.ae",
-            "sources": [
-              "مكتب أبوظبي الإعلامي",
-              "wam.ae"
-            ],
-            "heatScore": 89,
-            "publishedAt": "2026-10-02T07:17:45.000Z"
           },
           {
             "rank": 5,
@@ -8847,7 +8848,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-02T17:09:58.000Z"
           },
           {
@@ -8859,23 +8860,11 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-02T15:30:51.000Z"
           },
           {
             "rank": 7,
-            "translatedTitle": "“一开始很震惊” ：阿布扎比的印度外籍人士在Big Ticket每周抽奖中赢得25,000迪拉姆",
-            "originalTitle": "'Was shocked at first': Indian expat in Abu Dhabi wins Dh25,000 in Big Ticket weekly draw",
-            "url": "https://www.khaleejtimes.com/uae/indian-pakistani-expats-win-big-ticket-weekly-draw",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 88,
-            "publishedAt": "2026-10-02T19:14:45.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "微软《2026年数字防御报告》强调，随着阿联酋加速人工智能驱动的安全，网络风险不断变化- wam.ae",
             "originalTitle": "Microsoft Digital Defence Report 2026 highlights evolving cyber risks as UAE accelerates AI-powered security - wam.ae",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnBlNXl2bFgxU3dyMjVhZlBiRm5zZlp3WHpadHRVNFJxamx5Q2taWWU4Q3pUR1JTa3hjQXJfN3NwcG0ta2FGUVNNd1NKZ0VPaVBoVWVWbW5BTW5TVjR2azMwd0pHNFNCTWNENGZyN3NzODZOQ0ZCT3JtWnZQOVBIYmN0S3RicWNlMzB2bmliWQ?oc=5",
@@ -8887,28 +8876,40 @@
             "publishedAt": "2026-10-02T17:58:56.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "阿联酋面临日益严重的人工智能驱动的网络威胁：微软",
-            "originalTitle": "UAE faces rising AI-driven cyber threats: Microsoft",
-            "url": "https://c.newsnow.co.uk/A/1326031660?-15565:1965",
-            "source": "Gulf News",
+            "rank": 8,
+            "translatedTitle": "解释者：我们对迪拜航空公司1073航班了解多少？ -路透社",
+            "originalTitle": "Explainer: What do we know about flydubai flight 1073? - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5",
+            "source": "Reuters",
             "sources": [
-              "Gulf News"
+              "Reuters"
             ],
-            "heatScore": 85,
-            "publishedAt": "2026-10-02T18:53:08.000Z"
+            "heatScore": 86,
+            "publishedAt": "2026-10-02T19:02:17.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "迪拜统治者任命Sheikh Ahmed bin Mohammed为Al Wasl体育俱乐部主席",
-            "originalTitle": "Dubai Ruler appoints Sheikh Ahmed bin Mohammed as Chairman of Al Wasl Sports Club",
-            "url": "https://www.khaleejtimes.com/uae/dubai-ruler-sheikh-ahmed-bin-mohammed-chairman-al-wasl",
+            "rank": 9,
+            "translatedTitle": "“一开始很震惊” ：阿布扎比的印度外籍人士在Big Ticket每周抽奖中赢得25,000迪拉姆",
+            "originalTitle": "'Was shocked at first': Indian expat in Abu Dhabi wins Dh25,000 in Big Ticket weekly draw",
+            "url": "https://www.khaleejtimes.com/uae/indian-pakistani-expats-win-big-ticket-weekly-draw",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
-            "publishedAt": "2026-10-02T17:32:29.000Z"
+            "heatScore": 86,
+            "publishedAt": "2026-10-02T19:14:45.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋专家呼吁扩大慢性病筛查范围",
+            "originalTitle": "UAE experts call for wider chronic disease screening",
+            "url": "https://c.newsnow.co.uk/A/1326029687?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-02T18:22:36.000Z"
           }
         ],
         "domestic": [
@@ -8921,11 +8922,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 88,
+            "heatScore": 86,
             "publishedAt": "2026-10-02T19:14:45.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "阿联酋专家呼吁扩大慢性病筛查范围",
+            "originalTitle": "UAE experts call for wider chronic disease screening",
+            "url": "https://c.newsnow.co.uk/A/1326029687?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-02T18:22:36.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "迪拜统治者任命Sheikh Ahmed bin Mohammed为Al Wasl体育俱乐部主席",
             "originalTitle": "Dubai Ruler appoints Sheikh Ahmed bin Mohammed as Chairman of Al Wasl Sports Club",
             "url": "https://www.khaleejtimes.com/uae/dubai-ruler-sheikh-ahmed-bin-mohammed-chairman-al-wasl",
@@ -8937,31 +8950,7 @@
             "publishedAt": "2026-10-02T17:32:29.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "阿联酋专家呼吁扩大慢性病筛查范围",
-            "originalTitle": "UAE experts call for wider chronic disease screening",
-            "url": "https://c.newsnow.co.uk/A/1326029687?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-02T18:22:36.000Z"
-          },
-          {
             "rank": 4,
-            "translatedTitle": "Machboos ，但让它成为Arancini ：精致的餐饮浪潮重塑阿联酋美食",
-            "originalTitle": "Machboos, but make it arancini: The fine dining wave reshaping Emirati cuisine",
-            "url": "https://c.newsnow.co.uk/A/1326029048?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-02T18:13:52.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "阿联酋内政部警告居民投资诈骗，敦促他们首先核实",
             "originalTitle": "UAE Ministry of Interior warns residents of investment scams, urges them to verify first",
             "url": "https://www.khaleejtimes.com/uae/uae-warns-residents-investment-scams-urges-verify-first",
@@ -8969,23 +8958,23 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-02T15:56:45.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "阿联酋如何加强其电动汽车驱动，以实现2050年净零排放目标",
-            "originalTitle": "How the UAE can amp up its electric vehicle drive to meet 2050 net-zero target",
-            "url": "https://c.newsnow.co.uk/A/1326028290?-15565:1965",
+            "rank": 5,
+            "translatedTitle": "Machboos ，但让它成为Arancini ：精致的餐饮浪潮重塑阿联酋美食",
+            "originalTitle": "Machboos, but make it arancini: The fine dining wave reshaping Emirati cuisine",
+            "url": "https://c.newsnow.co.uk/A/1326029048?-15565:1965",
             "source": "The National",
             "sources": [
               "The National"
             ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-02T18:05:16.000Z"
+            "heatScore": 82,
+            "publishedAt": "2026-10-02T18:13:52.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "在飞往以色列的航班上被刺伤的“英雄”印度飞行员是谁？",
             "originalTitle": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
             "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
@@ -8993,8 +8982,20 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-02T11:52:04.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋如何加强其电动汽车驱动，以实现2050年净零排放目标",
+            "originalTitle": "How the UAE can amp up its electric vehicle drive to meet 2050 net-zero target",
+            "url": "https://c.newsnow.co.uk/A/1326028290?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-02T18:05:16.000Z"
           },
           {
             "rank": 8,
@@ -9005,7 +9006,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-02T17:52:03.000Z"
           },
           {
@@ -9017,7 +9018,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-02T13:57:32.000Z"
           },
           {
@@ -9029,7 +9030,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-02T13:54:16.000Z"
           }
         ],
@@ -9044,19 +9045,19 @@
               "thenationalnews.com",
               "The National"
             ],
-            "heatScore": 94,
+            "heatScore": 93,
             "publishedAt": "2026-10-02T18:32:27.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "曼城裁决导致英国-阿联酋外交关系紧张- Bloomberg.com",
-            "originalTitle": "Manchester City Verdict Strains UK-UAE Diplomatic Relations - Bloomberg.com",
+            "translatedTitle": "曼城裁决导致英国-阿联酋外交关系紧张- bloomberg.com",
+            "originalTitle": "Manchester City Verdict Strains UK-UAE Diplomatic Relations - bloomberg.com",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0pLb2R2cWt0YWxoREJHZFRlRWJKTDR6SU4tWXZnenRNQmRkNlZEb2RjZExHcFJNb215YkVnMHM1UFBRbTBtdS1zRmVmZWFlbWhxeW1tdUhVMHhHUmZLV21QMlg0QlhTUmFodnU3S0F0MFljaDZfSHV6Tm9hcld1MWpxU2F5X01NT21fdjZhX0M1NDU3cUFBZ19ORFg5SmpXSnZQeUJMQXpDNHZyTThhMzdxbw?oc=5",
-            "source": "Bloomberg.com",
+            "source": "bloomberg.com",
             "sources": [
-              "Bloomberg.com"
+              "bloomberg.com"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-02T12:15:44.000Z"
           },
           {
@@ -9080,7 +9081,7 @@
             "sources": [
               "The Jerusalem Post"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-02T16:36:54.000Z"
           },
           {
@@ -9104,7 +9105,7 @@
             "sources": [
               "Sharjah24"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-10-02T14:35:33.000Z"
           }
         ],
@@ -9118,11 +9119,23 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-02T15:30:51.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "解释者：我们对迪拜航空公司1073航班了解多少？ -路透社",
+            "originalTitle": "Explainer: What do we know about flydubai flight 1073? - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-02T19:02:17.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "Flydubai事件： GCAA表示，随着调查的继续，它不会对索赔发表评论",
             "originalTitle": "Flydubai incident: GCAA says it will not comment on claims as investigation continues",
             "url": "https://www.khaleejtimes.com/uae/flydubai-incident-gcaa-reserves-comment-praises-pilot",
@@ -9130,11 +9143,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-10-02T16:54:48.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "我的迪拜薪水： “从2,500迪拉姆到25,000迪拉姆--我用我的月收入创业”",
             "originalTitle": "My Dubai Salary: 'From Dh2,500 to Dh25,000 – I used my monthly income to build a business'",
             "url": "https://c.newsnow.co.uk/A/1326028425?-15565:1965",
@@ -9142,11 +9155,11 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-02T18:07:03.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "Flydubai首席执行官感谢船长、乘客“在具有挑战性的情况下”协助机组人员",
             "originalTitle": "Flydubai CEO thanks captain, passengers for assisting crew ‘during a challenging situation’",
             "url": "https://www.khaleejtimes.com/uae/flydubai-ceo-thanks-captain-passengers-assisting-crew-challenging-situation",
@@ -9154,11 +9167,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-02T14:15:30.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "阿联酋外交官Gargash称赞flydubai飞行员在“危险的恐怖行为”中的勇气",
             "originalTitle": "UAE diplomat Gargash praises flydubai pilot for courage during 'dangerous terrorist act'",
             "url": "https://www.khaleejtimes.com/uae/gargash-praises-flydubai-pilot-dangerous-terrorist-act",
@@ -9166,11 +9179,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 80,
+            "heatScore": 79,
             "publishedAt": "2026-10-02T13:18:18.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "挫败的杜拜航空袭击事件笼罩了地区航空公司的复兴-路透社",
             "originalTitle": "Foiled flydubai attack clouds regional airline revival - Reuters",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckx3VkNRTklaT01xMTdlQW5sXzBSZ0lPNWNBcWpZZmJCWnNCOWxnRWRjLVhnbmZEU28zZ2hNVkExbzNpeUpyazBtT1FQNWswRGRiYUxqY3BEQzVuX2RSZ3pIa1ZyTFQ1NjJaNFlQdnpTMDJVUjNKOUdxVkdHcTVpSm5tVVp6THRWOV80bEt2ZzMtY0hFeTA5Y0xNR2k0eElNT3Z6cVlJRmsxbmZt?oc=5",
@@ -9178,20 +9191,8 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-10-02T05:01:00.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "12分钟的疯狂： Flydubai飞行员，乘客如何拯救飞机中秋",
-            "originalTitle": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
-            "url": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
-            "source": "Al Jazeera",
-            "sources": [
-              "Al Jazeera"
-            ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-02T12:37:20.000Z"
           },
           {
             "rank": 8,
@@ -9202,7 +9203,7 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 72,
+            "heatScore": 71,
             "publishedAt": "2026-10-02T05:45:23.000Z"
           },
           {
@@ -9240,62 +9241,39 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 83,
             "publishedAt": "2026-10-02T18:53:08.000Z"
-          },
-          {
-            "rank": 2,
-            "translatedTitle": "微软表示，阿联酋是网络威胁的12大目标之一",
-            "originalTitle": "UAE among top 12 targets for cyber threats, says Microsoft",
-            "url": "https://c.newsnow.co.uk/A/1326022189?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-10-02T16:43:51.000Z"
-          },
-          {
-            "rank": 3,
-            "translatedTitle": "Tpra Media -与阿联酋人工智能战略2031保持一致：机器可读的可信度工程……",
-            "originalTitle": "Tpra Media - Aligned with UAE AI Strategy 2031: Credibility Engineering for a Machine-Readable…",
-            "url": "https://c.newsnow.co.uk/A/1326022277?-15565:1965",
-            "source": "PR Newswire (Press Release)",
-            "sources": [
-              "PR Newswire (Press Release)"
-            ],
-            "heatScore": 62,
-            "publishedAt": "2026-10-02T16:45:02.000Z"
           }
         ],
         "military": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站-海湾新闻",
-            "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Medina - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmRYZVIzUkNzMzB1U0t4b0FtU3ZwOFJ3QloyMHVuT3VsZzA3clJSWmdtMWdvMms2ZGduTHdybDN0RGN5R3JBRThacDJuOVprQjBrUWhaY2hqbnJVN2V4WmFoUnVkZWVHRFUxd1JJR2xaMkNQQzZKUFJBeEFldkRQdF90WGREa0cycjFrY1R1Z1Y0ZzlGUy1NUlNYcVAxd2cwQUxCemlWYmxVRXRNd1FXSmt2VkF0RHFzRjI5dFZrcjXSAdMBQVVfeXFMT1Y0MGJSeGNDdFJEMmJuZGhlU2pWZmZOakRYbnRTOW9McTRqcW8td0UwS2hxQ1FQZENZanJkU3BZMDZ5R1lSQ2V5WFdnMEduaC11aDZFMEd0V2VrUmd5dzUybjVTa3NnbnJOd184WE9PMndwSjV1NExLMkhkZ0lBd2pXX3ZYTGpORU5QUkRyZ2M2cER4a0YxdmZOSDIxVXNDdkNJR0xYaUNnYjROOWpmOGxzWmNFZHdVdkVvT2V3ZVM0ZjY4cVEyOGk4Nmt5VEJGMG1vZw?oc=5",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News",
-              "Emirates 24|7",
-              "Khaleej Times",
-              "Menafn"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-10-01T19:28:25.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "哈扎·本·扎耶德接待来自阿布扎比警方、民防和危机管理中心-阿布扎比媒体办公室的代表团",
             "originalTitle": "Hazza bin Zayed receives delegation from Abu Dhabi Police, Civil Defence and Crises Management Centre - مكتب أبوظبي الإعلامي",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUU5aThWWXJiNUM4MDNRVmg1TDQ4WTYtRFVzUHpHaWI1TnFXTnI1YWk3SlZxeUNydmNsUGdkWXAteFJ3ZGoyVzRQNGFTc2hrTUY2d1JBNDl4VWV2VVNoUmdGd3RscG1QQnRKTFhqd0lpNDlZbGZ4Mk9PLURrYmoyeUxReE9lRmNmZ0xnbzV5UEN6QQ?oc=5",
             "source": "wam.ae",
             "sources": [
               "مكتب أبوظبي الإعلامي",
+              "UrduPoint",
               "wam.ae"
             ],
-            "heatScore": 89,
+            "heatScore": 99,
             "publishedAt": "2026-10-02T07:17:45.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击麦地那配电站-海湾新闻",
+            "originalTitle": "UAE strongly condemns Houthi attack on power distribution station in Medina - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmRYZVIzUkNzMzB1U0t4b0FtU3ZwOFJ3QloyMHVuT3VsZzA3clJSWmdtMWdvMms2ZGduTHdybDN0RGN5R3JBRThacDJuOVprQjBrUWhaY2hqbnJVN2V4WmFoUnVkZWVHRFUxd1JJR2xaMkNQQzZKUFJBeEFldkRQdF90WGREa0cycjFrY1R1Z1Y0ZzlGUy1NUlNYcVAxd2cwQUxCemlWYmxVRXRNd1FXSmt2VkF0RHFzRjI5dFZrcjXSAdMBQVVfeXFMT1Y0MGJSeGNDdFJEMmJuZGhlU2pWZmZOakRYbnRTOW9McTRqcW8td0UwS2hxQ1FQZENZanJkU3BZMDZ5R1lSQ2V5WFdnMEduaC11aDZFMEd0V2VrUmd5dzUybjVTa3NnbnJOd184WE9PMndwSjV1NExLMkhkZ0lBd2pXX3ZYTGpORU5QUkRyZ2M2cER4a0YxdmZOSDIxVXNDdkNJR0xYaUNnYjROOWpmOGxzWmNFZHdVdkVvT2V3ZVM0ZjY4cVEyOGk4Nmt5VEJGMG1vZw?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News",
+              "emirates247.com",
+              "Khaleej Times",
+              "Menafn"
+            ],
+            "heatScore": 97,
+            "publishedAt": "2026-10-01T19:28:25.000Z"
           },
           {
             "rank": 3,
@@ -9306,7 +9284,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-02T17:09:58.000Z"
           },
           {
@@ -9330,7 +9308,7 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-02T15:40:05.000Z"
           },
           {
@@ -9342,7 +9320,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-10-02T15:48:01.000Z"
           },
           {
@@ -9378,7 +9356,7 @@
             "sources": [
               "BBC News"
             ],
-            "heatScore": 68,
+            "heatScore": 67,
             "publishedAt": "2026-10-01T19:59:24.000Z"
           },
           {
@@ -9405,33 +9383,33 @@
               "arnnewscentre.ae",
               "Khaleej Times"
             ],
-            "heatScore": 99,
+            "heatScore": 98,
             "publishedAt": "2026-10-02T18:48:49.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "Flydubai事件最新消息：船长Smit Machchhar在社交媒体上被誉为“孟买男孩”;呼吁Ashok Chakra为他的勇敢- sundayguardianlive.com",
-            "originalTitle": "Flydubai Incident Latest News: Captain Smit Machchhar Hailed as ‘Mumbai Boy’ on Social Media; Calls for Ashok Chakra for His Bravery - sundayguardianlive.com",
+            "translatedTitle": "Flydubai事件最新消息：船长Smit Machchhar在社交媒体上被誉为“孟买男孩”;呼吁Ashok Chakra勇敢-周日卫报",
+            "originalTitle": "Flydubai Incident Latest News: Captain Smit Machchhar Hailed as ‘Mumbai Boy’ on Social Media; Calls for Ashok Chakra for His Bravery - The Sunday Guardian",
             "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZTF4aTVnVWVEZlI0ajdlMW1tSEg3S2VmR2dHWFFVQ3k0c3J0M0UxLTdiR0o0RWJBRTNQV1lfaTFKOFREb2lveUNVRUZBUGJabkp0YzhVck9SOUUzRWlzeHoxajFfVS1rMmZIU3VRYkJPN0FGbzBBVXVmRG1Qbm9pZm10VU5BNXRreHNfdkxsdmZZWWhpYjJqeHpKcUNvUnhmZnpxempydU44b0RBTlFpRXB2TmxXTkhBQ2RCSnJGdF9NaWVOdVpKUE90U1FmMlFacEloWEE0Ulh4VjN3aXREeG9PaTEzVms2ZDhCZG1JMWVDa184dFA0VVg4UlJEQjVkRHBj?oc=5",
-            "source": "sundayguardianlive.com",
+            "source": "The Sunday Guardian",
             "sources": [
-              "sundayguardianlive.com"
+              "The Sunday Guardian"
             ],
-            "heatScore": 72,
+            "heatScore": 71,
             "publishedAt": "2026-10-02T05:56:47.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "阿曼副驾驶员在Flydubai袭击中讨论在社交媒体上杀害犹太人：以色列官员- Free Press Journal",
-            "originalTitle": "Omani Co-Pilot In Flydubai Attack Discussed Killing Jews On Social Media: Israeli Official - Free Press Journal",
+            "translatedTitle": "迪拜航空袭击中的阿曼副驾驶员在社交媒体上讨论了“杀害犹太人” ：以色列官员- ANI新闻",
+            "originalTitle": "Omani co-pilot in flydubai attack discussed 'killing jews' on social media: Israeli official - ANI News",
             "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGdHckdZM0V6YU9IdERWaFlxTnNxMm02ZmxBdTBlRVVFT2J1SkJ3RzBHaTFUX2pZYUJ1MFpwUEktUFNMT1RnNXZtYUdHaHNnZUg5eWZzb2xINnJfOEd6dGVRX3FCemxXSUpHd09Wc0E3VGVER2NOVlRCcm1RQ09ZVlhwOWJ3UnNYYWREemFmcnVsYTB6M0IydkNQZ0xRZGhBeWdPd0QtVEpqa3NuWEw1Mjk0TV9tYWdWNUEwS3p2cVQ0dXpjUFHSAcsBQVVfeXFMTlBXVlNkZHJ0Rmx5T1d1c0pibWV3YlpUOGVBTlkzOUZzbkUteG05NV9NYWJaZlliYkUtWXBXZ0sxendjNHhab3lvQkN3YWJPam1aRzl5SUROVk92cVVWQkt4VkMyaklCMFZPVUV2UFJiV0J1cDlBUVVYRDAzcDlKU3NDdW9UOGk5U0gyTFl0RDBRS2NwR2lMT3VJZWU1aEhRWlItTlVydDhZVGVyOWdjOW1CdnA5ZDZaOWVnT1hDcmFCSUowemdEanZyUkk?oc=5",
-            "source": "Free Press Journal",
+            "source": "freepressjournal.in",
             "sources": [
-              "Free Press Journal",
+              "freepressjournal.in",
               "LatestLY",
               "ANI News"
             ],
-            "heatScore": 71,
+            "heatScore": 70,
             "publishedAt": "2026-10-01T18:27:41.000Z"
           },
           {
@@ -9479,23 +9457,11 @@
             "sources": [
               "News On AIR"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-02T15:32:18.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "在FlyDubai事件发生后，阿联酋撤销了以色列“救援航班”的着陆许可- thecradle.co",
-            "originalTitle": "UAE withdraws landing permits for Israeli 'rescue flights' after FlyDubai incident - thecradle.co",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZTOHFzXzBaalVNZ3VIUEtSbmdWOGdsdUJhNTd0Rmt2djJ4cFNqbkJ0ODFUdnhvQmN5SlN6b3hPMVFiMHI1a2ZGcDBfaVdyYWdIQ3BvY3RPajBCeDl6Q21NRlV5cEFLOGlzN1dnamtQd1hPNzVBY2pLWUJkUmUxSUNmNkhwQXpfTFRNWmM1WV9NWjZPUGVSWG5XSWtzQVE0amdrWV9qRVF6b2d3NjVF?oc=5",
-            "source": "thecradle.co",
-            "sources": [
-              "thecradle.co"
-            ],
-            "heatScore": 60,
-            "publishedAt": "2026-10-02T14:13:15.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "视频| flydubai Hero的2025年播客是病毒式的。采访者Zalak Mehta分享他的第一印象- NDTV",
             "originalTitle": "Video | flydubai Hero's 2025 Podcast Is Viral. Interviewer Zalak Mehta Shares His 1st Impression - NDTV",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzAwbkdyQXYwbU54RHFMb1lRVGRYZkI3TlRoMzk1RmUzT19CYlYwNUVJazBjNDNXWEpKY0g1V18ydk9ERVNhaFB5XzVyYm5IRWR6Z1gwU2E2WlVWN256bTJxWC01Q3VrdldUX2tQT3owX3pLUEEyODBsNzFmU0tMekFlb2VadGpBN3p0WXNXWkVTTXJlU2NJM3EtUXNBellIYl96TTRfVGRUSmRaS1Eta1p3LVhYY1lCTE42TDZTRQ?oc=5",
@@ -9507,7 +9473,7 @@
             "publishedAt": "2026-10-02T11:50:14.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "“杀死犹太人” ： Flydubai攻击者令人不安的社交媒体帖子揭示了什么- Firstpost",
             "originalTitle": "‘Kill Jews’: What Flydubai attacker’s disturbing social media posts reveal - Firstpost",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdS16SmduaFd0cTNRV2duX3B2SkE1T0xJdkU1OG55NUh4eHlHSzYyLWZNQVlpTmJLN1NZTGw3ekktbXk4cDRteHZzVC1sQkRfY2FySzdRMkJ5REhpdGJnMDFDVHJjaE5mYlZkZ05RTjdYZ195MGx0dXdQdDZSbDVRcDZxSzg4dWxEeTBNOGdHY1NGalFMN0RtSl9KX2hlaHRRVGRxVVU3WTNBd1h6SVZNY0Q4d2FrTjlxYS1tMXJB0gHDAUFVX3lxTE5EWXdKSW9kYURKUlpwaFVGaXBkQXd2SkVvZjB5ekRTWE1mWFpSZHh1Wkw2eE5OdkZ2N3NqbW82MHpBOU54NUM2cTJ2UmhyaGtCVnBjb2dJODhmWWE4VjJidUpJa2RzV2szeWV2aDB3RW9LRlRpdlh5a3ZUN2x6aU15V2o4dGxUVDl0a2ZjUUpOWWZYWlB3M1d1UHlIa1ZSSzVnYV9laVFyc3pXQU1lTzB2SU9ZTVFoRkItRWNOLWlFN2ViSQ?oc=5",
@@ -9517,6 +9483,18 @@
             ],
             "heatScore": 60,
             "publishedAt": "2026-10-02T09:03:26.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "在FlyDubai事件发生后，阿联酋撤销了以色列“救援航班”的着陆许可- thecradle.co",
+            "originalTitle": "UAE withdraws landing permits for Israeli 'rescue flights' after FlyDubai incident - thecradle.co",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVZTOHFzXzBaalVNZ3VIUEtSbmdWOGdsdUJhNTd0Rmt2djJ4cFNqbkJ0ODFUdnhvQmN5SlN6b3hPMVFiMHI1a2ZGcDBfaVdyYWdIQ3BvY3RPajBCeDl6Q21NRlV5cEFLOGlzN1dnamtQd1hPNzVBY2pLWUJkUmUxSUNmNkhwQXpfTFRNWmM1WV9NWjZPUGVSWG5XSWtzQVE0amdrWV9qRVF6b2d3NjVF?oc=5",
+            "source": "thecradle.co",
+            "sources": [
+              "thecradle.co"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-02T14:13:15.000Z"
           }
         ],
         "china": []
