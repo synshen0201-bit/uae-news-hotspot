@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T20:09:22.280Z",
+  "updatedAt": "2026-10-04T00:11:00.129Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -10239,6 +10239,752 @@
           }
         ],
         "china": []
+      }
+    },
+    "2026-10-04": {
+      "date": "2026-10-04",
+      "updatedAt": "2026-10-04T00:11:00.129Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "挥舞斧头的FlyDubai副驾驶因极端主义问题被举报",
+            "originalTitle": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns",
+            "url": "https://www.arabnews.com/middle-east/ax-wielding-flydubai-co-pilot-had-been-flagged-over-extremism-concerns-3004491",
+            "source": "Arab News",
+            "sources": [
+              "Arab News",
+              "HuffPost (US)",
+              "The New Daily"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-03T23:55:23.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋表示， Flydubai副驾驶员用斧头袭击飞行员，企图进行“恐怖袭击” -路透社",
+            "originalTitle": "Flydubai co-pilot attacked pilot with axe in attempted 'terrorist attack', UAE says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Al Jazeera",
+              "Reuters"
+            ],
+            "heatScore": 97,
+            "publishedAt": "2026-10-03T16:17:23.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋表示，副驾驶在飞往以色列的迪拜航班上使用坠机斧袭击了他的机长",
+            "originalTitle": "Co-pilot used a crash axe to attack his captain on Dubai flight to Israel, says UAE",
+            "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+            "source": "The Guardian",
+            "sources": [
+              "The Observer",
+              "The Guardian"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-03T18:56:56.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "在Flydubai嫌疑人的社交媒体上发现的恐怖分子图片-埃及独立报",
+            "originalTitle": "Terrorist images found on Flydubai suspect’s social media - Egypt Independent",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13T3QxZTB6NklmazFKUnNwUXl1VFBkQkd3bHFra3FkdHZYWnQzbnV0SFhEZ205MjNxNVcxLXh1MGh4NXdVbEhfaG5YOWZJazV4ZXdQNlppaGlQMW5rUGlEOHNNUkRJMnF5U05ReWdFZjZKMkNCN0NtcA?oc=5",
+            "source": "CNN",
+            "sources": [
+              "Egypt Independent",
+              "CNN"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-03T12:37:09.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "哈扎·本·扎耶德接待来自阿布扎比警方、民防和危机管理中心-阿布扎比媒体办公室的代表团",
+            "originalTitle": "Hazza bin Zayed receives delegation from Abu Dhabi Police, Civil Defence and Crises Management Centre - مكتب أبوظبي الإعلامي",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUU5aThWWXJiNUM4MDNRVmg1TDQ4WTYtRFVzUHpHaWI1TnFXTnI1YWk3SlZxeUNydmNsUGdkWXAteFJ3ZGoyVzRQNGFTc2hrTUY2d1JBNDl4VWV2VVNoUmdGd3RscG1QQnRKTFhqd0lpNDlZbGZ4Mk9PLURrYmoyeUxReE9lRmNmZ0xnbzV5UEN6QQ?oc=5",
+            "source": "wam.ae",
+            "sources": [
+              "مكتب أبوظبي الإعلامي",
+              "UrduPoint",
+              "wam.ae"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-10-02T07:17:45.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋领导人在团结日祝贺德国领导人",
+            "originalTitle": "UAE leaders congratulate Germany leader on Unity Day",
+            "url": "https://c.newsnow.co.uk/A/1326092801?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-03T19:18:56.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋彩票：一名玩家在周六的幸运日抽奖中赢得500万迪拉姆",
+            "originalTitle": "UAE Lottery: One player wins Dh5 million in Saturday’s Lucky Day Draw",
+            "url": "https://www.khaleejtimes.com/uae/uae-lottery-player-dh5-million-saturdays-lucky-day-draw",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-03T17:55:22.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋官员称， Flydubai副驾驶用斧头袭击了船长",
+            "originalTitle": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-03T14:27:33.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "伊朗里亚尔跌至新低，央行抛售美元支撑货币",
+            "originalTitle": "Iranian rial at new low, as central bank sells dollars to support currency",
+            "url": "https://www.arabnews.com/middle-east/iranian-rial-at-new-low-as-central-bank-sells-dollars-to-support-currency-3004476",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-03T20:56:18.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "“迪拜是世界的家园” ：谢赫·穆罕默德笔给居民的衷心信息",
+            "originalTitle": "'Dubai is home for the world': Sheikh Mohammed pens heartfelt message to residents",
+            "url": "https://www.khaleejtimes.com/uae/dubai-home-world-sheikh-mohammed-heartfelt-message-residents",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-03T17:08:01.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋表示， Flydubai副驾驶员用斧头袭击飞行员，企图进行“恐怖袭击” -路透社",
+            "originalTitle": "Flydubai co-pilot attacked pilot with axe in attempted 'terrorist attack', UAE says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNHh1NEZDMzE4aE53SVNjWXVIUmRYc3Ayb2R5SzRwNWhiYXkxRnF0UWg5YVhKNFhfYzVDYk84ZGFmbVdwUVhrdURrR0lCRDdDeDJJVG5PY0xNTTZRbURjWDBybFBsdUV4N1Ywei1lMkhib2FKQXV4TVY2eFNVLU9BSGsyXzJLejZCekRSYnBwaXlZLWo2Qm9xOXdyOEJxYlgzY3oyVnMtSkhGaUZWRWdLakVWYlZyZ2dvbm5YNkRLcG9jLU1iN2c3U2gxOTVzZ3g5NkJvY2dJQQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Al Jazeera",
+              "Reuters"
+            ],
+            "heatScore": 97,
+            "publishedAt": "2026-10-03T16:17:23.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋表示，副驾驶在飞往以色列的迪拜航班上使用坠机斧袭击了他的机长",
+            "originalTitle": "Co-pilot used a crash axe to attack his captain on Dubai flight to Israel, says UAE",
+            "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+            "source": "The Guardian",
+            "sources": [
+              "The Observer",
+              "The Guardian"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-03T18:56:56.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋领导人在团结日祝贺德国领导人",
+            "originalTitle": "UAE leaders congratulate Germany leader on Unity Day",
+            "url": "https://c.newsnow.co.uk/A/1326092801?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-03T19:18:56.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋彩票：一名玩家在周六的幸运日抽奖中赢得500万迪拉姆",
+            "originalTitle": "UAE Lottery: One player wins Dh5 million in Saturday’s Lucky Day Draw",
+            "url": "https://www.khaleejtimes.com/uae/uae-lottery-player-dh5-million-saturdays-lucky-day-draw",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-03T17:55:22.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋官员称， Flydubai副驾驶用斧头袭击了船长",
+            "originalTitle": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-03T14:27:33.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "“迪拜是世界的家园” ：谢赫·穆罕默德笔给居民的衷心信息",
+            "originalTitle": "'Dubai is home for the world': Sheikh Mohammed pens heartfelt message to residents",
+            "url": "https://www.khaleejtimes.com/uae/dubai-home-world-sheikh-mohammed-heartfelt-message-residents",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-03T17:08:01.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Big Ticket阿布扎比：菲律宾国民赢得2000万迪拉姆10月大奖",
+            "originalTitle": "Big Ticket Abu Dhabi: Philippine national wins Dh20 million October jackpot",
+            "url": "https://www.khaleejtimes.com/uae/big-ticket-abu-dhabi-october-3-2026-live-draw-winner",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-03T16:35:19.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "爱尔兰足球媒体通话以混乱告终",
+            "originalTitle": "Ireland's football media call ends in chaos",
+            "url": "https://news.sky.com/story/irelands-nations-league-media-call-ends-in-chaos-after-question-by-israeli-journalist-about-flydubai-13594700",
+            "source": "Sky News",
+            "sources": [
+              "Sky News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-03T14:18:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "沙特阿拉伯在罚球方面击败卡塔尔，进入阿拉伯海湾杯决赛",
+            "originalTitle": "Saudi Arabia beat Qatar on penalties to reach Arabian Gulf Cup final",
+            "url": "https://www.arabnews.com/sport/saudi-arabia-beat-qatar-on-penalties-to-reach-arabian-gulf-cup-final-3004462",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-03T20:54:14.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "“你的兄弟穆罕默德” ：迪拜统治者向政府工作人员发送个人电子邮件",
+            "originalTitle": "'Your brother Mohammed': Dubai Ruler sends personal email to government staff",
+            "url": "https://www.khaleejtimes.com/uae/dubai-ruler-personal-email-government-staff",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-03T15:10:43.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "曼城裁决导致英国-阿联酋外交关系紧张- Bloomberg.com",
+            "originalTitle": "Manchester City Verdict Strains UK-UAE Diplomatic Relations - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0pLb2R2cWt0YWxoREJHZFRlRWJKTDR6SU4tWXZnenRNQmRkNlZEb2RjZExHcFJNb215YkVnMHM1UFBRbTBtdS1zRmVmZWFlbWhxeW1tdUhVMHhHUmZLV21QMlg0QlhTUmFodnU3S0F0MFljaDZfSHV6Tm9hcld1MWpxU2F5X01NT21fdjZhX0M1NDU3cUFBZ19ORFg5SmpXSnZQeUJMQXpDNHZyTThhMzdxbw?oc=5",
+            "source": "Bloomberg.com",
+            "sources": [
+              "Bloomberg.com"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-02T12:15:44.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋和叙利亚央行同意深化合作- thenationalnews.com",
+            "originalTitle": "UAE and Syria central banks agree to deepen co-operation - thenationalnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFNyWEpvcl9nVDZCSmdrRmtPMllOeGtVNkc3RkhZSTlDWU1NZ1NJeU1uVXRRclRsRDZ1eDh3dEoxeHJoTXdTaEVsOWQtb3ZlUnhGTk5CY1dJSWhKZnAzeXhVM3VLN3VMXzloV051Ym04bjdGVDhOWGVlVkRWajNocGVBeGhJSnFhcVdCY0ZxMmZyT0MzRHhlVW5YNExKUVp3UGUyU3R1ZnB6dmhiM3VfeFhOdTFvM3Fp?oc=5",
+            "source": "thenationalnews.com",
+            "sources": [
+              "thenationalnews.com"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-02T18:32:27.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "释放双边潜力：阿联酋和德国打造新的商业模式-海湾新闻",
+            "originalTitle": "Unlocking Bilateral Potential: UAE and Germany forge new business models - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTJHeWZubkJOMnhJQ2tfcWZDT0lqbXZqeUtNcGNzS04tSjlUbHM5bktNZ3I2MGlza3JlNTRKcGxHcjZWTk9LdVctNVBPNm9QYWNPdFNMM1FBcElDdFRHdi1DUldVTU9wb0RTNmR6eFV4RXJ6ei1PZTAwQ094aWNnLUpaZ3lkd09jSDE0R2dMdlkwNEJmUHpLQVJZUWVQZXluZHZmWk1OYWNWMnk2N25iRnhodm0zc3ZOdG5VUlRsYlY1ZEnSAcMBQVVfeXFMTzUyR3lmbm5CTjJ4SUNrX3FmQ09Jam12anlLTXBjc0tOLUo5VGxzOW5LTWdyNjBpc2tyZTU0SnBsR3I2Vk5PS3VXLTVQTzZvUGFjT3RTTDNRQXBJQ3RUR3YtQ1JXVU1PcG9EUzZkenhVeEVyenotT2UwMENPeGljZy1KWmd5ZHdPY0gxNEdnTHZZMDRCZlB6S0FSWVFlUGV5bmR2ZlpNTmFjVjJ5NjduYkZ4aHZtM3N2TnRuVVJUbGJWNWRJ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-02T05:40:51.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "据称劫持迪拜航空公司航班的阿曼飞行员没有第二国籍-耶路撒冷邮报",
+            "originalTitle": "Omani pilot who allegedly hijacked flydubai flight has no second nationality - The Jerusalem Post",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhQ3RPQ0FQeHRFbVk3UGxzN05qMjdELTZSYzRDVzJwTXRnMDFkaURXTTl5cmYtS3dVOTlzWWVoUGUyekRHT3Ixa3FQeGpyVzY4emtuQ1VZTWtEVHcx?oc=5",
+            "source": "The Jerusalem Post",
+            "sources": [
+              "The Jerusalem Post"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-03T18:25:56.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋就投资问题警告英国，曼城案引发外交紧张局势- AfricaSoccer.com",
+            "originalTitle": "Manchester City case sparks diplomatic tensions as UAE warns UK over investment - AfricaSoccer.com",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUtaUXVNd1V6NU0yNGVvVTUxaGJKZHlPWXZJSFU1LTJ0bV9xRmQtdjR6Y2h0bVJFclhkR202MjBEak1fd18tZWNIMzRvODNMWlNfNTN6ejJ3Z1VIVlhPRHNXYlUzc0xmOWpqMWJKV0ZSUlpWLS0tOXY0R2FnNVBDUERwNVpJVVhaU0JOQ2wzU21WVFF5Rzhzd0ZFTDZNQUJoWHloeGRDc2E?oc=5",
+            "source": "AfricaSoccer.com",
+            "sources": [
+              "AfricaSoccer.com"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-10-03T15:43:33.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋警告英国投资风险高达数十亿美元，对曼城的外交影响-匈牙利保守党",
+            "originalTitle": "UAE Warns Britain Risks Billions in Investment, Diplomatic Fallout over Man City - Hungarian Conservative",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkk2WndFcjZKRnZ6Q0dHdklhRmM2TW1TS3NabEhLYkFTM0NzZ1luNmJzZzR4dC14S09SQW9peVBUUmpZZm5Rc0VVblVBX1pnOE4wTDZUdnlmVjNEeEowenJtYXNkYzhPT1gxNTNvZWNIaUFTWTRxakgxMVZvVFgwWl9FUWRzVndXUWlQcGZhUXZJRWotaFo1bkgtclM5TENINmJzOHhTNVZJRGdiQXZyenF0b1BTdmc?oc=5",
+            "source": "Hungarian Conservative",
+            "sources": [
+              "Hungarian Conservative"
+            ],
+            "heatScore": 50,
+            "publishedAt": "2026-10-03T04:32:31.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "FlyDubai攻击如何暴露以色列-阿联酋安全关系中的差距- al-monitor.com",
+            "originalTitle": "How FlyDubai attack exposes gaps in Israel-UAE security ties - al-monitor.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGZOTlpxQUhPdnZjOUU0eUlsTnNPYjNLNXQwTFl5YWJrN1VwZWwwZ09FTmM0VjJ3VDZzbGpJczMwbEFqbHc0NXpxcWNUNjQ1TjRRZVMzZlVkRGcwcWk2MXpMMjZrS2s1ZDNmRVpPVnBJaDlxZ0JFRVd0SUtINi1fRVlycnQ4ZlEwV3lsRXUyZ2ZLbndKSHN6M0VHSWktMk1iZW1fOQ?oc=5",
+            "source": "al-monitor.com",
+            "sources": [
+              "al-monitor.com"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-10-02T15:03:32.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "挥舞斧头的FlyDubai副驾驶因极端主义问题被举报",
+            "originalTitle": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns",
+            "url": "https://www.arabnews.com/middle-east/ax-wielding-flydubai-co-pilot-had-been-flagged-over-extremism-concerns-3004491",
+            "source": "Arab News",
+            "sources": [
+              "Arab News",
+              "HuffPost (US)",
+              "The New Daily"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-03T23:55:23.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "伊朗里亚尔跌至新低，央行抛售美元支撑货币",
+            "originalTitle": "Iranian rial at new low, as central bank sells dollars to support currency",
+            "url": "https://www.arabnews.com/middle-east/iranian-rial-at-new-low-as-central-bank-sells-dollars-to-support-currency-3004476",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-03T20:56:18.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "播客： Flydubai攻击调查，基辅桥梁罢工和七国集团的紧急石油库存-路透社",
+            "originalTitle": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWg0TDhpZGM4T3YwLU53ZXRBbS1Ma29wWWtkWHAzcks0aU1GWVJoTnprZUM1OU4xYzRNOUd5NWtOT0JERVlteHk2UVNia05uWkhsOWdmVTlsN1lKbjhZd0tENmFNeER6VTJ2UktfeFlOUUd2OWJkek00UVl5eXFlU1BHZWdURmw4VFZNd1dEMllYZnBwc3hzdjBONGZoUUQ1S3ZFd0dvdXZobmVvRXhqZQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-03T16:14:29.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "在企图劫持之前，以色列有FlyDubai机组人员的详细信息：以色列媒体",
+            "originalTitle": "Israel had FlyDubai crew details before attempted hijacking: Israeli media",
+            "url": "https://www.arabnews.com/middle-east/israel-had-flydubai-crew-details-before-attempted-hijacking-israeli-media-3004438",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-03T20:02:31.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "内塔尼亚胡邀请“真正的英雄”印度飞行迪拜机长前往以色列",
+            "originalTitle": "Netanyahu invites ‘true hero’ Indian FlyDubai captain to Israel",
+            "url": "https://www.arabnews.com/middle-east/netanyahu-invites-true-hero-indian-flydubai-captain-to-israel-3004465",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-03T19:14:30.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋商人Mohamed Alabbar探索阿勒颇的投资机会",
+            "originalTitle": "UAE businessman Mohamed Alabbar explores investment opportunities in Aleppo",
+            "url": "https://c.newsnow.co.uk/A/1326090237?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-10-03T18:13:20.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "随着对FZ1073 “恐怖行为”的调查继续进行， Flydubai保留进一步的评论",
+            "originalTitle": "Flydubai reserves further comment as probe into FZ1073 ‘terrorist act’ continues",
+            "url": "https://www.khaleejtimes.com/uae/flydubai-reserves-comment-probe-fz1073-terrorist-act-continues",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-03T12:27:26.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "谢赫·哈姆丹访问迪拜飞行员Smit Machchhar在恐怖行为中受伤",
+            "originalTitle": "Sheikh Hamdan visits flydubai pilot Smit Machchhar injured in terror act",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-hamdan-visits-flydubai-pilot-smit-machchhar-injured-in-terror-act",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-03T11:02:48.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "我们对迪拜航空公司1073航班了解多少？ -路透社",
+            "originalTitle": "What do we know about flydubai flight 1073? - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-02T18:58:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "消息人士称，以色列官员质疑flydubai航班的副驾驶-路透社",
+            "originalTitle": "Israeli officials to question co-pilot of flydubai flight, source says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-02T14:23:00.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿布扎比公司在人工智能代理代表用户行事时探索安全问题",
+            "originalTitle": "Abu Dhabi firm explores security concerns as AI agents act on users’ behalf",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-firm-security-concerns-ai-agents-users-behalf",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-03T02:00:00.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "哈扎·本·扎耶德接待来自阿布扎比警方、民防和危机管理中心-阿布扎比媒体办公室的代表团",
+            "originalTitle": "Hazza bin Zayed receives delegation from Abu Dhabi Police, Civil Defence and Crises Management Centre - مكتب أبوظبي الإعلامي",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUU5aThWWXJiNUM4MDNRVmg1TDQ4WTYtRFVzUHpHaWI1TnFXTnI1YWk3SlZxeUNydmNsUGdkWXAteFJ3ZGoyVzRQNGFTc2hrTUY2d1JBNDl4VWV2VVNoUmdGd3RscG1QQnRKTFhqd0lpNDlZbGZ4Mk9PLURrYmoyeUxReE9lRmNmZ0xnbzV5UEN6QQ?oc=5",
+            "source": "wam.ae",
+            "sources": [
+              "مكتب أبوظبي الإعلامي",
+              "UrduPoint",
+              "wam.ae"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-10-02T07:17:45.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "以色列记者的“口头攻击”结束了爱尔兰足球新闻发布会",
+            "originalTitle": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
+            "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-03T17:25:28.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "我们对被指控参与Flydubai袭击的副驾驶员的了解",
+            "originalTitle": "What we know about the co-pilot accused in Flydubai attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-10-03T15:39:10.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "“我正在为我的生命而战” ：印度飞行员因英雄回忆FlyDubai驾驶舱袭击而受到欢呼- Military.com",
+            "originalTitle": "‘I Was Fighting for My Life’: Indian Pilot Hailed as Hero Recalls FlyDubai Cockpit Attack - Military.com",
+            "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+            "source": "The Guardian",
+            "sources": [
+              "Military.com",
+              "The Guardian"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-02T13:16:40.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "印度飞行员告诉莫迪总理，他在袭击期间打开了flydubai驾驶舱门-路透社",
+            "originalTitle": "Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-02T20:22:53.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "摩洛哥皇家航空公司否认雇用被指控参与Flydubai驾驶舱袭击的副驾驶",
+            "originalTitle": "Royal Air Maroc denies employing co-pilot accused in Flydubai cockpit attack",
+            "url": "https://c.newsnow.co.uk/A/1326097257?-15565:1965",
+            "source": "Anadolu Agency",
+            "sources": [
+              "Anadolu Agency"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-03T21:42:50.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Velayati警告阿联酋不要试图挑战伊朗",
+            "originalTitle": "Velayati warns UAE not to try to challenge Iran",
+            "url": "https://c.newsnow.co.uk/A/1326092158?-15565:1965",
+            "source": "Mehr News Agency",
+            "sources": [
+              "Mehr News Agency"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-03T19:03:53.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "内塔尼亚胡的秘密阿联酋之行：以色列的军事审查究竟是为了什么？ -意见-耶路撒冷邮报",
+            "originalTitle": "Netanyahu's secret UAE trip: What is Israel's military censorship really for? - opinion - The Jerusalem Post",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MX0t4Qmotb2s3TzlmYmJFTk1xalh3aUhPZldPdFEzM01VaGlqY2ppOU1nNElRYmlVRXhia1QyOHN4bV9iRXVicUlVWWhIcjhSTHYyUUdtWQ?oc=5",
+            "source": "The Jerusalem Post",
+            "sources": [
+              "The Jerusalem Post"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-03T19:19:58.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "乘飞机自杀还是恐怖主义自杀？对1073航班袭击动机的猜测",
+            "originalTitle": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+            "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-02T15:40:05.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "随着人工智能改变攻击和防御，阿联酋面临越来越大的网络风险-海湾新闻",
+            "originalTitle": "UAE faces growing cyber risks as AI transforms attacks and defence - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX21VU09VeFp2QXN5QmZ5R3NKa2dDRXpkMTNNWGdiajFPdDNBdktjaE10UTk1dnQ4dlBEOUdITktnczJIVUJfRXl2NWdsNW1teVZNbE44WW5WbDU2WnpNREtYeF9QaFJyV3UyV0NsQ1dtZTUxeFN3RlJDdXlfTjA1dV94MFJiOG50ZWtjVUFoOXE2aHg4SVBfb1BJcnBDTEhlbjAzSXlSUlBNMk5LY1VzM0Vab3nSAccBQVVfeXFMTVp2QnJ1T1dRX2Q3dFhiYnV1aUF6Tk1IZjRVMFRNdWQ3SDVlaXl2dTJleE1OejdwTzJyc1dHUThiWC1BcHFkUEJwbHF1RXFNbWNqRXZ0V0FwV1k4SHVNYU1sekl6a29UcFN6Q1kxUEJOY19sSGlxM0dkR3lJQ05GaDNkamo3TzVVVmxtZDZiUWlQOWMyUVdaLTJoSkNjcTNWQktzV0J3YUR0ejllN3FZYUlsRjZReTY4RnBrV0FiWnZ4R1lldDVLRQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-02T18:51:03.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "在Flydubai嫌疑人的社交媒体上发现的恐怖分子图片-埃及独立报",
+            "originalTitle": "Terrorist images found on Flydubai suspect’s social media - Egypt Independent",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13T3QxZTB6NklmazFKUnNwUXl1VFBkQkd3bHFra3FkdHZYWnQzbnV0SFhEZ205MjNxNVcxLXh1MGh4NXdVbEhfaG5YOWZJazV4ZXdQNlppaGlQMW5rUGlEOHNNUkRJMnF5U05ReWdFZjZKMkNCN0NtcA?oc=5",
+            "source": "CNN",
+            "sources": [
+              "Egypt Independent",
+              "CNN"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-03T12:37:09.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "在与FlyDubai袭击嫌疑人相关的社交媒体上发现与恐怖有关的图像：报告- WCTI",
+            "originalTitle": "Terror-related images found on social media tied to FlyDubai attack suspect: report - WCTI",
+            "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOcXF6d0tzdHNmNkFHbEpTVnhhSGwybTdCRUlVRkhEQ3l5OUpNZElDR3diYmJuQW5JVTR3bEFaREt2aVVEZEE3MmtURmktWUxiVHBsU2VNRUlKaW93eGVrZEUwVVdRaGZzeXJBVFg4dlFENWRJdWtqbmIya3JzLWtJQnBuQWZYcVVpSFlySkNJNjRmbGN5NzR0RWpwVnpnWXJnemZBQ3pHbjd3ZU9Pa01JSGphRHBJSUZYclBBdXNDRE94T1RTb2ZLMnFwcUJxNEtfZnRZRTkxMUItMG5KMHVsLURSSzV4OEhFOE1GcTBaeTl0YTNYRkZ5aHZuaXhvUzBadDRXeDZZaE9ZdW9BT3JHTXJsQmJSSUYta19Fa2ZsazZxeVlOcTVXVFRXRnNfM1BsZDduSXlCSElSQmZhNC01djdqRmZMcUZuTVVnR3ZMZE1IYkV1TnAtTQ?oc=5",
+            "source": "WCTI",
+            "sources": [
+              "WCTI",
+              "KEYE"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-03T18:45:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "英雄行为后，社交媒体上出现了flydubai船长Smit Machchhar的虚假个人资料- Khaleej Times",
+            "originalTitle": "Fake profiles of flydubai Captain Smit Machchhar pop up on social media after heroic act - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/fake-profiles-flydubai-captain-smit-machchhar-social-media",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-03T12:19:15.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋击败阿曼进入海湾杯决赛- ARN新闻中心",
+            "originalTitle": "UAE beat Oman to reach Gulf Cup final - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzNsNG5fWXBYbUFudFFNeWw5RklxZGtVeUxGaTJnMDhVeWZjQXN2d3Y0dHN1ZlIyUmVDVW5tU0dDT19BdjJVUk1iSjFldEdkNWU3UG8yQkR0bml2c2dPZFZLN0tFUXJzUnlGazlTTkxjajhiT2NRZGpkaERvb2dsWFpTaUtRMFhIU0E?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-03T20:39:14.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋副总理访问受伤的Flydubai飞行员- TVC新闻",
+            "originalTitle": "UAE Deputy PM Visits Injured Flydubai Pilot - TVC News",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xWG9HMGszeXl1VGRBa2JtRUtGR1ZaYWhMN1hwN3N5NnpLZDRKZjZXTGtHLWJsSzN4V3pJbGtoeTkxZG9jZm1ZTUk3Y2JyVlhJZUhMUUZGQ29lbU0zRGRwOGY2QW85VlJwajhmZlpldDJrNHFuOHc?oc=5",
+            "source": "TVC News",
+            "sources": [
+              "TVC News"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-03T14:56:00.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "纳米比亚vs阿联酋- LatestLY",
+            "originalTitle": "namibia vs uae - LatestLY",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pMEIxTzB6UHBjdzZNZXRTVDFySlQzYzZsRTd3cU9Vc21GX0c5anJOOXpIZFBlbXg2Y2VCR0J4bkNtQXd3QUxJbUpURm9VaTM1OFNIa1M0OExCbk9kaFdGeTV1QzVRR2ZPTUJUTWpidms?oc=5",
+            "source": "LatestLY",
+            "sources": [
+              "LatestLY"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-03T16:01:35.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "报告： Flydubai嫌疑人在社交媒体上分享基地组织图像、以色列飞机-《国土报》",
+            "originalTitle": "Report: Flydubai Suspect Shared al-Qaida Imagery, Israeli Planes on Social Media - Haaretz",
+            "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONlRDTmRzQjJEV3RvUHBxWFBjX3RhaGFpRGpQb3NUTTVtUU1xdnJWMnhldmRXVGdmWU41bkN2MkVOWDdSQkg2QWxxQmFmdm5PMFh3clo0bURKZWsxT0xuOWZFNE5kZVVUdlhldHZLWUd2U1pleTNEVERjQ0MyVnljdS1xajJPU0sxcVBOVXRDZmZrYjhvU0ZLX3hIa3BtZGtNenpmSkxKdDVpVFdjOFBGVHVENGhZTEhLR280TGI5TlBZX0FZUWdVV3V3bmFldUZMaDNmWWRIQm52TUVERjRIUzRweGpNc3lwMFk0VkE1NXdIaTZVV0YxOE9kbjltYVItSGp2RzBVT0xlVlFMcU5TWHFNTzg2UQ?oc=5",
+            "source": "Haaretz",
+            "sources": [
+              "Haaretz"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-03T09:23:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Flydubai副驾驶的涉嫌照片传播开来；据报道，阿曼航空公司因极端主义观点而标记他-重大启示- WION",
+            "originalTitle": "Flydubai co-pilot’s alleged photo goes viral; Oman Air had reportedly flagged him over extremist views - BIG revelations - WION",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONDFUeW1VZk9qak0tNUVLMlBPemlFeFZlMUZYQTdxeG5sTmV5YWU5SWFIYXlCVEZydjFYYXoyaGtvVER1cmZLaDRLM3BwVWMwUHhSbWRfXzFPX2RtNm1sQlFFYWZMMnFva29VX1d6RmNBbjZacEhTR1FIbFY3bkI5NTIzdG5WdThRR2J5MTZKNUpVZFF2bVBpWEZTRjZLYUF6Y0s1UWV0OEh0WlRkaUxIZ3gtYzJXTWJ5Zk9rVndZbUdXb25vd1FmZ1FCMEE0cmk3U3BlN01EZ0dGS2FvUVFkNWdmYlJnT2MxMXlOc2lEYzdlZVpleFVSNmJIZFk2b1J3Yl9kbFRoVdIBjAJBVV95cUxOd1VUSnltZHNvcThTT3k4dUdwY3lmSUFTeXFkMU1ENl9CaS1PcFYtcFhlbUZIRkRUdGpDRWg1UExkVHJ1UEpHVnBTNnhQYkFkVmZoVHNMZlZpaG16Y0RpT1Q5eEV2SlQ1aWR6bjZ4QXJDMUcxdVBnUDBGR29CNkhRazk2VUlQVXRZeTZjMG5SMTRKNHhRZldXcm9jV2NkY0w4SDlLaDZKdHR0QVo4bV9pTzNhVmpwNTRRWEJic0xMQ2JDY1ZZN004M09kRFpuekk2YThGRkhlVHFrTFg1cHhRNXpwSllDQW9pSVZkY2hTaGZWZXNrVTREMmxfeGJFd19nNjVaS3FMaHRqSkNl?oc=5",
+            "source": "WION",
+            "sources": [
+              "WION"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-03T07:13:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Flydubai副驾驶员攻击：社交媒体帖子链接到基地组织数字表面-新闻自由杂志",
+            "originalTitle": "Flydubai Co-Pilot Attack: Social Media Posts Linked To Al Qaeda Figures Surface - Free Press Journal",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFF1WG9TYVhsOThwRDlxZ00xLW5sR29WaG9vQi1nVHZCSy11ZTl0V002TkcwOVA4dS13em1MamM0R055M2NRa0FqMTZSdlM1blU4X2FuTlJ6TTgtSmdJZ2pSZUt2aVcxN0JuRUIwdW1iVl85M2V0Slg0QjVCMUFMQjlkSjVmM29zU1hjR1lxS20tRGVRMUFla1NzVXlNSW1hZzhJVmRyd2R1MXM4SGVQVjZWTDNfMW_SAbwBQVVfeXFMTWh2MlVsNEVYbkNDczI5XzNneV9OU3BaelRFaXpDTTI2Uk9JU05KSF84Qzk1TkVkSVpVTU5oSmkxaHZCd25HQmgzSi1IbmdlOHMwV2dQSTByTkgtVkhBSXJSQkVBMVVYVXZSZ1JCZnloVktoX2ZRbldBZE8xNGVmTkdHazFZSlVLb29iaU9paWFHZ1daS3B5d2RrN1YxMHh2QUotZFprV2xLOXlaVmk3UWE2Rmg2bkR1SW1JZkc?oc=5",
+            "source": "Free Press Journal",
+            "sources": [
+              "Free Press Journal"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-10-03T10:16:11.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Flydubai嫌疑人Hamam Al-Hammami的社交媒体上有基地组织图像：我们所知道的- Outlook India",
+            "originalTitle": "Flydubai Suspect Hamam Al-Hammami’s Social Media Had Al-Qaeda Images: What We Know - Outlook India",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUhRVzFBeEJSX2VsWWZ4cDlYR1dZWi1XZUtKMlNkdHBncVVJNl9DMEotbTFHNkhCVVBPLTduM1VBb0VQRXJYWU81a2lGdTdQXzFHVFBwODJodVM4TmdCdDg2UEFxWTFlS2lqdlJ3cFN2eWlWdU1yWW9CT2ZvXzRIYnBDcndpdzJCWWMyYTIzbjdMRWk2ekJYRWNPaEw4SHkzWkhKcUs3QmZ4bW1KOUhZLTgwdmM4NU5oNGV3aFZ5OVbSAc4BQVVfeXFMTnhmM3EzaXFqSDU4T3BFQnlfdEx1VEE3Qmx2cW9ZLVliNjU4aEFhZkRwY2pITWlOaVQxNmVBbUJDMklEZV9mRUY3bl9BS2U4QmpxcV85alNTZWxBM1VTNGlkaW5ET0JjVVhfa1RsNWNTc0dqU0c3UjUyaHphT1BZUGthUmxTVGVGTEY3R1BxdUkyNW9fZlM2cklWVTFXd2pWd1pHaEhidTA1WFpXckhtWlRsTGlkNlN0UWNkZWdmRjl1WTVEdTdnNUQwRkxuV1E?oc=5",
+            "source": "Outlook India",
+            "sources": [
+              "Outlook India"
+            ],
+            "heatScore": 50,
+            "publishedAt": "2026-10-03T08:04:52.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "中国-阿联酋合作的新成果..枣树在中国几个地区开花结果-巴勒斯坦新闻网-沙法",
+            "originalTitle": "ثمار جديدة للتعاون الصيني الإماراتي.. نخيل التمر يزهر ويثمر في عدة مناطق صينية - شبكة فلسطين للأنباء - شفا",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95MnZfOG9qRHp4YVRDZ1hwb016bE5TeTVDRVluU0paSUQwMHBvV3ZjcVBPUlVMV3QtR0lRUWNIQ2ttMWJBa2ItbFk2NTk?oc=5",
+            "source": "شبكة فلسطين للأنباء - شفا",
+            "sources": [
+              "شبكة فلسطين للأنباء - شفا"
+            ],
+            "heatScore": 50,
+            "publishedAt": "2026-10-03T08:07:17.000Z"
+          }
+        ]
       }
     }
   }
