@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T00:11:00.129Z",
+  "updatedAt": "2026-10-04T21:15:01.336Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -10983,6 +10983,735 @@
             ],
             "heatScore": 50,
             "publishedAt": "2026-10-03T08:07:17.000Z"
+          }
+        ]
+      }
+    },
+    "2026-10-05": {
+      "date": "2026-10-05",
+      "updatedAt": "2026-10-04T21:15:01.336Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "警方称，澳大利亚调查了flydubai副驾驶与该国的联系",
+            "originalTitle": "Australia probes flydubai co-pilot's links to the country, police say",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters",
+              "The New Arab"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-04T16:54:13.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "警方调查Flydubai副驾驶的澳大利亚关系",
+            "originalTitle": "Police investigating Flydubai co-pilot’s Australia ties",
+            "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera",
+              "BBC News"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-10-04T17:53:34.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜将扩大CommerCity ，推动数字经济增长",
+            "originalTitle": "Dubai to expand CommerCity in push for digital economy growth",
+            "url": "https://c.newsnow.co.uk/A/1326131705?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-10-04T14:41:08.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋表示， Flydubai副驾驶使用坠机斧攻击船长",
+            "originalTitle": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC News",
+              "The Guardian"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-04T04:57:20.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜警方如何教导2名伊拉克警官使用技术，而不仅仅是拥有技术",
+            "originalTitle": "How Dubai Police taught 2 Iraqi officers to use tech, not just own it",
+            "url": "https://www.khaleejtimes.com/uae/dubai-police-2-iraqi-officers-use-tech-not-own-it",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-04T19:11:37.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋击败阿曼进入海湾杯决赛- ARN新闻中心",
+            "originalTitle": "UAE beat Oman to reach Gulf Cup final - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFFlWE5GZjZWTWRjT2p1ZDdzbTIyYVoxcm8zd005SkFpSkJybFVxR2tKYzVYbjBwYXN1SFRDZ1NZMEZxa1dvVzBrUWJYd2NIZFVaVGNod2tBXzBRYkEtNFFIdDN0NVhwVmNRanRUNmdFS2VyWUlUX3M1Tk9VaEE2bTlYYjFRTUN6QXM1VjRIbXhLUDFRNUlRSVg0LWFObmc?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "ARN News Centre",
+              "Reuters"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-04T01:50:29.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋足球协会将支付球迷在沙特阿拉伯海湾27国集团决赛的门票费用",
+            "originalTitle": "UAE Football Association to cover ticket costs for fans at Gulf 27 final in Saudi Arabia",
+            "url": "https://www.khaleejtimes.com/uae/uae-football-association-cover-ticket-costs-fans-gulf-27-final",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-04T17:56:26.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋球迷在沙特海湾杯决赛前几分钟内预订了6个吉达航班",
+            "originalTitle": "UAE fans book out 6 Jeddah flights within minutes ahead of Gulf Cup Final in Saudi",
+            "url": "https://www.khaleejtimes.com/sports/football/uae-fans-book-out-flights-minutes-gulf-cup-final-saudi-arabia",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-04T17:21:11.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "乌克兰准备好与俄罗斯进行美国支持的谈判： Zelenskyy",
+            "originalTitle": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+            "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-04T17:17:42.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋在致命的道路交通事故后向肯尼亚表示哀悼",
+            "originalTitle": "UAE sends condolences to Kenya after deadly road crash",
+            "url": "https://c.newsnow.co.uk/A/1326139752?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-04T17:42:02.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "警方称，澳大利亚调查了flydubai副驾驶与该国的联系",
+            "originalTitle": "Australia probes flydubai co-pilot's links to the country, police say",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters",
+              "The New Arab"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-04T16:54:13.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "警方调查Flydubai副驾驶的澳大利亚关系",
+            "originalTitle": "Police investigating Flydubai co-pilot’s Australia ties",
+            "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera",
+              "BBC News"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-10-04T17:53:34.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋表示， Flydubai副驾驶使用坠机斧攻击船长",
+            "originalTitle": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC News",
+              "The Guardian"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-04T04:57:20.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "迪拜警方如何教导2名伊拉克警官使用技术，而不仅仅是拥有技术",
+            "originalTitle": "How Dubai Police taught 2 Iraqi officers to use tech, not just own it",
+            "url": "https://www.khaleejtimes.com/uae/dubai-police-2-iraqi-officers-use-tech-not-own-it",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-04T19:11:37.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋足球协会将支付球迷在沙特阿拉伯海湾27国集团决赛的门票费用",
+            "originalTitle": "UAE Football Association to cover ticket costs for fans at Gulf 27 final in Saudi Arabia",
+            "url": "https://www.khaleejtimes.com/uae/uae-football-association-cover-ticket-costs-fans-gulf-27-final",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-04T17:56:26.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋球迷在沙特海湾杯决赛前几分钟内预订了6个吉达航班",
+            "originalTitle": "UAE fans book out 6 Jeddah flights within minutes ahead of Gulf Cup Final in Saudi",
+            "url": "https://www.khaleejtimes.com/sports/football/uae-fans-book-out-flights-minutes-gulf-cup-final-saudi-arabia",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-04T17:21:11.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋在致命的道路交通事故后向肯尼亚表示哀悼",
+            "originalTitle": "UAE sends condolences to Kenya after deadly road crash",
+            "url": "https://c.newsnow.co.uk/A/1326139752?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-04T17:42:02.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "美联社报道：阿联酋与以色列分享了有关FlyDubai航班的详细信息，包括飞行员的姓名和国籍",
+            "originalTitle": "AP report: UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities",
+            "url": "https://c.newsnow.co.uk/A/1326146930?-2809:1022",
+            "source": "NTD News",
+            "sources": [
+              "NTD News",
+              "PBS Online"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-04T20:50:55.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜启动老年人福利“遗产村”项目",
+            "originalTitle": "Dubai launches 'heritage village' project for senior citizens' welfare",
+            "url": "https://www.khaleejtimes.com/uae/dubai-heritage-village-project-senior-citizens",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-04T15:19:07.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "谢赫·曼苏尔（ Sheikh Mansoor ）称赞阿联酋运动员的韧性，在创纪录的亚运会之后感到自豪",
+            "originalTitle": "Sheikh Mansoor hails UAE athletes’ resilience, pride after record Asian Games showing",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-mansoor-hails-athletes-resilience-record-asian-games",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-04T14:51:57.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "乌克兰准备好与俄罗斯进行美国支持的谈判： Zelenskyy",
+            "originalTitle": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+            "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-04T17:17:42.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "海湾合作委员会全球汇款流出额最高，达到1610亿美元（ $ ）",
+            "originalTitle": "GCC tops global remittance outflows at $161bn",
+            "url": "https://www.arabnews.com/business/gcc-tops-global-remittance-outflows-at-161bn-3004564",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-04T12:59:15.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋、叙利亚央行签署谅解备忘录深化金融合作",
+            "originalTitle": "UAE, Syria central banks sign MoU to deepen financial cooperation",
+            "url": "https://www.arabnews.com/business/uae-syria-central-banks-sign-mou-to-deepen-financial-cooperation-3004537",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-04T11:30:05.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Gargash拒绝Velayati对阿联酋在三个岛屿上的立场的批评-海湾新闻",
+            "originalTitle": "Gargash rejects Velayati criticism of UAE position on three islands - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEYzY3dhcFFIZlVVdXhEY1RJY2NiblY4OTNxNFFJRlhCeHJzTkVIRzZPNFZJUml6a19YVERhdkpzMlBGMHpBMlBWcHRIclR1UU9lMnE4WUtUNFg1V0NwNGo2MjZvUWNncFFHQ094endubndRTDQ4R1o5Z19KZjE5OVZ3N0xMaExKdmRUOXFIb19ZNHh6bWZoY1FBSzVCaThobUxwOXNfY9IBtwFBVV95cUxNNXdXRkQ5NFkwc0V6azJoSS1tcGZDSV9LZjZxZ0ZSa3UtZjd3QU9OZmxLXzdfdXo4cV8zcnVTZVl5c1ZVOEJpNnlpbXlad2hxUkFGaHZSQzVIdkVxYVYzMktFTzVuLWVyLUZLY0VIbGtMSGp4TmxGdnNUSml5QnR2VVJKQ25tdW1fNC1ndUhFZnd0NFFUOTFHTDRrSFZwS0tLRkhkeWZ2Ny1mRE9XOW1neDh4c0pnWVU?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-04T06:38:49.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋总统和意大利总理在电话中讨论双边关系和地区发展- uaebarq.ae",
+            "originalTitle": "UAE President and Italian Prime Minister discuss bilateral ties and regional developments in phone call - uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcUo3Z01kSDhnODNaOU1nTkptaFhXZmsteVNUeFc2WWxMYXkxeTJ4T3FQYW5ZbzVuOFpYMzlYTlhSOW5GSzVLMllnOGdvYjZRa2FSV3VIOGdsbVlNN3d4ZWJJXzNHUm1Ia05RNlFmb29ub0pTaGY0QUF0bFRrTDRZWXgtQURHcnNta1I1UHVUYjdoSjN5dTdRYUExQnhGTkxHRGZWTEVrdFhUc0plOUlXMnBRNE90MjktU1ZuSVZVTnJoVzhsZ3RMeEtIQk15YUduSzVDYXgtTjA?oc=5",
+            "source": "uaebarq.ae",
+            "sources": [
+              "uaebarq.ae"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-04T18:58:50.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋外交顾问警告反对不断上升的极端主义言论-全球阿拉伯网络",
+            "originalTitle": "UAE Diplomatic Advisor Warns Against Rising Extremist Rhetoric - Global Arab Network",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbl9jWGh6YVc2YWZpa2VXOVFWSVlSWjdEYjJCMUZwVWczbDZDNXhnRGF3X1dfTlFiYmxBZUZaYXBiWjYySVVVXzF3ZkExWVZVa3pwNlZXNl9mLTJlUDZIOG1pWEVWNmhLN1V3aEt4U1dHbS13TzJ3bVZmWXJVR25SQlpsdWpOUmotSkthejNZLTduVVlVU0VsTXZnSkxVMjFaTlAtRGtraGdGbmxBLWVSQU93?oc=5",
+            "source": "Global Arab Network",
+            "sources": [
+              "Global Arab Network"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-10-04T09:37:52.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "在德黑兰的外交和安全努力之后，阿联酋释放了几名伊朗囚犯：报告- PressTV",
+            "originalTitle": "UAE releases several Iranian prisoners following Tehran’s diplomatic, security efforts: Report - PressTV",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSE5tZlRkZktySzBPRlpiTXhHWFZ2NlloMDlKd2pob2tjVEtMREViNzN4RTY3T0cyWjhXVnZpSnFSY2cwOTFEbFA0ZThMYjl5ZTNpQjJpaDJMVk4xSm5sUF8waEJOWFlyOS10Q29FSnVVaW4zZENyal96VGV0MXVCQzR6MnRNSGdnOVFLQmpuMTZ6WXZ4Y1J0Y3JzZDFuTlA2a3N6eDQyQjhIU29seXJhUmprU1hPa0JHY1pzNGdMRzhpdk9MWFQw?oc=5",
+            "source": "PressTV",
+            "sources": [
+              "PressTV"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-04T09:00:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋警告英国投资风险高达数十亿美元，对曼城的外交影响-匈牙利保守党",
+            "originalTitle": "UAE Warns Britain Risks Billions in Investment, Diplomatic Fallout over Man City - Hungarian Conservative",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkk2WndFcjZKRnZ6Q0dHdklhRmM2TW1TS3NabEhLYkFTM0NzZ1luNmJzZzR4dC14S09SQW9peVBUUmpZZm5Rc0VVblVBX1pnOE4wTDZUdnlmVjNEeEowenJtYXNkYzhPT1gxNTNvZWNIaUFTWTRxakgxMVZvVFgwWl9FUWRzVndXUWlQcGZhUXZJRWotaFo1bkgtclM5TENINmJzOHhTNVZJRGdiQXZyenF0b1BTdmc?oc=5",
+            "source": "Hungarian Conservative",
+            "sources": [
+              "Hungarian Conservative"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-10-03T04:32:31.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋就投资问题警告英国，曼城案引发外交紧张局势- AfricaSoccer.com",
+            "originalTitle": "Manchester City case sparks diplomatic tensions as UAE warns UK over investment - AfricaSoccer.com",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUtaUXVNd1V6NU0yNGVvVTUxaGJKZHlPWXZJSFU1LTJ0bV9xRmQtdjR6Y2h0bVJFclhkR202MjBEak1fd18tZWNIMzRvODNMWlNfNTN6ejJ3Z1VIVlhPRHNXYlUzc0xmOWpqMWJKV0ZSUlpWLS0tOXY0R2FnNVBDUERwNVpJVVhaU0JOQ2wzU21WVFF5Rzhzd0ZFTDZNQUJoWHloeGRDc2E?oc=5",
+            "source": "AfricaSoccer.com",
+            "sources": [
+              "AfricaSoccer.com"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-10-03T15:43:33.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "穆罕默德·本·拉希德在2025年世界政府首脑会议上会见哥伦比亚总统--阿联酋外交部",
+            "originalTitle": "Mohammed bin Rashid meets with President of Colombia at World Governments Summit 2025 - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGc1MVY3ck9wNG5pN1JBY190SkpvWHE3SmxVbFlrOU9rRlBWV1FPVTR0eFkwOFkwc0hFRWdqenFqTUNyQXZVMkJlU2NKZV9kMWYya3ZIdEQ1ZWpZVllaYkhlcXlTd0o2RGhGbUd6MnFmQXhObjdncE5vcllFZ1gyNVpfeWlLVm8?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-10-03T12:16:19.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "伊朗国家媒体报道，伊朗石油部长因个人原因辞职",
+            "originalTitle": "Iran’s oil minister resigns for personal reasons, state media reports",
+            "url": "https://www.arabnews.com/middle-east/irans-oil-minister-resigns-for-personal-reasons-state-media-reports-3004611",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-04T17:41:52.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Gargash声称阿联酋在3个岛屿上的权利，并回复了哈梅内伊顾问的评论",
+            "originalTitle": "Gargash asserts UAE's right in 3 islands, replies to comments by Khamenei's adviser",
+            "url": "https://www.khaleejtimes.com/uae/dr-anwar-gargash-replies-comments-by-khamenei-adviser-3-islands-occupied-by-iran",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-04T07:00:56.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "播客： Flydubai攻击调查，基辅桥梁罢工和七国集团的紧急石油库存",
+            "originalTitle": "PODCAST: Flydubai attack probe, Kyiv bridge strikes and G7’s emergency oil stocks",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWg0TDhpZGM4T3YwLU53ZXRBbS1Ma29wWWtkWHAzcks0aU1GWVJoTnprZUM1OU4xYzRNOUd5NWtOT0JERVlteHk2UVNia05uWkhsOWdmVTlsN1lKbjhZd0tENmFNeER6VTJ2UktfeFlOUUd2OWJkek00UVl5eXFlU1BHZWdURmw4VFZNd1dEMllYZnBwc3hzdjBONGZoUUQ1S3ZFd0dvdXZobmVvRXhqZQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-03T16:10:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "沙特阿拉伯和阿联酋加强亚洲石油储备",
+            "originalTitle": "Saudi Arabia and UAE to bolster Asia's oil reserves",
+            "url": "https://c.newsnow.co.uk/A/1326137671?-15565:1965",
+            "source": "Nikkei Asian Review",
+            "sources": [
+              "Nikkei Asian Review"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-04T16:50:46.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "澳大利亚启动对阿曼迪拜航空副驾驶员与墨尔本航线连接的调查",
+            "originalTitle": "Australia launches probe into flydubai Omani co-pilot's links to Melbourne",
+            "url": "https://c.newsnow.co.uk/A/1326134317?-15565:1965",
+            "source": "India Today",
+            "sources": [
+              "India Today"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-04T15:37:15.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "迪拜将扩大CommerCity ，推动数字经济增长",
+            "originalTitle": "Dubai to expand CommerCity in push for digital economy growth",
+            "url": "https://c.newsnow.co.uk/A/1326131705?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-10-04T14:41:08.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿布扎比将人工智能从飞行员推向现实世界",
+            "originalTitle": "Abu Dhabi pushes AI from pilots to real-world use",
+            "url": "https://c.newsnow.co.uk/A/1326132036?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-10-04T14:49:08.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "Flydubai副驾驶：在“斧头袭击”船长后探测澳大利亚链接",
+            "originalTitle": "Flydubai co-pilot: Australian links probed after 'axe attack' on captain",
+            "url": "https://news.sky.com/story/flydubai-co-pilot-australian-links-probed-after-axe-attack-on-captain-13595012",
+            "source": "Sky News",
+            "sources": [
+              "Sky News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-04T12:14:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "内塔尼亚胡下令对FlyDubai袭击后飞往以色列的航班进行安全审查",
+            "originalTitle": "Netanyahu orders security review of flights to Israel after FlyDubai attack",
+            "url": "https://www.arabnews.com/middle-east/netanyahu-orders-security-review-of-flights-to-israel-after-flydubai-attack-3004607",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-04T16:58:15.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "在涉嫌驾驶舱袭击后，安全机构正在调查Flydubai副驾驶员在澳大利亚的时间",
+            "originalTitle": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
+            "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-04T01:26:39.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Flydubai探测器指向攻击Machchhar船长的孤独副驾驶",
+            "originalTitle": "Flydubai probe points to lone co-pilot in attack on Captain Machchhar",
+            "url": "https://c.newsnow.co.uk/A/1326137586?-15565:1965",
+            "source": "India Today",
+            "sources": [
+              "India Today"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-04T16:48:27.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋馆将参加马拉喀什航展- gulftoday.ae",
+            "originalTitle": "UAE Pavilion to participate in Marrakech Airshow - gulftoday.ae",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzd1dFlsM29UUHg0dlR2ZUFVcjY4N09xY1pCTk9kbVk4ZmpVN1lyNzF4Q2hEM2dNYkFGV1pTOEhFN1ZfTjh1TmR2b0p0eFhkUnFmV2pKbkRoVVRtRkt0SXV4el9DZl9iUTJQYzBFa1F3RGp1emlscUp4SE0weURvRS16Y0pKOEhHczhZb0Q3UWNrcDQ?oc=5",
+            "source": "gulftoday.ae",
+            "sources": [
+              "gulftoday.ae"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-04T13:13:05.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "2026年马拉喀什航展阿联酋馆：国防、航空和自治系统-新闻和统计- IndexBox",
+            "originalTitle": "UAE Pavilion at Marrakech Airshow 2026: Defence, Aviation & Autonomous Systems - News and Statistics - IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT29SUkhfcHBOX1A2dlBFczBqQ2haaFpVeGZQaUpET1dZOWRLQ3BXekZrREhVcnlhaFB3YkJieThCQ0hMQTZqanNUTS15SjQ4T1ZZcXFpRDNWLTktaTdoSDBOdDBnU2ZlX19OR3JQZ0ZmTTZsVVlxMk9UZ0ZIREc0OGR4TEVtOU13dFJHbHViZ3QzTWlIUl9oNHhvZnZJdU0yYWdLRTlB?oc=5",
+            "source": "IndexBox",
+            "sources": [
+              "IndexBox"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-04T10:31:29.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋将在航展上展示国防和航空航天实力- TradeArabia",
+            "originalTitle": "UAE to display national defence, aerospace prowess at airshow - TradeArabia",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOG5tRmZOUnc5d0pWS0JvUnZkMWVKMC1wbmtxaGZTVEF0M0lvVUNIVVhfNlVtU1NFT3pfN2FWeERfT04xaG9Zbjh0LVpMb3NGaEdPV19DT1B4ekdicWRDVjhQQURNZkZpNGk4UGt5VVlmOWZGM3FKejdRZlR0Tl8yT0VDaUFEUk9lZmZxejVYTHFWbXVKYWhYNEo4YTlQb0QzNlE?oc=5",
+            "source": "TradeArabia",
+            "sources": [
+              "TradeArabia"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-04T08:48:45.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "内塔尼亚胡的秘密阿联酋之行：以色列的军事审查究竟是为了什么？ -意见-耶路撒冷邮报",
+            "originalTitle": "Netanyahu's secret UAE trip: What is Israel's military censorship really for? - opinion - The Jerusalem Post",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MX0t4Qmotb2s3TzlmYmJFTk1xalh3aUhPZldPdFEzM01VaGlqY2ppOU1nNElRYmlVRXhia1QyOHN4bV9iRXVicUlVWWhIcjhSTHYyUUdtWQ?oc=5",
+            "source": "The Jerusalem Post",
+            "sources": [
+              "The Jerusalem Post"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-10-03T19:19:58.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋大使会见阿联酋外交部国防部常务秘书",
+            "originalTitle": "UAE Ambassador meets with the Permanent Secretary of the Ministry of Defence - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONFBWbndmLTBGQVNSWU1tTTBiNW5UQmdUQjczT1pQMzl5ZFVDbmdGTVpNbTBqLTc4c3BiWmJ6MXNNU0NRRkpYdWFBSV9LQ1E4aFYxUjJmOU5mdVdvVC1PaDlod0Y0NGNIQU1nR3BKa284UjA0X2ZWU0ttQ0Rfb1VTMUlUUkZIVGM?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-10-03T12:50:40.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "毛里塔尼亚总统与阿联酋外交部谢赫·穆罕默德·本·扎耶德殿下通电话，谴责胡塞武装对阿联酋民用设施的恐怖袭击",
+            "originalTitle": "Mauritanian President condemns terrorist Houthi attack on civil facilities in UAE in phone call with His Highness Sheikh Mohamed bin Zayed - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnFJdlVSZG1tc1dSRUIwbm8wVGNqbHFsRGpCeTQtNG85RFYxWGh0ckJoRjF3ZU1GTWlLZ2tmWG9YNi1KclFxYUtaVDdQU1dwUVAwcVBRYndEVVBLclkza193RVM4dU9IMDNTMWVYZjhiSWJGejJacXJZSWpXMGJfTm9YUjNMWDFVVU1ydW5tcWJad3YzWnJQOUN3UHBpT3N1Si1vaUxMSjM1QmFkalJXOVVDVG5PMXM?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-10-03T12:20:10.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "迪拜将扩大CommerCity ，推动数字经济增长",
+            "originalTitle": "Dubai to expand CommerCity in push for digital economy growth",
+            "url": "https://c.newsnow.co.uk/A/1326131705?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-10-04T14:41:08.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋击败阿曼进入海湾杯决赛- ARN新闻中心",
+            "originalTitle": "UAE beat Oman to reach Gulf Cup final - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFFlWE5GZjZWTWRjT2p1ZDdzbTIyYVoxcm8zd005SkFpSkJybFVxR2tKYzVYbjBwYXN1SFRDZ1NZMEZxa1dvVzBrUWJYd2NIZFVaVGNod2tBXzBRYkEtNFFIdDN0NVhwVmNRanRUNmdFS2VyWUlUX3M1Tk9VaEE2bTlYYjFRTUN6QXM1VjRIbXhLUDFRNUlRSVg0LWFObmc?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "ARN News Centre",
+              "Reuters"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-04T01:50:29.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "在社交媒体上发现与FlyDubai袭击嫌疑人有关的恐怖相关图像：报告- WSBT",
+            "originalTitle": "Terror-related images found on social media tied to FlyDubai attack suspect: report - WSBT",
+            "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNS2FLdlYxckFPN245SFM2eG5ub1ZsbERyUlowVC1oUG9hNE94M0NlbFlpTGlpMWZPU2J5a3hIaUMyRTlMeGJNQlRiZEZTN3pRZTBfVTNUbHg0Tm9LdUdLVE5wMVhkTVNEbEtCeFdFUFlaclQ3N1d0TTduOGlfendSRVZGTGJvRmJHQ2lRX09iUVNkWFR5RzZ5ZVM2XzdUMGZXcFNDVE9ib1FsR3NyMmZZSnJ0c3BZMmFfQTRySUNvQTF0Y08tT1VEcF9XVDNXYkxEMGE0X1hiYjlGNF9zU3ozUml4OFFyMEwyazhSTHpqR1hBUXdMR1M1U24xaC1JYUs2d2Z0TjRBbVoxa1ExUEUzOVhFdk0wa00zS0xzM2h3ZEs3dDlXUjJ0QUgyQjdPQk45ZFJEUHJNVU50RzNMQlZzN3NuRWRnSGJmdDg5amNNUTNJd0xSWmc?oc=5",
+            "source": "WSBT",
+            "sources": [
+              "WSBT",
+              "KEYE",
+              "KATU"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-03T18:45:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋将在阿拉伯海湾杯27决赛中面对沙特阿拉伯-海湾新闻",
+            "originalTitle": "UAE set to face Saudi Arabia in Arabian Gulf Cup 27 final - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGhRcTBhQ1BlSkZBdmtPa3NpaENhSlhRSGFacXBHcDZsdU5xYUdHOF9yYmtRZmVzOE9nb3lDSG9GcDA4MWVXUzBBOG4yZU1HVi1Ra3AwN3U1a04tS21TRmxTb3hwWEZ1XzVxOVMxMkRUZ004M2xWdU1KaWxNR3MzeVJxQmRfcHpFdEhLU3RnS2hjODFxZUNwS3RGbVHSAawBQVVfeXFMTjdVeHZfcUZRbHhSZWhEa3FYRmYtVll3bHVaQ0JMNWh6cEVfQ3ozY2M2eW1ZWFBNSWJsekU3bjA3bVRHRzUtNW5aUXVROG1uS3lNbzhkTTNQaVFLZ0J5blZweDJnYlVLQnJXQjdORlo5TW5uWXdJczhSUkY2bDVfZE1lOXJsLXdwUllZamxZMThtUXdnLVBJd1JzbmxaS2ZWd05xZldGNWE2anhWOA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-10-04T08:22:49.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "被指控的杜拜劫机者庆祝殴打妇女，伊斯兰教法在令人作呕的社交媒体帖子中： “踩在她的头上” -纽约邮报",
+            "originalTitle": "Accused flydubai hijacker celebrated beating women, Sharia law in sickening social media posts: ‘Stomp on her head’ - New York Post",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTm52N1kxVjJwM08yNEFJWXZYajR6TUNSVGpzVGdlOE9ZekRDS0ZlWDJLUC1jaUJvczgxazA4cXZ4SnE2T3Y4aTBUOUZETjJVUk1sRzJhU3F1akRSTjQxeTd3dVFFOUszYVBuMTIyMHEwVDdMY3RpMm91eHNmOTFJQzFoWlp5cTY5MkxaLWh4YkpZenNpQmxEQmtTSmxTZ1QwUTAwYlpCQVdmN081VkxMRlJyZXBtd291MzI4?oc=5",
+            "source": "New York Post",
+            "sources": [
+              "New York Post"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-04T18:11:15.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋对肯尼亚道路碰撞表示声援- ARN新闻中心",
+            "originalTitle": "UAE expresses solidarity over Kenya road collision - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZW5nNnp6VXE5NldiT25QbnA4UGswS0lBWl90Wk96RFVxaHJkSXU4djVZVC16SkYyR3dkWm1tVkZvWlhlOVRDeVZyUzlpbWtLTDFRRnpGQ0Y3TE5ycTdyQVM0TDVJcGljeUZpYXcyZFF4LTBkb1ljSmZkUkJxa0xHX1RUbG5BNUlfa29NV0VHdDU?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-04T18:05:49.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "英雄行为后，社交媒体上出现了flydubai船长Smit Machchhar的虚假个人资料- Khaleej Times",
+            "originalTitle": "Fake profiles of flydubai Captain Smit Machchhar pop up on social media after heroic act - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlF1bzBXX1NNNDRuX2U5eG1teXNhVms2czZwRmJqYXo3MnNMdzhyMVB1eUZURW14Z0I2N0dUSFI3VTJYLUdlR1FUTkpFUHp3dDd3a0gtRDFKekh4S0lFdXl3ajJFMXVWeGo3LXB2blFmZzlxMUpTeFN2VVBGMktPZ2FOQmc5aUswTUhMdXhmNFZsTFBOMFHSAZ4BQVVfeXFMUEhEZ1I3RUh3NUNDdkJpNzMxVi0zdjJHbHJaRW5JRm1hZF9yc1F5cHVaWFNWdDZPZkxCSWY5Nkd6dDR1dkVRYVo5WDgyZG04bm5fbnBIOWNaaV9wTTd5bVQ1eGNTN2doMTdCNk54OFZaYjRxMWNZQmh6a2FGSkRhekRJLUFPWGZHLTNFM2tKRGZpaDFTVHVWMnM1N3dfQVE?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-03T12:19:15.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋总统，意大利总理讨论区域发展- ARN新闻中心",
+            "originalTitle": "UAE President, Italy PM discuss regional developments - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkF5Q1VJZ0xOU2pON3BYbWZNV3RBN0Rud3ZMZlFzUG4yd2FOakVkVFdOZlo3VkgwV2hpZjhhRHJOdEs1RjRWczBKUUZBQ25wUWJzSGpkajZXT1djRWxab00zZkNQcE1yXy1ISmFrQ3gzVEFwTEFfNnI4ZUtDMldaY25CWExCN1VJcjNNRmdMTmdjS2ZCU2NlTURR?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-04T15:42:57.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "flydubai事件： Hamam al-Hammami令人不安的社交媒体帖子透露- theweek.in",
+            "originalTitle": "flydubai incident: Troubling social media posts of Hamam al-Hammami revealed - theweek.in",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZjZwVFM5SndDbXlHVkU4S2w1SFBNU3RYY21DcGdwdkZJV2JGamd5d1VJekNGQzlCcVV4THVCTHdPUUpFa19HTVBGLUI3MFF5dUY5SFpzQWdMcjd0M2VvVzdxbUI5Rnc5eDRFTks4Qk9zMnhqa0NBU0o2ME1hUVdQc2RocUh2T1VYQWR4R3ZWdl85MmZrR2o4Nm55X3o0d2o2WG52NGltVjExRlZxdFloWkZ4eFBhOFJ0aVFJMDlkb2phQ2sxX3JMWWZiUdIB0AFBVV95cUxPZ1NCRUI1aHdESFdPeFVKdTNTYUVhbVJVOXByR1NZdXpNa2RKTmt3N0JuN0tpUEFuOFdCWWptbXJVY3ZSdGpkTE14Y3ZUQ2FObWFMbVNKSXdTYU9MdWhKb0YwdGtZS3pQdVJXNUVIZ1hSdTUtM1dCZUFkRHdKT0hidWRCaWozd1Q1M2N0ZTdfTlJVNGtzTEZFR3ZHWm5iWGxVRVgwQzhUM3hfa0lIUmJpUW9XeVVJRUNaeDR2RC1DUk96QWt1czd4RHpvZUI5cjM1?oc=5",
+            "source": "theweek.in",
+            "sources": [
+              "theweek.in"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-04T10:46:49.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Anwar Gargash重申阿联酋在三个岛屿上的立场- ARN新闻中心",
+            "originalTitle": "Anwar Gargash reiterates UAE position on three islands - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTlWd3REanpwS045dzZOUkVlMW55QU5haE1OX1YyTmNSN3FQc25EMUs2MDZwOUEzTk9XSG1RTjhROGRjYzhPdkdZTWJYd3ZMamNmVlhqYldPdWdWQkk3THNYRTlXTGM1b1RwZE55MTYzOVR4SjlTOTRfWEF1eFhhbTNFNkMwR0pZRk4xUjhLdW1mam5ZRjhFeA?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-10-04T10:05:06.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋椰枣在中国蔓延，并在种植本地化方面取得进展-沙迦24",
+            "originalTitle": "نخيل التمر الإماراتي ينتشر في الصين ويحقق تقدماً في توطين زراعته - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXJBUEQtVTBGbmxVT3lwTzFVa1l6Y0dUSW1FMGo3T2xkMGN6ZVJjNHRsWHpEeGoyNGpmRUVjbC11bFNoYnNlVzlRRktCZ2pfcjFwSVNTUk9RSEQ3aFlZVnU3b2ppdzkwVFpfU0pMX2xqSXhRMnpYQ3ExWHZoUjZqbXZDYm9SQTZOQmhLX251UzJCSkJMb1ZHU2Z6ZGNWcXVaU0FVbA?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-04T19:18:45.000Z"
           }
         ]
       }
