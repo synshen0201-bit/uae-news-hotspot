@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T19:11:30.966Z",
+  "updatedAt": "2026-10-06T19:29:04.387Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -11718,11 +11718,23 @@
     },
     "2026-10-06": {
       "date": "2026-10-06",
-      "updatedAt": "2026-10-06T19:11:30.966Z",
+      "updatedAt": "2026-10-06T19:29:04.387Z",
       "categories": {
         "all": [
           {
             "rank": 1,
+            "translatedTitle": "Mullen投资者声称拥有合作伙伴技术，阿联酋交易清除障碍",
+            "originalTitle": "Mullen Investor Claims Over Partner Tech, UAE Deal Clear Hurdle",
+            "url": "https://c.newsnow.co.uk/A/1326341027?-15565:1965",
+            "source": "Bloomberg Law",
+            "sources": [
+              "Bloomberg Law"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-06T18:25:24.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "第五届米其林指南显示， 2家迪拜餐厅保留了“非凡”的3星级",
             "originalTitle": "Fifth Michelin guide sees 2 Dubai restaurants retain 'extraordinary' 3 stars",
             "url": "https://www.khaleejtimes.com/uae/fifth-michelin-guide-dubai-restaurants-retain-extraordinary-3-stars",
@@ -11734,31 +11746,7 @@
             "publishedAt": "2026-10-06T18:01:26.000Z"
           },
           {
-            "rank": 2,
-            "translatedTitle": "Mullen投资者声称拥有合作伙伴技术，阿联酋交易清除障碍",
-            "originalTitle": "Mullen Investor Claims Over Partner Tech, UAE Deal Clear Hurdle",
-            "url": "https://c.newsnow.co.uk/A/1326341027?-15565:1965",
-            "source": "Bloomberg Law",
-            "sources": [
-              "Bloomberg Law"
-            ],
-            "heatScore": 98,
-            "publishedAt": "2026-10-06T18:25:24.000Z"
-          },
-          {
             "rank": 3,
-            "translatedTitle": "Orfali Bros在第五版迪拜指南中获得2颗米其林星",
-            "originalTitle": "Orfali Bros earns 2 Michelin stars in 5th edition of Dubai guide",
-            "url": "https://www.arabnews.com/food-health/orfali-bros-earns-2-michelin-stars-in-5th-edition-of-dubai-guide-3004936",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 98,
-            "publishedAt": "2026-10-06T18:31:43.000Z"
-          },
-          {
-            "rank": 4,
             "translatedTitle": "米其林指南阿布扎比：您需要了解的信息",
             "originalTitle": "MICHELIN Guide Abu Dhabi out now: What you need to know",
             "url": "https://c.newsnow.co.uk/A/1326341655?-15565:1965",
@@ -11766,11 +11754,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-10-06T18:34:48.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "“我在哈姆丹看到了你对人民的怜悯” ：迪拜统治者说，谢赫·拉希德的遗产延续至今",
             "originalTitle": "'I see in Hamdan your mercy for people': Dubai Ruler says Sheikh Rashid's legacy lives on",
             "url": "https://www.khaleejtimes.com/uae/dubai-ruler-sheikh-mohammed-tribute-sheikh-rashid-36th-death-anniversary",
@@ -11778,11 +11766,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-10-06T17:32:01.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "阿联酋成为首个加入南极机构的阿拉伯国家",
             "originalTitle": "UAE becomes first Arab state to join Antarctic body",
             "url": "https://c.newsnow.co.uk/A/1326333715?-15565:1965",
@@ -11790,8 +11778,20 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-10-06T17:02:52.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Orfali Bros在第五版迪拜指南中获得2颗米其林星",
+            "originalTitle": "Orfali Bros earns 2 Michelin stars in 5th edition of Dubai guide",
+            "url": "https://www.arabnews.com/food-health/orfali-bros-earns-2-michelin-stars-in-5th-edition-of-dubai-guide-3004936",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 96,
+            "publishedAt": "2026-10-06T18:31:43.000Z"
           },
           {
             "rank": 7,
@@ -11802,7 +11802,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 95,
+            "heatScore": 96,
             "publishedAt": "2026-10-06T16:06:39.000Z"
           },
           {
@@ -11816,7 +11816,7 @@
               "News.by",
               "Zawya"
             ],
-            "heatScore": 95,
+            "heatScore": 96,
             "publishedAt": "2026-10-06T09:06:00.000Z"
           },
           {
@@ -11828,7 +11828,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 95,
             "publishedAt": "2026-10-06T17:53:58.000Z"
           },
           {
@@ -11840,7 +11840,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 95,
             "publishedAt": "2026-10-06T17:53:58.000Z"
           }
         ],
@@ -11859,18 +11859,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "Orfali Bros在第五版迪拜指南中获得2颗米其林星",
-            "originalTitle": "Orfali Bros earns 2 Michelin stars in 5th edition of Dubai guide",
-            "url": "https://www.arabnews.com/food-health/orfali-bros-earns-2-michelin-stars-in-5th-edition-of-dubai-guide-3004936",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 98,
-            "publishedAt": "2026-10-06T18:31:43.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "米其林指南阿布扎比：您需要了解的信息",
             "originalTitle": "MICHELIN Guide Abu Dhabi out now: What you need to know",
             "url": "https://c.newsnow.co.uk/A/1326341655?-15565:1965",
@@ -11878,11 +11866,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-10-06T18:34:48.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "“我在哈姆丹看到了你对人民的怜悯” ：迪拜统治者说，谢赫·拉希德的遗产延续至今",
             "originalTitle": "'I see in Hamdan your mercy for people': Dubai Ruler says Sheikh Rashid's legacy lives on",
             "url": "https://www.khaleejtimes.com/uae/dubai-ruler-sheikh-mohammed-tribute-sheikh-rashid-36th-death-anniversary",
@@ -11890,11 +11878,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-10-06T17:32:01.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "阿联酋成为首个加入南极机构的阿拉伯国家",
             "originalTitle": "UAE becomes first Arab state to join Antarctic body",
             "url": "https://c.newsnow.co.uk/A/1326333715?-15565:1965",
@@ -11902,8 +11890,20 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 97,
+            "heatScore": 98,
             "publishedAt": "2026-10-06T17:02:52.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Orfali Bros在第五版迪拜指南中获得2颗米其林星",
+            "originalTitle": "Orfali Bros earns 2 Michelin stars in 5th edition of Dubai guide",
+            "url": "https://www.arabnews.com/food-health/orfali-bros-earns-2-michelin-stars-in-5th-edition-of-dubai-guide-3004936",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 96,
+            "publishedAt": "2026-10-06T18:31:43.000Z"
           },
           {
             "rank": 6,
@@ -11914,7 +11914,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 95,
             "publishedAt": "2026-10-06T17:53:58.000Z"
           },
           {
@@ -11938,7 +11938,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 92,
+            "heatScore": 93,
             "publishedAt": "2026-10-06T14:28:00.000Z"
           },
           {
@@ -11950,7 +11950,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 92,
+            "heatScore": 93,
             "publishedAt": "2026-10-06T14:26:39.000Z"
           },
           {
@@ -11962,7 +11962,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 92,
+            "heatScore": 93,
             "publishedAt": "2026-10-06T12:50:59.000Z"
           }
         ],
@@ -11978,7 +11978,7 @@
               "News.by",
               "Zawya"
             ],
-            "heatScore": 95,
+            "heatScore": 96,
             "publishedAt": "2026-10-06T09:06:00.000Z"
           },
           {
@@ -11990,7 +11990,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 90,
+            "heatScore": 91,
             "publishedAt": "2026-10-06T10:43:38.000Z"
           },
           {
@@ -12002,7 +12002,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 86,
             "publishedAt": "2026-10-06T12:22:07.000Z"
           },
           {
@@ -12014,7 +12014,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-06T08:23:12.000Z"
           },
           {
@@ -12038,7 +12038,7 @@
             "sources": [
               "REFORM.news"
             ],
-            "heatScore": 60,
+            "heatScore": 61,
             "publishedAt": "2026-10-06T08:24:26.000Z"
           },
           {
@@ -12100,7 +12100,7 @@
             "sources": [
               "Bloomberg Law"
             ],
-            "heatScore": 98,
+            "heatScore": 99,
             "publishedAt": "2026-10-06T18:25:24.000Z"
           },
           {
@@ -12112,7 +12112,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 94,
+            "heatScore": 95,
             "publishedAt": "2026-10-06T17:53:58.000Z"
           },
           {
@@ -12124,7 +12124,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 90,
+            "heatScore": 91,
             "publishedAt": "2026-10-06T16:53:44.000Z"
           },
           {
@@ -12136,7 +12136,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 90,
+            "heatScore": 91,
             "publishedAt": "2026-10-06T13:56:03.000Z"
           },
           {
@@ -12160,7 +12160,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-06T09:46:46.000Z"
           },
           {
@@ -12196,7 +12196,7 @@
             "sources": [
               "AniNews.in"
             ],
-            "heatScore": 68,
+            "heatScore": 69,
             "publishedAt": "2026-10-06T17:11:31.000Z"
           }
         ],
@@ -12210,7 +12210,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 95,
+            "heatScore": 96,
             "publishedAt": "2026-10-06T16:06:39.000Z"
           },
           {
@@ -12222,7 +12222,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 91,
+            "heatScore": 92,
             "publishedAt": "2026-10-06T17:16:04.000Z"
           },
           {
@@ -12234,7 +12234,7 @@
             "sources": [
               "AzerNews"
             ],
-            "heatScore": 75,
+            "heatScore": 74,
             "publishedAt": "2026-10-06T18:25:32.000Z"
           }
         ],
@@ -12260,7 +12260,7 @@
             "sources": [
               "The International Institute for Strategic Studies"
             ],
-            "heatScore": 87,
+            "heatScore": 88,
             "publishedAt": "2026-10-06T08:37:13.000Z"
           },
           {
@@ -12285,7 +12285,7 @@
             "sources": [
               "India Today"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-10-06T18:13:27.000Z"
           },
           {
@@ -12298,7 +12298,7 @@
               "Devbhoomi News",
               "NDTV"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-10-06T07:33:55.000Z"
           },
           {
@@ -12334,7 +12334,7 @@
             "sources": [
               "Business Insider Africa"
             ],
-            "heatScore": 68,
+            "heatScore": 69,
             "publishedAt": "2026-10-06T14:10:33.000Z"
           },
           {
@@ -12346,7 +12346,7 @@
             "sources": [
               "UNITED24 Media"
             ],
-            "heatScore": 62,
+            "heatScore": 63,
             "publishedAt": "2026-10-06T12:28:37.000Z"
           },
           {
@@ -12358,7 +12358,7 @@
             "sources": [
               "Army Recognition"
             ],
-            "heatScore": 60,
+            "heatScore": 61,
             "publishedAt": "2026-10-06T10:15:40.000Z"
           }
         ],
@@ -12384,7 +12384,7 @@
             "sources": [
               "Education Times"
             ],
-            "heatScore": 67,
+            "heatScore": 68,
             "publishedAt": "2026-10-06T11:15:00.000Z"
           },
           {
@@ -12396,7 +12396,7 @@
             "sources": [
               "The Sun"
             ],
-            "heatScore": 61,
+            "heatScore": 62,
             "publishedAt": "2026-10-06T06:51:00.000Z"
           },
           {
@@ -12408,7 +12408,7 @@
             "sources": [
               "https://streamlinefeed.co.ke/"
             ],
-            "heatScore": 60,
+            "heatScore": 61,
             "publishedAt": "2026-10-06T10:21:18.000Z"
           },
           {
@@ -12432,7 +12432,7 @@
             "sources": [
               "LatestLY"
             ],
-            "heatScore": 56,
+            "heatScore": 55,
             "publishedAt": "2026-10-06T06:32:05.000Z"
           },
           {
@@ -12494,7 +12494,7 @@
             "sources": [
               "صوت الإمارات"
             ],
-            "heatScore": 66,
+            "heatScore": 67,
             "publishedAt": "2026-10-06T15:25:04.000Z"
           },
           {
