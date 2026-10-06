@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T19:45:27.600Z",
+  "updatedAt": "2026-10-06T19:57:47.167Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -11718,23 +11718,11 @@
     },
     "2026-10-06": {
       "date": "2026-10-06",
-      "updatedAt": "2026-10-06T19:45:27.600Z",
+      "updatedAt": "2026-10-06T19:57:47.167Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "Mullen投资者声称拥有合作伙伴技术，阿联酋交易清除障碍",
-            "originalTitle": "Mullen Investor Claims Over Partner Tech, UAE Deal Clear Hurdle",
-            "url": "https://c.newsnow.co.uk/A/1326341027?-15565:1965",
-            "source": "Bloomberg Law",
-            "sources": [
-              "Bloomberg Law"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-10-06T18:25:24.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "第五届米其林指南显示， 2家迪拜餐厅保留了“非凡”的3星级",
             "originalTitle": "Fifth Michelin guide sees 2 Dubai restaurants retain 'extraordinary' 3 stars",
             "url": "https://www.khaleejtimes.com/uae/fifth-michelin-guide-dubai-restaurants-retain-extraordinary-3-stars",
@@ -11744,6 +11732,18 @@
             ],
             "heatScore": 99,
             "publishedAt": "2026-10-06T18:01:26.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Mullen投资者声称拥有合作伙伴技术，阿联酋交易清除障碍",
+            "originalTitle": "Mullen Investor Claims Over Partner Tech, UAE Deal Clear Hurdle",
+            "url": "https://c.newsnow.co.uk/A/1326341027?-15565:1965",
+            "source": "Bloomberg Law",
+            "sources": [
+              "Bloomberg Law"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-10-06T18:25:24.000Z"
           },
           {
             "rank": 3,
@@ -11795,18 +11795,6 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "沙迦慈善机构发起活动，赞助100名教师",
-            "originalTitle": "Sharjah Charity launches drive to sponsor 100 teachers",
-            "url": "https://c.newsnow.co.uk/A/1326338299?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 95,
-            "publishedAt": "2026-10-06T17:53:58.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "阿联酋部长说，人工智能代理商可以创建一个人价值十亿美元的公司",
             "originalTitle": "AI agents could create one-person billion-dollar companies, UAE minister says",
             "url": "https://www.khaleejtimes.com/business/tech/ai-everything-abu-dhabi-ai-agents-create-one-person-billion-dollar-companies",
@@ -11818,7 +11806,7 @@
             "publishedAt": "2026-10-06T16:06:39.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "欧亚经济联盟-阿联酋经济伙伴关系协定生效- СБ. Беларусь",
             "originalTitle": "EAEU-UAE Economic Partnership Agreement entered into force - СБ. Беларусь",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVNnZnBTTFQ3bXY3RW51ZlVFWWJsQjN3eWRrOTJZTFZRWjBTei1LaU9HRzRRRTN0dlYtZ1V1ZkJxMWZUVEtNaFdWdFd1R2VJRUpManVENG81Y29aeVNKeVMwV2NQemNIOUZfczcydl8xSU5FSlFUS0pmOC1mX1NWM3cyN05fZjdGYmM3bg?oc=5",
@@ -11830,6 +11818,18 @@
             ],
             "heatScore": 95,
             "publishedAt": "2026-10-06T09:06:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "沙迦慈善机构发起活动，赞助100名教师",
+            "originalTitle": "Sharjah Charity launches drive to sponsor 100 teachers",
+            "url": "https://c.newsnow.co.uk/A/1326338299?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-06T17:53:58.000Z"
           },
           {
             "rank": 10,
@@ -11914,7 +11914,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-10-06T17:53:58.000Z"
           },
           {
@@ -11943,18 +11943,6 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "阿联酋设定新的钠、糖和脂肪限值；违规者将面临高达500,000迪拉姆的罚款",
-            "originalTitle": "UAE sets new sodium, sugar and fat limits; violators face fines up to Dh500,000",
-            "url": "https://www.khaleejtimes.com/uae/uae-begins-phased-limits-on-sodium-sugar-fat-in-select-food-products",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 93,
-            "publishedAt": "2026-10-06T12:50:59.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "阿联酋明天天气：部分地区预计降雨；气温将上升",
             "originalTitle": "UAE weather tomorrow: Rains expected in some areas; temperatures to rise",
             "url": "https://www.khaleejtimes.com/uae/weather/october-7-2026",
@@ -11964,6 +11952,18 @@
             ],
             "heatScore": 92,
             "publishedAt": "2026-10-06T14:26:39.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋设定新的钠、糖和脂肪限值；违规者将面临高达500,000迪拉姆的罚款",
+            "originalTitle": "UAE sets new sodium, sugar and fat limits; violators face fines up to Dh500,000",
+            "url": "https://www.khaleejtimes.com/uae/uae-begins-phased-limits-on-sodium-sugar-fat-in-select-food-products",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-10-06T12:50:59.000Z"
           }
         ],
         "diplomacy": [
@@ -11990,7 +11990,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-06T10:43:38.000Z"
           },
           {
@@ -12002,7 +12002,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 84,
             "publishedAt": "2026-10-06T12:22:07.000Z"
           },
           {
@@ -12100,7 +12100,7 @@
             "sources": [
               "Bloomberg Law"
             ],
-            "heatScore": 99,
+            "heatScore": 98,
             "publishedAt": "2026-10-06T18:25:24.000Z"
           },
           {
@@ -12117,18 +12117,6 @@
           },
           {
             "rank": 3,
-            "translatedTitle": "阿提哈德航空开通飞往沙特红海的阿布扎比航班",
-            "originalTitle": "Etihad launches Abu Dhabi flights to Saudi Red Sea",
-            "url": "https://c.newsnow.co.uk/A/1326333017?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 91,
-            "publishedAt": "2026-10-06T16:53:44.000Z"
-          },
-          {
-            "rank": 4,
             "translatedTitle": "阿联酋的加密热潮：为什么代币化黄金、稳定币正在进入日常金融领域",
             "originalTitle": "UAE’s crypto boom: Why tokenised gold, stablecoins are moving into everyday finance",
             "url": "https://www.khaleejtimes.com/business/uae-crypto-boom-tokenised-gold-stablecoins-everyday-finance",
@@ -12138,6 +12126,18 @@
             ],
             "heatScore": 91,
             "publishedAt": "2026-10-06T13:56:03.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿提哈德航空开通飞往沙特红海的阿布扎比航班",
+            "originalTitle": "Etihad launches Abu Dhabi flights to Saudi Red Sea",
+            "url": "https://c.newsnow.co.uk/A/1326333017?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-10-06T16:53:44.000Z"
           },
           {
             "rank": 5,
@@ -12372,7 +12372,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-10-06T02:49:52.000Z"
           },
           {
@@ -12456,7 +12456,7 @@
             "sources": [
               "The Source Magazine"
             ],
-            "heatScore": 54,
+            "heatScore": 53,
             "publishedAt": "2026-10-05T23:35:20.000Z"
           },
           {
@@ -12468,7 +12468,7 @@
             "sources": [
               "Moneycontrol.com"
             ],
-            "heatScore": 51,
+            "heatScore": 50,
             "publishedAt": "2026-10-06T02:44:14.000Z"
           },
           {
