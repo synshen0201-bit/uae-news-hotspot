@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T19:00:39.867Z",
+  "updatedAt": "2026-10-07T19:20:17.883Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -12514,7 +12514,7 @@
     },
     "2026-10-07": {
       "date": "2026-10-07",
-      "updatedAt": "2026-10-07T19:00:39.867Z",
+      "updatedAt": "2026-10-07T19:20:17.883Z",
       "categories": {
         "all": [
           {
@@ -12540,13 +12540,26 @@
               "Arab News",
               "Gulf News",
               "Khaleej Times",
-              "Emirates 24|7"
+              "Emirates 24|7",
+              "Menafn"
             ],
             "heatScore": 99,
             "publishedAt": "2026-10-07T09:42:19.000Z"
           },
           {
             "rank": 3,
+            "translatedTitle": "与GEMS共事33年的迪拜教师去世；计划为她提供奖学金",
+            "originalTitle": "Dubai teacher who spent 33 years with GEMS dies; scholarship planned in her honour",
+            "url": "https://www.khaleejtimes.com/uae/education/dubai-teacher-dies-33-years-westminster-school-gems-education",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-10-07T15:58:54.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "阿联酋彩票公布最新幸运日抽奖结果",
             "originalTitle": "UAE Lottery announces results of latest lucky day draw",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-results-lucky-day-draw-october-7-2026",
@@ -12558,7 +12571,7 @@
             "publishedAt": "2026-10-07T17:44:51.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "阿联酋谴责胡塞武装继续袭击沙特民用设施和船只--迪拜之眼103.8",
             "originalTitle": "UAE condemns continued Houthi attacks on Saudi civilian facilities, vessels - Dubai Eye 103.8",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDdpaWdJMjREWmhMMENIYUVacXJWWnFtM0NkRXN1ODllRXlBODJxWWpSZEVqb01ENml1RXZvT2tUSHNoUnZTczF3T3NZUU9XNmhBd0hxSEpYSTJYLVJOTFBycko5NlNUbFVUSWY4TG5jT2tteDNNS3h4aUw0QU9HMUdMTzRmbFVUOTFsREUyY2FIbG5nTnlzLWFhYUM3YzJuc1NSTHVhZnZ6MktwUnBQSy1JbFFxUjlhb2dTRUVadWw1UmRZ?oc=5",
@@ -12572,7 +12585,7 @@
             "publishedAt": "2026-10-07T14:31:04.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "阿治曼法院将女性视为有疑问的WhatsApp证据",
             "originalTitle": "Ajman court clears woman as WhatsApp evidence in doubt",
             "url": "https://c.newsnow.co.uk/A/1326446441?-15565:1965",
@@ -12580,35 +12593,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-07T18:11:08.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "与GEMS共事33年的迪拜教师去世；计划为她提供奖学金",
-            "originalTitle": "Dubai teacher who spent 33 years with GEMS dies; scholarship planned in her honour",
-            "url": "https://www.khaleejtimes.com/uae/education/dubai-teacher-dies-33-years-westminster-school-gems-education",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-07T15:58:54.000Z"
-          },
-          {
             "rank": 7,
-            "translatedTitle": "Dalic欢呼阿联酋的海湾杯，尽管最终输给了沙特阿拉伯",
-            "originalTitle": "Dalic hails UAE's Gulf Cup run despite final defeat to Saudi Arabia",
-            "url": "https://www.khaleejtimes.com/sports/football/dalic-hails-uaes-gulf-cup-run-despite-final-defeat-to-saudi-arabia",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-07T15:51:27.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "3000万迪拉姆阿联酋彩票：一名玩家带回家10万迪拉姆",
             "originalTitle": "Dh30m UAE Lottery: One player takes home Dh100,000",
             "url": "https://c.newsnow.co.uk/A/1326445271?-15565:1965",
@@ -12618,6 +12607,18 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-10-07T18:00:51.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Dalic欢呼阿联酋的海湾杯，尽管最终输给了沙特阿拉伯",
+            "originalTitle": "Dalic hails UAE's Gulf Cup run despite final defeat to Saudi Arabia",
+            "url": "https://www.khaleejtimes.com/sports/football/dalic-hails-uaes-gulf-cup-run-despite-final-defeat-to-saudi-arabia",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-07T15:51:27.000Z"
           },
           {
             "rank": 9,
@@ -12647,6 +12648,18 @@
         "domestic": [
           {
             "rank": 1,
+            "translatedTitle": "与GEMS共事33年的迪拜教师去世；计划为她提供奖学金",
+            "originalTitle": "Dubai teacher who spent 33 years with GEMS dies; scholarship planned in her honour",
+            "url": "https://www.khaleejtimes.com/uae/education/dubai-teacher-dies-33-years-westminster-school-gems-education",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-10-07T15:58:54.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋彩票公布最新幸运日抽奖结果",
             "originalTitle": "UAE Lottery announces results of latest lucky day draw",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-results-lucky-day-draw-october-7-2026",
@@ -12658,7 +12671,7 @@
             "publishedAt": "2026-10-07T17:44:51.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "阿治曼法院将女性视为有疑问的WhatsApp证据",
             "originalTitle": "Ajman court clears woman as WhatsApp evidence in doubt",
             "url": "https://c.newsnow.co.uk/A/1326446441?-15565:1965",
@@ -12666,35 +12679,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-07T18:11:08.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "与GEMS共事33年的迪拜教师去世；计划为她提供奖学金",
-            "originalTitle": "Dubai teacher who spent 33 years with GEMS dies; scholarship planned in her honour",
-            "url": "https://www.khaleejtimes.com/uae/education/dubai-teacher-dies-33-years-westminster-school-gems-education",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-07T15:58:54.000Z"
-          },
-          {
             "rank": 4,
-            "translatedTitle": "Dalic欢呼阿联酋的海湾杯，尽管最终输给了沙特阿拉伯",
-            "originalTitle": "Dalic hails UAE's Gulf Cup run despite final defeat to Saudi Arabia",
-            "url": "https://www.khaleejtimes.com/sports/football/dalic-hails-uaes-gulf-cup-run-despite-final-defeat-to-saudi-arabia",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-07T15:51:27.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "3000万迪拉姆阿联酋彩票：一名玩家带回家10万迪拉姆",
             "originalTitle": "Dh30m UAE Lottery: One player takes home Dh100,000",
             "url": "https://c.newsnow.co.uk/A/1326445271?-15565:1965",
@@ -12704,6 +12693,18 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-10-07T18:00:51.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Dalic欢呼阿联酋的海湾杯，尽管最终输给了沙特阿拉伯",
+            "originalTitle": "Dalic hails UAE's Gulf Cup run despite final defeat to Saudi Arabia",
+            "url": "https://www.khaleejtimes.com/sports/football/dalic-hails-uaes-gulf-cup-run-despite-final-defeat-to-saudi-arabia",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-07T15:51:27.000Z"
           },
           {
             "rank": 6,
@@ -12750,7 +12751,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-07T16:45:12.000Z"
           },
           {
@@ -12762,25 +12763,13 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-07T13:38:37.000Z"
           }
         ],
         "diplomacy": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋加入海湾合作委员会在巴林的谈判，以促进行业联系",
-            "originalTitle": "UAE joins GCC talks in Bahrain to boost industry ties",
-            "url": "https://c.newsnow.co.uk/A/1326434598?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 79,
-            "publishedAt": "2026-10-07T16:06:49.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "欧亚经济联盟与阿联酋之间的经济伙伴关系协定生效- Евразийская恤衫кономическая комиссия",
             "originalTitle": "Economic Partnership Agreement between EAEU and UAE came into effect - Евразийская экономическая комиссия",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDZzQkVXQzN1TUUwQloyWGlTMm45cFR0MGp0ZW5jenlaeFZBRm5MOHJBSENEM1VKWC1aUWpHcnJSNlJSekgwTnVYRldzVDN4QkJ3UkRsX2pfOEtIU3VPZElDWUtmLXVtb2YwcTZNQ3NWNzIzRzNSQkgzem1Pa0tHV0hoQncwOTJwUVVWU2RqbGNTbExVWlBOMmZic0Y5ZjkzZW0zSw?oc=5",
@@ -12791,6 +12780,18 @@
             ],
             "heatScore": 79,
             "publishedAt": "2026-10-07T17:08:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋加入海湾合作委员会在巴林的谈判，以促进行业联系",
+            "originalTitle": "UAE joins GCC talks in Bahrain to boost industry ties",
+            "url": "https://c.newsnow.co.uk/A/1326434598?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-07T16:06:49.000Z"
           },
           {
             "rank": 3,
@@ -12867,6 +12868,18 @@
           },
           {
             "rank": 9,
+            "translatedTitle": "阿联酋-欧盟贸易协议生效，双边贸易额达到336亿美元-海湾新闻",
+            "originalTitle": "UAE-EAEU trade deal takes effect as bilateral trade hits $33.6 billion - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlZ0cHdjdmxxelk2V3kxOE5tdU1rV29SY1VseDY3VUlXNGRCemEtS2VEWVNCNVdtNkdzY2RoTHR1WWJxQkJLeTg4MXJsRUE0ZUw0X18xdDdjZXRLeXhSMU1hV294bXJvRlpRVjVXZllZaDN5cTIwNjlLUjJYRlNkQURrcHZkSV9Sd3ZfQWZxR3NJemlTTTlWSWtsZ3k3cTc1LVdrejgzWFpBanBFbDQ1aFh0NmxObjJwVXfSAcwBQVVfeXFMT05yRTY4WnNDSnhuZGpoNjJJcVFNQndydm51TTBvbXhfY0dGaUlhNmRVbF9uTXFfbGVqWkY3RmM5ZVJqUklXX2h6UkFjMzJhUGo3WXVmTGlYdmtqR3dkMEdQTWo1cWdRZDBTQkEzV2pMNG1weVBfcEpFX0ZOM1dWX1pqWml3ektJckpSU1BvcGtsd3pUSVNXd1d2MnFVZThyVkZFNUIwWHRLOUdfSnFPTzZEZVdpZUNHYndPQzVfREFnNHN5ZlhrQTVoOWVM?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-06T07:24:55.000Z"
+          },
+          {
+            "rank": 10,
             "translatedTitle": "Anwar Gargash外交学院与阿联酋运动科学和运动医学中心签署合作备忘录- Big News Network.com",
             "originalTitle": "Anwar Gargash Diplomatic Academy, UAE Sports Science and Sports Medicine Center sign Memorandum of Cooperation - Big News Network.com",
             "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZlBBSGxqNXk2ZHpmMjJvaDNqeHFTcHZxTWNoMEhfUy1wdWp3TzNpM1VtdU5rNXBhcTl4QmtONWRrbDVGcW1pOUt6S1JrckVvdy1ZR0RhWU0wS0U3THpBMXdmVGVvSVFDT2UxVWZYSUFCdFF3ODhPRHpjRURwVzlSY2tGX0lJMFBnTGJXRWoycGwtVzJkejgzcjFPQ3l6ZzVXMHFJbHdBc0ozeEkzSjFheUViR1ZxTUNxMHg3eFpaZzBnanJCUDNJUFJ3RmFkZkdwRUJYNlFaX3R4YnVwQXR3ZTZpWndseVNqb3Z3?oc=5",
@@ -12876,18 +12889,6 @@
             ],
             "heatScore": 59,
             "publishedAt": "2026-10-07T13:09:00.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "阿联酋与欧亚经济联盟之间的经济协议生效-金砖国家电视台",
-            "originalTitle": "Economic agreement between UAE and EAEU comes into force - TV BRICS",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaE0wMGFqWGJxMy1BWFFrbXgtbW9RSjhLOTZtQXRSZzlYTEFNMUZad3U4SHhBSWlYdVpvNlVkNDJ4dThwdmNIZFJJc0Q2U28xSWNnVWFQREFlUUFHTEhrT2ZVb1VNWUtLMGQyQWJTcUt5a2lndEVaZUp4Y00tZnZCSGlXZml4b0ZuV3A3ZHZ3?oc=5",
-            "source": "TV BRICS",
-            "sources": [
-              "TV BRICS"
-            ],
-            "heatScore": 58,
-            "publishedAt": "2026-10-07T08:37:58.000Z"
           }
         ],
         "economy": [
@@ -12925,7 +12926,7 @@
             "sources": [
               "Voice Of Emirates"
             ],
-            "heatScore": 65,
+            "heatScore": 64,
             "publishedAt": "2026-10-07T17:45:09.000Z"
           },
           {
@@ -12937,7 +12938,7 @@
             "sources": [
               "TradeWinds"
             ],
-            "heatScore": 63,
+            "heatScore": 62,
             "publishedAt": "2026-10-07T16:42:09.000Z"
           }
         ],
@@ -12990,7 +12991,8 @@
               "Arab News",
               "Gulf News",
               "Khaleej Times",
-              "Emirates 24|7"
+              "Emirates 24|7",
+              "Menafn"
             ],
             "heatScore": 99,
             "publishedAt": "2026-10-07T09:42:19.000Z"
@@ -13018,7 +13020,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 80,
+            "heatScore": 79,
             "publishedAt": "2026-10-07T12:58:15.000Z"
           },
           {
@@ -13110,6 +13112,18 @@
         "social": [
           {
             "rank": 1,
+            "translatedTitle": "与GEMS共事33年的迪拜教师去世；计划为她提供奖学金",
+            "originalTitle": "Dubai teacher who spent 33 years with GEMS dies; scholarship planned in her honour",
+            "url": "https://www.khaleejtimes.com/uae/education/dubai-teacher-dies-33-years-westminster-school-gems-education",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-10-07T15:58:54.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "平静的猫语者：与迪拜病毒式猫咪美容视频背后的Pinoy见面- ABS-CBN",
             "originalTitle": "Calm cat whisperer: Meet the Pinoy behind the viral cat grooming videos in Dubai - ABS-CBN",
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTnJSOHVzLTJHZEVrTDF6Z2otM2V0aVl4WVdsbXVzd2VpUmJ2cGJGT09MZmJNNTI4NkllQktjdWt2aXFQaE5rUGNPTHd6dWZObXpabzBiYThIc1AtbHJnYVFCUF9xcVc3bnZqT1NOZVNieU53Nk5Dd1VfRTFJdjExeXdSWl9ObWhhR2YwSzJrN3BwY1pLQW1tT3JNN2hOQUxudG1XS1V1aThfZW5yWWVNQnc4NTJVamlhbWJMSU92Mm1Sa19RcmRQcU9zLUdaZVdaeWM2bmdNbzFJYkNpV3lybXlaZHc?oc=5",
@@ -13121,7 +13135,7 @@
             "publishedAt": "2026-10-07T15:29:22.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "迪拜寻址系统的新视觉标识- ARN新闻中心",
             "originalTitle": "New visual identity for Dubai’s addressing system - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW14YUVSWUU2MHB1Y2lKZ19sSW5zRzA3TUJCVW8tazVJaFRyZC1peVVULUE0b2dIT1BlMnAyYnlmVm1MWG5EQTVxQ2lsOG54N2VLQW1vbzc1Sk9aMWx6WFV2Rmo2TE9jWl9FZkFjdnZjTXlUd0JHdk40U0VpMGtwUHF6ZUF1VjB5NUl4OVZRMnRXTEwz?oc=5",
@@ -13129,11 +13143,11 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-07T15:01:04.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "阿联酋天气：为什么感觉比现在更热？ -海湾新闻",
             "originalTitle": "UAE weather: Why does it feel so much hotter than it is? - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWW9oMUxtSzJnUVp1NTRFWF9VR1Npc3h4S2wyaElKWkN2NTRTWE1uVmc3MllQUG96OVd5Y2stcHRVdVJsaFp1QVA5cngxWkpKWUlNN1dwX2FfemdWMWU3ME5DYnVoalV5VE9rVHhONkFMbXh1UHV6M2Y3NXJKNWNNd1dzMXlTbjlrY1p3NW1MOWlvYUZSMm90YnZiRENPTWxyVFRPV2dfWWg1RHJmcEN0LThnd9IBswFBVV95cUxNWW9oMUxtSzJnUVp1NTRFWF9VR1Npc3h4S2wyaElKWkN2NTRTWE1uVmc3MllQUG96OVd5Y2stcHRVdVJsaFp1QVA5cngxWkpKWUlNN1dwX2FfemdWMWU3ME5DYnVoalV5VE9rVHhONkFMbXh1UHV6M2Y3NXJKNWNNd1dzMXlTbjlrY1p3NW1MOWlvYUZSMm90YnZiRENPTWxyVFRPV2dfWWg1RHJmcEN0LThndw?oc=5",
@@ -13145,7 +13159,7 @@
             "publishedAt": "2026-10-06T13:54:33.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "「优于SA ：创作者查看南非教师在迪拜的工资- Briefly.co.za",
             "originalTitle": "\"Better than SA: Creator review South African teacher's salary in Dubai - Briefly.co.za",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTVid1Y5LURRU2pENmxET1JuYjJkRzRBWmFvMzlEbDZRc2wteHZhNVlZV0lEUG1kdmdmV3JRZFJNWTd5bTB1dDJWSVRzY1J3Mkp5VHFkMEFWeG9ONXZpOG9QbEZzVVJtTGZhSVlEdHVwemU5bkozX0hmb1F4WkxJRzUwbXZlQy1VS0tyRjkwMUY1V2cwRVRYcFplVFl6amcwR2Z6LUJCQmRFS290Z0E?oc=5",
@@ -13157,19 +13171,19 @@
             "publishedAt": "2026-10-07T13:30:51.000Z"
           },
           {
-            "rank": 5,
-            "translatedTitle": "李·安德鲁斯在迪拜监狱获释后打破沉默，声称他在监狱地狱后“逃离这个国家” -爱尔兰太阳报",
-            "originalTitle": "Lee Andrews breaks silence after Dubai prison release and claims he's 'fleeing the country' after jail hell - The Irish Sun",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWZfcDhSbVhqZHlyVWhNZGNJRFNNRHV3dXRfZ0k5U2JIMm1JVFQ2RThOQ21hT2JwY0tRQnJ1QzFYajVNRVZjM0pMTmZQZWhhTVc3cDFSVk93c0syOEtxSVBTLUxBaXhwZ2RNLU1ZYk5nVHFKZDhRckZjajdRODZYcnYzWnFBVUhObVBVMEEya3l4NFQwMjl3?oc=5",
-            "source": "The Irish Sun",
+            "rank": 6,
+            "translatedTitle": "李·安德鲁斯在迪拜监狱获释后打破沉默，声称他在监狱地狱后“逃离这个国家” -太阳报",
+            "originalTitle": "Lee Andrews breaks silence after Dubai prison release and claims he's 'fleeing the country' after jail hell - The Sun",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanF4TUhQdkJacEp2a3pDWTVzQUJpb2NLZ2pKcElJVWV0YVczTWNNazZhSGFrQmNoTENnQnlJeXl4bm5LLVp4TmkxTHdycXAzTlhGSklybXhBTjJfVzktR1VMUlVWamtmNDBsQXhnbXlKWUJrRHQtTWNmUVFESzVyM2s2M2tFcVNjZlUtWUtVMWFMT296bTVWMmQwYw?oc=5",
+            "source": "The Sun",
             "sources": [
-              "The Irish Sun"
+              "The Sun"
             ],
             "heatScore": 59,
-            "publishedAt": "2026-10-07T12:49:52.000Z"
+            "publishedAt": "2026-10-07T09:17:00.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "阿布扎比媒体办公室称，无人机袭击造成阿布扎比沙阿油田火灾- EnergyNow.com",
             "originalTitle": "Fire at Abu Dhabi Shah Oil Field Caused by Drone Attack, Abu Dhabi Media Office Says - EnergyNow.com",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkN3QXgtckxxR2tTMG44TXZ5OGhRLWZRcEIxc3pVY0ZPemxSV0xJN3BiR1NXYTRvVTV4U2g4azlVVU1zOC1CS3Z1cTFTX0lsbHJzQjJtbnB4TklfSWQ5Wmg3TUtFS092RmJ1NjZ4d2RNc3RnSmphNzFRNWZxLUdaR1BvQWFZbjZfbU9DcUd6TkE2SUxULUtMTGJiaFlpNmo4YkJCbjREUV9fZl9lMXdFeTFzZVI?oc=5",
@@ -13177,11 +13191,11 @@
             "sources": [
               "EnergyNow.com"
             ],
-            "heatScore": 57,
+            "heatScore": 56,
             "publishedAt": "2026-10-07T10:48:02.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "《米其林指南2026》为迪拜揭晓：卷曲故事",
             "originalTitle": "Tresind Studio Retaining Its Stars To New Additions, Michelin Guide 2026 Revealed For Dubai - Curly Tales",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1F5Z05HTHJTT3JkUzhKOE1uck0zYWtVWF84QzE2MjRuNEJ1VjZUUXZsc1FLWnJzSVZ5ZWJyamN2RVZzOHI5XzRNcjlDR2hjb3lpcXp5Q05TbWxjYzQ1Yk9lUEY2WE5Bc3pHNTd4MjI5ZWVwLVNSQlE1OUdyTmdXakN4T0syRVV5b2V3NXRCNDBBUWxtdy1Rd0xEakVqeW5YTjRKU2FIZ0tKLU80QldJMXVFRkNrWUM2M21mcENqSlZTODhT0gHKAUFVX3lxTE1YTlRKcnhFMEpDcXpUUXo4dTNqMmJFX0FvTWVGVXF2QjVMWVRIeFk5Ukg0bWZiU2NCYWdNLUd0ZGtuYk54UDF6Vkp3TDJIRm9pVVVaZTlkbDFxT1ZrMGJmWEV3RGFKbm1PMzE2WE0zZV9wZFNTZmptbHM2SGFyejVUdzRucFRVUXAxVV9iSzFuZFU2a1VHb2tGR0dYZkpILWc3Y1FqZkR1YjBnb0dNYkthTkVfWDRxQ3M5U3NpQ09nbVpvcGwtb2JScHc?oc=5",
@@ -13189,11 +13203,11 @@
             "sources": [
               "Curly Tales"
             ],
-            "heatScore": 57,
+            "heatScore": 56,
             "publishedAt": "2026-10-07T07:37:25.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "飞行禁令、社交媒体活动：多次错过安全警告如何允许副驾驶进入Flydubai C -新闻18",
             "originalTitle": "Flying Ban, Social Media Activities: How Multiple Missed Security Warnings Allowed Co-Pilot Into Flydubai C - News18",
             "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhTSE9qZ212OGl5WXZpNWlwaVQ3SW5ubm5DUTVJcnFIRG8tNlFnWWRNemR5LTN2QkJKQW1SVXhaNERvY3NSYjM3N2JzRlJBMG51Mkl5WHlJMkI3TTdCMThiODgwTE4wWWViekN3bnlDYmVSZHA3VjhqcGs0WVFUaC1aRnk2NTd6M3hYWElnUW8xNzNpa0IwZlJxNVJSUTExR1RPM1ppT21raFlYdWVjV3FSQzFKbXR4VWc0bDVNV0pmWldZTHBIb3BBYXBGZWo3OEdTQ0NObFVDX1BwNUlEMENBRW9DTmhaQ0VxOdIB8gFBVV95cUxPaGp1cTRVYlV6SEw1RGVJV1Q5TVRqTk54TGdiOWRodktwbXlhWkN2NEt6OVZmck9IcS1qYXVvT1dSTDJfcm9adnlrblZTUVZKdUVyZTNMaUh6eWxNNGJ3QVZHVG9BbUZwZ0pQR2IzTkhDdDU5al9BNzFIN0QxMUp5OVh1bTM5ZnBZNUNVMWg4TUVKazlTbHVIZXozd290TEVTNHRacDhLQkxBcVV1MUFlSWgwdW92RE5ON2xJMWFIT2JNVTBpWHRWcF9xMWVpNWpkMEFlTXpoWEFiZVdhalo1NUh4OTJWOWVleUF3YW9ZMEVCZw?oc=5",
@@ -13205,7 +13219,7 @@
             "publishedAt": "2026-10-07T01:44:29.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "萨尔曼·汗（ Salman Khan ）在迪拜活动中引起了粉丝的狂热；安全部门努力在病毒剪辑中阻止粉丝-观看-印度时报",
             "originalTitle": "Salman Khan creates fan frenzy at Dubai event; security struggles to hold back fans in VIRAL clip - WATCH - The Times of India",
             "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNejlpb3ZGT1p0dlBHbXhhOHRnMUZXQmNPVmxxcW1WR1ZkQTNOeXlCWWRqUnZfS0x1RDcxNDhFZmMyUUNPcHRhOUE3SmY0QXZUT2pJY29KUzlLM084WF9wWEY2ZjNvOU80RXNXRmtpeFA1a3VPZzVkSnd6QzJ0MVBucjRYMmduUGowa04yZEh0dzJNdkJqcXJkZUV1OGV1LWs2c0hNUGlvcjNWRm51T0N2WUxOZVFxdERZWk1MLUdlSDRVNFVpTHU3VlJZY0M3dndaNUNBREhXQ0toOXpCYzlsS3RSVjhjb3p6NUh4aFRvY19ZUFNVWERucWo3Ri1LYmdyeXhpai1kY3JoS1ViUTA2dC02dFVVWW1SNDFNLXJkWnhRTmRRSUHSAasCQVVfeXFMTy1xUWJoQUtzUDR1alpmQ1hFVm05WW9UazNEeU1LZW9tX2pSdE9nLWVzQTlEQ2NtMEpYdlp4OEs1cWJVUWJUU3d5VWlWLTlGamVDeFowN1RmbUU0enpTOFR0RTE5d2IyZzJnbVd2NElrb2hxSnZlZmVuYks0UW0xS2llSTk4SXFqVE92eXFDekFHajlEdngxQWJqTnA3OGFSX2lsLVFLVW9UWl9fRUhyTVJGMlNoRUQ4RlJnYk42ck5zOGdNc3JnYlhlQ25YTmlpMDdRRHdlMnI1MXBvSU51LWVVQk8yOGhsSnc5bm54MHRMY1Z0MXRxcjY1RHNGOHYtMFFRWldqeFlhNDVSV01PZno1SjVtMmloT2NtTTE5ZVJsMHh5VUh3ZmZsU0k?oc=5",
@@ -13215,18 +13229,6 @@
             ],
             "heatScore": 52,
             "publishedAt": "2026-10-07T00:35:00.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "阿联酋通过对15岁以下青少年的社交媒体禁令06/22/2026 - MediaPost",
-            "originalTitle": "UAE Passes Social Media Ban For Teens Under 15 06/22/2026 - MediaPost",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2o4Y2tCekQ0LTU1X3Y2X1FVbHdFamNqMTlma3dhQ1l2c0VFekdaNUwxdjlvYjZWelozRFJhdUJEaGNUU19zLWdEakszdWNpRUd3OGVudzEzdU1IRlhfRXozbFczeC1oaExfbUppdFJHdVNjSFVKNXdTekpzOFZ1TFZDOE54M0pBNkswdmVib3RfX2pkRnFoejlBdnhUMGVTTl80dExCWU4?oc=5",
-            "source": "MediaPost",
-            "sources": [
-              "MediaPost"
-            ],
-            "heatScore": 51,
-            "publishedAt": "2026-10-06T22:01:11.000Z"
           }
         ],
         "china": []
