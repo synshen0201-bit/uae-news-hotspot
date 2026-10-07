@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T19:41:59.912Z",
+  "updatedAt": "2026-10-07T19:55:35.840Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -12514,7 +12514,7 @@
     },
     "2026-10-07": {
       "date": "2026-10-07",
-      "updatedAt": "2026-10-07T19:41:59.912Z",
+      "updatedAt": "2026-10-07T19:55:35.840Z",
       "categories": {
         "all": [
           {
@@ -12718,7 +12718,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-07T17:50:48.000Z"
           },
           {
@@ -12730,23 +12730,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-07T14:33:41.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "MBRSG启动阿联酋模型研究中心",
-            "originalTitle": "MBRSG launches UAE Model Research Centre",
-            "url": "https://c.newsnow.co.uk/A/1326442013?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-10-07T17:20:01.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "迪拜获得新的街道标志，其颜色灵感来自每个地区",
             "originalTitle": "Dubai to get new street signs with colours inspired by each area",
             "url": "https://www.khaleejtimes.com/uae/dubai-new-street-signs-colours-for-each-area",
@@ -12758,6 +12746,18 @@
             "publishedAt": "2026-10-07T13:38:37.000Z"
           },
           {
+            "rank": 9,
+            "translatedTitle": "MBRSG启动阿联酋模型研究中心",
+            "originalTitle": "MBRSG launches UAE Model Research Centre",
+            "url": "https://c.newsnow.co.uk/A/1326442013?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-07T17:20:01.000Z"
+          },
+          {
             "rank": 10,
             "translatedTitle": "阿联酋寻求提升海湾工业一体化和供应链弹性",
             "originalTitle": "UAE seeks to boost Gulf industrial integration and supply chain resilience",
@@ -12766,7 +12766,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-10-07T16:48:39.000Z"
           }
         ],
@@ -12819,7 +12819,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 75,
+            "heatScore": 74,
             "publishedAt": "2026-10-07T06:23:37.000Z"
           },
           {
@@ -12831,7 +12831,7 @@
             "sources": [
               "Business Insider Africa"
             ],
-            "heatScore": 67,
+            "heatScore": 68,
             "publishedAt": "2026-10-07T18:00:00.000Z"
           },
           {
@@ -12860,6 +12860,18 @@
           },
           {
             "rank": 8,
+            "translatedTitle": "阿联酋、欧盟削减关税，到2032年将贸易额提升至近500亿美元- Khaleej Times",
+            "originalTitle": "UAE, EU cut tariffs to boost trade to nearly $50 billion by 2032 - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWZPR0FEdWZLaWdLeWVrN1hwRWxvMm55VUxJaG9xVUJTTVluN2ZUT2tRVGh2OWcwSVFYZTlzY3FQdGs4eUdXZm8wbEFnVHNCTzBLb0RYRnpqc0FCb1JkaEpUc2NtWVNjWTdRTk1MbVYwbkg0ZFJQRnU1S3VWU0FpUzAyUEZuYTVrWWFITWNDOTlXYV9NQXZfalZ4aUJrU2J4Y2Ew0gGjAUFVX3lxTFBBZk9HQUR1ZktpZ0t5ZWs3WHBFbG8ybnlVTElob3FVQlNNWW43ZlRPa1FUaHY5ZzBJUVhlOXNjcVB0azh5R1dmbzBsQWdUc0JPMEtvRFhGempzQUJvUmRoSlRzY21ZU2NZN1FOTUxtVjBuSDRkUlBGdTVLdVZTQWlTMDJQRm5hNWtZYUhNY0M5OVdhX01Bdl9qVnhpQmtTYnhjYTA?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-06T08:23:12.000Z"
+          },
+          {
+            "rank": 9,
             "translatedTitle": "Anwar Gargash外交学院与阿联酋运动科学和运动医学中心签署合作备忘录- Big News Network.com",
             "originalTitle": "Anwar Gargash Diplomatic Academy, UAE Sports Science and Sports Medicine Center sign Memorandum of Cooperation - Big News Network.com",
             "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZlBBSGxqNXk2ZHpmMjJvaDNqeHFTcHZxTWNoMEhfUy1wdWp3TzNpM1VtdU5rNXBhcTl4QmtONWRrbDVGcW1pOUt6S1JrckVvdy1ZR0RhWU0wS0U3THpBMXdmVGVvSVFDT2UxVWZYSUFCdFF3ODhPRHpjRURwVzlSY2tGX0lJMFBnTGJXRWoycGwtVzJkejgzcjFPQ3l6ZzVXMHFJbHdBc0ozeEkzSjFheUViR1ZxTUNxMHg3eFpaZzBnanJCUDNJUFJ3RmFkZkdwRUJYNlFaX3R4YnVwQXR3ZTZpWndseVNqb3Z3?oc=5",
@@ -12867,11 +12879,11 @@
             "sources": [
               "Big News Network.com"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-10-07T13:09:00.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "阿联酋与欧亚经济联盟之间的经济协议生效-金砖国家电视台",
             "originalTitle": "Economic agreement between UAE and EAEU comes into force - TV BRICS",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaE0wMGFqWGJxMy1BWFFrbXgtbW9RSjhLOTZtQXRSZzlYTEFNMUZad3U4SHhBSWlYdVpvNlVkNDJ4dThwdmNIZFJJc0Q2U28xSWNnVWFQREFlUUFHTEhrT2ZVb1VNWUtLMGQyQWJTcUt5a2lndEVaZUp4Y00tZnZCSGlXZml4b0ZuV3A3ZHZ3?oc=5",
@@ -12881,18 +12893,6 @@
             ],
             "heatScore": 57,
             "publishedAt": "2026-10-07T08:37:58.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "欧亚经济联盟、阿联酋自由贸易协定生效--俄罗斯转向亚洲",
-            "originalTitle": "Eurasian Economic Union, United Arab Emirates Free Trade Agreement Comes Into Effect - russia's pivot to asia",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFpOY1RHeV9xTEZYT0RXNDRud1JOSGZhWDVCcFJwNGJjSk9FUWJRbWhHYnVIMk5rT25sUWFVX0VlRWVBV1VKSVRrcFBQY3ZpY2N3NW1IMFFyVzZOOHBEUlVTeDVscUFHUjNyc2lEdWVmWHd5ZTNVamhnYmJQQU9NMWE3aDFhZlRMMkdTdXJPaTU2RVRrQkYtekZEaWMzUjZtVFNWXzVVR1FOSUlYSDMxclVpRlJWQQ?oc=5",
-            "source": "russia's pivot to asia",
-            "sources": [
-              "russia's pivot to asia"
-            ],
-            "heatScore": 56,
-            "publishedAt": "2026-10-07T10:54:35.000Z"
           }
         ],
         "economy": [
@@ -12918,7 +12918,7 @@
             "sources": [
               "The Times of India"
             ],
-            "heatScore": 67,
+            "heatScore": 66,
             "publishedAt": "2026-10-07T18:50:09.000Z"
           },
           {
@@ -12930,7 +12930,7 @@
             "sources": [
               "Voice Of Emirates"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-07T17:45:09.000Z"
           },
           {
@@ -12968,7 +12968,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-07T13:54:45.000Z"
           },
           {
@@ -12980,7 +12980,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-10-07T16:42:11.000Z"
           }
         ],
@@ -13055,18 +13055,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "胡塞武装袭击沙特阿拉伯和也门机场，阿联酋谴责胡塞武装袭击民用设施- Revoi.in",
-            "originalTitle": "Houthis attack Airports in Saudi Arabia and Yemen, UAE condemns Houthi attacks on civilian facilities - Revoi.in",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlE0cWlaQlpBTUFQRzUyaGxQbXRpeExDVjNiajc5RFc2a29qMzNiTVNIMUJmZzNiV3dRMmRFNTI1Zy0zZnNuak9iY3NvQWJfV2NVd1VQaEM3X1lPdDFoWHd3WFA0V0JDN1R1aFFTXy1Qb3V0TWg1eGJSX3g5R05EeTloSk5MR3ducnVhS0lCeDJBSmdVODN2dC15VFRfcmt6ZUZNOXpuWUE1bjEybGRrbnkzS25YazRXc1c0VjZYUmo4ZS1r?oc=5",
-            "source": "Revoi.in",
-            "sources": [
-              "Revoi.in"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-07T13:10:25.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "摩洛哥、阿联酋在地区紧张局势中深化军事关系--《阿拉伯周刊》",
             "originalTitle": "Morocco, UAE deepen military ties amid regional tensions - The Arab Weekly",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEd5TjIwR2lMLU04cWJ0ZElTMEtrd2hWVUxsemdESFpQY3NzbVMwVDZ2Q1R1OUl0bzZCeGtoNnlPUmxUMTlWY1EyeDliYnBQYkk0UG5ZMmgyR1RZRlNFWkF0YmcwbW1oY0wzTURycTBBU1FJclJSZ19FR3lYOF9IRk1HbXBMRXpD?oc=5",
@@ -13076,6 +13064,18 @@
             ],
             "heatScore": 59,
             "publishedAt": "2026-10-07T10:01:30.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "胡塞武装袭击沙特阿拉伯和也门机场，阿联酋谴责胡塞武装袭击民用设施- Revoi.in",
+            "originalTitle": "Houthis attack Airports in Saudi Arabia and Yemen, UAE condemns Houthi attacks on civilian facilities - Revoi.in",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlE0cWlaQlpBTUFQRzUyaGxQbXRpeExDVjNiajc5RFc2a29qMzNiTVNIMUJmZzNiV3dRMmRFNTI1Zy0zZnNuak9iY3NvQWJfV2NVd1VQaEM3X1lPdDFoWHd3WFA0V0JDN1R1aFFTXy1Qb3V0TWg1eGJSX3g5R05EeTloSk5MR3ducnVhS0lCeDJBSmdVODN2dC15VFRfcmt6ZUZNOXpuWUE1bjEybGRrbnkzS25YazRXc1c0VjZYUmo4ZS1r?oc=5",
+            "source": "Revoi.in",
+            "sources": [
+              "Revoi.in"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-10-07T13:10:25.000Z"
           },
           {
             "rank": 8,
@@ -13136,20 +13136,20 @@
             "sources": [
               "ABS-CBN"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-07T15:29:22.000Z"
           },
           {
             "rank": 3,
             "translatedTitle": "迪拜寻址系统的新视觉标识- ARN新闻中心",
             "originalTitle": "New visual identity for Dubai’s addressing system - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW14YUVSWUU2MHB1Y2lKZ19sSW5zRzA3TUJCVW8tazVJaFRyZC1peVVULUE0b2dIT1BlMnAyYnlmVm1MWG5EQTVxQ2lsOG54N2VLQW1vbzc1Sk9aMWx6WFV2Rmo2TE9jWl9FZkFjdnZjTXlUd0JHdk40U0VpMGtwUHF6ZUF1VjB5NUl4OVZRMnRXTEwz?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnVhbWVsX1N6RVZ3dUdaNnNSQnBhWE9MQzVSeHpoSlF6aDZVb01Uc0pIRjNMV2g2cWU0RkhxbkFVV29UUktrMHZZUThrandpWHVkMUNBSU5jUF9qc0E5dGQ0Wm5WX010eXRLMGJUSk80NFc3aXFFclNwVEV4ZkFmUzhtYjhfX1o0SkhhWWpEakU?oc=5",
             "source": "ARN News Centre",
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-07T15:01:04.000Z"
+            "heatScore": 64,
+            "publishedAt": "2026-10-07T15:00:36.000Z"
           },
           {
             "rank": 4,
@@ -13213,18 +13213,6 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "飞行禁令、社交媒体活动：多次错过安全警告如何允许副驾驶进入Flydubai C -新闻18",
-            "originalTitle": "Flying Ban, Social Media Activities: How Multiple Missed Security Warnings Allowed Co-Pilot Into Flydubai C - News18",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhTSE9qZ212OGl5WXZpNWlwaVQ3SW5ubm5DUTVJcnFIRG8tNlFnWWRNemR5LTN2QkJKQW1SVXhaNERvY3NSYjM3N2JzRlJBMG51Mkl5WHlJMkI3TTdCMThiODgwTE4wWWViekN3bnlDYmVSZHA3VjhqcGs0WVFUaC1aRnk2NTd6M3hYWElnUW8xNzNpa0IwZlJxNVJSUTExR1RPM1ppT21raFlYdWVjV3FSQzFKbXR4VWc0bDVNV0pmWldZTHBIb3BBYXBGZWo3OEdTQ0NObFVDX1BwNUlEMENBRW9DTmhaQ0VxOdIB8gFBVV95cUxPaGp1cTRVYlV6SEw1RGVJV1Q5TVRqTk54TGdiOWRodktwbXlhWkN2NEt6OVZmck9IcS1qYXVvT1dSTDJfcm9adnlrblZTUVZKdUVyZTNMaUh6eWxNNGJ3QVZHVG9BbUZwZ0pQR2IzTkhDdDU5al9BNzFIN0QxMUp5OVh1bTM5ZnBZNUNVMWg4TUVKazlTbHVIZXozd290TEVTNHRacDhLQkxBcVV1MUFlSWgwdW92RE5ON2xJMWFIT2JNVTBpWHRWcF9xMWVpNWpkMEFlTXpoWEFiZVdhalo1NUh4OTJWOWVleUF3YW9ZMEVCZw?oc=5",
-            "source": "News18",
-            "sources": [
-              "News18"
-            ],
-            "heatScore": 52,
-            "publishedAt": "2026-10-07T01:44:29.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "萨尔曼·汗（ Salman Khan ）在迪拜活动中引起了粉丝的狂热；安全部门努力在病毒剪辑中阻止粉丝-观看-印度时报",
             "originalTitle": "Salman Khan creates fan frenzy at Dubai event; security struggles to hold back fans in VIRAL clip - WATCH - The Times of India",
             "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNejlpb3ZGT1p0dlBHbXhhOHRnMUZXQmNPVmxxcW1WR1ZkQTNOeXlCWWRqUnZfS0x1RDcxNDhFZmMyUUNPcHRhOUE3SmY0QXZUT2pJY29KUzlLM084WF9wWEY2ZjNvOU80RXNXRmtpeFA1a3VPZzVkSnd6QzJ0MVBucjRYMmduUGowa04yZEh0dzJNdkJqcXJkZUV1OGV1LWs2c0hNUGlvcjNWRm51T0N2WUxOZVFxdERZWk1MLUdlSDRVNFVpTHU3VlJZY0M3dndaNUNBREhXQ0toOXpCYzlsS3RSVjhjb3p6NUh4aFRvY19ZUFNVWERucWo3Ri1LYmdyeXhpai1kY3JoS1ViUTA2dC02dFVVWW1SNDFNLXJkWnhRTmRRSUHSAasCQVVfeXFMTy1xUWJoQUtzUDR1alpmQ1hFVm05WW9UazNEeU1LZW9tX2pSdE9nLWVzQTlEQ2NtMEpYdlp4OEs1cWJVUWJUU3d5VWlWLTlGamVDeFowN1RmbUU0enpTOFR0RTE5d2IyZzJnbVd2NElrb2hxSnZlZmVuYks0UW0xS2llSTk4SXFqVE92eXFDekFHajlEdngxQWJqTnA3OGFSX2lsLVFLVW9UWl9fRUhyTVJGMlNoRUQ4RlJnYk42ck5zOGdNc3JnYlhlQ25YTmlpMDdRRHdlMnI1MXBvSU51LWVVQk8yOGhsSnc5bm54MHRMY1Z0MXRxcjY1RHNGOHYtMFFRWldqeFlhNDVSV01PZno1SjVtMmloT2NtTTE5ZVJsMHh5VUh3ZmZsU0k?oc=5",
@@ -13234,6 +13222,18 @@
             ],
             "heatScore": 52,
             "publishedAt": "2026-10-07T00:35:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "飞行禁令、社交媒体活动：多次错过安全警告如何允许副驾驶进入Flydubai C -新闻18",
+            "originalTitle": "Flying Ban, Social Media Activities: How Multiple Missed Security Warnings Allowed Co-Pilot Into Flydubai C - News18",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhTSE9qZ212OGl5WXZpNWlwaVQ3SW5ubm5DUTVJcnFIRG8tNlFnWWRNemR5LTN2QkJKQW1SVXhaNERvY3NSYjM3N2JzRlJBMG51Mkl5WHlJMkI3TTdCMThiODgwTE4wWWViekN3bnlDYmVSZHA3VjhqcGs0WVFUaC1aRnk2NTd6M3hYWElnUW8xNzNpa0IwZlJxNVJSUTExR1RPM1ppT21raFlYdWVjV3FSQzFKbXR4VWc0bDVNV0pmWldZTHBIb3BBYXBGZWo3OEdTQ0NObFVDX1BwNUlEMENBRW9DTmhaQ0VxOdIB8gFBVV95cUxPaGp1cTRVYlV6SEw1RGVJV1Q5TVRqTk54TGdiOWRodktwbXlhWkN2NEt6OVZmck9IcS1qYXVvT1dSTDJfcm9adnlrblZTUVZKdUVyZTNMaUh6eWxNNGJ3QVZHVG9BbUZwZ0pQR2IzTkhDdDU5al9BNzFIN0QxMUp5OVh1bTM5ZnBZNUNVMWg4TUVKazlTbHVIZXozd290TEVTNHRacDhLQkxBcVV1MUFlSWgwdW92RE5ON2xJMWFIT2JNVTBpWHRWcF9xMWVpNWpkMEFlTXpoWEFiZVdhalo1NUh4OTJWOWVleUF3YW9ZMEVCZw?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18"
+            ],
+            "heatScore": 51,
+            "publishedAt": "2026-10-07T01:44:29.000Z"
           }
         ],
         "china": []
