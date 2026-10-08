@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T19:43:27.339Z",
+  "updatedAt": "2026-10-08T19:59:51.476Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -13241,7 +13241,7 @@
     },
     "2026-10-08": {
       "date": "2026-10-08",
-      "updatedAt": "2026-10-08T19:43:27.339Z",
+      "updatedAt": "2026-10-08T19:59:51.476Z",
       "categories": {
         "all": [
           {
@@ -13268,21 +13268,20 @@
               "Gulf News",
               "ARN News Centre"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-08T13:56:25.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "沙特国王邀请阿联酋总统参加海湾合作委员会-欧盟峰会-迪拜之眼103.8",
-            "originalTitle": "Saudi King invites UAE President to GCC-EU summit - Dubai Eye 103.8",
-            "url": "https://www.arabnews.com/saudi-arabia/saudi-arabias-king-salman-invites-uae-president-to-second-eu-gcc-summit-3005290",
+            "translatedTitle": "“没有纪律的野心是危险的” ： Elda Choucair谈到迪拜山猫的荣誉和建设中东和北非的媒体产业",
+            "originalTitle": "‘Ambition without discipline is dangerous’: Elda Choucair on the Dubai Lynx honor and building MENA’s media industry",
+            "url": "https://www.arabnews.com/media/ambition-without-discipline-is-dangerous-elda-choucair-on-the-dubai-lynx-honor-and-building-menas-media-industry-3005366",
             "source": "Arab News",
             "sources": [
-              "Dubai Eye 103.8",
               "Arab News"
             ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-08T15:20:06.000Z"
+            "heatScore": 87,
+            "publishedAt": "2026-10-08T19:54:57.000Z"
           },
           {
             "rank": 4,
@@ -13347,18 +13346,6 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "孟加拉国的目标是在阿富汗试验中继续取得进展",
-            "originalTitle": "Bangladesh aim to keep progress going in Afghanistan Test",
-            "url": "https://www.arabnews.com/cricket/bangladesh-aim-to-keep-progress-going-in-afghanistan-test-3005354",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-08T18:36:30.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "迪拜奇迹花园（ Dubai Miracle Garden ）新季开业，每周盛开2亿朵鲜花",
             "originalTitle": "Dubai Miracle Garden opens for new season with 200 million flowers, weekly themes",
             "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-season-15-open",
@@ -13368,11 +13355,35 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-10-08T15:57:17.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "孟加拉国的目标是在阿富汗试验中继续取得进展",
+            "originalTitle": "Bangladesh aim to keep progress going in Afghanistan Test",
+            "url": "https://www.arabnews.com/cricket/bangladesh-aim-to-keep-progress-going-in-afghanistan-test-3005354",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-08T18:36:30.000Z"
           }
         ],
         "domestic": [
           {
             "rank": 1,
+            "translatedTitle": "“没有纪律的野心是危险的” ： Elda Choucair谈到迪拜山猫的荣誉和建设中东和北非的媒体产业",
+            "originalTitle": "‘Ambition without discipline is dangerous’: Elda Choucair on the Dubai Lynx honor and building MENA’s media industry",
+            "url": "https://www.arabnews.com/media/ambition-without-discipline-is-dangerous-elda-choucair-on-the-dubai-lynx-honor-and-building-menas-media-industry-3005366",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-10-08T19:54:57.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "沙特阿拉伯和阿联酋同意加强电网和铁路连接",
             "originalTitle": "Saudi Arabia and UAE agree to strengthen power grid and rail connectivity",
             "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-and-uae-agree-to-strengthen-power-grid-and-rail-connectivity-3005358",
@@ -13382,18 +13393,6 @@
             ],
             "heatScore": 86,
             "publishedAt": "2026-10-08T19:34:27.000Z"
-          },
-          {
-            "rank": 2,
-            "translatedTitle": "孟加拉国的目标是在阿富汗试验中继续取得进展",
-            "originalTitle": "Bangladesh aim to keep progress going in Afghanistan Test",
-            "url": "https://www.arabnews.com/cricket/bangladesh-aim-to-keep-progress-going-in-afghanistan-test-3005354",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-08T18:36:30.000Z"
           },
           {
             "rank": 3,
@@ -13409,6 +13408,18 @@
           },
           {
             "rank": 4,
+            "translatedTitle": "孟加拉国的目标是在阿富汗试验中继续取得进展",
+            "originalTitle": "Bangladesh aim to keep progress going in Afghanistan Test",
+            "url": "https://www.arabnews.com/cricket/bangladesh-aim-to-keep-progress-going-in-afghanistan-test-3005354",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-08T18:36:30.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "哈伊马角（ Ras Al Khaimah ）警方确认失踪妇女死亡",
             "originalTitle": "Missing woman confirmed dead by police in Ras Al Khaimah",
             "url": "https://c.newsnow.co.uk/A/1326554343?-15565:1965",
@@ -13420,7 +13431,7 @@
             "publishedAt": "2026-10-08T18:14:57.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "猎鹰高管获准在迪拜直升机公园飞行",
             "originalTitle": "Falcon Executive Cleared for Flights at Dubai Helipark",
             "url": "https://c.newsnow.co.uk/A/1326554290?-15565:1965",
@@ -13432,7 +13443,7 @@
             "publishedAt": "2026-10-08T18:14:04.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "M42在阿布扎比开始为肾脏疾病、糖尿病患者提供可穿戴健康试点",
             "originalTitle": "M42 begins wearable health pilot in Abu Dhabi for kidney disease, diabetes patients",
             "url": "https://www.khaleejtimes.com/lifestyle/health/m42-wearable-health-pilot-abu-dhabi-kidney-disease-diabetes-patients",
@@ -13444,7 +13455,7 @@
             "publishedAt": "2026-10-08T14:48:53.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "迪拜环球港务集团与孟加拉国主要集装箱码头签署15年运营",
             "originalTitle": "DP World signs 15-year deal to operate major Bangladesh container terminal",
             "url": "https://www.khaleejtimes.com/uae/dp-world-signs-15-year-deal-to-operate-major-bangladesh-container-terminal",
@@ -13456,7 +13467,7 @@
             "publishedAt": "2026-10-08T14:30:18.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "沙迦节日为Al Heera海滩带来单桅帆船比赛和珊瑚工坊",
             "originalTitle": "Sharjah festival brings dhow race, coral workshops to Al Heera Beach",
             "url": "https://www.khaleejtimes.com/uae/sharjah-sir-bu-nair-festival-al-heera-beach",
@@ -13464,32 +13475,20 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-08T14:22:40.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "阿联酋，沙特签署谅解备忘录以促进铁路，能源连接",
-            "originalTitle": "UAE, Saudi sign MoU to boost rail, energy links",
-            "url": "https://c.newsnow.co.uk/A/1326549975?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-10-08T17:22:56.000Z"
-          },
-          {
             "rank": 10,
-            "translatedTitle": "伊朗核负责人表示，伊朗不会放弃铀浓缩或交出铀",
-            "originalTitle": "Iran will not abandon uranium enrichment or hand over its uranium, nuclear chief says",
-            "url": "https://www.arabnews.com/middle-east/iran-will-not-abandon-uranium-enrichment-or-hand-over-its-uranium-nuclear-chief-says-3005346",
-            "source": "Arab News",
+            "translatedTitle": "阿联酋：根据新法律，因煽动、协助自杀而入狱长达7年",
+            "originalTitle": "UAE: Up to 7 years in jail for inciting, assisting suicide under new law",
+            "url": "https://www.khaleejtimes.com/uae/uae-up-to-7-years-in-jail-for-inciting-assisting-suicide-under-new-law",
+            "source": "Khaleej Times",
             "sources": [
-              "Arab News"
+              "Khaleej Times"
             ],
             "heatScore": 80,
-            "publishedAt": "2026-10-08T17:20:04.000Z"
+            "publishedAt": "2026-10-08T14:18:12.000Z"
           }
         ],
         "diplomacy": [
@@ -13517,24 +13516,11 @@
               "Gulf News",
               "ARN News Centre"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-08T13:56:25.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "沙特国王邀请阿联酋总统参加海湾合作委员会-欧盟峰会-迪拜之眼103.8",
-            "originalTitle": "Saudi King invites UAE President to GCC-EU summit - Dubai Eye 103.8",
-            "url": "https://www.arabnews.com/saudi-arabia/saudi-arabias-king-salman-invites-uae-president-to-second-eu-gcc-summit-3005290",
-            "source": "Arab News",
-            "sources": [
-              "Dubai Eye 103.8",
-              "Arab News"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-08T15:20:06.000Z"
-          },
-          {
-            "rank": 4,
             "translatedTitle": "阿联酋和沙特阿拉伯签署铁路和能源协议，以促进贸易和互联互通",
             "originalTitle": "UAE and Saudi Arabia sign rail and energy agreement to boost trade and connectivity",
             "url": "https://c.newsnow.co.uk/A/1326555381?-15565:1965",
@@ -13546,7 +13532,7 @@
             "publishedAt": "2026-10-08T18:29:19.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "阿联酋总统收到两圣寺护法邀请出席海湾合作委员会-欧盟峰会- www.wam.ae",
             "originalTitle": "UAE President receives invitation from Custodian of Two Holy Mosques to attend GCC–EU Summit - www.wam.ae",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkFjQVhlX3ZTYU9fcGs4cnRPTThDa3RhR2JKbWd0MzZwZkhrVHMzWm1Ccnk1RjR1b2RPbmFqczRCWlZrS1VYbTN0S2JDYmhjNVI5SXdSNGJmVEpZS0ZKQzc1RFhQQW9DZm1IdExWdDQyOUgtTzRBSW1tSWkyZTFZZ1lNek9CSUVvRGdJbThmWQ?oc=5",
@@ -13558,7 +13544,7 @@
             "publishedAt": "2026-10-08T10:36:30.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "阿联酋支持的GlobalFoundries和台积电宣布达成20亿美元的制造协议- The National",
             "originalTitle": "UAE-backed GlobalFoundries and TSMC announce $2bn manufacturing agreement - The National",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVlZeXRHNmU0dWVxQ0pjWmd1ZjdtVHBwaDk5aFRSWXY0STkxcVFTa01oZTNVNExFTVRkZnhkelRDcDZ0Zm03Z0xUeTFEWTlGbUlOTURUUEdZTmpnOFZiWlhrRVFrcTQ2UW1oUmxmQTVmREE0eEVQdzNyY0ZNMy1OYmtRTXZyZERtbi1yRWRRVEwzWkJ2R09jd3Y1VzFLblRoNlc4V001OGQxcTVsN0M2b2dGeHI2V1c1Njdyel9rT1g3Nlp2NWRFbTJ0TDFOQjg?oc=5",
@@ -13570,7 +13556,7 @@
             "publishedAt": "2026-10-08T15:16:23.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "孟加拉国与总部位于阿联酋的DP World签署了为期15年的港口协议-中东监测",
             "originalTitle": "Bangladesh signs 15-year port deal with UAE-based DP World - Middle East Monitor",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFM3YzFQQmlLdjlTRjExNGNmazRLLXRMYkU2ZlFqQVlTa0NFOG1tQnJ6MEpNMnBEbmQ3VjBkR0Zpd2RqUi1NekwwYXlXTWd2UnpzbHBsZmNZcmt3QjJCSDFCSDdZTTZ2Tm16bHFUdVNxSFhhSGJ5bTVMVkhIM3pZSDBPdWFJY0YyYVJXUkxENFNkMjE4NGpWb1BfYXZwYXdsV1BsR9IBqgFBVV95cUxQSlhNeDdTcUpJUlcycEIxVi1SWTVydXBjYkVvdkdBN0k0ZFp3V3FLMEJSMUJLcDd0RkFCYkxhNWRtbE1Ka0tnb1VMTDVkN3U1V3BUQVlkSnlFSjNieXlRejRNNGgwSXhHZEMteVNqX0pnOGxDYVRfMnNfUWdzVUlZMmcydTVrZ1dFWlJlR0R6a2ZOeHplN21SckF5QUs0ZU56cFNXR2gzZDBfdw?oc=5",
@@ -13582,7 +13568,7 @@
             "publishedAt": "2026-10-08T16:25:00.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿联酋和泰国敲定具有里程碑意义的CEPA贸易协议|金砖国家电视台， 08.10.26 -金砖国家电视台",
             "originalTitle": "UAE and Thailand finalize landmark CEPA trade deal | TV BRICS, 08.10.26 - TV BRICS",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzFaNmtUWi1fTnMzcU0yVnh1Vkg2VUR2a253bllQX21Ea1pKVHhpQVdVMEJDV0YxdXBtT0xxbkJwNXNBRnFJWGFBRXYyRlRCb1lXV1k5cGg0REthUkVBbGZUWTdZRk5TUU9PRHRGVFZGeENVTmhpTHMxaXJrVlJCc0Z4RW9tUDd5Tm9IX053MEk2UQ?oc=5",
@@ -13592,6 +13578,18 @@
             ],
             "heatScore": 61,
             "publishedAt": "2026-10-08T16:02:31.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "沙特国王邀请阿联酋总统参加海湾合作委员会-欧盟峰会-迪拜之眼103.8",
+            "originalTitle": "Saudi King invites UAE President to GCC-EU summit - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDhKWVRqeDJ5R3NVc0s4dVFhQjhXQWh0ejRJQWhkSXF0SzRmc3gtVkpnbU9nbnU4VkQyU0JETTJZLU5OeFUtX0lNZjNRVUtFelVQalhzMHN1OEliN19ya2lPbWZSR1ZjZU9lX0hYOXRxeWZUZXRyQVlOWnFVcXZZU2FxOXRSS3laSmJjX2JZQW0tVDNH?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-08T15:20:06.000Z"
           },
           {
             "rank": 9,
@@ -13755,7 +13753,7 @@
               "Dubai Eye 103.8",
               "ARN News Centre"
             ],
-            "heatScore": 75,
+            "heatScore": 74,
             "publishedAt": "2026-10-08T15:40:08.000Z"
           },
           {
@@ -13767,7 +13765,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 70,
+            "heatScore": 69,
             "publishedAt": "2026-10-08T06:16:40.000Z"
           },
           {
@@ -13815,7 +13813,7 @@
             "sources": [
               "Big News Network.com"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-10-08T14:47:00.000Z"
           },
           {
@@ -13834,15 +13832,15 @@
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋修订《刑法》条款- ARN新闻中心",
-            "originalTitle": "UAE amends provisions of Crimes and Penalties Law - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcENveDRyb1lsZHpnTVh3LTNPMDlNbDA0eEVPOXg1RXVOZEttUEt2V0NBeUIxQS04UXBiRWRtWEduNURTZVJYZlFIVlNqUTJ0c3dIcVEwMks2NXFBTmJRcGhKQ2FvZGIxZ19uZzczVnJkU09wb3BKRy12dUcxODdGd2doWDJxM3pIOVFjR0tSYXFMVmQ2c2c?oc=5",
+            "translatedTitle": "迪拜篮球队遭遇赛季首场主场失利- ARN新闻中心",
+            "originalTitle": "Dubai Basketball suffer first home defeat of season - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdm1HSV96ZVgydXZXMkQtbnJ4TU55UExLbEs1a0trU1p3S1hpOG1wTjZlNGJ6N0xUYmlxNWZMa3IyZ0ZYc2gtWmRKQXgwelR2RFV1bFl2SmR0SkFLTFAyaFJxTjNrZzFmOTA5Tml6TGVNNnF5Wnd3QllxTnFWRlBWc3ZrcExjMmdQcUJaVWlHMGkyWWJNS0tTTkttZnM?oc=5",
             "source": "ARN News Centre",
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-08T15:30:12.000Z"
+            "heatScore": 69,
+            "publishedAt": "2026-10-08T19:50:56.000Z"
           },
           {
             "rank": 2,
@@ -13858,6 +13856,18 @@
           },
           {
             "rank": 3,
+            "translatedTitle": "阿联酋修订《刑法》条款- ARN新闻中心",
+            "originalTitle": "UAE amends provisions of Crimes and Penalties Law - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcENveDRyb1lsZHpnTVh3LTNPMDlNbDA0eEVPOXg1RXVOZEttUEt2V0NBeUIxQS04UXBiRWRtWEduNURTZVJYZlFIVlNqUTJ0c3dIcVEwMks2NXFBTmJRcGhKQ2FvZGIxZ19uZzczVnJkU09wb3BKRy12dUcxODdGd2doWDJxM3pIOVFjR0tSYXFMVmQ2c2c?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-08T15:30:12.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "FlyDubai袭击者在厌恶女性的社交媒体帖子中称女性为“腐肉” ：报告-独立报",
             "originalTitle": "FlyDubai attacker called women ‘rotten flesh’ in misogynistic social media posts: report - The Independent",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjJUdmVlZHltQ1MwLWdnMjdfSllqSmc5MEkwekUtZDYtckgxelZsUmExY21TcU5CY1lXYUhmWlB4d2RTNF9LdXRiUFpkUzdUX1hfSFprZ3NEbWw0UEh6ZjJHZTlhSnE3X2dTT20wbnlGN2l3Zjh1WVhPbkc5bkJQVk9SakV0TmlZa2Itd0VYLU51TTFzM2NQdEh0Z0ZYczdaZVV4TkRoZ0pfSV9PUDRsSA?oc=5",
@@ -13865,11 +13875,11 @@
             "sources": [
               "The Independent"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-08T10:54:00.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "卑鄙的社交媒体帖子“由FlyDubai劫持嫌疑人分享” -独立报",
             "originalTitle": "The vile social media posts ‘shared by FlyDubai hijacking suspect’ - The Independent",
             "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYk00cWtySlpnbkFjWEFaM25HQmJDM1RsTDh3VnA4UGFmejdTYW9wbWNPRUdMSlFYZkZDeFB5bV91N050ckJvSzNrUjE5Yk1BSnNyNVpicjRzOTdlU0w0Xy1IR2ZRZlpPZGZwTVJoQU9nYTJiT0FZQVFielVWNjNqMFZ3aVNMcnRHcDB3NzVBejdLRl9PZ0RDNERuamRPTXM?oc=5",
@@ -13881,7 +13891,7 @@
             "publishedAt": "2026-10-08T11:14:00.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "平静的猫语者：与迪拜病毒式猫咪美容视频背后的Pinoy见面- ABS-CBN",
             "originalTitle": "Calm cat whisperer: Meet the Pinoy behind the viral cat grooming videos in Dubai - ABS-CBN",
             "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTnJSOHVzLTJHZEVrTDF6Z2otM2V0aVl4WVdsbXVzd2VpUmJ2cGJGT09MZmJNNTI4NkllQktjdWt2aXFQaE5rUGNPTHd6dWZObXpabzBiYThIc1AtbHJnYVFCUF9xcVc3bnZqT1NOZVNieU53Nk5Dd1VfRTFJdjExeXdSWl9ObWhhR2YwSzJrN3BwY1pLQW1tT3JNN2hOQUxudG1XS1V1aThfZW5yWWVNQnc4NTJVamlhbWJMSU92Mm1Sa19RcmRQcU9zLUdaZVdaeWM2bmdNbzFJYkNpV3lybXlaZHc?oc=5",
@@ -13891,18 +13901,6 @@
             ],
             "heatScore": 59,
             "publishedAt": "2026-10-08T09:10:04.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "这位女士分享了班加罗尔、海得拉巴和迪拜的人生教训： “塑造我是谁的三座城市” |热门话题-《印度斯坦时报》",
-            "originalTitle": "Woman shares life lessons from Bengaluru, Hyderabad and Dubai: ‘Three cities that shaped who I am’ | Trending - Hindustan Times",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzd0R0VpZ1h6cE5WME12NlBUV1ItaFRjUjZBbDBaWHJqazRZYVNVMTRmSlROcDRfM0pKbm1uSHY1dmlMVHc1ZXlyZ0ZDSzAyVUVzU3NDYzNZZXNoTzZueWVSemlCOGVwQmI2N3ZiZXlfS09mRmlFbnJ2ZkhaTHZuaWZKdHM3cjl1eXJWRzg0ZU5FU1Y2TTJfRm1BOEl3YjllSy1iMnZhTmlvUDAxb05iSG82UU5xaV9TcmNPVFdRRDZzMWhscjB2S25Pd0FmdEJaSThCa1BQVjVLVzZkMlY2QnpBc19SMlpYRnFv0gHwAUFVX3lxTE9oY1RERDlicFlXTDhPZE41V2gxZS11YldBbVJORnFvYVhXRFlMMXNFV1dUaHN4c25XMThIb0RteS03RG1aR0FlcnJVTG9yZ0gwQVdGM0tvYUFmOWltUUR1eURqOTRnd0xGcVJ6LW1GNkhDXzQ5VXN5UHl2a1hRWFpZUzFwbzNLTUdpOVZiQ1RwMnlUYzZqems5UFppaEdjQlNaR2FfMDd1UElCQnlGR01JYjcyYzFQTDYyV0hlR0hzOTM4SF9VU1hvVzFaWlV5c0JKcVNWMFFNdmRmVDNPanpZMmNwbGxDRWtrbUZkVTJrcA?oc=5",
-            "source": "Hindustan Times",
-            "sources": [
-              "Hindustan Times"
-            ],
-            "heatScore": 58,
-            "publishedAt": "2026-10-08T07:02:41.000Z"
           },
           {
             "rank": 7,
@@ -13930,6 +13928,18 @@
           },
           {
             "rank": 9,
+            "translatedTitle": "这位女士分享了班加罗尔、海得拉巴和迪拜的人生教训： “塑造我是谁的三座城市” |热门话题-《印度斯坦时报》",
+            "originalTitle": "Woman shares life lessons from Bengaluru, Hyderabad and Dubai: ‘Three cities that shaped who I am’ | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzd0R0VpZ1h6cE5WME12NlBUV1ItaFRjUjZBbDBaWHJqazRZYVNVMTRmSlROcDRfM0pKbm1uSHY1dmlMVHc1ZXlyZ0ZDSzAyVUVzU3NDYzNZZXNoTzZueWVSemlCOGVwQmI2N3ZiZXlfS09mRmlFbnJ2ZkhaTHZuaWZKdHM3cjl1eXJWRzg0ZU5FU1Y2TTJfRm1BOEl3YjllSy1iMnZhTmlvUDAxb05iSG82UU5xaV9TcmNPVFdRRDZzMWhscjB2S25Pd0FmdEJaSThCa1BQVjVLVzZkMlY2QnpBc19SMlpYRnFv0gHwAUFVX3lxTE9oY1RERDlicFlXTDhPZE41V2gxZS11YldBbVJORnFvYVhXRFlMMXNFV1dUaHN4c25XMThIb0RteS03RG1aR0FlcnJVTG9yZ0gwQVdGM0tvYUFmOWltUUR1eURqOTRnd0xGcVJ6LW1GNkhDXzQ5VXN5UHl2a1hRWFpZUzFwbzNLTUdpOVZiQ1RwMnlUYzZqems5UFppaEdjQlNaR2FfMDd1UElCQnlGR01JYjcyYzFQTDYyV0hlR0hzOTM4SF9VU1hvVzFaWlV5c0JKcVNWMFFNdmRmVDNPanpZMmNwbGxDRWtrbUZkVTJrcA?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-08T07:02:41.000Z"
+          },
+          {
+            "rank": 10,
             "translatedTitle": "凯蒂·普莱斯（ Katie Price ）的前李·安德鲁斯（ Lee Andrews ）被指控在出狱数小时后“伪造自己的死亡” ，并发誓要离开迪拜-太阳报",
             "originalTitle": "Katie Price's ex Lee Andrews accused of 'faking his own death' hours after prison release and vowing to quit Dubai - The Sun",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2Zydy02a3JwTUQzNlN0RldKMlROQXFlcjc4dXVqNVVneUNmelV0Tml4WWp4R25TX28wTGNhOG9VRmRVVmpnTzNIcUhpTmhLaEQ4Z2VBVWFaVk52Y0N6SERkNVpQRFdrZlFxUWxOZllPbGlBdm1Yd2d5eHBJQXBQZ2hnb0Fma1EwTjFyM3NVNVhCWElXUWQtWjZDbTRRSWtnVE1j?oc=5",
@@ -13937,20 +13947,8 @@
             "sources": [
               "The Sun"
             ],
-            "heatScore": 56,
-            "publishedAt": "2026-10-08T10:29:00.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "船长Smit Machhar健康更新| Flydubai飞行员在阿布扎比康复-卡纳克新闻奥里萨邦",
-            "originalTitle": "Captain Smit Machhar Health Update | Flydubai Pilot Recovering in Abu Dhabi - Kanak News Odisha",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnduRTZ3U3NfTXNTMVBDM2RDNFV3UG53UkpUcUpkMWwtak9oZWpoZjVZNTJnNnJybmt6czFpN2RFX2RBeXZxRmVkRHVyMm5QTVBwWVhEZ2JxSEVJcU1LQlhFQjhUQnJTU2FLemdoTk9wOWk5Y2JrR3p3QjI0aVduVTNwT0hnUkJlYUJ5WWt2Nm5zVzZJdC1lS25hVU5oNmE2clhTLWtDY1JYQklKbW9vYzltemY3OV9CTC1ZbmZmX0_SAcABQVVfeXFMT1Z3bkU2d1NzX01zUzFQQzNkQzRVd1Bud1JKVHFKZDFsLWpPaGVqaGY1WTUyZzZycm5renMxaTdkRV9kQXl2cUZlZER1cjJuUE1QcFlYRGdicUhFSXFNS0JYRUI4VEJyU1NhS3pnaE5PcDlpOWNia0d6d0IyNGlXblUzcE9IZ1JCZWFCeVlrdjZuc1c2SXQtZUtuYVVOaDZhNnJYUy1rQ2NSWEJJSm1vb2M5bXpmNzlfQkwtWW5mZl9P?oc=5",
-            "source": "Kanak News Odisha",
-            "sources": [
-              "Kanak News Odisha"
-            ],
             "heatScore": 55,
-            "publishedAt": "2026-10-08T10:01:27.000Z"
+            "publishedAt": "2026-10-08T10:29:00.000Z"
           }
         ],
         "china": []
