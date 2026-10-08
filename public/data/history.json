@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T19:00:13.235Z",
+  "updatedAt": "2026-10-08T19:19:51.135Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -13241,7 +13241,7 @@
     },
     "2026-10-08": {
       "date": "2026-10-08",
-      "updatedAt": "2026-10-08T19:00:13.235Z",
+      "updatedAt": "2026-10-08T19:19:51.135Z",
       "categories": {
         "all": [
           {
@@ -13280,11 +13280,23 @@
               "Saudi Gazette",
               "Arab News"
             ],
-            "heatScore": 96,
+            "heatScore": 97,
             "publishedAt": "2026-10-08T13:48:00.000Z"
           },
           {
             "rank": 4,
+            "translatedTitle": "阿联酋、沙特阿拉伯同意发展货物、货物的铁路连通性",
+            "originalTitle": "UAE, Saudi Arabia agree to develop rail connectivity for goods, cargo",
+            "url": "https://www.khaleejtimes.com/uae/uae-saudi-arabia-develop-rail-connectivity-goods-cargo",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-10-08T17:24:19.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "阿联酋强烈谴责胡塞武装袭击沙特阿拉伯两个机场--《哈利吉时报》",
             "originalTitle": "UAE strongly condemns Houthi attacks on two airports in Saudi Arabia - Khaleej Times",
             "url": "https://www.khaleejtimes.com/world/gulf/uae-condemns-houthi-attacks-two-airports-saudi-arabia",
@@ -13297,7 +13309,7 @@
             "publishedAt": "2026-10-08T10:01:45.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "孟加拉国的目标是在阿富汗试验中继续取得进展",
             "originalTitle": "Bangladesh aim to keep progress going in Afghanistan Test",
             "url": "https://www.arabnews.com/cricket/bangladesh-aim-to-keep-progress-going-in-afghanistan-test-3005354",
@@ -13309,18 +13321,6 @@
             "publishedAt": "2026-10-08T18:36:30.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "阿联酋、沙特阿拉伯同意发展货物、货物的铁路连通性",
-            "originalTitle": "UAE, Saudi Arabia agree to develop rail connectivity for goods, cargo",
-            "url": "https://www.khaleejtimes.com/uae/uae-saudi-arabia-develop-rail-connectivity-goods-cargo",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 92,
-            "publishedAt": "2026-10-08T17:24:19.000Z"
-          },
-          {
             "rank": 7,
             "translatedTitle": "阿联酋和沙特阿拉伯签署铁路和能源协议，以促进贸易和互联互通",
             "originalTitle": "UAE and Saudi Arabia sign rail and energy agreement to boost trade and connectivity",
@@ -13329,11 +13329,23 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 90,
+            "heatScore": 91,
             "publishedAt": "2026-10-08T18:29:19.000Z"
           },
           {
             "rank": 8,
+            "translatedTitle": "迪拜奇迹花园（ Dubai Miracle Garden ）新季开业，每周盛开2亿朵鲜花",
+            "originalTitle": "Dubai Miracle Garden opens for new season with 200 million flowers, weekly themes",
+            "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-season-15-open",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-08T15:57:17.000Z"
+          },
+          {
+            "rank": 9,
             "translatedTitle": "哈伊马角（ Ras Al Khaimah ）警方确认失踪妇女死亡",
             "originalTitle": "Missing woman confirmed dead by police in Ras Al Khaimah",
             "url": "https://c.newsnow.co.uk/A/1326554343?-15565:1965",
@@ -13345,28 +13357,16 @@
             "publishedAt": "2026-10-08T18:14:57.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "迪拜奇迹花园（ Dubai Miracle Garden ）新季开业，每周盛开2亿朵鲜花",
-            "originalTitle": "Dubai Miracle Garden opens for new season with 200 million flowers, weekly themes",
-            "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-season-15-open",
-            "source": "Khaleej Times",
+            "rank": 10,
+            "translatedTitle": "猎鹰高管获准在迪拜直升机公园飞行",
+            "originalTitle": "Falcon Executive Cleared for Flights at Dubai Helipark",
+            "url": "https://c.newsnow.co.uk/A/1326554290?-15565:1965",
+            "source": "Aviation International News",
             "sources": [
-              "Khaleej Times"
+              "Aviation International News"
             ],
             "heatScore": 90,
-            "publishedAt": "2026-10-08T15:57:17.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "航空公司负责人表示，在迪拜航空遭到袭击后，无法完全防范流氓飞行员-路透社",
-            "originalTitle": "Airline chiefs say can't fully guard against rogue pilots after flydubai attack - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONllXMUhvQVpOVC1tNnlXYmcwSnh1a2w2TFhQdzhZaW9jeWoxRkZtNlR2eFhybEJ3NkZ2VHRQbmVod09iMmc3dmtTdmpOMmlMTnE1MmNYOE93enJyYV9OVzE3LWxhUHBWT0s1TGdwM1VVcVZtenVLUTFQRF9pWFZJTUFqYmFSZVpScDBZRnllZW1aVlI0QnFUTjBaLXoyV20xRDR0UTB3YkFmdTQzOGk2UmpkVkt0aG8tSHA2UmtvQVhjak0xQThwemJ0QUQ?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 89,
-            "publishedAt": "2026-10-08T12:39:40.000Z"
+            "publishedAt": "2026-10-08T18:14:04.000Z"
           }
         ],
         "domestic": [
@@ -13384,6 +13384,18 @@
           },
           {
             "rank": 2,
+            "translatedTitle": "迪拜奇迹花园（ Dubai Miracle Garden ）新季开业，每周盛开2亿朵鲜花",
+            "originalTitle": "Dubai Miracle Garden opens for new season with 200 million flowers, weekly themes",
+            "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-season-15-open",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-08T15:57:17.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "哈伊马角（ Ras Al Khaimah ）警方确认失踪妇女死亡",
             "originalTitle": "Missing woman confirmed dead by police in Ras Al Khaimah",
             "url": "https://c.newsnow.co.uk/A/1326554343?-15565:1965",
@@ -13395,18 +13407,6 @@
             "publishedAt": "2026-10-08T18:14:57.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "迪拜奇迹花园（ Dubai Miracle Garden ）新季开业，每周盛开2亿朵鲜花",
-            "originalTitle": "Dubai Miracle Garden opens for new season with 200 million flowers, weekly themes",
-            "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-season-15-open",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-08T15:57:17.000Z"
-          },
-          {
             "rank": 4,
             "translatedTitle": "猎鹰高管获准在迪拜直升机公园飞行",
             "originalTitle": "Falcon Executive Cleared for Flights at Dubai Helipark",
@@ -13415,7 +13415,7 @@
             "sources": [
               "Aviation International News"
             ],
-            "heatScore": 89,
+            "heatScore": 90,
             "publishedAt": "2026-10-08T18:14:04.000Z"
           },
           {
@@ -13444,6 +13444,18 @@
           },
           {
             "rank": 7,
+            "translatedTitle": "迪拜环球港务集团与孟加拉国主要集装箱码头签署15年运营",
+            "originalTitle": "DP World signs 15-year deal to operate major Bangladesh container terminal",
+            "url": "https://www.khaleejtimes.com/uae/dp-world-signs-15-year-deal-to-operate-major-bangladesh-container-terminal",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-08T14:30:18.000Z"
+          },
+          {
+            "rank": 8,
             "translatedTitle": "阿联酋，沙特签署谅解备忘录以促进铁路，能源连接",
             "originalTitle": "UAE, Saudi sign MoU to boost rail, energy links",
             "url": "https://c.newsnow.co.uk/A/1326549975?-15565:1965",
@@ -13453,18 +13465,6 @@
             ],
             "heatScore": 87,
             "publishedAt": "2026-10-08T17:22:56.000Z"
-          },
-          {
-            "rank": 8,
-            "translatedTitle": "迪拜环球港务集团与孟加拉国主要集装箱码头签署15年运营",
-            "originalTitle": "DP World signs 15-year deal to operate major Bangladesh container terminal",
-            "url": "https://www.khaleejtimes.com/uae/dp-world-signs-15-year-deal-to-operate-major-bangladesh-container-terminal",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-10-08T14:30:18.000Z"
           },
           {
             "rank": 9,
@@ -13480,15 +13480,15 @@
           },
           {
             "rank": 10,
-            "translatedTitle": "农业部长在阿布扎比全球粮食周回顾叙利亚和阿联酋的项目",
-            "originalTitle": "Agriculture Minister reviews Syrian, Emirati projects at Global Food Week in Abu Dhabi",
-            "url": "https://c.newsnow.co.uk/A/1326548777?-15565:1965",
-            "source": "Syrian Arab News Agency",
+            "translatedTitle": "阿联酋：根据新法律，因煽动、协助自杀而入狱长达7年",
+            "originalTitle": "UAE: Up to 7 years in jail for inciting, assisting suicide under new law",
+            "url": "https://www.khaleejtimes.com/uae/uae-up-to-7-years-in-jail-for-inciting-assisting-suicide-under-new-law",
+            "source": "Khaleej Times",
             "sources": [
-              "Syrian Arab News Agency"
+              "Khaleej Times"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-08T17:09:35.000Z"
+            "heatScore": 87,
+            "publishedAt": "2026-10-08T14:18:12.000Z"
           }
         ],
         "diplomacy": [
@@ -13528,7 +13528,7 @@
               "Saudi Gazette",
               "Arab News"
             ],
-            "heatScore": 96,
+            "heatScore": 97,
             "publishedAt": "2026-10-08T13:48:00.000Z"
           },
           {
@@ -13540,7 +13540,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 90,
+            "heatScore": 91,
             "publishedAt": "2026-10-08T18:29:19.000Z"
           },
           {
@@ -13588,7 +13588,7 @@
             "sources": [
               "TV BRICS"
             ],
-            "heatScore": 65,
+            "heatScore": 64,
             "publishedAt": "2026-10-08T16:02:31.000Z"
           },
           {
@@ -13600,7 +13600,7 @@
             "sources": [
               "www.uaebarq.ae"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-08T15:06:55.000Z"
           },
           {
@@ -13626,7 +13626,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 92,
+            "heatScore": 93,
             "publishedAt": "2026-10-08T17:24:19.000Z"
           },
           {
@@ -13650,7 +13650,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-10-08T16:01:30.000Z"
           },
           {
@@ -13683,7 +13683,7 @@
             "rank": 1,
             "translatedTitle": "迪拜推出“Create AI Agents Championship” ，奖金池为250万迪拉姆- ARN新闻中心",
             "originalTitle": "Dubai unveils 'Create AI Agents Championship' with AED 2.5 million prize pool - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlRDblJ4S2JqN3BkcE15Z0w5STRjOGt0QmlUUFp1UUJleUJQd3NBWFJqV0p2TDNsRS13UmxDTHdFekM3RjZ6RkdHSW9BVnBCYmdFTnhaYmFyY014RVZNZ21uS0F3elVsUjJnRUxxdXc0V21CdE5ZaWJCbkFDMHZmVU81WHdXOHNieTljeHJLUE1FZ2RBYklDNjJwRkQyNHpWSWYxTEZvRTVaMnJVZEw5MjRKMGg?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGJURGpsRXFFUEh0ODBMTEhVVTZTeklXOEYxYUdvVTQwZzgzTnI0TEl5aUo1Y1pqY0s1d2R1elJtSmJPVkpmbEltQ2xLbGNTNkdqY1B3NnM5a2J5MFRmX0dhYkNyRC1tM2pxclB1dHZRTWtwc0VITnN5TzZFc05qdkM0YmJ6dnZBQ0ltTVZ3V2pzc05ueEFLYVNqUlVCdmc3b1dpVGxzX1BIU1FobG1CQXlwRmxxU090?oc=5",
             "source": "ARN News Centre",
             "sources": [
               "NewsNow",
@@ -13729,7 +13729,7 @@
               "Dubai Eye 103.8",
               "ARN News Centre"
             ],
-            "heatScore": 80,
+            "heatScore": 81,
             "publishedAt": "2026-10-08T15:40:08.000Z"
           },
           {
@@ -13746,6 +13746,18 @@
           },
           {
             "rank": 5,
+            "translatedTitle": "撒哈拉摊牌：摩洛哥和阿联酋在阿尔及利亚分手之际深化军事关系|非洲第一站-第一站",
+            "originalTitle": "Showdown in Sahara: Morocco & UAE Deepen Military Ties as Algeria Breaks Away | Firstpost Africa - Firstpost",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSGdpNi1iN3BoQ3Q5TG0yNnM3MVY4Y2lpRk1yLUVRLUVUY1otdGhHTWp5VnlDZ1VxU3YyeVV1djViWkVnZ0xiaGJ1eFdGRnNLaDQwZ0Qxby1BMi1zeTBNX3VVV21FYUhMaHRuNEtaTVN1MDFzU05sbVVvZEJKZHhzZ0RqSmpXdzJnSDhxbWg5ZEstV05kSGgyUDUwUUF1SzE4NXp5WEJVZm1NMzk1NGtVdzdiTjk4OXVBalh1aXFMZU5nX3lRV0NaN21HSTlpcG96OEJ3TGh1S2RhUXFlNkRGQ245ek9aRzNSNnfSAe8BQVVfeXFMUHJTUzk1M0d4Y3o2YXk3OHBzRVBFTDZFNG1zRGM2aEMxSm1oeUhLQzBsSXpYMnA2NWVfeTNST3ZVVkd5Z3gzTTlNRUxIX2hfTlZKeElYTGx1b3NiR09LU1UxM211S3hHM0xNUlE1c0FXcnlyaXdyQ3NraWY4cTdyQjJkX05TWTN0bE1VbmczVG9ndTFfWUg4SVdJOFB6ZExDbU9QcjdYUzdlYnRycXVBRTV0blVBSFZiUjlIN1pJdG52ejctQXJQcWhReFFRamJEQ3Q0SHVZZWVNUTF4SmhjeDd2YXdCOWU5SmI0UVdLeVE?oc=5",
+            "source": "Firstpost",
+            "sources": [
+              "Firstpost"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-08T18:13:45.000Z"
+          },
+          {
+            "rank": 6,
             "translatedTitle": "阿联酋谴责胡塞武装袭击哈立德国王、艾卜哈机场-也门在线",
             "originalTitle": "The UAE condemns Houthi attacks on King Khalid , Abha airports - Yemen Online",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XTURMU3dLSFlYLVZ1UjlhRklUZW1kbmJUbFh2VDg3aUs5QTdDQzJqZ3drYjhnTFNiSS1JLXlaUjJncUFCWldNZGxPT0dvQ183WUE?oc=5",
@@ -13757,18 +13769,6 @@
             "publishedAt": "2026-10-08T17:04:22.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "撒哈拉摊牌：摩洛哥和阿联酋在阿尔及利亚分手之际深化军事关系|非洲第一站-第一站",
-            "originalTitle": "Showdown in Sahara: Morocco & UAE Deepen Military Ties as Algeria Breaks Away | Firstpost Africa - Firstpost",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSGdpNi1iN3BoQ3Q5TG0yNnM3MVY4Y2lpRk1yLUVRLUVUY1otdGhHTWp5VnlDZ1VxU3YyeVV1djViWkVnZ0xiaGJ1eFdGRnNLaDQwZ0Qxby1BMi1zeTBNX3VVV21FYUhMaHRuNEtaTVN1MDFzU05sbVVvZEJKZHhzZ0RqSmpXdzJnSDhxbWg5ZEstV05kSGgyUDUwUUF1SzE4NXp5WEJVZm1NMzk1NGtVdzdiTjk4OXVBalh1aXFMZU5nX3lRV0NaN21HSTlpcG96OEJ3TGh1S2RhUXFlNkRGQ245ek9aRzNSNnfSAe8BQVVfeXFMUHJTUzk1M0d4Y3o2YXk3OHBzRVBFTDZFNG1zRGM2aEMxSm1oeUhLQzBsSXpYMnA2NWVfeTNST3ZVVkd5Z3gzTTlNRUxIX2hfTlZKeElYTGx1b3NiR09LU1UxM211S3hHM0xNUlE1c0FXcnlyaXdyQ3NraWY4cTdyQjJkX05TWTN0bE1VbmczVG9ndTFfWUg4SVdJOFB6ZExDbU9QcjdYUzdlYnRycXVBRTV0blVBSFZiUjlIN1pJdG52ejctQXJQcWhReFFRamJEQ3Q0SHVZZWVNUTF4SmhjeDd2YXdCOWU5SmI0UVdLeVE?oc=5",
-            "source": "Firstpost",
-            "sources": [
-              "Firstpost"
-            ],
-            "heatScore": 66,
-            "publishedAt": "2026-10-08T18:13:45.000Z"
-          },
-          {
             "rank": 7,
             "translatedTitle": "随着港口从战争破坏中恢复，富查伊拉的眼睛扩张",
             "originalTitle": "Fujairah Eyes Expansion as Port Recovers From War Damage",
@@ -13777,7 +13777,7 @@
             "sources": [
               "Energy Intelligence"
             ],
-            "heatScore": 65,
+            "heatScore": 64,
             "publishedAt": "2026-10-08T15:58:19.000Z"
           },
           {
@@ -13789,7 +13789,7 @@
             "sources": [
               "Travels Dubai"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-08T15:03:00.000Z"
           },
           {
@@ -13813,7 +13813,7 @@
             "sources": [
               "ASHARQ AL-AWSAT English"
             ],
-            "heatScore": 63,
+            "heatScore": 62,
             "publishedAt": "2026-10-08T14:17:30.000Z"
           }
         ],
@@ -13827,7 +13827,7 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 68,
+            "heatScore": 69,
             "publishedAt": "2026-10-08T15:30:12.000Z"
           },
           {
@@ -13839,7 +13839,7 @@
             "sources": [
               "The Week"
             ],
-            "heatScore": 66,
+            "heatScore": 67,
             "publishedAt": "2026-10-08T12:52:17.000Z"
           },
           {
@@ -13851,7 +13851,7 @@
             "sources": [
               "The Independent"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-08T10:54:00.000Z"
           },
           {
@@ -13923,7 +13923,7 @@
             "sources": [
               "The Sun"
             ],
-            "heatScore": 58,
+            "heatScore": 59,
             "publishedAt": "2026-10-08T10:29:00.000Z"
           },
           {
@@ -13935,7 +13935,7 @@
             "sources": [
               "Kanak News Odisha"
             ],
-            "heatScore": 58,
+            "heatScore": 59,
             "publishedAt": "2026-10-08T10:01:27.000Z"
           }
         ],
