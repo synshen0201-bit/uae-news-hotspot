@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T19:19:51.135Z",
+  "updatedAt": "2026-10-08T19:43:27.339Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -13241,11 +13241,25 @@
     },
     "2026-10-08": {
       "date": "2026-10-08",
-      "updatedAt": "2026-10-08T19:19:51.135Z",
+      "updatedAt": "2026-10-08T19:43:27.339Z",
       "categories": {
         "all": [
           {
             "rank": 1,
+            "translatedTitle": "萨勒曼国王邀请阿联酋总统参加在沙特阿拉伯举行的第二次欧盟-海湾合作委员会峰会-阿拉伯新闻PK",
+            "originalTitle": "King Salman invites UAE president to second EU-GCC summit in Saudi Arabia - Arab News PK",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTNxM0FFUWRFSWp2ZVlyeWRhclB5NTFpWVlSV1ZCbXdxQnVCOGNUbnpsMWRrVEFyRHZKbGlEWlN6YkhyaFRvaTZWN2FOaFptdUh6aEFEUmtfX0FjY0hOMlBOUUpKV05fQ0NGaDA0d0JORkN5Z2txbUpGZTk1elAxMnlTQmtOY2VTRXY3ZzRBUUZ0ei1hMHc2UFp5MEw2MUI2U0xfdkxyaXk5Q2dHd2I3ellpZS1pUzBa?oc=5",
+            "source": "Arab News",
+            "sources": [
+              "Saudi Gazette",
+              "Arab News",
+              "Arab News PK"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-08T13:48:00.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋和泰国在非石油贸易增长75%后结束贸易协议谈判-海湾新闻",
             "originalTitle": "UAE, Thailand conclude trade deal talks after non-oil trade jumps 75% - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFRLLW1yMDN2UzZFOWVOWkpaeC1qellhQXVSMnN0aGNBaV9XN0diMjNFTUFQaGt6TmZzNjFPRUZJeVdJX0EzZ0NxQkZyeFFZdWJfSUY0em0xejV5aWpfMXJkRlZGRC1zelZ3NGdlSjdsVXZzZmJLWTM4Z0lDemVnUmpNRXVnMUdJdVR3RXlUb21aejJlZUV4enJvUElVcVlBb3hyUnNnTUlLQV9ORlBfaWU0aExoVXU40gHLAUFVX3lxTE5ILU4yZTVqejFsdFluY2RXYmEwNEZkUEFFM3ZGNUY5UzYtZUFqalc0NVYtNk5ydHc1OFRBX29oUjhnd1JWZ21IUzV6ZTl3eVR1TW1Zd19VVW1fejVTMFYzdnBNMlhYOGN0Z2c0SXBEUUt4bVVOdG1yNW9KMDR4bEkzTDBxV1RYLWM5R2pQNHBwZGpGOXE0MXFaLUFOTVBaQ0tFU3NpQURvbEtHUTkyb0RxWEEzandmWmlYWExoWTZoY0ViSWI1VXFjS29r?oc=5",
@@ -13254,11 +13268,11 @@
               "Gulf News",
               "ARN News Centre"
             ],
-            "heatScore": 99,
+            "heatScore": 91,
             "publishedAt": "2026-10-08T13:56:25.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "沙特国王邀请阿联酋总统参加海湾合作委员会-欧盟峰会-迪拜之眼103.8",
             "originalTitle": "Saudi King invites UAE President to GCC-EU summit - Dubai Eye 103.8",
             "url": "https://www.arabnews.com/saudi-arabia/saudi-arabias-king-salman-invites-uae-president-to-second-eu-gcc-summit-3005290",
@@ -13267,33 +13281,20 @@
               "Dubai Eye 103.8",
               "Arab News"
             ],
-            "heatScore": 98,
+            "heatScore": 90,
             "publishedAt": "2026-10-08T15:20:06.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "沙特阿拉伯国王萨勒曼邀请阿联酋总统参加第二届欧盟-海湾合作委员会峰会-阿拉伯新闻",
-            "originalTitle": "Saudi Arabia’s King Salman invites UAE president to second EU-GCC summit - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTNxM0FFUWRFSWp2ZVlyeWRhclB5NTFpWVlSV1ZCbXdxQnVCOGNUbnpsMWRrVEFyRHZKbGlEWlN6YkhyaFRvaTZWN2FOaFptdUh6aEFEUmtfX0FjY0hOMlBOUUpKV05fQ0NGaDA0d0JORkN5Z2txbUpGZTk1elAxMnlTQmtOY2VTRXY3ZzRBUUZ0ei1hMHc2UFp5MEw2MUI2U0xfdkxyaXk5Q2dHd2I3ellpZS1pUzBa?oc=5",
+            "rank": 4,
+            "translatedTitle": "沙特阿拉伯和阿联酋同意加强电网和铁路连接",
+            "originalTitle": "Saudi Arabia and UAE agree to strengthen power grid and rail connectivity",
+            "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-and-uae-agree-to-strengthen-power-grid-and-rail-connectivity-3005358",
             "source": "Arab News",
             "sources": [
-              "Saudi Gazette",
               "Arab News"
             ],
-            "heatScore": 97,
-            "publishedAt": "2026-10-08T13:48:00.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "阿联酋、沙特阿拉伯同意发展货物、货物的铁路连通性",
-            "originalTitle": "UAE, Saudi Arabia agree to develop rail connectivity for goods, cargo",
-            "url": "https://www.khaleejtimes.com/uae/uae-saudi-arabia-develop-rail-connectivity-goods-cargo",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 93,
-            "publishedAt": "2026-10-08T17:24:19.000Z"
+            "heatScore": 86,
+            "publishedAt": "2026-10-08T19:34:27.000Z"
           },
           {
             "rank": 5,
@@ -13305,11 +13306,47 @@
               "Menafn",
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 86,
             "publishedAt": "2026-10-08T10:01:45.000Z"
           },
           {
             "rank": 6,
+            "translatedTitle": "阿联酋企业警告电子邮件欺诈威胁日益严重",
+            "originalTitle": "UAE businesses warned of growing email fraud threat",
+            "url": "https://c.newsnow.co.uk/A/1326559658?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-08T19:25:23.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋、沙特阿拉伯同意发展货物、货物的铁路连通性",
+            "originalTitle": "UAE, Saudi Arabia agree to develop rail connectivity for goods, cargo",
+            "url": "https://www.khaleejtimes.com/uae/uae-saudi-arabia-develop-rail-connectivity-goods-cargo",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-08T17:24:19.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "航空公司负责人表示，在迪拜航空遭到袭击后，无法完全防范流氓飞行员-路透社",
+            "originalTitle": "Airline chiefs say can't fully guard against rogue pilots after flydubai attack - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONllXMUhvQVpOVC1tNnlXYmcwSnh1a2w2TFhQdzhZaW9jeWoxRkZtNlR2eFhybEJ3NkZ2VHRQbmVod09iMmc3dmtTdmpOMmlMTnE1MmNYOE93enJyYV9OVzE3LWxhUHBWT0s1TGdwM1VVcVZtenVLUTFQRF9pWFZJTUFqYmFSZVpScDBZRnllZW1aVlI0QnFUTjBaLXoyV20xRDR0UTB3YkFmdTQzOGk2UmpkVkt0aG8tSHA2UmtvQVhjak0xQThwemJ0QUQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-08T12:39:40.000Z"
+          },
+          {
+            "rank": 9,
             "translatedTitle": "孟加拉国的目标是在阿富汗试验中继续取得进展",
             "originalTitle": "Bangladesh aim to keep progress going in Afghanistan Test",
             "url": "https://www.arabnews.com/cricket/bangladesh-aim-to-keep-progress-going-in-afghanistan-test-3005354",
@@ -13317,23 +13354,11 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 92,
+            "heatScore": 83,
             "publishedAt": "2026-10-08T18:36:30.000Z"
           },
           {
-            "rank": 7,
-            "translatedTitle": "阿联酋和沙特阿拉伯签署铁路和能源协议，以促进贸易和互联互通",
-            "originalTitle": "UAE and Saudi Arabia sign rail and energy agreement to boost trade and connectivity",
-            "url": "https://c.newsnow.co.uk/A/1326555381?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 91,
-            "publishedAt": "2026-10-08T18:29:19.000Z"
-          },
-          {
-            "rank": 8,
+            "rank": 10,
             "translatedTitle": "迪拜奇迹花园（ Dubai Miracle Garden ）新季开业，每周盛开2亿朵鲜花",
             "originalTitle": "Dubai Miracle Garden opens for new season with 200 million flowers, weekly themes",
             "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-season-15-open",
@@ -13341,37 +13366,25 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 91,
+            "heatScore": 83,
             "publishedAt": "2026-10-08T15:57:17.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "哈伊马角（ Ras Al Khaimah ）警方确认失踪妇女死亡",
-            "originalTitle": "Missing woman confirmed dead by police in Ras Al Khaimah",
-            "url": "https://c.newsnow.co.uk/A/1326554343?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-08T18:14:57.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "猎鹰高管获准在迪拜直升机公园飞行",
-            "originalTitle": "Falcon Executive Cleared for Flights at Dubai Helipark",
-            "url": "https://c.newsnow.co.uk/A/1326554290?-15565:1965",
-            "source": "Aviation International News",
-            "sources": [
-              "Aviation International News"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-08T18:14:04.000Z"
           }
         ],
         "domestic": [
           {
             "rank": 1,
+            "translatedTitle": "沙特阿拉伯和阿联酋同意加强电网和铁路连接",
+            "originalTitle": "Saudi Arabia and UAE agree to strengthen power grid and rail connectivity",
+            "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-and-uae-agree-to-strengthen-power-grid-and-rail-connectivity-3005358",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-08T19:34:27.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "孟加拉国的目标是在阿富汗试验中继续取得进展",
             "originalTitle": "Bangladesh aim to keep progress going in Afghanistan Test",
             "url": "https://www.arabnews.com/cricket/bangladesh-aim-to-keep-progress-going-in-afghanistan-test-3005354",
@@ -13379,11 +13392,11 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 92,
+            "heatScore": 83,
             "publishedAt": "2026-10-08T18:36:30.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "迪拜奇迹花园（ Dubai Miracle Garden ）新季开业，每周盛开2亿朵鲜花",
             "originalTitle": "Dubai Miracle Garden opens for new season with 200 million flowers, weekly themes",
             "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-season-15-open",
@@ -13391,11 +13404,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 91,
+            "heatScore": 83,
             "publishedAt": "2026-10-08T15:57:17.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "哈伊马角（ Ras Al Khaimah ）警方确认失踪妇女死亡",
             "originalTitle": "Missing woman confirmed dead by police in Ras Al Khaimah",
             "url": "https://c.newsnow.co.uk/A/1326554343?-15565:1965",
@@ -13403,11 +13416,11 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 90,
+            "heatScore": 82,
             "publishedAt": "2026-10-08T18:14:57.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "猎鹰高管获准在迪拜直升机公园飞行",
             "originalTitle": "Falcon Executive Cleared for Flights at Dubai Helipark",
             "url": "https://c.newsnow.co.uk/A/1326554290?-15565:1965",
@@ -13415,20 +13428,8 @@
             "sources": [
               "Aviation International News"
             ],
-            "heatScore": 90,
+            "heatScore": 82,
             "publishedAt": "2026-10-08T18:14:04.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "伊朗核负责人表示，伊朗不会放弃铀浓缩或交出铀",
-            "originalTitle": "Iran will not abandon uranium enrichment or hand over its uranium, nuclear chief says",
-            "url": "https://www.arabnews.com/middle-east/iran-will-not-abandon-uranium-enrichment-or-hand-over-its-uranium-nuclear-chief-says-3005346",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 88,
-            "publishedAt": "2026-10-08T17:20:04.000Z"
           },
           {
             "rank": 6,
@@ -13439,7 +13440,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 88,
+            "heatScore": 82,
             "publishedAt": "2026-10-08T14:48:53.000Z"
           },
           {
@@ -13451,23 +13452,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 88,
+            "heatScore": 81,
             "publishedAt": "2026-10-08T14:30:18.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "阿联酋，沙特签署谅解备忘录以促进铁路，能源连接",
-            "originalTitle": "UAE, Saudi sign MoU to boost rail, energy links",
-            "url": "https://c.newsnow.co.uk/A/1326549975?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 87,
-            "publishedAt": "2026-10-08T17:22:56.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "沙迦节日为Al Heera海滩带来单桅帆船比赛和珊瑚工坊",
             "originalTitle": "Sharjah festival brings dhow race, coral workshops to Al Heera Beach",
             "url": "https://www.khaleejtimes.com/uae/sharjah-sir-bu-nair-festival-al-heera-beach",
@@ -13475,25 +13464,51 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 87,
+            "heatScore": 81,
             "publishedAt": "2026-10-08T14:22:40.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "阿联酋：根据新法律，因煽动、协助自杀而入狱长达7年",
-            "originalTitle": "UAE: Up to 7 years in jail for inciting, assisting suicide under new law",
-            "url": "https://www.khaleejtimes.com/uae/uae-up-to-7-years-in-jail-for-inciting-assisting-suicide-under-new-law",
-            "source": "Khaleej Times",
+            "rank": 9,
+            "translatedTitle": "阿联酋，沙特签署谅解备忘录以促进铁路，能源连接",
+            "originalTitle": "UAE, Saudi sign MoU to boost rail, energy links",
+            "url": "https://c.newsnow.co.uk/A/1326549975?-15565:1965",
+            "source": "Gulf News",
             "sources": [
-              "Khaleej Times"
+              "Gulf News"
             ],
-            "heatScore": 87,
-            "publishedAt": "2026-10-08T14:18:12.000Z"
+            "heatScore": 80,
+            "publishedAt": "2026-10-08T17:22:56.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "伊朗核负责人表示，伊朗不会放弃铀浓缩或交出铀",
+            "originalTitle": "Iran will not abandon uranium enrichment or hand over its uranium, nuclear chief says",
+            "url": "https://www.arabnews.com/middle-east/iran-will-not-abandon-uranium-enrichment-or-hand-over-its-uranium-nuclear-chief-says-3005346",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-08T17:20:04.000Z"
           }
         ],
         "diplomacy": [
           {
             "rank": 1,
+            "translatedTitle": "萨勒曼国王邀请阿联酋总统参加在沙特阿拉伯举行的第二次欧盟-海湾合作委员会峰会-阿拉伯新闻PK",
+            "originalTitle": "King Salman invites UAE president to second EU-GCC summit in Saudi Arabia - Arab News PK",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTNxM0FFUWRFSWp2ZVlyeWRhclB5NTFpWVlSV1ZCbXdxQnVCOGNUbnpsMWRrVEFyRHZKbGlEWlN6YkhyaFRvaTZWN2FOaFptdUh6aEFEUmtfX0FjY0hOMlBOUUpKV05fQ0NGaDA0d0JORkN5Z2txbUpGZTk1elAxMnlTQmtOY2VTRXY3ZzRBUUZ0ei1hMHc2UFp5MEw2MUI2U0xfdkxyaXk5Q2dHd2I3ellpZS1pUzBa?oc=5",
+            "source": "Arab News",
+            "sources": [
+              "Saudi Gazette",
+              "Arab News",
+              "Arab News PK"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-08T13:48:00.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋和泰国在非石油贸易增长75%后结束贸易协议谈判-海湾新闻",
             "originalTitle": "UAE, Thailand conclude trade deal talks after non-oil trade jumps 75% - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFRLLW1yMDN2UzZFOWVOWkpaeC1qellhQXVSMnN0aGNBaV9XN0diMjNFTUFQaGt6TmZzNjFPRUZJeVdJX0EzZ0NxQkZyeFFZdWJfSUY0em0xejV5aWpfMXJkRlZGRC1zelZ3NGdlSjdsVXZzZmJLWTM4Z0lDemVnUmpNRXVnMUdJdVR3RXlUb21aejJlZUV4enJvUElVcVlBb3hyUnNnTUlLQV9ORlBfaWU0aExoVXU40gHLAUFVX3lxTE5ILU4yZTVqejFsdFluY2RXYmEwNEZkUEFFM3ZGNUY5UzYtZUFqalc0NVYtNk5ydHc1OFRBX29oUjhnd1JWZ21IUzV6ZTl3eVR1TW1Zd19VVW1fejVTMFYzdnBNMlhYOGN0Z2c0SXBEUUt4bVVOdG1yNW9KMDR4bEkzTDBxV1RYLWM5R2pQNHBwZGpGOXE0MXFaLUFOTVBaQ0tFU3NpQURvbEtHUTkyb0RxWEEzandmWmlYWExoWTZoY0ViSWI1VXFjS29r?oc=5",
@@ -13502,11 +13517,11 @@
               "Gulf News",
               "ARN News Centre"
             ],
-            "heatScore": 99,
+            "heatScore": 91,
             "publishedAt": "2026-10-08T13:56:25.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "沙特国王邀请阿联酋总统参加海湾合作委员会-欧盟峰会-迪拜之眼103.8",
             "originalTitle": "Saudi King invites UAE President to GCC-EU summit - Dubai Eye 103.8",
             "url": "https://www.arabnews.com/saudi-arabia/saudi-arabias-king-salman-invites-uae-president-to-second-eu-gcc-summit-3005290",
@@ -13515,21 +13530,8 @@
               "Dubai Eye 103.8",
               "Arab News"
             ],
-            "heatScore": 98,
+            "heatScore": 90,
             "publishedAt": "2026-10-08T15:20:06.000Z"
-          },
-          {
-            "rank": 3,
-            "translatedTitle": "沙特阿拉伯国王萨勒曼邀请阿联酋总统参加第二届欧盟-海湾合作委员会峰会-阿拉伯新闻",
-            "originalTitle": "Saudi Arabia’s King Salman invites UAE president to second EU-GCC summit - Arab News",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTNxM0FFUWRFSWp2ZVlyeWRhclB5NTFpWVlSV1ZCbXdxQnVCOGNUbnpsMWRrVEFyRHZKbGlEWlN6YkhyaFRvaTZWN2FOaFptdUh6aEFEUmtfX0FjY0hOMlBOUUpKV05fQ0NGaDA0d0JORkN5Z2txbUpGZTk1elAxMnlTQmtOY2VTRXY3ZzRBUUZ0ei1hMHc2UFp5MEw2MUI2U0xfdkxyaXk5Q2dHd2I3ellpZS1pUzBa?oc=5",
-            "source": "Arab News",
-            "sources": [
-              "Saudi Gazette",
-              "Arab News"
-            ],
-            "heatScore": 97,
-            "publishedAt": "2026-10-08T13:48:00.000Z"
           },
           {
             "rank": 4,
@@ -13540,7 +13542,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 91,
+            "heatScore": 82,
             "publishedAt": "2026-10-08T18:29:19.000Z"
           },
           {
@@ -13552,7 +13554,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 85,
+            "heatScore": 78,
             "publishedAt": "2026-10-08T10:36:30.000Z"
           },
           {
@@ -13564,7 +13566,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 84,
+            "heatScore": 78,
             "publishedAt": "2026-10-08T15:16:23.000Z"
           },
           {
@@ -13576,7 +13578,7 @@
             "sources": [
               "Middle East Monitor"
             ],
-            "heatScore": 65,
+            "heatScore": 61,
             "publishedAt": "2026-10-08T16:25:00.000Z"
           },
           {
@@ -13588,7 +13590,7 @@
             "sources": [
               "TV BRICS"
             ],
-            "heatScore": 64,
+            "heatScore": 61,
             "publishedAt": "2026-10-08T16:02:31.000Z"
           },
           {
@@ -13600,7 +13602,7 @@
             "sources": [
               "www.uaebarq.ae"
             ],
-            "heatScore": 63,
+            "heatScore": 60,
             "publishedAt": "2026-10-08T15:06:55.000Z"
           },
           {
@@ -13612,7 +13614,7 @@
             "sources": [
               "ASHARQ AL-AWSAT English"
             ],
-            "heatScore": 63,
+            "heatScore": 59,
             "publishedAt": "2026-10-08T14:29:24.000Z"
           }
         ],
@@ -13626,7 +13628,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 85,
             "publishedAt": "2026-10-08T17:24:19.000Z"
           },
           {
@@ -13638,7 +13640,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 89,
+            "heatScore": 83,
             "publishedAt": "2026-10-08T12:39:40.000Z"
           },
           {
@@ -13650,7 +13652,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 78,
             "publishedAt": "2026-10-08T16:01:30.000Z"
           },
           {
@@ -13662,11 +13664,23 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 73,
+            "heatScore": 69,
             "publishedAt": "2026-10-07T18:12:06.000Z"
           },
           {
             "rank": 5,
+            "translatedTitle": "阿治曼旅游、文化和媒体部完全符合内部审计……",
+            "originalTitle": "Ajman Department of Tourism, Culture and Media Achieves Full Conformance with Internal Audit…",
+            "url": "https://c.newsnow.co.uk/A/1326559533?-15565:1965",
+            "source": "PR Newswire (Press Release)",
+            "sources": [
+              "PR Newswire (Press Release)"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-08T19:23:31.000Z"
+          },
+          {
+            "rank": 6,
             "translatedTitle": "总部位于迪拜的公司向肯尼亚的投资者开放英国住宅物业交易",
             "originalTitle": "Dubai-Based firm opens UK residential property deal to Kenya's investors",
             "url": "https://c.newsnow.co.uk/A/1326550651?-15565:1965",
@@ -13674,7 +13688,7 @@
             "sources": [
               "The Star, Kenya"
             ],
-            "heatScore": 67,
+            "heatScore": 63,
             "publishedAt": "2026-10-08T17:29:49.000Z"
           }
         ],
@@ -13689,7 +13703,7 @@
               "NewsNow",
               "ARN News Centre"
             ],
-            "heatScore": 81,
+            "heatScore": 74,
             "publishedAt": "2026-10-08T17:06:42.000Z"
           }
         ],
@@ -13704,11 +13718,23 @@
               "Menafn",
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 86,
             "publishedAt": "2026-10-08T10:01:45.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "阿联酋企业警告电子邮件欺诈威胁日益严重",
+            "originalTitle": "UAE businesses warned of growing email fraud threat",
+            "url": "https://c.newsnow.co.uk/A/1326559658?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-08T19:25:23.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "阿联酋航空公司宣布利雅得航班延误，胡塞武装袭击后取消航班- Khaleej Times",
             "originalTitle": "UAE airlines announce Riyadh flight delays, cancellations after Houthi attack - Khaleej Times",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDF3N2tLdTBGbnJmRnNCVThBTm5xQ1RlNWlVcDJUWWN6ZGVDNnJ1ekl1bGUtY3pQdFVIazdWVHdNeDU2dFduQWttRHJNRXdIREdRTUZZLVlBZ1pvdVBQSldyTzJWajZDZUlQblRqUGJ5TVVnWmQyM2Z1RXFWLXFKdEY3TXAwZVFOY091ekg3VjEzTEVIbkJhZlNlYm9qcURTSkQ5ODFNRVljaW5Ha2RpcVk4SUM0NGk5WmfSAcIBQVVfeXFMTmdjX2ZIWGhEYV9ldDVXc09DSC1YYVY1VlpnNWdZMlpUOGxOY05zVktyNGdiZDh1TEdzb0U2c2xpdnpvNThiZmRuU2ltZlptTmF6NnRXOVNrQUhUcm5aNVpMUFpRTWxDb0NZVUVpU2xpdWptZUJNdG80VnJiQnRPVy1jOWJ4b003VENSVFg5QUYwalcwblZkNGNGVjYzdVNwU0IyeGtDZlFTLWxfWnltaW91dEJVTS1rd2wtMkRVRFFxOWc?oc=5",
@@ -13716,24 +13742,24 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 82,
+            "heatScore": 76,
             "publishedAt": "2026-10-08T13:39:35.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "阿联酋谴责胡塞武装袭击沙特机场--迪拜之眼103.8",
-            "originalTitle": "UAE condemns Houthi attacks on Saudi airports - Dubai Eye 103.8",
+            "rank": 4,
+            "translatedTitle": "阿联酋谴责胡塞武装继续袭击沙特民用设施和船只--迪拜之眼103.8",
+            "originalTitle": "UAE condemns continued Houthi attacks on Saudi civilian facilities, vessels - Dubai Eye 103.8",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHNUNl9HSzllZkFSWVZEYksxb2hiazhEYkF5Ujgzb2szcEc1aktiSU5yazZlUEdpbzZhS3lqc0JrTEg1MndvYm9TOGpjS2ppeU1oVXJTVlFYcXlTd29TVFVXcHh3c2dxR1FpdjlwcVNLdVRaUE1EeU9QVWcyM0ozS3RGV1psWnUxWVZra1NOYw?oc=5",
             "source": "Dubai Eye 103.8",
             "sources": [
               "Dubai Eye 103.8",
               "ARN News Centre"
             ],
-            "heatScore": 81,
+            "heatScore": 75,
             "publishedAt": "2026-10-08T15:40:08.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "美伊对峙：阿联酋居民今天需要了解的信息（ 2026年10月8日） -海湾新闻",
             "originalTitle": "US-Iran standoff: What UAE residents need to know today (Oct. 8, 2026) - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVJMUl94cExoTGVIQXluWFJFaUNXbHJvU0NRU0ZRYmN2XzZDam5nb1F1YXFrNGVNTkhkNEF0NkRFaVFURzktSjZfUzhYZ3Zmbkt5LWd2RkRPaWZtRTE1ZVFEdnpPMDBJVjlSd0ZaZ2xERGQtN053dzRQMVVOYWdkOTZfLW9OOUpTNWptV1NaQmRyYUcxN3BxMWNFX1dMRC1SVWlMZdIBtAFBVV95cUxNb2x6eDhNZWtWVFAzWDFhRUtSQmhjR2J1dmJ6bjdaMnVNMnVBT29YajVHd012SVlFdldTWWIxWjhTSUk1dk8wTzNicl9pRUNwZmVLZHhKSzZ6ZFVadHR2MERzT0NvNXhxVkZmZHk3TXVqbXYzY2RxS2txYmdKandlRTVyM1lPcE9RSXRXOEhTeDF6c1BBUzhSZklzbnl6ekJsYWhmaDJubHpSLWxDSEFVOGZfTFk?oc=5",
@@ -13741,11 +13767,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 74,
+            "heatScore": 70,
             "publishedAt": "2026-10-08T06:16:40.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "撒哈拉摊牌：摩洛哥和阿联酋在阿尔及利亚分手之际深化军事关系|非洲第一站-第一站",
             "originalTitle": "Showdown in Sahara: Morocco & UAE Deepen Military Ties as Algeria Breaks Away | Firstpost Africa - Firstpost",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSGdpNi1iN3BoQ3Q5TG0yNnM3MVY4Y2lpRk1yLUVRLUVUY1otdGhHTWp5VnlDZ1VxU3YyeVV1djViWkVnZ0xiaGJ1eFdGRnNLaDQwZ0Qxby1BMi1zeTBNX3VVV21FYUhMaHRuNEtaTVN1MDFzU05sbVVvZEJKZHhzZ0RqSmpXdzJnSDhxbWg5ZEstV05kSGgyUDUwUUF1SzE4NXp5WEJVZm1NMzk1NGtVdzdiTjk4OXVBalh1aXFMZU5nX3lRV0NaN21HSTlpcG96OEJ3TGh1S2RhUXFlNkRGQ245ek9aRzNSNnfSAe8BQVVfeXFMUHJTUzk1M0d4Y3o2YXk3OHBzRVBFTDZFNG1zRGM2aEMxSm1oeUhLQzBsSXpYMnA2NWVfeTNST3ZVVkd5Z3gzTTlNRUxIX2hfTlZKeElYTGx1b3NiR09LU1UxM211S3hHM0xNUlE1c0FXcnlyaXdyQ3NraWY4cTdyQjJkX05TWTN0bE1VbmczVG9ndTFfWUg4SVdJOFB6ZExDbU9QcjdYUzdlYnRycXVBRTV0blVBSFZiUjlIN1pJdG52ejctQXJQcWhReFFRamJEQ3Q0SHVZZWVNUTF4SmhjeDd2YXdCOWU5SmI0UVdLeVE?oc=5",
@@ -13753,11 +13779,11 @@
             "sources": [
               "Firstpost"
             ],
-            "heatScore": 67,
+            "heatScore": 63,
             "publishedAt": "2026-10-08T18:13:45.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "阿联酋谴责胡塞武装袭击哈立德国王、艾卜哈机场-也门在线",
             "originalTitle": "The UAE condemns Houthi attacks on King Khalid , Abha airports - Yemen Online",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XTURMU3dLSFlYLVZ1UjlhRklUZW1kbmJUbFh2VDg3aUs5QTdDQzJqZ3drYjhnTFNiSS1JLXlaUjJncUFCWldNZGxPT0dvQ183WUE?oc=5",
@@ -13765,20 +13791,8 @@
             "sources": [
               "Yemen Online"
             ],
-            "heatScore": 67,
+            "heatScore": 63,
             "publishedAt": "2026-10-08T17:04:22.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "随着港口从战争破坏中恢复，富查伊拉的眼睛扩张",
-            "originalTitle": "Fujairah Eyes Expansion as Port Recovers From War Damage",
-            "url": "https://c.newsnow.co.uk/A/1326541547?-15565:1965",
-            "source": "Energy Intelligence",
-            "sources": [
-              "Energy Intelligence"
-            ],
-            "heatScore": 64,
-            "publishedAt": "2026-10-08T15:58:19.000Z"
           },
           {
             "rank": 8,
@@ -13789,7 +13803,7 @@
             "sources": [
               "Travels Dubai"
             ],
-            "heatScore": 63,
+            "heatScore": 60,
             "publishedAt": "2026-10-08T15:03:00.000Z"
           },
           {
@@ -13801,7 +13815,7 @@
             "sources": [
               "Big News Network.com"
             ],
-            "heatScore": 63,
+            "heatScore": 60,
             "publishedAt": "2026-10-08T14:47:00.000Z"
           },
           {
@@ -13813,7 +13827,7 @@
             "sources": [
               "ASHARQ AL-AWSAT English"
             ],
-            "heatScore": 62,
+            "heatScore": 59,
             "publishedAt": "2026-10-08T14:17:30.000Z"
           }
         ],
@@ -13827,7 +13841,7 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 69,
+            "heatScore": 65,
             "publishedAt": "2026-10-08T15:30:12.000Z"
           },
           {
@@ -13839,7 +13853,7 @@
             "sources": [
               "The Week"
             ],
-            "heatScore": 67,
+            "heatScore": 63,
             "publishedAt": "2026-10-08T12:52:17.000Z"
           },
           {
@@ -13851,7 +13865,7 @@
             "sources": [
               "The Independent"
             ],
-            "heatScore": 65,
+            "heatScore": 62,
             "publishedAt": "2026-10-08T10:54:00.000Z"
           },
           {
@@ -13863,7 +13877,7 @@
             "sources": [
               "The Independent"
             ],
-            "heatScore": 63,
+            "heatScore": 59,
             "publishedAt": "2026-10-08T11:14:00.000Z"
           },
           {
@@ -13875,35 +13889,11 @@
             "sources": [
               "ABS-CBN"
             ],
-            "heatScore": 62,
+            "heatScore": 59,
             "publishedAt": "2026-10-08T09:10:04.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "贝尔纳多·皮涅罗（ Bernardo Pinheiro ）回到迪拜，他的目光远远超出了赛马场-《草皮日报》（ Turf Diario ）",
-            "originalTitle": "Bernardo Pinheiro has returned to Dubai with his sights set far beyond the jockey standings - Turf Diario",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1RtZG5yUlg4aEJRODJuTk9mZnh0RVdkVnVBaUQtc3kwaXp3QTVITjdibGZKYXE4YWNNelRGNm1uaXE4RE1PbkdpdDVVWHJKUG9YX0F1U29nNHhIdzQ4cVM4S3EzTl92ME00b3U4bGQzTDgyOVhuYlFHYjFJVDV4VnhLUWU4Zy01LWNuTjk1QWpNbkpYUlZGbnY3TzItMjBMTUdTbHlLa3BlUXhGM1BYRlFlSTB6bXI4V201TDZ0akg5STgwSnRESmlETQ?oc=5",
-            "source": "Turf Diario",
-            "sources": [
-              "Turf Diario"
-            ],
-            "heatScore": 60,
-            "publishedAt": "2026-10-08T12:05:31.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "万达拉指挥官警告阿联酋：不要再玩火了- WANA通讯社",
-            "originalTitle": "Handala Commander Warns UAE: Do Not Play With Fire Any Further - WANA News Agency",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1hlY1BGbGlveTVBaF9uOFhRa3E0dFJoQ1ViNTJ1WXQ3U2M2U1ZVTnNRdUtsYWp3Znpnd3UydFFxVDhpYzdKeThPRUotdnpGeS04RkxzODgxUzJsNkwzVi1OQjZ3eUNhMzRFanVZVkZjQl9ESkpHTjVwVzU2TGZiMzVJOWVsMFZq?oc=5",
-            "source": "WANA News Agency",
-            "sources": [
-              "WANA News Agency"
-            ],
-            "heatScore": 60,
-            "publishedAt": "2026-10-08T11:56:59.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "这位女士分享了班加罗尔、海得拉巴和迪拜的人生教训： “塑造我是谁的三座城市” |热门话题-《印度斯坦时报》",
             "originalTitle": "Woman shares life lessons from Bengaluru, Hyderabad and Dubai: ‘Three cities that shaped who I am’ | Trending - Hindustan Times",
             "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzd0R0VpZ1h6cE5WME12NlBUV1ItaFRjUjZBbDBaWHJqazRZYVNVMTRmSlROcDRfM0pKbm1uSHY1dmlMVHc1ZXlyZ0ZDSzAyVUVzU3NDYzNZZXNoTzZueWVSemlCOGVwQmI2N3ZiZXlfS09mRmlFbnJ2ZkhaTHZuaWZKdHM3cjl1eXJWRzg0ZU5FU1Y2TTJfRm1BOEl3YjllSy1iMnZhTmlvUDAxb05iSG82UU5xaV9TcmNPVFdRRDZzMWhscjB2S25Pd0FmdEJaSThCa1BQVjVLVzZkMlY2QnpBc19SMlpYRnFv0gHwAUFVX3lxTE9oY1RERDlicFlXTDhPZE41V2gxZS11YldBbVJORnFvYVhXRFlMMXNFV1dUaHN4c25XMThIb0RteS03RG1aR0FlcnJVTG9yZ0gwQVdGM0tvYUFmOWltUUR1eURqOTRnd0xGcVJ6LW1GNkhDXzQ5VXN5UHl2a1hRWFpZUzFwbzNLTUdpOVZiQ1RwMnlUYzZqems5UFppaEdjQlNaR2FfMDd1UElCQnlGR01JYjcyYzFQTDYyV0hlR0hzOTM4SF9VU1hvVzFaWlV5c0JKcVNWMFFNdmRmVDNPanpZMmNwbGxDRWtrbUZkVTJrcA?oc=5",
@@ -13911,8 +13901,32 @@
             "sources": [
               "Hindustan Times"
             ],
-            "heatScore": 60,
+            "heatScore": 58,
             "publishedAt": "2026-10-08T07:02:41.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "贝尔纳多·皮涅罗（ Bernardo Pinheiro ）回到迪拜，他的目光远远超出了赛马场-《草皮日报》（ Turf Diario ）",
+            "originalTitle": "Bernardo Pinheiro has returned to Dubai with his sights set far beyond the jockey standings - Turf Diario",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1RtZG5yUlg4aEJRODJuTk9mZnh0RVdkVnVBaUQtc3kwaXp3QTVITjdibGZKYXE4YWNNelRGNm1uaXE4RE1PbkdpdDVVWHJKUG9YX0F1U29nNHhIdzQ4cVM4S3EzTl92ME00b3U4bGQzTDgyOVhuYlFHYjFJVDV4VnhLUWU4Zy01LWNuTjk1QWpNbkpYUlZGbnY3TzItMjBMTUdTbHlLa3BlUXhGM1BYRlFlSTB6bXI4V201TDZ0akg5STgwSnRESmlETQ?oc=5",
+            "source": "Turf Diario",
+            "sources": [
+              "Turf Diario"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-08T12:05:31.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "万达拉指挥官警告阿联酋：不要再玩火了- WANA通讯社",
+            "originalTitle": "Handala Commander Warns UAE: Do Not Play With Fire Any Further - WANA News Agency",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1hlY1BGbGlveTVBaF9uOFhRa3E0dFJoQ1ViNTJ1WXQ3U2M2U1ZVTnNRdUtsYWp3Znpnd3UydFFxVDhpYzdKeThPRUotdnpGeS04RkxzODgxUzJsNkwzVi1OQjZ3eUNhMzRFanVZVkZjQl9ESkpHTjVwVzU2TGZiMzVJOWVsMFZq?oc=5",
+            "source": "WANA News Agency",
+            "sources": [
+              "WANA News Agency"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-08T11:56:59.000Z"
           },
           {
             "rank": 9,
@@ -13923,7 +13937,7 @@
             "sources": [
               "The Sun"
             ],
-            "heatScore": 59,
+            "heatScore": 56,
             "publishedAt": "2026-10-08T10:29:00.000Z"
           },
           {
@@ -13935,7 +13949,7 @@
             "sources": [
               "Kanak News Odisha"
             ],
-            "heatScore": 59,
+            "heatScore": 55,
             "publishedAt": "2026-10-08T10:01:27.000Z"
           }
         ],
