@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T19:13:51.652Z",
+  "updatedAt": "2026-10-09T19:32:10.419Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -13956,7 +13956,7 @@
     },
     "2026-10-09": {
       "date": "2026-10-09",
-      "updatedAt": "2026-10-09T19:13:51.652Z",
+      "updatedAt": "2026-10-09T19:32:10.419Z",
       "categories": {
         "all": [
           {
@@ -13974,16 +13974,16 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "阿联酋检察官：阿曼飞行迪拜副驾驶员计划对本古里安机场进行自杀式袭击",
-            "originalTitle": "UAE prosecutor: Omani FlyDubai co-pilot planned suicide attack on Ben Gurion ⁠airport",
+            "translatedTitle": "阿联酋表示， Flydubai副驾驶员计划将飞机撞向本古里安机场",
+            "originalTitle": "Flydubai co-pilot planned to crash aircraft into Ben Gurion airport, UAE says",
             "url": "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
             "source": "Sky News",
             "sources": [
-              "Arab News",
+              "The Independent",
               "Sky News"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-09T16:57:18.000Z"
+            "publishedAt": "2026-10-09T19:21:29.000Z"
           },
           {
             "rank": 3,
@@ -14027,6 +14027,18 @@
           },
           {
             "rank": 6,
+            "translatedTitle": "阿联酋检察官：阿曼飞行迪拜副驾驶员计划对本古里安机场进行自杀式袭击",
+            "originalTitle": "UAE prosecutor: Omani FlyDubai co-pilot planned suicide attack on Ben Gurion ⁠Airport",
+            "url": "https://www.arabnews.com/middle-east/uae-prosecutor-omani-flydubai-co-pilot-planned-suicide-attack-on-ben-gurion-airport-3005507",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-10-09T16:57:18.000Z"
+          },
+          {
+            "rank": 7,
             "translatedTitle": "“我成功的基础” ：谢赫·穆罕默德写给母亲的衷心信件",
             "originalTitle": "'The foundation of my success': Sheikh Mohammed pens heartfelt letter to mother",
             "url": "https://www.khaleejtimes.com/uae/foundation-success-sheikh-mohammed-letter-mother",
@@ -14038,7 +14050,7 @@
             "publishedAt": "2026-10-09T18:01:13.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "阿联酋调查显示， Flydubai副驾驶员计划在FZ1073航班上进行“自杀式袭击”",
             "originalTitle": "Flydubai co-pilot planned 'suicide attack' on flight FZ1073, UAE probe reveals",
             "url": "https://www.khaleejtimes.com/uae/omani-flydubai-co-pilot-planned-suicide-attack-on-flight-fz1073-uae-probe-reveals",
@@ -14046,11 +14058,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-10-09T16:13:07.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "阿联酋对显示欺凌确定子女的视频采取法律行动",
             "originalTitle": "UAE takes legal action over video showing bullying of child of determination",
             "url": "https://www.khaleejtimes.com/uae/uae-legal-action-video-bullying-of-child-of-determination",
@@ -14062,28 +14074,16 @@
             "publishedAt": "2026-10-09T15:45:11.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "阿联酋海洋运动联合会与SIREN签署协议，将于12月举办龙舟欧洲杯- www.wam.ae",
-            "originalTitle": "UAE Marine Sports Federation signs agreement with Siren to organise Dragon Boat Euro Cup in December - www.wam.ae",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakd1NTVrZF9YUmtva0xUWmdKNC1jNXRmVXphU1BZRlRHN1Q4Z3BWbzJTWGJMTzAxWVAydk96amFmdGhmanpDeExVN0ZmSFd6UGdFWmE5ZUIyNkJIV1RDdERTU1U3UGZzMFd6YkxJbWNaQWdsWUV2R3NQQUlTTDZwRkwzMVVuN2pIbkNLZDdlc2Y?oc=5",
-            "source": "www.wam.ae",
-            "sources": [
-              "www.wam.ae"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-09T12:49:10.000Z"
-          },
-          {
             "rank": 10,
-            "translatedTitle": "阿布扎比居民如何度过周五",
-            "originalTitle": "How Abu Dhabi residents spend their Fridays",
-            "url": "https://c.newsnow.co.uk/A/1326651576?-15565:1965",
-            "source": "Gulf News",
+            "translatedTitle": "阿联酋明天天气：阿布扎比气温将达到41°C ；部分多云天气",
+            "originalTitle": "UAE weather tomorrow: Abu Dhabi temperatures to hit 41°C; partly cloudy skies",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-10-2026",
+            "source": "Khaleej Times",
             "sources": [
-              "Gulf News"
+              "Khaleej Times"
             ],
             "heatScore": 82,
-            "publishedAt": "2026-10-09T17:59:18.000Z"
+            "publishedAt": "2026-10-09T15:00:25.000Z"
           }
         ],
         "domestic": [
@@ -14133,7 +14133,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-10-09T16:13:07.000Z"
           },
           {
@@ -14150,18 +14150,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "阿布扎比居民如何度过周五",
-            "originalTitle": "How Abu Dhabi residents spend their Fridays",
-            "url": "https://c.newsnow.co.uk/A/1326651576?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-09T17:59:18.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "阿联酋明天天气：阿布扎比气温将达到41°C ；部分多云天气",
             "originalTitle": "UAE weather tomorrow: Abu Dhabi temperatures to hit 41°C; partly cloudy skies",
             "url": "https://www.khaleejtimes.com/uae/weather/october-10-2026",
@@ -14173,7 +14161,7 @@
             "publishedAt": "2026-10-09T15:00:25.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿布扎比宣布Shakhbout Bin Sultan街道路关闭3天",
             "originalTitle": "Abu Dhabi announces 3-day road closure on Shakhbout Bin Sultan Street",
             "url": "https://www.khaleejtimes.com/uae/transport/abu-dhabi-road-closure-shakhbout-bin-sultan-street-oct-9-to-oct-12",
@@ -14185,7 +14173,7 @@
             "publishedAt": "2026-10-09T14:45:40.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "谢赫穆罕默德颁布法律，成立迪拜交响乐团基金会，以促进艺术和文化",
             "originalTitle": "Sheikh Mohammed issues law establishing Dubai Orchestra Foundation to promote arts, culture",
             "url": "https://www.khaleejtimes.com/uae/sheikh-mohammed-law-establish-dubai-orchestra-foundation",
@@ -14195,6 +14183,18 @@
             ],
             "heatScore": 81,
             "publishedAt": "2026-10-09T14:08:16.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿布扎比居民如何度过周五",
+            "originalTitle": "How Abu Dhabi residents spend their Fridays",
+            "url": "https://c.newsnow.co.uk/A/1326651576?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-09T17:59:18.000Z"
           },
           {
             "rank": 10,
@@ -14234,7 +14234,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-09T12:49:10.000Z"
           },
           {
@@ -14337,19 +14337,44 @@
         "economy": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋检察官：阿曼飞行迪拜副驾驶员计划对本古里安机场进行自杀式袭击",
-            "originalTitle": "UAE prosecutor: Omani FlyDubai co-pilot planned suicide attack on Ben Gurion ⁠airport",
+            "translatedTitle": "阿联酋表示， Flydubai副驾驶员计划将飞机撞向本古里安机场",
+            "originalTitle": "Flydubai co-pilot planned to crash aircraft into Ben Gurion airport, UAE says",
             "url": "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
             "source": "Sky News",
             "sources": [
-              "Arab News",
+              "The Independent",
               "Sky News"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-09T16:57:18.000Z"
+            "publishedAt": "2026-10-09T19:21:29.000Z"
           },
           {
             "rank": 2,
+            "translatedTitle": "阿联酋检察官：阿曼飞行迪拜副驾驶员计划对本古里安机场进行自杀式袭击",
+            "originalTitle": "UAE prosecutor: Omani FlyDubai co-pilot planned suicide attack on Ben Gurion ⁠Airport",
+            "url": "https://www.arabnews.com/middle-east/uae-prosecutor-omani-flydubai-co-pilot-planned-suicide-attack-on-ben-gurion-airport-3005507",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-10-09T16:57:18.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "FlyDubai副驾驶试图让飞机坠入特拉维夫的主要机场：阿联酋",
+            "originalTitle": "FlyDubai co-pilot sought to crash plane into Tel Aviv's main airport: UAE",
+            "url": "https://c.newsnow.co.uk/A/1326657250?-15565:1965",
+            "source": "CBC.ca",
+            "sources": [
+              "CBC.ca",
+              "San Francisco Chronicle"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-09T19:18:23.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "赢得75,000迪拉姆大奖券后，在阿联酋的埃及外籍人士将与合作伙伴投资业务",
             "originalTitle": "Egyptian expat in UAE to invest in business with partners after Dh75,000 Big Ticket win",
             "url": "https://www.khaleejtimes.com/uae/egyptian-expat-uae-business-investment-partners-dh75000-big-ticket",
@@ -14361,20 +14386,7 @@
             "publishedAt": "2026-10-09T13:33:26.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "阿联酋检察官称， FlyDubai副驾驶员打算让飞机坠入特拉维夫机场",
-            "originalTitle": "FlyDubai co-pilot intended to crash plane into Tel Aviv airport, UAE prosecutor says",
-            "url": "https://c.newsnow.co.uk/A/1326654674?-15565:1965",
-            "source": "San Francisco Chronicle",
-            "sources": [
-              "San Francisco Chronicle",
-              "The Korea Times"
-            ],
-            "heatScore": 79,
-            "publishedAt": "2026-10-09T18:40:48.000Z"
-          },
-          {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "随着非石油行业的扩张， 2026年上半年阿联酋经济增长0.4%至9,619亿迪拉姆",
             "originalTitle": "UAE economy grows 0.4% to Dh961.9 billion in H1 2026 as non-oil sectors expand",
             "url": "https://www.khaleejtimes.com/uae/uae-economy-grows-04-to-dh9619-billion-in-h1-2026-as-non-oil-sectors-expand",
@@ -14382,11 +14394,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-09T10:53:44.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "航空公司负责人表示，在迪拜航空遭到袭击后，无法完全防范流氓飞行员-路透社",
             "originalTitle": "Airline chiefs say can't fully guard against rogue pilots after flydubai attack - Reuters",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONllXMUhvQVpOVC1tNnlXYmcwSnh1a2w2TFhQdzhZaW9jeWoxRkZtNlR2eFhybEJ3NkZ2VHRQbmVod09iMmc3dmtTdmpOMmlMTnE1MmNYOE93enJyYV9OVzE3LWxhUHBWT0s1TGdwM1VVcVZtenVLUTFQRF9pWFZJTUFqYmFSZVpScDBZRnllZW1aVlI0QnFUTjBaLXoyV20xRDR0UTB3YkFmdTQzOGk2UmpkVkt0aG8tSHA2UmtvQVhjak0xQThwemJ0QUQ?oc=5",
@@ -14396,30 +14408,6 @@
             ],
             "heatScore": 68,
             "publishedAt": "2026-10-08T12:39:40.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "2026年上半年阿联酋经济增长0.4个百分点，第二季度收缩2.1个百分点",
-            "originalTitle": "UAE economy grows 0.4 pct in H1 2026, contracts 2.1 pct in Q2",
-            "url": "https://c.newsnow.co.uk/A/1326650104?-15565:1965",
-            "source": "The Peninsula",
-            "sources": [
-              "The Peninsula"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-10-09T17:37:22.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "英国海上贸易：船只在阿联酋海岸被身份不明的炮弹击中",
-            "originalTitle": "UK Maritime Trade: Vessel Hit by Unidentified Projectile off UAE Coast",
-            "url": "https://c.newsnow.co.uk/A/1326649372?-15565:1965",
-            "source": "Iraqi News Agency",
-            "sources": [
-              "Iraqi News Agency"
-            ],
-            "heatScore": 63,
-            "publishedAt": "2026-10-09T17:27:04.000Z"
           }
         ],
         "technology": [
@@ -14432,7 +14420,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-10-09T12:12:09.000Z"
           },
           {
@@ -14508,7 +14496,7 @@
             "sources": [
               "Outlook India"
             ],
-            "heatScore": 67,
+            "heatScore": 66,
             "publishedAt": "2026-10-09T18:38:50.000Z"
           },
           {
@@ -14532,7 +14520,7 @@
             "sources": [
               "برق الإمارات"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-09T16:05:51.000Z"
           },
           {
@@ -14588,19 +14576,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "阿联酋检察官：阿曼飞行迪拜副驾驶员计划对本古里安机场进行自杀式袭击",
-            "originalTitle": "UAE prosecutor: Omani FlyDubai co-pilot planned suicide attack on Ben Gurion ⁠airport",
-            "url": "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
-            "source": "Sky News",
-            "sources": [
-              "Arab News",
-              "Sky News"
-            ],
-            "heatScore": 99,
-            "publishedAt": "2026-10-09T16:57:18.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "阿联酋对社交媒体内容欺凌判断之子采取法律行动- ARN新闻中心",
             "originalTitle": "UAE takes legal action over social media content bullying child of determination - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDRWd3JVNHd5aVRERXZlRmtCeXM3ajEtU1NwYkNEOWRNaXNXRVoyalBDdEE5MHZSYjEwRHpRM0M5OHV5SFNiVlhjbm9hQU9DWWZxSG9MTUhZZk0tLUNZNWRjNmxjdXQ5RlFnNWhTRkJvMWlxS1BkSGhuYVlSMTA5RHEyY3NnS01nZUhaNkE2cFJzdDNVOEpad1ZZMUI5M0FTRl84WVVUakhsbFdRUWRiRGd30gHCAUFVX3lxTE9NaTg4SklEV1BNWURmakZkNGUyazdsNlp3emxuLWtOdlBhN1lQajlsN0NfcXM0bmhiMEZQMTRPdFpFVWlLTnFNTFVYbnc1LWM4Rkg2ekU0X1YyYXBYcC1kaS1fMEt1bXpISmNKMU1qNUd1NldTZTMyMG9xTWJUcVJ3R0JfdlMtXzNvcks0R25nOHNKN0QyVHdCQlhEOUVPZW9fRVhDaHlkOWxfTWxMMS0zeTlndXgtUkYySV9VeUZtTTdn?oc=5",
@@ -14613,7 +14588,7 @@
             "publishedAt": "2026-10-09T16:14:06.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "Flydubai副驾驶试图在特拉维夫进行9/11自杀式袭击并接受驾驶舱战斗培训",
             "originalTitle": "Flydubai co-pilot attempted 9/11 suicide attack on Tel Aviv and trained for cockpit fight",
             "url": "https://c.newsnow.co.uk/A/1326651555?-15565:1965",
@@ -14623,6 +14598,18 @@
             ],
             "heatScore": 93,
             "publishedAt": "2026-10-09T17:59:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋检察官：阿曼飞行迪拜副驾驶员计划对本古里安机场进行自杀式袭击",
+            "originalTitle": "UAE prosecutor: Omani FlyDubai co-pilot planned suicide attack on Ben Gurion ⁠Airport",
+            "url": "https://www.arabnews.com/middle-east/uae-prosecutor-omani-flydubai-co-pilot-planned-suicide-attack-on-ben-gurion-airport-3005507",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-10-09T16:57:18.000Z"
           },
           {
             "rank": 5,
@@ -14638,18 +14625,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "NMA和TikTok培训年轻的阿拉伯媒体领导者讲述数字故事-迪拜之眼103.8",
-            "originalTitle": "NMA and TikTok train young Arab media leaders in digital storytelling - Dubai Eye 103.8",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGt5Zmt6Q1lIMUwxUk5fUFZKZGdjYm15ZG5NMzRKZFZDNU96WDA3bkprRU41WXRHUDMyY1NkeHJJaVVtY3YzT1E1ZXBUbHBvRHJqUmwyS2poOUVsWXljb1Q5SllxSU5nMHFnZDJlVm11SEFCSVZnd0dXWmswR2RWeUFaUk9EVWFBbHpTeHFZY1Z3YU1ka2xCUlV6UmxyMnFsOTBXMmk0SlJJM1k1dTctRjZkUQ?oc=5",
-            "source": "Dubai Eye 103.8",
-            "sources": [
-              "Dubai Eye 103.8"
-            ],
-            "heatScore": 64,
-            "publishedAt": "2026-10-09T13:51:34.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "Flydubai恐怖嫌疑人在妇女，鞭子和伊斯兰教法的病态帖子- NT新闻",
             "originalTitle": "Flydubai terror suspect’s sick posts on women, whips and sharia - NT News",
             "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOY3NTY0JTZGZXMFhSNFptWkttN0tRQlNJTndBWEhVNVI3dWVRa1VyRTRIR0lZUEQ1NHRkbU96Y09VYnUzT1ZXS3gzY1FfUDh3YndaWmtIQ1FwamFLcU01cFktNkZXQmM3OV9qcHRlVVcycEoxdjgwV3ktRWFpTlpfSnBfaXNJNk96XzdjeGxHVmMtSzd0enV5SWlxZEo1enB2UnRpdEU5VXAxY19zZFZ1UGpMT3pORnlQa05GV0hnLXdlSk1wc0p4SEFVSkQ4NjZBZEZLYkhnd3p3Yk0zNGppdEdjbFdVQ3habG1VckcxLXBUQzZ6Unk0ekY4VFZ0LUV3Rng4VHM4ejhnOGltT1Q4aExRRXc5ZF82d1lwTVVzSmRDTjNEUmQ2Tk10T0xkbDdEcERfQ3NB?oc=5",
@@ -14661,7 +14636,7 @@
             "publishedAt": "2026-10-09T18:04:27.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿联酋总统、加拿大总理讨论加强经济关系- ARN新闻中心",
             "originalTitle": "UAE President, Canadian PM discusses boosting economic ties - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjIxeHRFRDdaOHVHRmhqekZRbnFxME1fUFhEcWwtNXU2bllGR0EwS1VVWGFmbVNJMGZfT0dTMUVoUldZREF6c1d2N3ljS0FFR0VhclgxNFhEVXpPTlBTNXk2SHVEbHkxazltX0ptMFpWYVhPYVBCS202QW53MkxUcm1LVFg2NlFkYXFEejQzQXpvTENmbXNPZGhRempjLUQ2S0E?oc=5",
@@ -14671,6 +14646,18 @@
             ],
             "heatScore": 63,
             "publishedAt": "2026-10-09T14:23:15.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "NMA和TikTok培训年轻的阿拉伯媒体领导者讲述数字故事-迪拜之眼103.8",
+            "originalTitle": "NMA and TikTok train young Arab media leaders in digital storytelling - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGt5Zmt6Q1lIMUwxUk5fUFZKZGdjYm15ZG5NMzRKZFZDNU96WDA3bkprRU41WXRHUDMyY1NkeHJJaVVtY3YzT1E1ZXBUbHBvRHJqUmwyS2poOUVsWXljb1Q5SllxSU5nMHFnZDJlVm11SEFCSVZnd0dXWmswR2RWeUFaUk9EVWFBbHpTeHFZY1Z3YU1ka2xCUlV6UmxyMnFsOTBXMmk0SlJJM1k1dTctRjZkUQ?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-09T13:51:34.000Z"
           },
           {
             "rank": 9,
