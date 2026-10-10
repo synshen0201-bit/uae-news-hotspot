@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T19:26:50.764Z",
+  "updatedAt": "2026-10-10T19:41:45.257Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -14688,7 +14688,7 @@
     },
     "2026-10-10": {
       "date": "2026-10-10",
-      "updatedAt": "2026-10-10T19:26:50.764Z",
+      "updatedAt": "2026-10-10T19:41:45.257Z",
       "categories": {
         "all": [
           {
@@ -14733,7 +14733,7 @@
               "ARN News Centre",
               "Gulf News"
             ],
-            "heatScore": 96,
+            "heatScore": 95,
             "publishedAt": "2026-10-10T15:23:33.000Z"
           },
           {
@@ -14765,6 +14765,18 @@
           },
           {
             "rank": 6,
+            "translatedTitle": "沙特大使会见丹麦外交部官员",
+            "originalTitle": "Saudi ambassador meets Danish foreign ministry official",
+            "url": "https://www.arabnews.com/saudi-arabia/saudi-ambassador-meets-danish-foreign-ministry-official-3005625",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-10T19:31:51.000Z"
+          },
+          {
+            "rank": 7,
             "translatedTitle": "阿联酋彩票公布每周幸运日抽奖结果；一名玩家赢得10万迪拉姆",
             "originalTitle": "UAE Lottery announces weekly Lucky Day Draw results; one player wins Dh100,000",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-weekly-lucky-day-draw-results-oct-10",
@@ -14776,7 +14788,7 @@
             "publishedAt": "2026-10-10T17:57:31.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "迪拜在20个目的地推出新景点",
             "originalTitle": "Dubai launches new attractions across 20 destinations",
             "url": "https://c.newsnow.co.uk/A/1326716277?-15565:1965",
@@ -14788,7 +14800,7 @@
             "publishedAt": "2026-10-10T18:33:12.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "Dh30m阿联酋彩票：一个参与者包Dh100,000",
             "originalTitle": "Dh30m UAE Lottery: One participant bags Dh100,000",
             "url": "https://c.newsnow.co.uk/A/1326714943?-15565:1965",
@@ -14798,18 +14810,6 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-10-10T18:02:45.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "迪拜警方警告说，人工智能深度伪造可能会使人们更难信任真实的照片和视频",
-            "originalTitle": "Dubai Police warn AI deepfakes could make it harder to trust real photos, videos",
-            "url": "https://www.khaleejtimes.com/business/tech/dubai-ai-deepfakes-can-make-trusting-real-photos-videos-hard",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-10T15:30:58.000Z"
           },
           {
             "rank": 10,
@@ -14863,18 +14863,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "迪拜警方警告说，人工智能深度伪造可能会使人们更难信任真实的照片和视频",
-            "originalTitle": "Dubai Police warn AI deepfakes could make it harder to trust real photos, videos",
-            "url": "https://www.khaleejtimes.com/business/tech/dubai-ai-deepfakes-can-make-trusting-real-photos-videos-hard",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-10T15:30:58.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "Dh30m阿联酋彩票：您的号码出现了吗？结果",
             "originalTitle": "Dh30m UAE Lottery: Did your numbers come up? Results in",
             "url": "https://c.newsnow.co.uk/A/1326714112?-15565:1965",
@@ -14884,6 +14872,18 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-10T17:42:17.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜警方警告说，人工智能深度伪造可能会使人们更难信任真实的照片和视频",
+            "originalTitle": "Dubai Police warn AI deepfakes could make it harder to trust real photos, videos",
+            "url": "https://www.khaleejtimes.com/business/tech/dubai-ai-deepfakes-can-make-trusting-real-photos-videos-hard",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-10T15:30:58.000Z"
           },
           {
             "rank": 6,
@@ -14911,18 +14911,6 @@
           },
           {
             "rank": 8,
-            "translatedTitle": "阿联酋从阿拉伯湾燃烧的油轮上救出22名船员",
-            "originalTitle": "UAE rescues 22 crew from burning tanker in Arabian Gulf",
-            "url": "https://www.arabnews.com/middle-east/uae-rescues-22-crew-members-from-burning-oil-tanker-in-arabian-gulf-3005648",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-10-10T16:39:27.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "谢赫扎耶德大清真寺将于10月11日举办月光秀",
             "originalTitle": "Sheikh Zayed Grand Mosque to host lunar light show on October 11",
             "url": "https://www.khaleejtimes.com/uae/sheikh-zayed-grand-mosque-lunar-light-show",
@@ -14932,6 +14920,18 @@
             ],
             "heatScore": 80,
             "publishedAt": "2026-10-10T13:26:15.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋从阿拉伯湾燃烧的油轮上救出22名船员",
+            "originalTitle": "UAE rescues 22 crew from burning tanker in Arabian Gulf",
+            "url": "https://www.arabnews.com/middle-east/uae-rescues-22-crew-members-from-burning-oil-tanker-in-arabian-gulf-3005648",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-10T16:39:27.000Z"
           },
           {
             "rank": 10,
@@ -14949,6 +14949,18 @@
         "diplomacy": [
           {
             "rank": 1,
+            "translatedTitle": "沙特大使会见丹麦外交部官员",
+            "originalTitle": "Saudi ambassador meets Danish foreign ministry official",
+            "url": "https://www.arabnews.com/saudi-arabia/saudi-ambassador-meets-danish-foreign-ministry-official-3005625",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-10T19:31:51.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "塞舌尔和阿联酋的双边关系达到新的高度-海湾新闻",
             "originalTitle": "Bilateral relations between Seychelles and UAE reach new heights - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFN4LXFoaGEtMW9pcWFIdjhCalZYNlZQTGtieHFZV2ZUbjdycFEzN3NTaDhUVDd0VXdzaVE5Wk91enRsczFiUW5FYlliQndPMnB1RWpmX0pWY2NPOGxpdkZ1Ul9oclk0OE80UXJiUXNWRm9BWVF1bGdSQW5RSGk3NGRCcVZOSWtBVU93bEd3a1ZONTBiSFBWclNraEtqbjhZZ25Namo0QVhTQdIBugFBVV95cUxNRmtVTVZyZDNYbUdXS0JGaW1Td0x6WVAtWjVCVFVaYkN1YjZ3ZFphbHZNNjVROXRpT2V6SDl3UTUwQ0JKWFZfckl4Q2tyZTdkdzhmNEpYVGtBTEVpU1hGYV9kcEE4N3ZjQXRITjZBV0RQVHU1NllxclFaMUttSlNLMmNva25aN0Z5QksyYjF4RXk0ajlQWTd5cVFUOE13VjFFU1NPRVRMcUlDZDZOSXFlYlh4QUFRZHAydHc?oc=5",
@@ -14960,7 +14972,7 @@
             "publishedAt": "2026-10-10T11:46:00.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "阿联酋海洋运动联合会与SIREN签署协议，将于12月举办龙舟欧洲杯- www.wam.ae",
             "originalTitle": "UAE Marine Sports Federation signs agreement with Siren to organise Dragon Boat Euro Cup in December - www.wam.ae",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakd1NTVrZF9YUmtva0xUWmdKNC1jNXRmVXphU1BZRlRHN1Q4Z3BWbzJTWGJMTzAxWVAydk96amFmdGhmanpDeExVN0ZmSFd6UGdFWmE5ZUIyNkJIV1RDdERTU1U3UGZzMFd6YkxJbWNaQWdsWUV2R3NQQUlTTDZwRkwzMVVuN2pIbkNLZDdlc2Y?oc=5",
@@ -14972,7 +14984,7 @@
             "publishedAt": "2026-10-09T12:49:10.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "沙特阿拉伯和阿联酋就能源交换和铁路连通性达成协议- Italpress",
             "originalTitle": "Saudi Arabia and UAE reach agreement on energy exchange and railway connectivity - Italpress",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1J2M3lZNDhYeGFyNlBtSDdFWkw2d1Zkdl9CTnh3dVpPczIySGtpbEdNeHRhY1FJNzRObnRTTGxmd1MzclNaTDVXbnNHN3g2cGxhSlRqUGt0NXJaaC1PWEdJN0FfMklGdW5TeGoyQ0pLMFhfVmJZYU8taTZiWkpYYWNacWtKMjZJWWRUYzV3N1hmQnZzWlJrdnNWcElycTNZY2lhTV81aTJNRjg?oc=5",
@@ -14984,7 +14996,7 @@
             "publishedAt": "2026-10-10T15:18:30.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "阿联酋和沙特阿拉伯签署铁路和能源协议，以促进贸易和互联互通",
             "originalTitle": "UAE and Saudi Arabia sign rail and energy agreement to boost trade and connectivity - The National",
             "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYjBpM2VsX29tcWxlSTBKMHVQN3AwTjVKdDdyRV9pUDU1VGVGc3B1cWthcDdPRUNMZnl0VlB0YjA4aFVHeE9pVk5HR09renotOG9qRkxCRjJiaGhJNWRCTFkzMW41b3F1dnVweFJ6UFJwZG10ZEg0UmRHZFQ5Rjd0Ym9PalMxMXlxemlDVUdsdFBjcWFXU1BSUDFadXRZcTlLV1doSml0WGFWSFFXeEIzZ1pOaUxSWTd3SDV6aE02em55eGY1Rzcya0FRSzdGR3hCbnh0OTZTNHdZNVVTbm5ieWZIQQ?oc=5",
@@ -14996,7 +15008,7 @@
             "publishedAt": "2026-10-09T04:35:14.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "印度、阿联酋签署能源、国防、人工智能方面的主要协议；阿布扎比承诺投资$ 50亿- DD News",
             "originalTitle": "India, UAE ink major pacts on energy, defence, AI; Abu Dhabi commits $5 billion investment - DD News",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHFYRlhLOUZwajR6Yng4QjFyZV81TE5hbFhuTWF3SURkLUlublNDc29rZ3E2YndoQWN6bk4xX2J2STRXUEpEbFoxVmcyWnoxT1loRWpnRW1JOS1CLWpfb01wRU1MZ1g1NWNuUDFNbm5uTGNIZDFmNlY0OHBETmVXTHNlQlBKR2dHTVdCRFhGRlFCdk9RZ2ItUGpIcDZneTh2cjhwM2JOVW52NERGQThIVA?oc=5",
@@ -15008,7 +15020,7 @@
             "publishedAt": "2026-10-10T09:05:46.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "阿联酋和叙利亚央行签署金融合作协议- CairoScene",
             "originalTitle": "UAE & Syria Central Banks Sign Financial Cooperation Agreement - CairoScene",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXQ2cktUVVY4dDlQeUl2cGJlM1NBa0tjdkpPZkZUbmQ5X0k4empRdFB3ZmJ3X1o5STYtMC1ZbHgteGFEMkZiX0lnb0ctdGNHM1JXQjk1dFlZSENKd290MGJFMlZ6c0s2cS1LOTlmWUxqYjBDdWlya1ZXVTVuUFAyaC1WNFZrRm1HaW5NTXFNVExiV0FUNm1v?oc=5",
@@ -15020,7 +15032,7 @@
             "publishedAt": "2026-10-10T03:02:13.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "印度-阿联酋双边贸易： 2000亿美元计划的解释- LinkedIn",
             "originalTitle": "India-UAE Bilateral Trade: The $200 Billion Plan Explained - LinkedIn",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNem9jQjlQTkk1c1l1Z0dDdTI1SE51amQ3X3Via2Fmd3VMOWdhRTZ1NE1VaVltX0NxVk42Q05wV01YU3N3S3B2OGhJRVRJUkp4aExQYnpXWjRVa1NGLUdGRXc0RWZZR0Z0LTNQeGo4VXdMazExTlVKdFUyTTZXQnpyMHc1SDNISEc1V0RRZVdCa1BhVklWSzl3XzMyM01QNVVES2c?oc=5",
@@ -15032,7 +15044,19 @@
             "publishedAt": "2026-10-09T07:00:11.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
+            "translatedTitle": "印度，阿联酋希望在莫迪总理访问期间扩大经济伙伴关系- DD新闻",
+            "originalTitle": "India, UAE look to expand economic partnership during PM Modi’s visit - DD News",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREVUc3oybVpNblZFbGdFWnFfcnBTY0NFQ0NzZXZ5T0EtWFJ5am04VXEtS0o5V3hsNV90d1h1VnFfZ2tkRGRKMlFvOVF4Tjl1Zko5NXkxU0pVMlNhbmRBeGlSbm4yYVJ0bklUNkxOQ0ZOdFdtbmZyZ2NtNGdOc0licXVkVWNZR3pDWVpiY3Zod0w5TEE1dnEwdg?oc=5",
+            "source": "DD News",
+            "sources": [
+              "DD News"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-10-09T18:47:35.000Z"
+          },
+          {
+            "rank": 10,
             "translatedTitle": "沙特阿拉伯和阿联酋签署铁路连接协议-货运新闻",
             "originalTitle": "Saudi Arabia and UAE sign rail connectivity agreement - Freight News",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmNlS3NTNm9xeUtRWGM3NjBkTWVyUWt0OWk3ZUppRENOVnBpWmJVT1hCVXh4SkVGOHkyQ0pSalh1b2FPSHRjTWRwMHE0WDVFeGlnS1lJOWRaa3lValQ0bXZmWHJPSVVNWnE5OXdNc0E1YWtRbHRkTkNWZjJvNlowQ0xlc1ZfX0JfSlotY0NsalZvdFllZ2c?oc=5",
@@ -15042,30 +15066,6 @@
             ],
             "heatScore": 42,
             "publishedAt": "2026-10-09T12:28:00.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "阿联酋-沙特阿拉伯合作促进铁路连接和跨境贸易-建筑业新闻中东",
-            "originalTitle": "UAE–Saudi Arabia Partnership to Boost Rail Links and Cross-Border Trade - Construction Business News Middle East",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUdTRFdEUlQyOUU3blhaWWlxWkdFUmtlM3psU2VmeC02TnQxTWlSLTBMQjJfejR6Unp2aEFmRFozU2dTS1I2MmFlUnEwVF9WNjNaRW5iUFZYMzdhRUpIOVFkTXQzbmdLMjR1amlZZE1Td09EN2REWW51NnlzUkNITGdmbWdNTUtCSDNsZ1p6b3FrT3A4dWtjQzJldnBYX180WEp5VjJ0Z01KZk8weFE?oc=5",
-            "source": "Construction Business News Middle East",
-            "sources": [
-              "Construction Business News Middle East"
-            ],
-            "heatScore": 42,
-            "publishedAt": "2026-10-09T09:05:31.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "沙特国王邀请阿联酋总统参加海湾合作委员会-欧盟峰会-迪拜之眼103.8",
-            "originalTitle": "Saudi King invites UAE President to GCC-EU summit - Dubai Eye 103.8",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDhKWVRqeDJ5R3NVc0s4dVFhQjhXQWh0ejRJQWhkSXF0SzRmc3gtVkpnbU9nbnU4VkQyU0JETTJZLU5OeFUtX0lNZjNRVUtFelVQalhzMHN1OEliN19ya2lPbWZSR1ZjZU9lX0hYOXRxeWZUZXRyQVlOWnFVcXZZU2FxOXRSS3laSmJjX2JZQW0tVDNH?oc=5",
-            "source": "Dubai Eye 103.8",
-            "sources": [
-              "Dubai Eye 103.8"
-            ],
-            "heatScore": 42,
-            "publishedAt": "2026-10-09T06:49:37.000Z"
           }
         ],
         "economy": [
@@ -15094,7 +15094,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 77,
+            "heatScore": 76,
             "publishedAt": "2026-10-10T10:51:21.000Z"
           },
           {
@@ -15106,7 +15106,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 72,
+            "heatScore": 71,
             "publishedAt": "2026-10-10T07:06:25.000Z"
           }
         ],
@@ -15164,7 +15164,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-10T13:06:22.000Z"
           },
           {
@@ -15193,18 +15193,6 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "Flydubai FZ1073自杀式袭击：我们对阿曼副驾驶的一切了解",
-            "originalTitle": "Flydubai FZ1073 suicide attack: Everything we know about Omani co-pilot",
-            "url": "https://www.khaleejtimes.com/uae/flydubai-fz1073-dubai-tel-aviv-suicide-attack-what-we-know-omani-co-pilot",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 69,
-            "publishedAt": "2026-10-10T04:14:57.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "UKMTO表示，在袭击激增的情况下，船只在阿联酋海岸被不明弹击中-路透社",
             "originalTitle": "Vessel struck by unknown projectile off UAE coast amid surge in attacks, UKMTO says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2ZOeThZcXRzc1pOMExEQWVYWVlHOVc4Wkc3RFhGdjE3U21zSmE1akZGSkVUd1g0QmFrQlAtRjVJUlJVMFRienpnbHdTa21ZMHJraHNpVk1oczFLMWd6SjQycHItZWpSYjhCcmRxYUgtRFF0RElDWG9falJvVTV0a0dkaVFNZnpLZ0hGdlFxY2FTaUdZZDh6SnU1bndQMXgzYVdmLXRVem5nLU13UUt6Mi1jd1JuVzFKd3RrWHdBb3lFZzJjbW5Nek9YZXJ2dw?oc=5",
@@ -15216,20 +15204,19 @@
             "publishedAt": "2026-10-09T14:40:22.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "# Daily_Brief ：四名家庭成员，包括怀孕少女，在#索马里#邦特兰的#阿联酋无人机袭击中丧生：报告索马里牧民家庭的四名成员，包括一名13岁男孩、一名7岁儿童和一名17岁怀孕女孩， WER - Facebook",
-            "originalTitle": "#Daily_Brief: Four family members, including pregnant teenager, killed in #UAE drone strike in #Somalia’s #Puntland: Report Four members of a Somali pastoralist family, including a 13-year-old boy, a seven-year-old child and a 17-year-old pregnant girl, wer - Facebook",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MmJzSXJJWl9XT0VGMjBOeFREUUdJZ1pRNG14LWRPR1k3TTUwYlA3bks1ZVJqVU5PUUpCWTFKbGhldnZVRnJDaG9zbWdTT2NWZ3c?oc=5",
-            "source": "Addis Standard",
+            "rank": 8,
+            "translatedTitle": "Flydubai FZ1073自杀式袭击：我们对阿曼副驾驶的一切了解",
+            "originalTitle": "Flydubai FZ1073 suicide attack: Everything we know about Omani co-pilot",
+            "url": "https://www.khaleejtimes.com/uae/flydubai-fz1073-dubai-tel-aviv-suicide-attack-what-we-know-omani-co-pilot",
+            "source": "Khaleej Times",
             "sources": [
-              "Addis Standard",
-              "Facebook"
+              "Khaleej Times"
             ],
-            "heatScore": 67,
-            "publishedAt": "2026-10-10T07:23:03.000Z"
+            "heatScore": 68,
+            "publishedAt": "2026-10-10T04:14:57.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "Flydubai调查： 7项发现改变了我们对恐怖袭击未遂的了解",
             "originalTitle": "Flydubai investigation: 7 findings that change what we know about attempted terror attack",
             "url": "https://www.khaleejtimes.com/uae/flydubai-investigation-7-findings-that-change-what-we-know-about-attempted-terror-attack",
@@ -15239,6 +15226,19 @@
             ],
             "heatScore": 66,
             "publishedAt": "2026-10-10T02:00:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "悬挂巴拿马国旗的油轮在沙迦附近遭到无人机袭击所有22名印度船员安全- ABP现场英语",
+            "originalTitle": "Panama-Flagged Oil Tanker Hit In Drone Attack Off Sharjah All 22 Indian Crew Members Safe - ABP Live English",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjk0M0V3ZWt6ZHotdVJqcDNTS2VnQmZ1cm1NempHc3JuOEhidkRaWU8td3VYcVIwZlZQVzRUd1ptRjI5a0dfSXRNa0JPZmZDdV9RRzAzeEdnRGVPeERQZV9UOXYwVFJfQTFPNGI3TTkwdjczQWN3STBjRW5zelZIblg1ZVctT0hkUVd6bUhMQ2FHaXdFRG5xbXU0eEJQUVdLU2licmphQlNVbUJZcmJlNHFiSDVNa29WSG5nUlFlM1NoQzVxbXF0Y0IteFh4WXhi?oc=5",
+            "source": "Mangalore Today",
+            "sources": [
+              "Mangalore Today",
+              "ABP Live English"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-10T07:30:14.000Z"
           }
         ],
         "social": [
@@ -15252,7 +15252,7 @@
               "ARN News Centre",
               "Gulf News"
             ],
-            "heatScore": 96,
+            "heatScore": 95,
             "publishedAt": "2026-10-10T15:23:33.000Z"
           },
           {
@@ -15264,7 +15264,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-10T13:26:57.000Z"
           },
           {
@@ -15277,7 +15277,7 @@
               "The Filipino Times",
               "Emirates 24|7"
             ],
-            "heatScore": 75,
+            "heatScore": 74,
             "publishedAt": "2026-10-10T11:58:35.000Z"
           },
           {
@@ -15302,7 +15302,7 @@
             "sources": [
               "Daily Pakistan"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-10-10T14:41:42.000Z"
           },
           {
@@ -15314,7 +15314,7 @@
             "sources": [
               "The Filipino Times"
             ],
-            "heatScore": 58,
+            "heatScore": 57,
             "publishedAt": "2026-10-10T12:06:10.000Z"
           },
           {
@@ -15350,7 +15350,7 @@
             "sources": [
               "Curly Tales"
             ],
-            "heatScore": 55,
+            "heatScore": 54,
             "publishedAt": "2026-10-10T08:26:00.000Z"
           },
           {
