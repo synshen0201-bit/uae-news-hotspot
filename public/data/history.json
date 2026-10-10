@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T19:10:11.400Z",
+  "updatedAt": "2026-10-10T19:26:50.764Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -14688,20 +14688,21 @@
     },
     "2026-10-10": {
       "date": "2026-10-10",
-      "updatedAt": "2026-10-10T19:10:11.400Z",
+      "updatedAt": "2026-10-10T19:26:50.764Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋谴责胡塞集团袭击沙特国王哈立德国际机场-法纳新闻-",
-            "originalTitle": "UAE Condemns Houthi Group’s Attacks on King Khalid International Airport, Saudia Aircraft - Fana News -",
+            "translatedTitle": "阿联酋强烈谴责胡塞集团袭击沙特国王哈立德国际机场-阿联酋航空24 | 7",
+            "originalTitle": "UAE strongly condemns Houthi Group’s attacks on King Khalid International Airport, Saudia aircraft - Emirates 24|7",
             "url": "https://www.khaleejtimes.com/uae/condemns-houthi-attacks-king-khalid-international-airport-saudia-aircraft",
             "source": "Khaleej Times",
             "sources": [
               "Yemen Online",
               "Menafn",
               "Khaleej Times",
-              "Fana News -"
+              "Fana News -",
+              "Emirates 24|7"
             ],
             "heatScore": 99,
             "publishedAt": "2026-10-10T17:37:30.000Z"
@@ -14746,7 +14747,7 @@
               "AniNews.in",
               "https://www.indiagazette.com/"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-10T17:47:24.000Z"
           },
           {
@@ -14783,7 +14784,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-10-10T18:33:12.000Z"
           },
           {
@@ -14795,7 +14796,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-10T18:02:45.000Z"
           },
           {
@@ -14845,7 +14846,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 84,
             "publishedAt": "2026-10-10T18:33:12.000Z"
           },
           {
@@ -14857,7 +14858,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-10T18:02:45.000Z"
           },
           {
@@ -14886,30 +14887,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "阿联酋从阿拉伯湾燃烧的油轮上救出22名船员",
-            "originalTitle": "UAE rescues 22 crew from burning tanker in Arabian Gulf",
-            "url": "https://www.arabnews.com/middle-east/uae-rescues-22-crew-members-from-burning-oil-tanker-in-arabian-gulf-3005648",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-10T16:39:27.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "看：本周将开放的两个迪拜景点",
-            "originalTitle": "Look: Two Dubai attractions that will open this week",
-            "url": "https://c.newsnow.co.uk/A/1326711235?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 81,
-            "publishedAt": "2026-10-10T16:41:22.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "阿联酋明天天气：部分地区预计降雨量；阿布扎比气温将达到41°C",
             "originalTitle": "UAE weather tomorrow: Rainfall expected in some areas; Abu Dhabi temperatures to hit 41°C",
             "url": "https://www.khaleejtimes.com/uae/weather/october-11-2026",
@@ -14921,6 +14898,30 @@
             "publishedAt": "2026-10-10T13:33:21.000Z"
           },
           {
+            "rank": 7,
+            "translatedTitle": "看：本周将开放的两个迪拜景点",
+            "originalTitle": "Look: Two Dubai attractions that will open this week",
+            "url": "https://c.newsnow.co.uk/A/1326711235?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-10T16:41:22.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋从阿拉伯湾燃烧的油轮上救出22名船员",
+            "originalTitle": "UAE rescues 22 crew from burning tanker in Arabian Gulf",
+            "url": "https://www.arabnews.com/middle-east/uae-rescues-22-crew-members-from-burning-oil-tanker-in-arabian-gulf-3005648",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-10T16:39:27.000Z"
+          },
+          {
             "rank": 9,
             "translatedTitle": "谢赫扎耶德大清真寺将于10月11日举办月光秀",
             "originalTitle": "Sheikh Zayed Grand Mosque to host lunar light show on October 11",
@@ -14929,7 +14930,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-10T13:26:15.000Z"
           },
           {
@@ -14941,7 +14942,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-10-10T15:40:22.000Z"
           }
         ],
@@ -14972,6 +14973,18 @@
           },
           {
             "rank": 3,
+            "translatedTitle": "沙特阿拉伯和阿联酋就能源交换和铁路连通性达成协议- Italpress",
+            "originalTitle": "Saudi Arabia and UAE reach agreement on energy exchange and railway connectivity - Italpress",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1J2M3lZNDhYeGFyNlBtSDdFWkw2d1Zkdl9CTnh3dVpPczIySGtpbEdNeHRhY1FJNzRObnRTTGxmd1MzclNaTDVXbnNHN3g2cGxhSlRqUGt0NXJaaC1PWEdJN0FfMklGdW5TeGoyQ0pLMFhfVmJZYU8taTZiWkpYYWNacWtKMjZJWWRUYzV3N1hmQnZzWlJrdnNWcElycTNZY2lhTV81aTJNRjg?oc=5",
+            "source": "Italpress",
+            "sources": [
+              "Italpress"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-10T15:18:30.000Z"
+          },
+          {
+            "rank": 4,
             "translatedTitle": "阿联酋和沙特阿拉伯签署铁路和能源协议，以促进贸易和互联互通",
             "originalTitle": "UAE and Saudi Arabia sign rail and energy agreement to boost trade and connectivity - The National",
             "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYjBpM2VsX29tcWxlSTBKMHVQN3AwTjVKdDdyRV9pUDU1VGVGc3B1cWthcDdPRUNMZnl0VlB0YjA4aFVHeE9pVk5HR09renotOG9qRkxCRjJiaGhJNWRCTFkzMW41b3F1dnVweFJ6UFJwZG10ZEg0UmRHZFQ5Rjd0Ym9PalMxMXlxemlDVUdsdFBjcWFXU1BSUDFadXRZcTlLV1doSml0WGFWSFFXeEIzZ1pOaUxSWTd3SDV6aE02em55eGY1Rzcya0FRSzdGR3hCbnh0OTZTNHdZNVVTbm5ieWZIQQ?oc=5",
@@ -14981,18 +14994,6 @@
             ],
             "heatScore": 59,
             "publishedAt": "2026-10-09T04:35:14.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "沙特阿拉伯和阿联酋就能源交换和铁路连通性达成协议- Italpress",
-            "originalTitle": "Saudi Arabia and UAE reach agreement on energy exchange and railway connectivity - Italpress",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1J2M3lZNDhYeGFyNlBtSDdFWkw2d1Zkdl9CTnh3dVpPczIySGtpbEdNeHRhY1FJNzRObnRTTGxmd1MzclNaTDVXbnNHN3g2cGxhSlRqUGt0NXJaaC1PWEdJN0FfMklGdW5TeGoyQ0pLMFhfVmJZYU8taTZiWkpYYWNacWtKMjZJWWRUYzV3N1hmQnZzWlJrdnNWcElycTNZY2lhTV81aTJNRjg?oc=5",
-            "source": "Italpress",
-            "sources": [
-              "Italpress"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-10T13:48:26.000Z"
           },
           {
             "rank": 5,
@@ -15113,15 +15114,16 @@
         "military": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋谴责胡塞集团袭击沙特国王哈立德国际机场-法纳新闻-",
-            "originalTitle": "UAE Condemns Houthi Group’s Attacks on King Khalid International Airport, Saudia Aircraft - Fana News -",
+            "translatedTitle": "阿联酋强烈谴责胡塞集团袭击沙特国王哈立德国际机场-阿联酋航空24 | 7",
+            "originalTitle": "UAE strongly condemns Houthi Group’s attacks on King Khalid International Airport, Saudia aircraft - Emirates 24|7",
             "url": "https://www.khaleejtimes.com/uae/condemns-houthi-attacks-king-khalid-international-airport-saudia-aircraft",
             "source": "Khaleej Times",
             "sources": [
               "Yemen Online",
               "Menafn",
               "Khaleej Times",
-              "Fana News -"
+              "Fana News -",
+              "Emirates 24|7"
             ],
             "heatScore": 99,
             "publishedAt": "2026-10-10T17:37:30.000Z"
@@ -15137,7 +15139,7 @@
               "AniNews.in",
               "https://www.indiagazette.com/"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-10T17:47:24.000Z"
           },
           {
@@ -15179,19 +15181,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "所有22名印度船员在无人机袭击巴拿马国旗油轮MT GEM 2号后在阿联酋海岸外安全-英国孟买Samachar",
-            "originalTitle": "All 22 Indian Crew Safe After Drone Attack on Panama-Flagged Tanker MT GEM NO. 2 Off UAE Coast - English Bombay Samachar",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHJhZ2p4UHBXMVVVOG5fSFg3M2UtOGdMTHpNZXdJS2F1UG1CMTlfWXlFcHBrZllnX19WMXV4RTF1bWtPbkprV3RiMi14OWVXaVhkeVZaZXdEaWRKbjJsWU1JNFpramctdmRDM0ZNa2Y0M1A5MEk4dm9kMWtsWFlNRW9SODhFSkxORkRCMDBENXBfbGoycEtlbzJNUDljNWlJdDJSTmdLVm0xUnpndjVKY2VpdXp1alNvNEE?oc=5",
-            "source": "English Bombay Samachar",
-            "sources": [
-              "English Bombay Samachar",
-              "Mangalore Today"
-            ],
-            "heatScore": 71,
-            "publishedAt": "2026-10-10T11:42:00.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "美伊战争：阿联酋居民今天需要了解的6大发展-海湾新闻",
             "originalTitle": "US-Iran war: 6 major developments UAE residents need to know today - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTJoWkt6UHBkY0Jfb0U0eUhvLWtDY0RUTzhPZ0VkMk1fZ3FVdHB0M0Q5QnRTNk5XWERJZ3k1U2tmcHZTNmwyX1ZiX25ISGc3M0dFTlI3ekxlS3BjY0ZSVGpqcWdGSGF4OGFZMVJfYkZtQmtjd1VqS3ozOGh4NG0yLWFCd2R2V1JzaDUxT01xR0FOZGpBVmx5R2Fxd3JVRmpLNGZaN9IBtAFBVV95cUxQRTFZNVh3WjdhcEZDcE1nVFFLRzF6c2VMcmdQUkpZa2U3M0VoYUJNLUw5YU95RnhEU3BGVU5JV2luSThBcE5XVGFyV0VlNHktTGVEVVdibkZQTGcxY2trZW9TR1k5NnZpbHJhTFh4TFJsWUg3ejUwaDRmTU1iSjQ1MWVwZjdURENNdDZOS1puZVhBdTJndnVxd1RzQ2NLTGZEdU1zTmlXSVlWZFpWWjJCVTRtQ00?oc=5",
@@ -15203,7 +15192,7 @@
             "publishedAt": "2026-10-10T06:21:26.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "Flydubai FZ1073自杀式袭击：我们对阿曼副驾驶的一切了解",
             "originalTitle": "Flydubai FZ1073 suicide attack: Everything we know about Omani co-pilot",
             "url": "https://www.khaleejtimes.com/uae/flydubai-fz1073-dubai-tel-aviv-suicide-attack-what-we-know-omani-co-pilot",
@@ -15215,7 +15204,7 @@
             "publishedAt": "2026-10-10T04:14:57.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "UKMTO表示，在袭击激增的情况下，船只在阿联酋海岸被不明弹击中-路透社",
             "originalTitle": "Vessel struck by unknown projectile off UAE coast amid surge in attacks, UKMTO says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2ZOeThZcXRzc1pOMExEQWVYWVlHOVc4Wkc3RFhGdjE3U21zSmE1akZGSkVUd1g0QmFrQlAtRjVJUlJVMFRienpnbHdTa21ZMHJraHNpVk1oczFLMWd6SjQycHItZWpSYjhCcmRxYUgtRFF0RElDWG9falJvVTV0a0dkaVFNZnpLZ0hGdlFxY2FTaUdZZDh6SnU1bndQMXgzYVdmLXRVem5nLU13UUt6Mi1jd1JuVzFKd3RrWHdBb3lFZzJjbW5Nek9YZXJ2dw?oc=5",
@@ -15227,7 +15216,7 @@
             "publishedAt": "2026-10-09T14:40:22.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "# Daily_Brief ：四名家庭成员，包括怀孕少女，在#索马里#邦特兰的#阿联酋无人机袭击中丧生：报告索马里牧民家庭的四名成员，包括一名13岁男孩、一名7岁儿童和一名17岁怀孕女孩， WER - Facebook",
             "originalTitle": "#Daily_Brief: Four family members, including pregnant teenager, killed in #UAE drone strike in #Somalia’s #Puntland: Report Four members of a Somali pastoralist family, including a 13-year-old boy, a seven-year-old child and a 17-year-old pregnant girl, wer - Facebook",
             "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MmJzSXJJWl9XT0VGMjBOeFREUUdJZ1pRNG14LWRPR1k3TTUwYlA3bks1ZVJqVU5PUUpCWTFKbGhldnZVRnJDaG9zbWdTT2NWZ3c?oc=5",
@@ -15238,6 +15227,18 @@
             ],
             "heatScore": 67,
             "publishedAt": "2026-10-10T07:23:03.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Flydubai调查： 7项发现改变了我们对恐怖袭击未遂的了解",
+            "originalTitle": "Flydubai investigation: 7 findings that change what we know about attempted terror attack",
+            "url": "https://www.khaleejtimes.com/uae/flydubai-investigation-7-findings-that-change-what-we-know-about-attempted-terror-attack",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-10T02:00:00.000Z"
           }
         ],
         "social": [
@@ -15302,7 +15303,7 @@
               "Daily Pakistan"
             ],
             "heatScore": 60,
-            "publishedAt": "2026-10-10T14:32:06.000Z"
+            "publishedAt": "2026-10-10T14:41:42.000Z"
           },
           {
             "rank": 6,
@@ -15361,7 +15362,7 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 54,
+            "heatScore": 53,
             "publishedAt": "2026-10-10T04:40:51.000Z"
           }
         ],
