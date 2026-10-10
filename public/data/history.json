@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T20:08:23.327Z",
+  "updatedAt": "2026-10-10T19:10:11.400Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -14688,272 +14688,275 @@
     },
     "2026-10-10": {
       "date": "2026-10-10",
-      "updatedAt": "2026-10-09T20:08:23.327Z",
+      "updatedAt": "2026-10-10T19:10:11.400Z",
       "categories": {
         "all": [
           {
             "rank": 1,
-            "translatedTitle": "萨勒曼国王邀请阿联酋总统参加在沙特阿拉伯举行的第二次欧盟-海湾合作委员会峰会-阿拉伯新闻PK",
-            "originalTitle": "King Salman invites UAE president to second EU-GCC summit in Saudi Arabia - Arab News PK",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTNxM0FFUWRFSWp2ZVlyeWRhclB5NTFpWVlSV1ZCbXdxQnVCOGNUbnpsMWRrVEFyRHZKbGlEWlN6YkhyaFRvaTZWN2FOaFptdUh6aEFEUmtfX0FjY0hOMlBOUUpKV05fQ0NGaDA0d0JORkN5Z2txbUpGZTk1elAxMnlTQmtOY2VTRXY3ZzRBUUZ0ei1hMHc2UFp5MEw2MUI2U0xfdkxyaXk5Q2dHd2I3ellpZS1pUzBa?oc=5",
-            "source": "Arab News",
+            "translatedTitle": "阿联酋谴责胡塞集团袭击沙特国王哈立德国际机场-法纳新闻-",
+            "originalTitle": "UAE Condemns Houthi Group’s Attacks on King Khalid International Airport, Saudia Aircraft - Fana News -",
+            "url": "https://www.khaleejtimes.com/uae/condemns-houthi-attacks-king-khalid-international-airport-saudia-aircraft",
+            "source": "Khaleej Times",
             "sources": [
-              "Sharjah24",
-              "Saudi Gazette",
-              "Arab News",
-              "Arab News PK"
+              "Yemen Online",
+              "Menafn",
+              "Khaleej Times",
+              "Fana News -"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-08T21:59:42.000Z"
+            "publishedAt": "2026-10-10T17:37:30.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "UKMTO称，在袭击激增的情况下，船只在阿联酋海岸被不明炮弹击中",
-            "originalTitle": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
-            "url": "https://www.arabnews.com/middle-east/oil-tanker-struck-by-projectile-off-uae-coast-amid-surge-in-attacks-3005496",
-            "source": "Arab News",
+            "translatedTitle": "阿联酋国民警卫队在阿拉伯湾油轮起火后救出22人",
+            "originalTitle": "UAE National Guard rescues 22 people after oil tanker catches fire in Arabian Gulf",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/national-guard-rescue-22-crew-members-oil-tanker-catch-fire-arabian-gulf",
+            "source": "Khaleej Times",
             "sources": [
-              "gCaptain",
-              "Arab News"
+              "AniNews.in",
+              "The National",
+              "Khaleej Times",
+              "Anadolu Agency",
+              "Gulf News"
             ],
-            "heatScore": 97,
-            "publishedAt": "2026-10-09T19:43:16.000Z"
+            "heatScore": 99,
+            "publishedAt": "2026-10-10T17:23:34.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "阿联酋对社交媒体内容欺凌判断之子采取法律行动- ARN新闻中心",
-            "originalTitle": "UAE takes legal action over social media content bullying child of determination - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDRWd3JVNHd5aVRERXZlRmtCeXM3ajEtU1NwYkNEOWRNaXNXRVoyalBDdEE5MHZSYjEwRHpRM0M5OHV5SFNiVlhjbm9hQU9DWWZxSG9MTUhZZk0tLUNZNWRjNmxjdXQ5RlFnNWhTRkJvMWlxS1BkSGhuYVlSMTA5RHEyY3NnS01nZUhaNkE2cFJzdDNVOEpad1ZZMUI5M0FTRl84WVVUakhsbFdRUWRiRGd30gHCAUFVX3lxTE9NaTg4SklEV1BNWURmakZkNGUyazdsNlp3emxuLWtOdlBhN1lQajlsN0NfcXM0bmhiMEZQMTRPdFpFVWlLTnFNTFVYbnc1LWM4Rkg2ekU0X1YyYXBYcC1kaS1fMEt1bXpISmNKMU1qNUd1NldTZTMyMG9xTWJUcVJ3R0JfdlMtXzNvcks0R25nOHNKN0QyVHdCQlhEOUVPZW9fRVhDaHlkOWxfTWxMMS0zeTlndXgtUkYySV9VeUZtTTdn?oc=5",
+            "translatedTitle": "阿提哈德航空延长阿布扎比-利雅得航班取消时间- ARN新闻中心",
+            "originalTitle": "Etihad Airways extends Abu Dhabi-Riyadh flight cancellations - ARN News Centre",
+            "url": "https://c.newsnow.co.uk/A/1326703738?-15565:1965",
             "source": "Gulf News",
             "sources": [
               "ARN News Centre",
               "Gulf News"
             ],
             "heatScore": 96,
-            "publishedAt": "2026-10-09T16:14:06.000Z"
+            "publishedAt": "2026-10-10T15:23:33.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋称阿曼迪拜航空公司副驾驶员计划在特拉维夫航班上进行自杀式袭击-路透社",
-            "originalTitle": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJVb2U2eWdVMjdYVEVwMWt0NzJaQTA0aDNCMVB3YVc3N1VIMUszdjl0OUFFNVhCRHNSUEk3MzVsY1pnX2pIU1hfME5sRm5QUThjSEdJd3VHeGtuQzMzTGc4X0VESC1McU1vUXo3QTJGV2MwWGpFMXpacXF3dndjcWNORXU3bWNXaUtwWjRLbHJDNjBBQ3BIQldySU5LWXNjU0hxQkd4aWp2ZjAtYzNyQ0J0MHpLZjFKM19VSjM4QlJkZ2c?oc=5",
-            "source": "Reuters",
+            "translatedTitle": "印度-阿联酋联合军事演习Mountain Guardian 2026继续在北阿坎德邦全面展开- https://www.indiagazette.com/",
+            "originalTitle": "India-UAE joint military exercise Mountain Guardian 2026 continues in full swing in Uttarakhand - https://www.indiagazette.com/",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFlVckNaT0o3MEhzR0ZuZUJPWTU5WENDV1VrY1JORWh0Z3dxNXBwOUQ5QVh3TjJfMlludnpQOS02SmhqdWRJOW1FQzNzRzZWWFAxMHZtRXAtaXdjcjRiRWJKVXQwMWgxZmQxNU16UHY3a2x4RGU5Z3lCZHJRNDRxMkxScEVTSWlWQjdGaFZqYWk3OWlhbXNRcFU4a3J1WEVJejhmRlRZMm5jQUczZXE1REtRa205UnVoeVhyNzVFQjZfYjZnN3lLamhvQdIB0AFBVV95cUxPLWVpVGtfdGZfZm5PU19FNTBjMUtPbGZzcDJISTB3TC16UmpOZWlLYTdrYWQ2bmRKZHFnQ0F3VnMwbEZqX2xDVjRsNTBqWHZ6djEwUkFMTDBhM0RUOG4tRU1QTmlKZjdxeGJneXg1WHFjUTFIZkpxTURGUUYwYmFuUXF0WWZSRmp6TktTTUFmNjRPWElSNHBqcUNXMDF6OHBJTC1EbkpSOTVKa3NKcHVpV3hGRl9NeGlJZHNSWjZaX2Jva3dKQ24yZUtfU2gzY184?oc=5",
+            "source": "The Statesman",
             "sources": [
-              "Reuters"
+              "The Statesman",
+              "AniNews.in",
+              "https://www.indiagazette.com/"
             ],
-            "heatScore": 89,
-            "publishedAt": "2026-10-09T17:59:33.000Z"
+            "heatScore": 91,
+            "publishedAt": "2026-10-10T17:47:24.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "阿联酋称， Flydubai劫机者计划在9/11引发的袭击中坠毁飞机",
-            "originalTitle": "Flydubai hijacker planned to crash aircraft in 9/11-inspired attack, UAE says",
-            "url": "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
-            "source": "Sky News",
+            "translatedTitle": "阿联酋表示， Flydubai袭击者在澳大利亚开始“走向极端主义和恐怖主义” - BBC",
+            "originalTitle": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says - BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
             "sources": [
-              "Sky News"
+              "BBC News",
+              "BBC"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-09T16:30:00.000Z"
+            "heatScore": 88,
+            "publishedAt": "2026-10-10T04:34:55.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "“我成功的基础” ：谢赫·穆罕默德写给母亲的衷心信件",
-            "originalTitle": "'The foundation of my success': Sheikh Mohammed pens heartfelt letter to mother",
-            "url": "https://www.khaleejtimes.com/uae/foundation-success-sheikh-mohammed-letter-mother",
+            "translatedTitle": "阿联酋彩票公布每周幸运日抽奖结果；一名玩家赢得10万迪拉姆",
+            "originalTitle": "UAE Lottery announces weekly Lucky Day Draw results; one player wins Dh100,000",
+            "url": "https://www.khaleejtimes.com/uae/uae-lottery-weekly-lucky-day-draw-results-oct-10",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
-            "publishedAt": "2026-10-09T18:01:13.000Z"
+            "heatScore": 86,
+            "publishedAt": "2026-10-10T17:57:31.000Z"
           },
           {
             "rank": 7,
-            "translatedTitle": "阿联酋谴责胡塞武装袭击沙特机场",
-            "originalTitle": "UAE condemns Houthi attacks on Saudi airport",
-            "url": "https://c.newsnow.co.uk/A/1326658521?-15565:1965",
+            "translatedTitle": "迪拜在20个目的地推出新景点",
+            "originalTitle": "Dubai launches new attractions across 20 destinations",
+            "url": "https://c.newsnow.co.uk/A/1326716277?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-10T18:33:12.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Dh30m阿联酋彩票：一个参与者包Dh100,000",
+            "originalTitle": "Dh30m UAE Lottery: One participant bags Dh100,000",
+            "url": "https://c.newsnow.co.uk/A/1326714943?-15565:1965",
             "source": "Gulf News",
             "sources": [
               "Gulf News"
             ],
             "heatScore": 84,
-            "publishedAt": "2026-10-09T19:40:19.000Z"
+            "publishedAt": "2026-10-10T18:02:45.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "阿联酋调查显示， Flydubai副驾驶员计划在FZ1073航班上进行“自杀式袭击”",
-            "originalTitle": "Flydubai co-pilot planned 'suicide attack' on flight FZ1073, UAE probe reveals",
-            "url": "https://www.khaleejtimes.com/uae/omani-flydubai-co-pilot-planned-suicide-attack-on-flight-fz1073-uae-probe-reveals",
+            "rank": 9,
+            "translatedTitle": "迪拜警方警告说，人工智能深度伪造可能会使人们更难信任真实的照片和视频",
+            "originalTitle": "Dubai Police warn AI deepfakes could make it harder to trust real photos, videos",
+            "url": "https://www.khaleejtimes.com/business/tech/dubai-ai-deepfakes-can-make-trusting-real-photos-videos-hard",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
             "heatScore": 83,
-            "publishedAt": "2026-10-09T16:13:07.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "阿联酋对显示欺凌确定子女的视频采取法律行动",
-            "originalTitle": "UAE takes legal action over video showing bullying of child of determination",
-            "url": "https://www.khaleejtimes.com/uae/uae-legal-action-video-bullying-of-child-of-determination",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-09T15:45:11.000Z"
+            "publishedAt": "2026-10-10T15:30:58.000Z"
           },
           {
             "rank": 10,
-            "translatedTitle": "阿联酋明天天气：阿布扎比气温将达到41°C ；部分多云天气",
-            "originalTitle": "UAE weather tomorrow: Abu Dhabi temperatures to hit 41°C; partly cloudy skies",
-            "url": "https://www.khaleejtimes.com/uae/weather/october-10-2026",
-            "source": "Khaleej Times",
+            "translatedTitle": "Dh30m阿联酋彩票：您的号码出现了吗？结果",
+            "originalTitle": "Dh30m UAE Lottery: Did your numbers come up? Results in",
+            "url": "https://c.newsnow.co.uk/A/1326714112?-15565:1965",
+            "source": "Gulf News",
             "sources": [
-              "Khaleej Times"
+              "Gulf News"
             ],
             "heatScore": 82,
-            "publishedAt": "2026-10-09T15:00:25.000Z"
+            "publishedAt": "2026-10-10T17:42:17.000Z"
           }
         ],
         "domestic": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋称阿曼迪拜航空公司副驾驶员计划在特拉维夫航班上进行自杀式袭击-路透社",
-            "originalTitle": "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJVb2U2eWdVMjdYVEVwMWt0NzJaQTA0aDNCMVB3YVc3N1VIMUszdjl0OUFFNVhCRHNSUEk3MzVsY1pnX2pIU1hfME5sRm5QUThjSEdJd3VHeGtuQzMzTGc4X0VESC1McU1vUXo3QTJGV2MwWGpFMXpacXF3dndjcWNORXU3bWNXaUtwWjRLbHJDNjBBQ3BIQldySU5LWXNjU0hxQkd4aWp2ZjAtYzNyQ0J0MHpLZjFKM19VSjM4QlJkZ2c?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 89,
-            "publishedAt": "2026-10-09T17:59:33.000Z"
-          },
-          {
-            "rank": 2,
-            "translatedTitle": "阿联酋称， Flydubai劫机者计划在9/11引发的袭击中坠毁飞机",
-            "originalTitle": "Flydubai hijacker planned to crash aircraft in 9/11-inspired attack, UAE says",
-            "url": "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
-            "source": "Sky News",
-            "sources": [
-              "Sky News"
-            ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-09T16:30:00.000Z"
-          },
-          {
-            "rank": 3,
-            "translatedTitle": "“我成功的基础” ：谢赫·穆罕默德写给母亲的衷心信件",
-            "originalTitle": "'The foundation of my success': Sheikh Mohammed pens heartfelt letter to mother",
-            "url": "https://www.khaleejtimes.com/uae/foundation-success-sheikh-mohammed-letter-mother",
+            "translatedTitle": "阿联酋彩票公布每周幸运日抽奖结果；一名玩家赢得10万迪拉姆",
+            "originalTitle": "UAE Lottery announces weekly Lucky Day Draw results; one player wins Dh100,000",
+            "url": "https://www.khaleejtimes.com/uae/uae-lottery-weekly-lucky-day-draw-results-oct-10",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-10T17:57:31.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "迪拜在20个目的地推出新景点",
+            "originalTitle": "Dubai launches new attractions across 20 destinations",
+            "url": "https://c.newsnow.co.uk/A/1326716277?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
             "heatScore": 85,
-            "publishedAt": "2026-10-09T18:01:13.000Z"
+            "publishedAt": "2026-10-10T18:33:12.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Dh30m阿联酋彩票：一个参与者包Dh100,000",
+            "originalTitle": "Dh30m UAE Lottery: One participant bags Dh100,000",
+            "url": "https://c.newsnow.co.uk/A/1326714943?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-10T18:02:45.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋调查显示， Flydubai副驾驶员计划在FZ1073航班上进行“自杀式袭击”",
-            "originalTitle": "Flydubai co-pilot planned 'suicide attack' on flight FZ1073, UAE probe reveals",
-            "url": "https://www.khaleejtimes.com/uae/omani-flydubai-co-pilot-planned-suicide-attack-on-flight-fz1073-uae-probe-reveals",
+            "translatedTitle": "迪拜警方警告说，人工智能深度伪造可能会使人们更难信任真实的照片和视频",
+            "originalTitle": "Dubai Police warn AI deepfakes could make it harder to trust real photos, videos",
+            "url": "https://www.khaleejtimes.com/business/tech/dubai-ai-deepfakes-can-make-trusting-real-photos-videos-hard",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
             "heatScore": 83,
-            "publishedAt": "2026-10-09T16:13:07.000Z"
+            "publishedAt": "2026-10-10T15:30:58.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "阿联酋对显示欺凌确定子女的视频采取法律行动",
-            "originalTitle": "UAE takes legal action over video showing bullying of child of determination",
-            "url": "https://www.khaleejtimes.com/uae/uae-legal-action-video-bullying-of-child-of-determination",
-            "source": "Khaleej Times",
+            "translatedTitle": "Dh30m阿联酋彩票：您的号码出现了吗？结果",
+            "originalTitle": "Dh30m UAE Lottery: Did your numbers come up? Results in",
+            "url": "https://c.newsnow.co.uk/A/1326714112?-15565:1965",
+            "source": "Gulf News",
             "sources": [
-              "Khaleej Times"
+              "Gulf News"
             ],
             "heatScore": 82,
-            "publishedAt": "2026-10-09T15:45:11.000Z"
+            "publishedAt": "2026-10-10T17:42:17.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "阿联酋明天天气：阿布扎比气温将达到41°C ；部分多云天气",
-            "originalTitle": "UAE weather tomorrow: Abu Dhabi temperatures to hit 41°C; partly cloudy skies",
-            "url": "https://www.khaleejtimes.com/uae/weather/october-10-2026",
-            "source": "Khaleej Times",
+            "translatedTitle": "阿联酋从阿拉伯湾燃烧的油轮上救出22名船员",
+            "originalTitle": "UAE rescues 22 crew from burning tanker in Arabian Gulf",
+            "url": "https://www.arabnews.com/middle-east/uae-rescues-22-crew-members-from-burning-oil-tanker-in-arabian-gulf-3005648",
+            "source": "Arab News",
             "sources": [
-              "Khaleej Times"
+              "Arab News"
             ],
             "heatScore": 82,
-            "publishedAt": "2026-10-09T15:00:25.000Z"
+            "publishedAt": "2026-10-10T16:39:27.000Z"
           },
           {
             "rank": 7,
-            "translatedTitle": "阿布扎比宣布Shakhbout Bin Sultan街道路关闭3天",
-            "originalTitle": "Abu Dhabi announces 3-day road closure on Shakhbout Bin Sultan Street",
-            "url": "https://www.khaleejtimes.com/uae/transport/abu-dhabi-road-closure-shakhbout-bin-sultan-street-oct-9-to-oct-12",
+            "translatedTitle": "看：本周将开放的两个迪拜景点",
+            "originalTitle": "Look: Two Dubai attractions that will open this week",
+            "url": "https://c.newsnow.co.uk/A/1326711235?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-10T16:41:22.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋明天天气：部分地区预计降雨量；阿布扎比气温将达到41°C",
+            "originalTitle": "UAE weather tomorrow: Rainfall expected in some areas; Abu Dhabi temperatures to hit 41°C",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-11-2026",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
             "heatScore": 81,
-            "publishedAt": "2026-10-09T14:45:40.000Z"
+            "publishedAt": "2026-10-10T13:33:21.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "阿布扎比居民如何度过周五",
-            "originalTitle": "How Abu Dhabi residents spend their Fridays",
-            "url": "https://c.newsnow.co.uk/A/1326651576?-15565:1965",
+            "rank": 9,
+            "translatedTitle": "谢赫扎耶德大清真寺将于10月11日举办月光秀",
+            "originalTitle": "Sheikh Zayed Grand Mosque to host lunar light show on October 11",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-zayed-grand-mosque-lunar-light-show",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-10T13:26:15.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋如何每年保护200万只候鸟",
+            "originalTitle": "How UAE protects 2 million migratory birds every year",
+            "url": "https://c.newsnow.co.uk/A/1326707989?-15565:1965",
             "source": "Gulf News",
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 80,
-            "publishedAt": "2026-10-09T17:59:18.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "谢赫穆罕默德颁布法律，成立迪拜交响乐团基金会，以促进艺术和文化",
-            "originalTitle": "Sheikh Mohammed issues law establishing Dubai Orchestra Foundation to promote arts, culture",
-            "url": "https://www.khaleejtimes.com/uae/sheikh-mohammed-law-establish-dubai-orchestra-foundation",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 80,
-            "publishedAt": "2026-10-09T14:08:16.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "观看：沙迦警方在司机闯红灯、撞车后发出警告",
-            "originalTitle": "Watch: Sharjah Police issue warning after driver runs red light, crashes into car",
-            "url": "https://www.khaleejtimes.com/uae/transport/sharjah-police-warning-car-crash-running-red-light-video",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
             "heatScore": 79,
-            "publishedAt": "2026-10-09T13:54:57.000Z"
+            "publishedAt": "2026-10-10T15:40:22.000Z"
           }
         ],
         "diplomacy": [
           {
             "rank": 1,
-            "translatedTitle": "萨勒曼国王邀请阿联酋总统参加在沙特阿拉伯举行的第二次欧盟-海湾合作委员会峰会-阿拉伯新闻PK",
-            "originalTitle": "King Salman invites UAE president to second EU-GCC summit in Saudi Arabia - Arab News PK",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTNxM0FFUWRFSWp2ZVlyeWRhclB5NTFpWVlSV1ZCbXdxQnVCOGNUbnpsMWRrVEFyRHZKbGlEWlN6YkhyaFRvaTZWN2FOaFptdUh6aEFEUmtfX0FjY0hOMlBOUUpKV05fQ0NGaDA0d0JORkN5Z2txbUpGZTk1elAxMnlTQmtOY2VTRXY3ZzRBUUZ0ei1hMHc2UFp5MEw2MUI2U0xfdkxyaXk5Q2dHd2I3ellpZS1pUzBa?oc=5",
-            "source": "Arab News",
+            "translatedTitle": "塞舌尔和阿联酋的双边关系达到新的高度-海湾新闻",
+            "originalTitle": "Bilateral relations between Seychelles and UAE reach new heights - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFN4LXFoaGEtMW9pcWFIdjhCalZYNlZQTGtieHFZV2ZUbjdycFEzN3NTaDhUVDd0VXdzaVE5Wk91enRsczFiUW5FYlliQndPMnB1RWpmX0pWY2NPOGxpdkZ1Ul9oclk0OE80UXJiUXNWRm9BWVF1bGdSQW5RSGk3NGRCcVZOSWtBVU93bEd3a1ZONTBiSFBWclNraEtqbjhZZ25Namo0QVhTQdIBugFBVV95cUxNRmtVTVZyZDNYbUdXS0JGaW1Td0x6WVAtWjVCVFVaYkN1YjZ3ZFphbHZNNjVROXRpT2V6SDl3UTUwQ0JKWFZfckl4Q2tyZTdkdzhmNEpYVGtBTEVpU1hGYV9kcEE4N3ZjQXRITjZBV0RQVHU1NllxclFaMUttSlNLMmNva25aN0Z5QksyYjF4RXk0ajlQWTd5cVFUOE13VjFFU1NPRVRMcUlDZDZOSXFlYlh4QUFRZHAydHc?oc=5",
+            "source": "Gulf News",
             "sources": [
-              "Sharjah24",
-              "Saudi Gazette",
-              "Arab News",
-              "Arab News PK"
+              "Gulf News"
             ],
-            "heatScore": 99,
-            "publishedAt": "2026-10-08T21:59:42.000Z"
+            "heatScore": 74,
+            "publishedAt": "2026-10-10T11:46:00.000Z"
           },
           {
             "rank": 2,
@@ -14964,7 +14967,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 80,
+            "heatScore": 65,
             "publishedAt": "2026-10-09T12:49:10.000Z"
           },
           {
@@ -14976,23 +14979,59 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 67,
+            "heatScore": 59,
             "publishedAt": "2026-10-09T04:35:14.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋支持的GlobalFoundries和台积电宣布达成20亿美元的制造协议- The National",
-            "originalTitle": "UAE-backed GlobalFoundries and TSMC announce $2bn manufacturing agreement - The National",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVlZeXRHNmU0dWVxQ0pjWmd1ZjdtVHBwaDk5aFRSWXY0STkxcVFTa01oZTNVNExFTVRkZnhkelRDcDZ0Zm03Z0xUeTFEWTlGbUlOTURUUEdZTmpnOFZiWlhrRVFrcTQ2UW1oUmxmQTVmREE0eEVQdzNyY0ZNMy1OYmtRTXZyZERtbi1yRWRRVEwzWkJ2R09jd3Y1VzFLblRoNlc4V001OGQxcTVsN0M2b2dGeHI2V1c1Njdyel9rT1g3Nlp2NWRFbTJ0TDFOQjg?oc=5",
-            "source": "The National",
+            "translatedTitle": "沙特阿拉伯和阿联酋就能源交换和铁路连通性达成协议- Italpress",
+            "originalTitle": "Saudi Arabia and UAE reach agreement on energy exchange and railway connectivity - Italpress",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1J2M3lZNDhYeGFyNlBtSDdFWkw2d1Zkdl9CTnh3dVpPczIySGtpbEdNeHRhY1FJNzRObnRTTGxmd1MzclNaTDVXbnNHN3g2cGxhSlRqUGt0NXJaaC1PWEdJN0FfMklGdW5TeGoyQ0pLMFhfVmJZYU8taTZiWkpYYWNacWtKMjZJWWRUYzV3N1hmQnZzWlJrdnNWcElycTNZY2lhTV81aTJNRjg?oc=5",
+            "source": "Italpress",
             "sources": [
-              "The National"
+              "Italpress"
             ],
-            "heatScore": 63,
-            "publishedAt": "2026-10-08T15:16:23.000Z"
+            "heatScore": 59,
+            "publishedAt": "2026-10-10T13:48:26.000Z"
           },
           {
             "rank": 5,
+            "translatedTitle": "印度、阿联酋签署能源、国防、人工智能方面的主要协议；阿布扎比承诺投资$ 50亿- DD News",
+            "originalTitle": "India, UAE ink major pacts on energy, defence, AI; Abu Dhabi commits $5 billion investment - DD News",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHFYRlhLOUZwajR6Yng4QjFyZV81TE5hbFhuTWF3SURkLUlublNDc29rZ3E2YndoQWN6bk4xX2J2STRXUEpEbFoxVmcyWnoxT1loRWpnRW1JOS1CLWpfb01wRU1MZ1g1NWNuUDFNbm5uTGNIZDFmNlY0OHBETmVXTHNlQlBKR2dHTVdCRFhGRlFCdk9RZ2ItUGpIcDZneTh2cjhwM2JOVW52NERGQThIVA?oc=5",
+            "source": "DD News",
+            "sources": [
+              "DD News"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-10T09:05:46.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋和叙利亚央行签署金融合作协议- CairoScene",
+            "originalTitle": "UAE & Syria Central Banks Sign Financial Cooperation Agreement - CairoScene",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXQ2cktUVVY4dDlQeUl2cGJlM1NBa0tjdkpPZkZUbmQ5X0k4empRdFB3ZmJ3X1o5STYtMC1ZbHgteGFEMkZiX0lnb0ctdGNHM1JXQjk1dFlZSENKd290MGJFMlZ6c0s2cS1LOTlmWUxqYjBDdWlya1ZXVTVuUFAyaC1WNFZrRm1HaW5NTXFNVExiV0FUNm1v?oc=5",
+            "source": "CairoScene",
+            "sources": [
+              "CairoScene"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-10-10T03:02:13.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "印度-阿联酋双边贸易： 2000亿美元计划的解释- LinkedIn",
+            "originalTitle": "India-UAE Bilateral Trade: The $200 Billion Plan Explained - LinkedIn",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNem9jQjlQTkk1c1l1Z0dDdTI1SE51amQ3X3Via2Fmd3VMOWdhRTZ1NE1VaVltX0NxVk42Q05wV01YU3N3S3B2OGhJRVRJUkp4aExQYnpXWjRVa1NGLUdGRXc0RWZZR0Z0LTNQeGo4VXdMazExTlVKdFUyTTZXQnpyMHc1SDNISEc1V0RRZVdCa1BhVklWSzl3XzMyM01QNVVES2c?oc=5",
+            "source": "LinkedIn",
+            "sources": [
+              "LinkedIn"
+            ],
+            "heatScore": 44,
+            "publishedAt": "2026-10-09T07:00:11.000Z"
+          },
+          {
+            "rank": 8,
             "translatedTitle": "沙特阿拉伯和阿联酋签署铁路连接协议-货运新闻",
             "originalTitle": "Saudi Arabia and UAE sign rail connectivity agreement - Freight News",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmNlS3NTNm9xeUtRWGM3NjBkTWVyUWt0OWk3ZUppRENOVnBpWmJVT1hCVXh4SkVGOHkyQ0pSalh1b2FPSHRjTWRwMHE0WDVFeGlnS1lJOWRaa3lValQ0bXZmWHJPSVVNWnE5OXdNc0E1YWtRbHRkTkNWZjJvNlowQ0xlc1ZfX0JfSlotY0NsalZvdFllZ2c?oc=5",
@@ -15000,35 +15039,11 @@
             "sources": [
               "Freight News"
             ],
-            "heatScore": 63,
-            "publishedAt": "2026-10-09T18:28:00.000Z"
+            "heatScore": 42,
+            "publishedAt": "2026-10-09T12:28:00.000Z"
           },
           {
-            "rank": 6,
-            "translatedTitle": "随着双边贸易激增，阿联酋和泰国完成了CEPA谈判- Khaleej Times",
-            "originalTitle": "UAE, Thailand complete Cepa talks as bilateral trade surges - Khaleej Times",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUt0ZVJVVWRuSjNvanJCbkNCRl9EdndNV1VkVTN1a1p2Unl0SjNsNFE3VFRWaGk2OWl6RVlWVExQaXVSWjZaNTB3YW1XSVQtNUtUS1JmeVFmeEx1S2tSd3VuQVdpeUN6dUtIb0N2SXJJOGZsbjVhb1lMM28yeE0zNHFkZ1BxVHF6WVpwVDlwZDZqODBEck9tZF9qS3QtRFkzcFVDLdIBpAFBVV95cUxOaUt0ZVJVVWRuSjNvanJCbkNCRl9EdndNV1VkVTN1a1p2Unl0SjNsNFE3VFRWaGk2OWl6RVlWVExQaXVSWjZaNTB3YW1XSVQtNUtUS1JmeVFmeEx1S2tSd3VuQVdpeUN6dUtIb0N2SXJJOGZsbjVhb1lMM28yeE0zNHFkZ1BxVHF6WVpwVDlwZDZqODBEck9tZF9qS3QtRFkzcFVDLQ?oc=5",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-08T18:02:45.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "阿联酋和泰国在非石油贸易增长75%后结束贸易协议谈判-海湾新闻",
-            "originalTitle": "UAE, Thailand conclude trade deal talks after non-oil trade jumps 75% - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFRLLW1yMDN2UzZFOWVOWkpaeC1qellhQXVSMnN0aGNBaV9XN0diMjNFTUFQaGt6TmZzNjFPRUZJeVdJX0EzZ0NxQkZyeFFZdWJfSUY0em0xejV5aWpfMXJkRlZGRC1zelZ3NGdlSjdsVXZzZmJLWTM4Z0lDemVnUmpNRXVnMUdJdVR3RXlUb21aejJlZUV4enJvUElVcVlBb3hyUnNnTUlLQV9ORlBfaWU0aExoVXU40gHLAUFVX3lxTE5ILU4yZTVqejFsdFluY2RXYmEwNEZkUEFFM3ZGNUY5UzYtZUFqalc0NVYtNk5ydHc1OFRBX29oUjhnd1JWZ21IUzV6ZTl3eVR1TW1Zd19VVW1fejVTMFYzdnBNMlhYOGN0Z2c0SXBEUUt4bVVOdG1yNW9KMDR4bEkzTDBxV1RYLWM5R2pQNHBwZGpGOXE0MXFaLUFOTVBaQ0tFU3NpQURvbEtHUTkyb0RxWEEzandmWmlYWExoWTZoY0ViSWI1VXFjS29r?oc=5",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-08T13:56:25.000Z"
-          },
-          {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "阿联酋-沙特阿拉伯合作促进铁路连接和跨境贸易-建筑业新闻中东",
             "originalTitle": "UAE–Saudi Arabia Partnership to Boost Rail Links and Cross-Border Trade - Construction Business News Middle East",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUdTRFdEUlQyOUU3blhaWWlxWkdFUmtlM3psU2VmeC02TnQxTWlSLTBMQjJfejR6Unp2aEFmRFozU2dTS1I2MmFlUnEwVF9WNjNaRW5iUFZYMzdhRUpIOVFkTXQzbmdLMjR1amlZZE1Td09EN2REWW51NnlzUkNITGdmbWdNTUtCSDNsZ1p6b3FrT3A4dWtjQzJldnBYX180WEp5VjJ0Z01KZk8weFE?oc=5",
@@ -15036,381 +15051,318 @@
             "sources": [
               "Construction Business News Middle East"
             ],
-            "heatScore": 55,
+            "heatScore": 42,
             "publishedAt": "2026-10-09T09:05:31.000Z"
           },
           {
-            "rank": 9,
-            "translatedTitle": "阿联酋和泰国完成具有里程碑意义的贸易协定谈判-金砖国家电视台",
-            "originalTitle": "UAE and Thailand conclude talks on landmark trade agreement - TV BRICS",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzFaNmtUWi1fTnMzcU0yVnh1Vkg2VUR2a253bllQX21Ea1pKVHhpQVdVMEJDV0YxdXBtT0xxbkJwNXNBRnFJWGFBRXYyRlRCb1lXV1k5cGg0REthUkVBbGZUWTdZRk5TUU9PRHRGVFZGeENVTmhpTHMxaXJrVlJCc0Z4RW9tUDd5Tm9IX053MEk2UQ?oc=5",
-            "source": "TV BRICS",
-            "sources": [
-              "TV BRICS"
-            ],
-            "heatScore": 44,
-            "publishedAt": "2026-10-08T16:03:07.000Z"
-          },
-          {
             "rank": 10,
-            "translatedTitle": "阿布扎比商会， FICCI签署促进阿联酋-印度贸易和投资的协议-新闻和统计- IndexBox",
-            "originalTitle": "Abu Dhabi Chamber, FICCI Sign Deal to Boost UAE-India Trade and Investment - News and Statistics - IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVlVbTZRLXVaUDRnLUxUeENIS21HQnNjcHV5TUFuaUdCSTdzV1hzRXJBNEppa2lzRVR1VFdOLVhDRGRuaVV0bWdubFl4UThyZ3dyNDdYdm92M1JmSmhpTGdQVGtLb0FSREUwcDFDTld1eXZ0d0dOcFFtc3hORkdVX2lNSVZtaXpiWlVKeU52UGdXMEY0bi1TSWJyU2Y4X29TMTdGV0ZMa0VCblFBVXNueThFeWEwWFVCTkE?oc=5",
-            "source": "IndexBox",
+            "translatedTitle": "沙特国王邀请阿联酋总统参加海湾合作委员会-欧盟峰会-迪拜之眼103.8",
+            "originalTitle": "Saudi King invites UAE President to GCC-EU summit - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDhKWVRqeDJ5R3NVc0s4dVFhQjhXQWh0ejRJQWhkSXF0SzRmc3gtVkpnbU9nbnU4VkQyU0JETTJZLU5OeFUtX0lNZjNRVUtFelVQalhzMHN1OEliN19ya2lPbWZSR1ZjZU9lX0hYOXRxeWZUZXRyQVlOWnFVcXZZU2FxOXRSS3laSmJjX2JZQW0tVDNH?oc=5",
+            "source": "Dubai Eye 103.8",
             "sources": [
-              "IndexBox"
+              "Dubai Eye 103.8"
             ],
-            "heatScore": 43,
-            "publishedAt": "2026-10-08T13:31:22.000Z"
+            "heatScore": 42,
+            "publishedAt": "2026-10-09T06:49:37.000Z"
           }
         ],
         "economy": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋检察官：阿曼飞行迪拜副驾驶员计划对本古里安机场进行自杀式袭击",
-            "originalTitle": "UAE prosecutor: Omani FlyDubai co-pilot planned suicide attack on Ben Gurion ⁠Airport",
-            "url": "https://www.arabnews.com/middle-east/uae-prosecutor-omani-flydubai-co-pilot-planned-suicide-attack-on-ben-gurion-airport-3005507",
-            "source": "Arab News",
+            "translatedTitle": "阿联酋国民警卫队在阿拉伯湾油轮起火后救出22人",
+            "originalTitle": "UAE National Guard rescues 22 people after oil tanker catches fire in Arabian Gulf",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/national-guard-rescue-22-crew-members-oil-tanker-catch-fire-arabian-gulf",
+            "source": "Khaleej Times",
             "sources": [
-              "Arab News"
+              "AniNews.in",
+              "The National",
+              "Khaleej Times",
+              "Anadolu Agency",
+              "Gulf News"
             ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-09T16:57:18.000Z"
+            "heatScore": 99,
+            "publishedAt": "2026-10-10T17:23:34.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "赢得75,000迪拉姆大奖券后，在阿联酋的埃及外籍人士将与合作伙伴投资业务",
-            "originalTitle": "Egyptian expat in UAE to invest in business with partners after Dh75,000 Big Ticket win",
-            "url": "https://www.khaleejtimes.com/uae/egyptian-expat-uae-business-investment-partners-dh75000-big-ticket",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-09T13:33:26.000Z"
-          },
-          {
-            "rank": 3,
-            "translatedTitle": "FlyDubai副驾驶试图让飞机坠入特拉维夫的主要机场：阿联酋",
-            "originalTitle": "FlyDubai co-pilot sought to crash plane into Tel Aviv's main airport: UAE",
-            "url": "https://c.newsnow.co.uk/A/1326657250?-15565:1965",
-            "source": "CBC.ca",
-            "sources": [
-              "CBC.ca",
-              "San Francisco Chronicle"
-            ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-09T19:18:23.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "随着非石油行业的扩张， 2026年上半年阿联酋经济增长0.4%至9,619亿迪拉姆",
-            "originalTitle": "UAE economy grows 0.4% to Dh961.9 billion in H1 2026 as non-oil sectors expand",
-            "url": "https://www.khaleejtimes.com/uae/uae-economy-grows-04-to-dh9619-billion-in-h1-2026-as-non-oil-sectors-expand",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 74,
-            "publishedAt": "2026-10-09T10:53:44.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "航空公司负责人表示，在迪拜航空遭到袭击后，无法完全防范流氓飞行员-路透社",
-            "originalTitle": "Airline chiefs say can't fully guard against rogue pilots after flydubai attack - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONllXMUhvQVpOVC1tNnlXYmcwSnh1a2w2TFhQdzhZaW9jeWoxRkZtNlR2eFhybEJ3NkZ2VHRQbmVod09iMmc3dmtTdmpOMmlMTnE1MmNYOE93enJyYV9OVzE3LWxhUHBWT0s1TGdwM1VVcVZtenVLUTFQRF9pWFZJTUFqYmFSZVpScDBZRnllZW1aVlI0QnFUTjBaLXoyV20xRDR0UTB3YkFmdTQzOGk2UmpkVkt0aG8tSHA2UmtvQVhjak0xQThwemJ0QUQ?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 68,
-            "publishedAt": "2026-10-08T12:39:40.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "FlyDubai副驾驶“计划将航班撞上本古里安机场”",
-            "originalTitle": "FlyDubai co-pilot ‘planned to crash flight into Ben Gurion airport’",
-            "url": "https://c.newsnow.co.uk/A/1326657464?-15565:1965",
-            "source": "The Independent",
-            "sources": [
-              "The Independent"
-            ],
-            "heatScore": 66,
-            "publishedAt": "2026-10-09T19:21:29.000Z"
-          }
-        ],
-        "technology": [
-          {
-            "rank": 1,
-            "translatedTitle": "阿布扎比表示，政府应该使用人工智能来“重新布线”服务，而不仅仅是自动化",
-            "originalTitle": "Abu Dhabi says governments should use AI to 'rewire' services, not just automate",
-            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-governments-use-ai-rewire-services-not-automate",
+            "translatedTitle": "管理财务、食品： CGI迪拜如何通过举措为印度工人提供支持",
+            "originalTitle": "Managing finances, food: How CGI Dubai supports Indian workers through initiatives",
+            "url": "https://www.khaleejtimes.com/uae/managing-finances-food-cgi-dubai-indian-workers-initiatives",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
             "heatScore": 77,
-            "publishedAt": "2026-10-09T12:12:09.000Z"
-          },
-          {
-            "rank": 2,
-            "translatedTitle": "阿联酋的未来100计划为初创企业吸引了1亿美元的投资",
-            "originalTitle": "UAE’s Future 100 initiative attracts $100 million in investments for startups",
-            "url": "https://www.khaleejtimes.com/uae/uaes-future-100-initiative-attracts-100-million-in-investments-for-startups",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 74,
-            "publishedAt": "2026-10-09T10:47:29.000Z"
-          }
-        ],
-        "military": [
-          {
-            "rank": 1,
-            "translatedTitle": "UKMTO称，在袭击激增的情况下，船只在阿联酋海岸被不明炮弹击中",
-            "originalTitle": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
-            "url": "https://www.arabnews.com/middle-east/oil-tanker-struck-by-projectile-off-uae-coast-amid-surge-in-attacks-3005496",
-            "source": "Arab News",
-            "sources": [
-              "gCaptain",
-              "Arab News"
-            ],
-            "heatScore": 97,
-            "publishedAt": "2026-10-09T19:43:16.000Z"
-          },
-          {
-            "rank": 2,
-            "translatedTitle": "阿联酋谴责胡塞武装袭击沙特机场",
-            "originalTitle": "UAE condemns Houthi attacks on Saudi airport",
-            "url": "https://c.newsnow.co.uk/A/1326658521?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-09T19:40:19.000Z"
+            "publishedAt": "2026-10-10T10:51:21.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "阿联酋飞往利雅得的航班在胡塞武装袭击后面临中断-迪拜之眼103.8",
-            "originalTitle": "UAE flights to Riyadh face disruptions after Houthi attacks - Dubai Eye 103.8",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXhMMDVjYi1uMHpBMEJkUzdTdGZqRG9RQ0JTM2lDSGZkTC1peDZSZlFSYm1fbHNHdnZQMlZBS3dfQkcwaUFuQmNTektidC1wRU1Gc1BkdGN1d3NrZlhZcGM0UVdwbDEyNlI5ZGEwMnJkRGxobXlnRU9KZXFhenFIeEc2WE9Wa0lqcFFzTHVpQTF6b2lEZVlrM2Zn?oc=5",
-            "source": "Dubai Eye 103.8",
-            "sources": [
-              "Dubai Eye 103.8",
-              "ARN News Centre"
-            ],
-            "heatScore": 74,
-            "publishedAt": "2026-10-09T16:07:30.000Z"
-          },
-          {
-            "rank": 4,
-            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击沙特阿拉伯两个机场--《哈利吉时报》",
-            "originalTitle": "UAE strongly condemns Houthi attacks on two airports in Saudi Arabia - Khaleej Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPakM5b1BSY3d1VGZmSGIxZjdmTE0wZV8zbWQ2WE55bC1uWUY1UzhCVThvYkNMYnNzNGtMTFg5T1gzeG5JQzVBN2FfU05XNDAtQWpHbHAyVHUzSE5JSVJ0YlJQbkRRR0hqNjhMd2w0MWVMZ0ZEMVkzUVk2VUtBVXN0YkY1UzdlTDI5cWdQZUJUZ1ptbGpETjZaMdIBoAFBVV95cUxOSUJtSWhFRUd5VHFlZmVsWU83TklzVTdNeWRpWXh1WEhYR2otM0ttVTYtb2tUVENlZUxHWTVmT1RRRlRRX1A4VzhxSkV2TlYyV2ZlMGxxaXB3M1FjT2hndXFtRzlRQTRXc01zZFRhMzg3V2JkYlFsTEdBVmNSVFFTY1hEMFB6SWhEalhpTmVuTVhjQmh0WU1YMmVkcWVyUGJ6?oc=5",
+            "translatedTitle": "阿联酋银行在未能证明收费后下令清算客户的信用卡债务",
+            "originalTitle": "UAE bank ordered to clear customer's credit card debt after failing to prove charges",
+            "url": "https://www.khaleejtimes.com/uae/crime/uae-bank-clear-customer-credit-card-debt-failing-prove-charges",
             "source": "Khaleej Times",
             "sources": [
-              "Menafn",
               "Khaleej Times"
             ],
             "heatScore": 72,
-            "publishedAt": "2026-10-08T10:01:45.000Z"
+            "publishedAt": "2026-10-10T07:06:25.000Z"
+          }
+        ],
+        "technology": [],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋谴责胡塞集团袭击沙特国王哈立德国际机场-法纳新闻-",
+            "originalTitle": "UAE Condemns Houthi Group’s Attacks on King Khalid International Airport, Saudia Aircraft - Fana News -",
+            "url": "https://www.khaleejtimes.com/uae/condemns-houthi-attacks-king-khalid-international-airport-saudia-aircraft",
+            "source": "Khaleej Times",
+            "sources": [
+              "Yemen Online",
+              "Menafn",
+              "Khaleej Times",
+              "Fana News -"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-10T17:37:30.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "印度-阿联酋联合军事演习Mountain Guardian 2026继续在北阿坎德邦全面展开- https://www.indiagazette.com/",
+            "originalTitle": "India-UAE joint military exercise Mountain Guardian 2026 continues in full swing in Uttarakhand - https://www.indiagazette.com/",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFlVckNaT0o3MEhzR0ZuZUJPWTU5WENDV1VrY1JORWh0Z3dxNXBwOUQ5QVh3TjJfMlludnpQOS02SmhqdWRJOW1FQzNzRzZWWFAxMHZtRXAtaXdjcjRiRWJKVXQwMWgxZmQxNU16UHY3a2x4RGU5Z3lCZHJRNDRxMkxScEVTSWlWQjdGaFZqYWk3OWlhbXNRcFU4a3J1WEVJejhmRlRZMm5jQUczZXE1REtRa205UnVoeVhyNzVFQjZfYjZnN3lLamhvQdIB0AFBVV95cUxPLWVpVGtfdGZfZm5PU19FNTBjMUtPbGZzcDJISTB3TC16UmpOZWlLYTdrYWQ2bmRKZHFnQ0F3VnMwbEZqX2xDVjRsNTBqWHZ6djEwUkFMTDBhM0RUOG4tRU1QTmlKZjdxeGJneXg1WHFjUTFIZkpxTURGUUYwYmFuUXF0WWZSRmp6TktTTUFmNjRPWElSNHBqcUNXMDF6OHBJTC1EbkpSOTVKa3NKcHVpV3hGRl9NeGlJZHNSWjZaX2Jva3dKQ24yZUtfU2gzY184?oc=5",
+            "source": "The Statesman",
+            "sources": [
+              "The Statesman",
+              "AniNews.in",
+              "https://www.indiagazette.com/"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-10T17:47:24.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋表示， Flydubai袭击者在澳大利亚开始“走向极端主义和恐怖主义” - BBC",
+            "originalTitle": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says - BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC News",
+              "BBC"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-10T04:34:55.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "“我准备好迎接25分钟的战争” ： Dvalishvili在阿布扎比与Yan欣赏UFC 333三部曲",
+            "originalTitle": "‘I’m ready for a 25-minute war’: Dvalishvili relishing UFC 333 trilogy with Yan in Abu Dhabi",
+            "url": "https://www.arabnews.com/sport/im-ready-for-a-25-minute-war-dvalishvili-relishing-ufc-333-trilogy-with-yan-in-abu-dhabi-3005623",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-10-10T13:06:22.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "主要冠军Aaron Rai将参加阿布扎比冠军防守-海湾新闻",
-            "originalTitle": "Major champion Aaron Rai set for Abu Dhabi title defence - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjFCdld6Zl9KOUdPNU5UbU5Qb2FqSEU0NzA0N2diQzRqMVI1Nnlrc01rUG9TMmEwNGlMaFppY2MyNzNSMUZXcDdEQW9COTRJN0FMWU96OURVaWFVOTlMN0ljOHlmYmpLanlfUmpFcnRYaUNMRkdLeF8zRXd2VEluSFJvNFlMdnozNE1iTU5FUHh2TkxNQlRXNWJmc9IBqwFBVV95cUxPRThNQkhSVlRubzRoUjJuTVlMT1VjMk5uU3V3TVN2X1E2eElYWlNJb3RmWEdBRzZoc0syUUFUMXo3dHFDX0xOSEJXOXc1S0piVnBhc2ZhYzZrUC1QWkxIY2o2d3p1RGRnUzRIR0s4Q3VhbDBGMFdzWHJ5d1dGaEZrSWRkUlh2QmtrTFFHeXp6aTZqbHJZWkNITXBfblRINGlZLS13SkowbzRUUTQ?oc=5",
+            "translatedTitle": "大满贯冠军亚伦·莱（ Aaron Rai ）为阿布扎比冠军防守而战-阿拉伯新闻",
+            "originalTitle": "Major champion Aaron Rai set for Abu Dhabi title defense - Arab News",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelBlZjZfRjZMUzVUVDJyRWtnM3B4WC0yV0RRYUNqRTFPNmlwUmNXaVpUVWJjdTJoQ3lpbkZHcUFqQ3JKM3VtX2huclQ4X3JKN0Q3TWlQcGxpeXAtUTBfUE1RdUJkeEUzSGNJRy1vN3dZZHpDUFVkX3JEUGFZWDRIMGwzcUQzUGpCdlp4R1R1eENCa3JOcE9KUjZn?oc=5",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-10T07:38:17.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "所有22名印度船员在无人机袭击巴拿马国旗油轮MT GEM 2号后在阿联酋海岸外安全-英国孟买Samachar",
+            "originalTitle": "All 22 Indian Crew Safe After Drone Attack on Panama-Flagged Tanker MT GEM NO. 2 Off UAE Coast - English Bombay Samachar",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeHJhZ2p4UHBXMVVVOG5fSFg3M2UtOGdMTHpNZXdJS2F1UG1CMTlfWXlFcHBrZllnX19WMXV4RTF1bWtPbkprV3RiMi14OWVXaVhkeVZaZXdEaWRKbjJsWU1JNFpramctdmRDM0ZNa2Y0M1A5MEk4dm9kMWtsWFlNRW9SODhFSkxORkRCMDBENXBfbGoycEtlbzJNUDljNWlJdDJSTmdLVm0xUnpndjVKY2VpdXp1alNvNEE?oc=5",
+            "source": "English Bombay Samachar",
+            "sources": [
+              "English Bombay Samachar",
+              "Mangalore Today"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-10T11:42:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "美伊战争：阿联酋居民今天需要了解的6大发展-海湾新闻",
+            "originalTitle": "US-Iran war: 6 major developments UAE residents need to know today - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTJoWkt6UHBkY0Jfb0U0eUhvLWtDY0RUTzhPZ0VkMk1fZ3FVdHB0M0Q5QnRTNk5XWERJZ3k1U2tmcHZTNmwyX1ZiX25ISGc3M0dFTlI3ekxlS3BjY0ZSVGpqcWdGSGF4OGFZMVJfYkZtQmtjd1VqS3ozOGh4NG0yLWFCd2R2V1JzaDUxT01xR0FOZGpBVmx5R2Fxd3JVRmpLNGZaN9IBtAFBVV95cUxQRTFZNVh3WjdhcEZDcE1nVFFLRzF6c2VMcmdQUkpZa2U3M0VoYUJNLUw5YU95RnhEU3BGVU5JV2luSThBcE5XVGFyV0VlNHktTGVEVVdibkZQTGcxY2trZW9TR1k5NnZpbHJhTFh4TFJsWUg3ejUwaDRmTU1iSjQ1MWVwZjdURENNdDZOS1puZVhBdTJndnVxd1RzQ2NLTGZEdU1zTmlXSVlWZFpWWjJCVTRtQ00?oc=5",
             "source": "Gulf News",
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 69,
-            "publishedAt": "2026-10-09T06:34:39.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "受9/11袭击的启发，据称Flydubai劫机者计划杀死尽可能多的人",
-            "originalTitle": "Alleged Flydubai Hijacker Planned to Kill as Many People as Possible, Inspired by 9/11 Attacks",
-            "url": "https://c.newsnow.co.uk/A/1326659119?-15565:1965",
-            "source": "NTD News",
-            "sources": [
-              "NTD News"
-            ],
-            "heatScore": 67,
-            "publishedAt": "2026-10-09T19:51:25.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "阿联酋馆在2026年马拉喀什航展开幕当天吸引了众多游客- www.wam.ae",
-            "originalTitle": "UAE Pavilion draws strong visitor turnout on opening day of Marrakech Airshow 2026 - www.wam.ae",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMU1CUXZTYVpUX3cySmtOZnJ4bmJadFcwTldOblhyc3MwaTdOOFFZc0JZMkxnZlhUM2xDR1NIVFRfN28zTmZta3dXQ2V0c21xRmtJMHJxTFhvaV9URkROUWlvNkdFUmxVbnBxZkdDVHhvYkxyRGo4a3FPZ3NWbjVWa2tfbGF0UElsZExiMEdxR2w?oc=5",
-            "source": "www.wam.ae",
-            "sources": [
-              "www.wam.ae"
-            ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-08T14:47:40.000Z"
+            "heatScore": 70,
+            "publishedAt": "2026-10-10T06:21:26.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "随着孟加拉国结束317/8在阿布扎比的一次性测试的第一天，阿富汗的步伐袭击又回来了",
-            "originalTitle": "Afghanistan Pace Attack Hits Back As Bangladesh End Day One Of One-Off Test On 317/8 In Abu Dhabi",
-            "url": "https://c.newsnow.co.uk/A/1326654532?-15565:1965",
-            "source": "Outlook India",
+            "translatedTitle": "Flydubai FZ1073自杀式袭击：我们对阿曼副驾驶的一切了解",
+            "originalTitle": "Flydubai FZ1073 suicide attack: Everything we know about Omani co-pilot",
+            "url": "https://www.khaleejtimes.com/uae/flydubai-fz1073-dubai-tel-aviv-suicide-attack-what-we-know-omani-co-pilot",
+            "source": "Khaleej Times",
             "sources": [
-              "Outlook India"
+              "Khaleej Times"
             ],
-            "heatScore": 64,
-            "publishedAt": "2026-10-09T18:38:50.000Z"
+            "heatScore": 69,
+            "publishedAt": "2026-10-10T04:14:57.000Z"
           },
           {
             "rank": 9,
-            "translatedTitle": "阿联酋强烈谴责胡塞集团对哈立德国王国际机场、沙特飞机的袭击- UrduPoint",
-            "originalTitle": "UAE Strongly Condemns Houthi Group’s Attacks On King Khalid International Airport, Saudia Aircraft - UrduPoint",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMTJVMUIyUDYyQ3VyMUhqUGg5d19oOXN6YVRBYnlOQkRPRmNqRVpUNzdZV3dOYVJUc2Y0akg2dVJuMk1lTWo4R0xEcXBIRlhCVWdaaXVQRUpUXzVRdTFPVUJ1RzFxUFp2Y3d2REJjd0RFN2gwWUk1eVZYV3JfejA3dlFNcEMtcjB3bWZpbGdZdzlyX3ZfY21HZkxnaTg?oc=5",
-            "source": "UrduPoint",
+            "translatedTitle": "UKMTO表示，在袭击激增的情况下，船只在阿联酋海岸被不明弹击中-路透社",
+            "originalTitle": "Vessel struck by unknown projectile off UAE coast amid surge in attacks, UKMTO says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2ZOeThZcXRzc1pOMExEQWVYWVlHOVc4Wkc3RFhGdjE3U21zSmE1akZGSkVUd1g0QmFrQlAtRjVJUlJVMFRienpnbHdTa21ZMHJraHNpVk1oczFLMWd6SjQycHItZWpSYjhCcmRxYUgtRFF0RElDWG9falJvVTV0a0dkaVFNZnpLZ0hGdlFxY2FTaUdZZDh6SnU1bndQMXgzYVdmLXRVem5nLU13UUt6Mi1jd1JuVzFKd3RrWHdBb3lFZzJjbW5Nek9YZXJ2dw?oc=5",
+            "source": "Reuters",
             "sources": [
-              "UrduPoint"
+              "Reuters"
             ],
-            "heatScore": 63,
-            "publishedAt": "2026-10-09T19:30:07.000Z"
+            "heatScore": 68,
+            "publishedAt": "2026-10-09T14:40:22.000Z"
           },
           {
             "rank": 10,
-            "translatedTitle": "阿联酋馆在2026年马拉喀什航展上推动战略会议-阿联酋闪电",
-            "originalTitle": "UAE Pavilion drives strategic meetings at Marrakech Airshow 2026 - برق الإمارات",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUZtR3hmeHI4QjNnY1NvbnBQTDJCenVGbUFLcXhLQ053S3FyeDdldWlFT2w4R00yWmhiTXlBMDNqT1p5RWxEVnNmUDgzcjFlNFhTNFY3ZU4zdkVfN0hRQllLblBKYzYySTRvRGJKUTBJSUxORXd0N0ZTU1J1c2VmNEVHYVBjMl94d05XbkFiVHpvQkNRTEU5R2NPYlFPaUNGUkRRVw?oc=5",
-            "source": "برق الإمارات",
+            "translatedTitle": "# Daily_Brief ：四名家庭成员，包括怀孕少女，在#索马里#邦特兰的#阿联酋无人机袭击中丧生：报告索马里牧民家庭的四名成员，包括一名13岁男孩、一名7岁儿童和一名17岁怀孕女孩， WER - Facebook",
+            "originalTitle": "#Daily_Brief: Four family members, including pregnant teenager, killed in #UAE drone strike in #Somalia’s #Puntland: Report Four members of a Somali pastoralist family, including a 13-year-old boy, a seven-year-old child and a 17-year-old pregnant girl, wer - Facebook",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MmJzSXJJWl9XT0VGMjBOeFREUUdJZ1pRNG14LWRPR1k3TTUwYlA3bks1ZVJqVU5PUUpCWTFKbGhldnZVRnJDaG9zbWdTT2NWZ3c?oc=5",
+            "source": "Addis Standard",
             "sources": [
-              "برق الإمارات"
+              "Addis Standard",
+              "Facebook"
             ],
-            "heatScore": 61,
-            "publishedAt": "2026-10-09T16:05:51.000Z"
+            "heatScore": 67,
+            "publishedAt": "2026-10-10T07:23:03.000Z"
           }
         ],
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋对社交媒体内容欺凌判断之子采取法律行动- ARN新闻中心",
-            "originalTitle": "UAE takes legal action over social media content bullying child of determination - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDRWd3JVNHd5aVRERXZlRmtCeXM3ajEtU1NwYkNEOWRNaXNXRVoyalBDdEE5MHZSYjEwRHpRM0M5OHV5SFNiVlhjbm9hQU9DWWZxSG9MTUhZZk0tLUNZNWRjNmxjdXQ5RlFnNWhTRkJvMWlxS1BkSGhuYVlSMTA5RHEyY3NnS01nZUhaNkE2cFJzdDNVOEpad1ZZMUI5M0FTRl84WVVUakhsbFdRUWRiRGd30gHCAUFVX3lxTE9NaTg4SklEV1BNWURmakZkNGUyazdsNlp3emxuLWtOdlBhN1lQajlsN0NfcXM0bmhiMEZQMTRPdFpFVWlLTnFNTFVYbnc1LWM4Rkg2ekU0X1YyYXBYcC1kaS1fMEt1bXpISmNKMU1qNUd1NldTZTMyMG9xTWJUcVJ3R0JfdlMtXzNvcks0R25nOHNKN0QyVHdCQlhEOUVPZW9fRVhDaHlkOWxfTWxMMS0zeTlndXgtUkYySV9VeUZtTTdn?oc=5",
+            "translatedTitle": "阿提哈德航空延长阿布扎比-利雅得航班取消时间- ARN新闻中心",
+            "originalTitle": "Etihad Airways extends Abu Dhabi-Riyadh flight cancellations - ARN News Centre",
+            "url": "https://c.newsnow.co.uk/A/1326703738?-15565:1965",
             "source": "Gulf News",
             "sources": [
               "ARN News Centre",
               "Gulf News"
             ],
             "heatScore": 96,
-            "publishedAt": "2026-10-09T16:14:06.000Z"
+            "publishedAt": "2026-10-10T15:23:33.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "为什么阿布扎比的Z世代喜欢电影摄影-海湾新闻",
-            "originalTitle": "Why Abu Dhabi’s Gen Z is falling for film photography - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnZuakxycUI2aDVIYUF1MzFMZEhmNUNaRXAzZTg1VTBCcDI2WThzYnA5TDdnUEZ4ZWRvQkU1ZHpzUHpmT1Y0ejlBb2FQZDlJNXlBVGRTUElmWmdpWExFSmlaUjUtMEhVYjhZY200MHRtN3cxZ0Q0MXM3ZmZfZ1plRXJkZVo2UWNuSFdPaVc1eEZoSEFEZmtYd1laZU9CN2Jp0gGzAUFVX3lxTE5MUnlRbExCZXdJU3pibFpObXM2YWk0d24zaVlyVXpFVWthT0x5WlNQdnFSc1hlUU9ONkxDelRldUlyRlJaX1dzSnlPRmhBWjFGODRIcWZadTNyMkNXVjV1Q3lwVXA0ZnJteXY3REp6TC1CT1Y5VmlaYnB1VlJHZFRmYUhxdy1vVEMtbjMybmU4Z0JjZzU4Q0pqeWR0NXRvT3l4Y0hDOGpFWlZpWGJrZ0hFSVVr?oc=5",
-            "source": "Gulf News",
+            "translatedTitle": "阿联酋和沙特阿拉伯对在线欺凌残疾儿童采取法律行动--《国家报》",
+            "originalTitle": "UAE and Saudi Arabia take legal action over online bullying of child with disabilities - The National",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2phbmlpeFc0VGpCN19pWGpoQ1JrWXZHeVpzZ2loNU1BTTlFNnNsV1VHQnFLNFVwejF5dzRnRlhBZGdMT3JsbXI0VHZOei1TLUlBZi1IdEJQN2k0c1B6LVhIY1RubXZJbWdoU2Fid0VJbGZzOTJXRzZTT2l1d0ZacG5ELWo0VVlOakhFenNGVm5EZ0NBTE5FTHRIU0N5UmRYX2N1OG9RVjZJZmVFcUlJdUVMdjlXdW5YUVVvdVRJM1BheU4xOE1WRG0wTU1RbVN0QUlia2JR?oc=5",
+            "source": "The National",
             "sources": [
-              "Gulf News"
+              "The National"
             ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-09T02:00:00.000Z"
+            "heatScore": 82,
+            "publishedAt": "2026-10-10T13:26:57.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "NMA和TikTok培训年轻的阿拉伯媒体领导者讲述数字故事-迪拜之眼103.8",
-            "originalTitle": "NMA and TikTok train young Arab media leaders in digital storytelling - Dubai Eye 103.8",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGt5Zmt6Q1lIMUwxUk5fUFZKZGdjYm15ZG5NMzRKZFZDNU96WDA3bkprRU41WXRHUDMyY1NkeHJJaVVtY3YzT1E1ZXBUbHBvRHJqUmwyS2poOUVsWXljb1Q5SllxSU5nMHFnZDJlVm11SEFCSVZnd0dXWmswR2RWeUFaUk9EVWFBbHpTeHFZY1Z3YU1ka2xCUlV6UmxyMnFsOTBXMmk0SlJJM1k1dTctRjZkUQ?oc=5",
-            "source": "Dubai Eye 103.8",
+            "translatedTitle": "阿联酋国家媒体管理局对欺凌残疾儿童的社交媒体用户采取法律行动-阿联酋航空24 | 7",
+            "originalTitle": "UAE National Media Authority takes legal action against social media user for bullying child with disabilities - Emirates 24|7",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNHRIbEhsVVROSHl5dW9IVnZNUS0ybjl5OEo4Q1AyaEtpVG9zNG9PZmRHSk1RaWFweXZKZnZxMUdiNUc2ZklmaEo1TkRCNUxBR1ZuN095Mk54NWVDdTRrNG1RR3BkSzltZlduMzBORGtrLTl3dEJvVWdHbWlENm85cEl5Qy1zemtfTEt6cWlIMm0ySDNyS29KQXRiZXhJeXdaMmJsNXl3ODZVY29McF92cXdhanJuTFhyZGxqeExucS1KSFRqRUlEOGoxQUQ3VjBOSElteG5B?oc=5",
+            "source": "The Filipino Times",
             "sources": [
-              "Dubai Eye 103.8"
+              "The Filipino Times",
+              "Emirates 24|7"
             ],
-            "heatScore": 63,
-            "publishedAt": "2026-10-09T13:51:34.000Z"
+            "heatScore": 75,
+            "publishedAt": "2026-10-10T11:58:35.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋总统、加拿大总理讨论加强经济关系- ARN新闻中心",
-            "originalTitle": "UAE President, Canadian PM discusses boosting economic ties - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjIxeHRFRDdaOHVHRmhqekZRbnFxME1fUFhEcWwtNXU2bllGR0EwS1VVWGFmbVNJMGZfT0dTMUVoUldZREF6c1d2N3ljS0FFR0VhclgxNFhEVXpPTlBTNXk2SHVEbHkxazltX0ptMFpWYVhPYVBCS202QW53MkxUcm1LVFg2NlFkYXFEejQzQXpvTENmbXNPZGhRempjLUQ2S0E?oc=5",
-            "source": "ARN News Centre",
+            "translatedTitle": "世界新闻|阿联酋总检察长表示， Flydubai副驾驶员计划在特拉维夫机场发动自杀式袭击- LatestLY",
+            "originalTitle": "World News | UAE Attorney-General Says Flydubai Co-pilot Planned Suicide Attack on Tel Aviv Airport - LatestLY",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjBJMkphZnZPeFJORVBFUVVIMVJyQ0RuelgwOFF3VHQ0WUxUQ1RUVndyZjhmb18tNDBYV0c0OHg5aHVuc1gyYzhIUklYQ1YxUExzU096SlhYQmZzeGRUdmNCdGdUazNiZlM3OUZOYWNULU5SOFJhZkJhQl9GY0JuSmhVc1JfeWpoNVp0ZXRnWVVlWURpWlRqX0N1czI1M3lybzA5YTBiVjJXOThWVFhDajh1dHVHbkRLLUpodzRvN3pfQW9IN2Izd3F0RzdRTGdvaDB4NjBOM0czcjA4ZFYwckhqVXkzUdIB5gFBVV95cUxQRjBJMkphZnZPeFJORVBFUVVIMVJyQ0RuelgwOFF3VHQ0WUxUQ1RUVndyZjhmb18tNDBYV0c0OHg5aHVuc1gyYzhIUklYQ1YxUExzU096SlhYQmZzeGRUdmNCdGdUazNiZlM3OUZOYWNULU5SOFJhZkJhQl9GY0JuSmhVc1JfeWpoNVp0ZXRnWVVlWURpWlRqX0N1czI1M3lybzA5YTBiVjJXOThWVFhDajh1dHVHbkRLLUpodzRvN3pfQW9IN2Izd3F0RzdRTGdvaDB4NjBOM0czcjA4ZFYwckhqVXkzUQ?oc=5",
+            "source": "LatestLY",
             "sources": [
-              "ARN News Centre"
+              "LatestLY",
+              "The Tribune"
             ],
-            "heatScore": 62,
-            "publishedAt": "2026-10-09T14:23:15.000Z"
+            "heatScore": 61,
+            "publishedAt": "2026-10-10T01:50:15.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "阿布扎比警方警告在主要道路上危险的倒车-迪拜眼103.8",
-            "originalTitle": "Abu Dhabi Police warns of dangerous reversing on main roads - Dubai Eye 103.8",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFV4Y0JyZmJRdlkzTzloUG1NUmNuZnphQTkxdHdPczRtT0RhOXdfS0FaRWNCN2xBTVFvTFBaWWY2ZUlMU2NzXzloUHhjOEJNdXp2Z2dpQVBoWjBXT2Rjc0dZUWJsa3dKTkJfYlpJWnJxYnE5a1RKYmc3RWg5ejJKdi1FNEozR1VyaTg0NWdzV2pndTdoTmgyYUZBMjFHclFMWHc?oc=5",
-            "source": "Dubai Eye 103.8",
+            "translatedTitle": "从出租车司机到内容创作， Sharoz Pashtun在迪拜建立职业生涯-巴基斯坦日报",
+            "originalTitle": "From taxi driving to content creation, Sharoz Pashtun builds career in Dubai - Daily Pakistan",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXZrYk5UVG84d3VQWDVNajczWWQ3c1Zxb0tpanVHYjFYdUVXM1FHYk13eEhWdEhRTFdoZkcwdDBYR2tzWlhpaWoyWUdVVk9qME9vcTdpb3lFTHgtNXdBcGd1SHhSVUdzNDNOY1NpaWV0aEFLYmJ0ekxTck9HWi1FSWZ6N2xtc2ZSUXpNVWNzWUVEd2RfYlhMVkFYaDV1WDh3YXFIMTl1NlVqMEVOT1pOMFVYSVVpamVycDBR?oc=5",
+            "source": "Daily Pakistan",
             "sources": [
-              "Dubai Eye 103.8"
+              "Daily Pakistan"
             ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-09T14:43:36.000Z"
+            "heatScore": 60,
+            "publishedAt": "2026-10-10T14:32:06.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "H.H. Sheikh Mohammed颁布法律成立迪拜交响乐团基金会- ARN新闻中心",
-            "originalTitle": "H.H. Sheikh Mohammed issues law to establish Dubai Orchestra Foundation - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUExWemFmMnU2dnc2a3RxZ2czZTFKUEVWakFDN0poTm1XQms1NnJRMFdFSFRmNDJpdEtVSHIxR3c5eEJmbkREcjlHRTFKRkdZdWdJbTBPbUVJbHQ3N1lReUpiSzlITkdPVEh6cHFVSklwOHlGSnc0V1RKR3BJS0dncEYtOWJYbEdPTEhiQkpKZjBjZmhtWE9kNHZNUUtDb3JHOXJvMklDN2NpeUJaQTVIY1hn?oc=5",
+            "translatedTitle": "阿联酋在强烈地震后表示声援巴拿马-《菲律宾时报》",
+            "originalTitle": "UAE expresses solidarity with Panama following powerful earthquake - The Filipino Times",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVhvMG1lRFV0SUVkRVNod24zLUZLRGUxY1dHdThKWlUyQWlrQnRkS0pyNlZGWEpBaFBnak5UajBfSjJWX3ZMMzNUU3Z1QmNjaW4zMzF5SkVkNm5CLWVOV3R2ZE5JTGxwRmd5NVhhVUctenhTR3JyUEFoT1RDYmZwN01ycEFrZmp5UjBuaW5pY0Mta1dTWmh2cnNWbXJNdEFQUGlKclJicmoySXpjS25UMEFvWllCbTA?oc=5",
+            "source": "The Filipino Times",
+            "sources": [
+              "The Filipino Times"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-10-10T12:06:10.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "“Habari yako ？” ：日本男子在迪拜与肯尼亚空姐讲斯瓦希里语- Tuko News",
+            "originalTitle": "\"Habari yako?\": Japanese man speaks Swahili to Kenyan flight attendant in Dubai - Tuko News",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFFBM2RuVjQ3cS14TjNTbkMxQ1ItWERTX2JobHRoUXR2UmRYSFg0eGpveUMtSFpPSy12b0lvaEZkUUFhRXFUbFU0MVV4dE5IS2NrUE9lQ0VOUEJ1SVpyZTBUdnlJc2dibVJPOFBWdUozTk9Hc1ZBaDFFNWFpUnVBQVBYV19yNHczYTVMQTFiekhPT1o3Z2RucG9TWUhzSHk1VW5kYTZxTnppSFE?oc=5",
+            "source": "Tuko News",
+            "sources": [
+              "Tuko News"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-10T09:27:28.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "病毒视频|与迪拜百万富翁结婚，巴基斯坦女演员Neelam Muneer在1年后成为母亲，退出娱乐圈？ - NewsX",
+            "originalTitle": "VIRAL VIDEO | Married To A Millionaire In Dubai, Pakistani Actress Neelam Muneer Becomes A Mother After 1 Year, Quits Showbiz? - NewsX",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd3N4NG9ZN2lmN0wwdmFfeEcxNmZ0VVNMbm1UUUJuSHVMN2R4Snp0Z1dCVERSYU82ekpWVmp6U09iTnZRWHEtWkpaWEpXVlh3NGJZX0tPQlpCSmVzaFEyTm5qY2gySEkwZ2I5V2hCZVFycUdOVHVsWGlfMUVFOW01c0ZvRGo4UUJ2QkJTdnlxenpUUVlaNDlLdjZJWHRBdm9YQjRMem1pdk50dm5sekc3ckMtUmxQTjkxQUR6dEMxSjZWQ3gzZDZQZlpBbE9ZRTJ5cVNPY1RZaXczSzRXSkZmSEVPNEI4cW9HRmVNeC1kNDnSAfYBQVVfeXFMTTBMTlctZnVPTXgxa1RUQ3RSTHRCbVlzd3FsVEVHQmJVNGNFeUp1cFNBbzlTVjAta1J6VTBFMFFNZWZ4bnEtb09oV2wyOWpFd2FTN0w2VE53dWZpMGRsYlY1d0VyaUk5MGpiVV9wbkF3ZGxvMUhXY1l3dHVza3RaUGxTdmJFdUlNNFlIc3l5WnpVR2hEb2ZpdHQ5MkpmLVMwQ29vYUlTamRFYklOM1dfa0o5ZkhzazhhOW9SWThXejhwaUxTaVJJM2x1amxqVW9WRWtZeVFNYVhNUkwxaHAtN0pGeE0xLTFRdnhTYzRxVjR1WVMtZUZ3?oc=5",
+            "source": "NewsX",
+            "sources": [
+              "NewsX"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-10T09:23:41.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿布扎比：扎耶德体育城推出仅限周末的乡村之夜，提供现场音乐、游戏等-卷曲故事",
+            "originalTitle": "Abu Dhabi: Zayed Sports City Launches Weekend-Only Village Nights, With Live Music, Games & More - Curly Tales",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2xHQjBHQWxZLXNSS1BJRE90eWlDM05VVHdRTTF4bFJwMGg0bjNVcG5La0hvOE1VeHFHMF80UVMyenNzel9yQmNuRDVLUjRvWHRrTXpsWkhQU01mamotWWVKWTFneGhZaE1EcUtsY2RiSElDNTJ2S1QyejNIRFEyZlFDZEJyWjNRc2xuTTdSTWFDbm54VTVBVkwxSndlcWIxc2ZDNWhlajBkc2d4S2JPUFJMVWk2ZVdlZmtDaXVrQkJqWGxYUVVXdnY5UEhXNmpLbmtqdzV30gHbAUFVX3lxTFBlNkROeEYydU1KY2xkU3lWRzdPVVFia2YxdzVKRDkyUzFJY1IwRkwwWW50WktIbm84X21UYTRJcjhMODBHY21QUzBBd2VtSUhQa2FiZE1jemFFYzF4NURzTGplV2ZKZFpNRlZoMlRmb1I2U1lJMjZHeG5PbkhDUVNLNG1pN3hWS2VVRDgwOXVCT2t2dHBxMmRGVnp2ejdRc05Idm1hZUVnN1piYU8tLVZRdUZ3N2NFRGJVMUJ2U0ZqZ3Eta0pHWjJlbk9CME5oeG43eXNWSDh4YjdTVQ?oc=5",
+            "source": "Curly Tales",
+            "sources": [
+              "Curly Tales"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-10T08:26:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋为巴拉圭启动紧急风暴救援- ARN新闻中心",
+            "originalTitle": "UAE launches urgent storm relief for Paraguay - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODkybm4ybThWaWdwdXczTWFfTGh5dEQtaWtwU1czQUtNTnBvOVFFWTVNZXJTeDFxUHFuRzFYbzI3cUlaTlVZNDh0X2c3LTg1bGtLVXJvUXF4aWE3X3FwMmltZnIwaVdoRlB2NjNubGxhUmdTblJ6YlB4eENSSEhHZ3pGUWd6akRjb240cXJwT1U?oc=5",
             "source": "ARN News Centre",
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-09T14:38:18.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "沙特阿拉伯以2-0战胜阿联酋结束了22年的海湾杯冠军等待- TVC新闻",
-            "originalTitle": "Saudi Arabia Ends 22-Year Wait For Gulf Cup Title With 2-0 Win Over UAE - TVC News",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWVWVE5xOXd3RF81WmFxSUs3dzdweGdBaVZoVjEzTDh2czZxSUlWQUJMQ2p3cnVOSFRKUjUyQk8za0I3TGV1U3ZibEZxTHVVMmJvdF9KM0JialhYT2pkR21qVHFDRjlSQWpQMU9MWmljNG1VazktcGt6dXZPRGF4OFhsU0E0cEdXU3lkS2dLUjI4eEgtblhsOERBTQ?oc=5",
-            "source": "TVC News",
-            "sources": [
-              "TVC News"
-            ],
-            "heatScore": 59,
-            "publishedAt": "2026-10-09T13:58:00.000Z"
-          },
-          {
-            "rank": 8,
-            "translatedTitle": "迪拜最受欢迎的室内雨林已有10年历史！ - lovin.co",
-            "originalTitle": "Dubai’s Favorite Indoor Rainforest Is Turning 10 Years Old! - lovin.co",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM24xMGxGRWpiTS1uQnNuSlliU1hRMTFSLXd2WUl4bWdkTWdpVzVjamZnYmY2a1ZpZHE0bVdWWnR2LXQ1V3N3YldMaHlqNW1nM09zRlFjcEVrbmdHclREbDA4RnhIb0VicHVhS2ZuN2Fyc2Z0RFNVaE5JekluZVNiQk9VaS1kZ21iLUd2aEg2Q01jRzUycWtjS0pn?oc=5",
-            "source": "lovin.co",
-            "sources": [
-              "lovin.co"
-            ],
-            "heatScore": 57,
-            "publishedAt": "2026-10-09T07:45:31.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "沙特阿拉伯和阿联酋同意加强电网和铁路连接 アラブニュース",
-            "originalTitle": "Saudi Arabia and UAE agree to strengthen power grid and rail connectivity - アラブニュース",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQblZKaHFJZlJtMGx3UVRUZnZrblJXYjhmUXBWX2hLNGxLZ3R4c1lqaGhFLTFocVdtczB3aDEyTS1lbW1qYU5BTHpncUNhaEgzZDl3MDR0YktVUThxVk1DTG1TRGliTTBkcnVLTWNhTEtJTDVYdUg1dXcyQnFiMF81WXlwTE1xZWROZzdWd01SX0RUcHg4Yllqd1dqclRSbHlKd29BcTVtaW5Rc2NadkR0VHNnNU9QaU91T0VwY3V3?oc=5",
-            "source": "アラブニュース",
-            "sources": [
-              "アラブニュース"
-            ],
-            "heatScore": 56,
-            "publishedAt": "2026-10-09T11:31:19.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "Rashid Khan在迪拜为Irfan和Yusuf Pathan举办的奢华阿富汗盛宴- Rediff",
-            "originalTitle": "Rashid Khan's Lavish Afghan Feast for Irfan and Yusuf Pathan in Dubai - Rediff",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3k1TGNMWUFmbDZDekJZb1lSTmg5bjNNNzA2OWNPV25vby1sUmFKSEl5ckpDaEFxUkZaUUV1NUtkNTkxdnhtb3dWUThUWU9vNVMyOF9uaGFoZmlLRVI3OU5XZTJ0OXNCekJvV2ljbVVuNHRpYnhYM3NqNEJDcEUtRkVRTWFkNWtIdUhWbFJSSUhTQzIxdk5ZQnhGbHROcmRXX01WbFYwbFVSbzh4Wm1uSUVIR1ZqUl9hMGN2cDQ4cVhLNjVyRFhsatIBywFBVV95cUxPUFVoYlMtWHpoWjF3S0Nma1NVWXJkR1VCZjNSU3pvV1NJcGFEaXdNcUhhMS1TeHF4bks1MXcyMnd2aXRFc0Zoa1piekc5R1pBSlZkVG5pSzFfa0IzOXBqZm01NTRuLWdYWDlkV0ExSmFjV2tGVXdxZ21TaDlEaGNWNjlxNjV6M014LWNCeUdKUEp2Wm5rc0xXWHdRQ0FieE1YUVJEMHRYYkZfbG1CR0p2aVNGVDZIbVVJdW84ek90N3cyTjFNVjUwUUhpMA?oc=5",
-            "source": "Rediff",
-            "sources": [
-              "Rediff"
-            ],
-            "heatScore": 56,
-            "publishedAt": "2026-10-09T06:43:49.000Z"
+            "heatScore": 54,
+            "publishedAt": "2026-10-10T04:40:51.000Z"
           }
         ],
         "china": []
