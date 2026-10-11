@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T19:44:52.973Z",
+  "updatedAt": "2026-10-11T19:57:14.423Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -15371,7 +15371,7 @@
     },
     "2026-10-11": {
       "date": "2026-10-11",
-      "updatedAt": "2026-10-11T19:44:52.973Z",
+      "updatedAt": "2026-10-11T19:57:14.423Z",
       "categories": {
         "all": [
           {
@@ -15421,8 +15421,8 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "阿布扎比仓库火灾得到控制；无人员伤亡报告",
-            "originalTitle": "Abu Dhabi warehouse fire brought under control; no injuries reported",
+            "translatedTitle": "阿布扎比Al Dhafra仓库火灾得到控制；无人受伤",
+            "originalTitle": "Abu Dhabi's Al Dhafra warehouse fire brought under control; no injuries reported",
             "url": "https://www.khaleejtimes.com/uae/fire-breaks-warehouse-abu-dhabi-al-dhafra-oct-11",
             "source": "Khaleej Times",
             "sources": [
@@ -15433,6 +15433,18 @@
           },
           {
             "rank": 5,
+            "translatedTitle": "政治直播：绿党呼吁在澳大利亚阻止美国处决直播； Flydubai飞行员与澳大利亚的联系“令人不安”",
+            "originalTitle": "Politics live: Greens call for US execution livestream to be blocked in Australia; Flydubai pilot’s links to Australia ‘disturbing’",
+            "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-11T19:49:53.000Z"
+          },
+          {
+            "rank": 6,
             "translatedTitle": "中东危机：利雅得机场再次遭到袭击，胡塞武装声称发动袭击，包括造成12人死亡的罢工",
             "originalTitle": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
             "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
@@ -15444,7 +15456,7 @@
             "publishedAt": "2026-10-11T18:03:22.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "阿布扎比Al Dhafra仓库起火",
             "originalTitle": "Fire breaks out at warehouse in Abu Dhabi’s Al Dhafra",
             "url": "https://c.newsnow.co.uk/A/1326767299?-15565:1965",
@@ -15456,7 +15468,7 @@
             "publishedAt": "2026-10-11T17:56:33.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "阿联酋、新加坡探索加强贸易的新视野",
             "originalTitle": "UAE, Singapore explore new horizons to strengthen trade",
             "url": "https://c.newsnow.co.uk/A/1326765912?-15565:1965",
@@ -15468,7 +15480,7 @@
             "publishedAt": "2026-10-11T17:26:07.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "Jumada Al Awwal新月在迪拜拍照",
             "originalTitle": "Jumada Al Awwal crescent photographed in Dubai",
             "url": "https://c.newsnow.co.uk/A/1326759583?-15565:1965",
@@ -15480,7 +15492,7 @@
             "publishedAt": "2026-10-11T15:13:33.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "特朗普称俄罗斯和乌克兰同意“能源停火”",
             "originalTitle": "Trump says Russia and Ukraine agree to 'energy ceasefire'",
             "url": "https://www.khaleejtimes.com/business/energy/trump-says-russia-ukraine-agree-energy-ceasefire-effective-immediately",
@@ -15490,18 +15502,6 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-11T14:35:26.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "2支运载259吨食品的阿联酋援助车队通过“骑士行动3”进入加沙",
-            "originalTitle": "2 UAE aid convoys carrying 259 tonnes of food enter Gaza under Operation Chivalrous Knight 3",
-            "url": "https://www.khaleejtimes.com/uae/uae-aid-259-tonnes-food-gaza-operation-chivalrous-knight",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-11T14:08:13.000Z"
           }
         ],
         "domestic": [
@@ -15539,7 +15539,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-11T14:08:13.000Z"
           },
           {
@@ -15551,7 +15551,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-11T14:02:08.000Z"
           },
           {
@@ -15580,18 +15580,6 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "领事馆表示，在阿联酋沿海发生事故后，所有22名印度船员均获救并获得安全-路透社",
-            "originalTitle": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUhfcGw1bnduOEZwNWdrQUFlMUFUa1RXUkpsMjNXZlBSSGhpcVN5ZjBrWjVoQ2trc0p2aWszWkZlc2VvZTE5NVRqNXNuR0lSM1NnTmVUMlRpS1UteENwMlNZVjRubkNkbTRXSWZXM1kydHBLZlktYmVmRHJCOWRiQWFldHlSWkhTMmR3dTRDT0JrNnRaQ1VySk00VDItc0xaSTlFc1RZRVdLamEtZzJUXzNSVl9yUTZxS1AzT3BmclA?oc=5",
-            "source": "Reuters",
-            "sources": [
-              "Reuters"
-            ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-11T04:54:00.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "伊朗国家媒体报道，伊朗称美国对其重新开放霍尔木兹的提议的回应“不够”",
             "originalTitle": "Iran says US response to its proposal to reopen Hormuz was ‘insufficient’, state media reports",
             "url": "https://www.arabnews.com/middle-east/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient-state-media-reports-3005806",
@@ -15603,6 +15591,18 @@
             "publishedAt": "2026-10-11T16:26:21.000Z"
           },
           {
+            "rank": 8,
+            "translatedTitle": "领事馆表示，在阿联酋沿海发生事故后，所有22名印度船员均获救并获得安全-路透社",
+            "originalTitle": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUhfcGw1bnduOEZwNWdrQUFlMUFUa1RXUkpsMjNXZlBSSGhpcVN5ZjBrWjVoQ2trc0p2aWszWkZlc2VvZTE5NVRqNXNuR0lSM1NnTmVUMlRpS1UteENwMlNZVjRubkNkbTRXSWZXM1kydHBLZlktYmVmRHJCOWRiQWFldHlSWkhTMmR3dTRDT0JrNnRaQ1VySk00VDItc0xaSTlFc1RZRVdLamEtZzJUXzNSVl9yUTZxS1AzT3BmclA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-11T04:54:00.000Z"
+          },
+          {
             "rank": 9,
             "translatedTitle": "迪拜警方警告家长注意在线游戏风险",
             "originalTitle": "Dubai Police warns parents about online gaming risks",
@@ -15611,7 +15611,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-11T13:21:34.000Z"
           },
           {
@@ -15716,6 +15716,18 @@
         "economy": [
           {
             "rank": 1,
+            "translatedTitle": "政治直播：绿党呼吁在澳大利亚阻止美国处决直播； Flydubai飞行员与澳大利亚的联系“令人不安”",
+            "originalTitle": "Politics live: Greens call for US execution livestream to be blocked in Australia; Flydubai pilot’s links to Australia ‘disturbing’",
+            "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-11T19:49:53.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "阿联酋、新加坡探索加强贸易的新视野",
             "originalTitle": "UAE, Singapore explore new horizons to strengthen trade",
             "url": "https://c.newsnow.co.uk/A/1326765912?-15565:1965",
@@ -15727,7 +15739,7 @@
             "publishedAt": "2026-10-11T17:26:07.000Z"
           },
           {
-            "rank": 2,
+            "rank": 3,
             "translatedTitle": "随着非石油行业的扩张，阿联酋上半年经济增长0.4%",
             "originalTitle": "UAE economy grows 0.4% in first half as non-oil sectors expand",
             "url": "https://www.arabnews.com/business/uae-economy-grows-04-in-first-half-as-non-oil-sectors-expand-3005742",
@@ -15739,7 +15751,7 @@
             "publishedAt": "2026-10-11T10:23:18.000Z"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "translatedTitle": "Al Ain机场将更名为Tahnoun International ，以纪念已故领导人",
             "originalTitle": "Al Ain airport to be renamed Tahnoun International in honour of late leader",
             "url": "https://www.khaleejtimes.com/uae/uae-al-ain-international-airport-renamed-tahnoun-late-leader",
@@ -15751,7 +15763,7 @@
             "publishedAt": "2026-10-11T06:31:59.000Z"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "translatedTitle": "eplanet TV的“市场脉搏”为2026年迪拜外汇博览会带来了市场背景",
             "originalTitle": "eplanet TV’s “The Pulse of the Market” brings market context to Forex Expo Dubai 2026",
             "url": "https://c.newsnow.co.uk/A/1326758009?-15565:1965",
@@ -15773,7 +15785,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-11T02:00:00.000Z"
           }
         ],
@@ -15812,8 +15824,8 @@
           },
           {
             "rank": 3,
-            "translatedTitle": "阿布扎比仓库火灾得到控制；无人员伤亡报告",
-            "originalTitle": "Abu Dhabi warehouse fire brought under control; no injuries reported",
+            "translatedTitle": "阿布扎比Al Dhafra仓库火灾得到控制；无人受伤",
+            "originalTitle": "Abu Dhabi's Al Dhafra warehouse fire brought under control; no injuries reported",
             "url": "https://www.khaleejtimes.com/uae/fire-breaks-warehouse-abu-dhabi-al-dhafra-oct-11",
             "source": "Khaleej Times",
             "sources": [
@@ -15941,11 +15953,23 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 75,
+            "heatScore": 74,
             "publishedAt": "2026-10-11T12:26:27.000Z"
           },
           {
             "rank": 4,
+            "translatedTitle": "我们在迪拜，而不是印度：莫里斯·奥格塔（ Maurice Ogeta ）澄清了拉伊拉去世前的病毒视频-人民日报",
+            "originalTitle": "We were in Dubai, not India: Maurice Ogeta clarifies viral video of Raila before his death - People Daily",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSl9ydW85ZGtVazBMbGtGX0s1a09sYzBrNzdWeDN6aTBOdFVOQVNPdnZkMmxaWTFCRWltY2VpbGUteERBaXRtanVyc1p0bk5RUGk1QUlpWmN1OGhwZ1FrS0FyMEZrTXkwdDduRElJdHZ2WWNGbURTbDUyRnh1VGRucFI4Q1VfRnpRVmZjd1pGWDY5Sm5BaFl2OUpULUZSNnZYbnBFWXlVR2ZvVzlMa1VZMzg5NVF0WUlPYTRrS2VEQXpoMDZJQUVCcHBKYng?oc=5",
+            "source": "People Daily",
+            "sources": [
+              "People Daily"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-10-11T19:43:45.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "“我没有计划” ：以色列的flydubai幸存者因击中特朗普的标志性姿势而疯狂传播-耶路撒冷邮报",
             "originalTitle": "'I didn't plan it': Israeli flydubai survivor goes viral for striking Trump's iconic pose - The Jerusalem Post",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yY1dNT1BJUHZTeDJzWUQ2czlLOURINUdYRWhNRjZzQ1FfUExNWDZ6MTV1TndPYVQxRFRXVnY1dnhQUmYza1dEYndvV1RiWWh4SnplT2l1QkRoSWhr?oc=5",
@@ -15953,11 +15977,11 @@
             "sources": [
               "The Jerusalem Post"
             ],
-            "heatScore": 65,
+            "heatScore": 64,
             "publishedAt": "2026-10-11T13:58:24.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "迪拜罗纳尔多的粉丝正在疯狂传播，甚至科尔·帕尔默（ Cole Palmer ）也在评论中！ - lovin.co",
             "originalTitle": "A Dubai Ronaldo Fan Is Going Viral And Even Cole Palmer Is In The Comments! - lovin.co",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3NrajVKUVh0a2psZXhKUk41ZFR6My1Zc2tKU3N1U1JrZm1IWGhzY3RuRDBGaGZnREgzbWFYbnNCdmF6bDNudnNrN3R2VzY3OGwxZ0Q2c1VXZ2hRSW4tazNnZHV6TVN4TGlOOHdvdUdzM0pLMWlfZjVtUWtaWEJKVzQ0VzVHVjRoazliZUJxZ1JBLTRLSXRCRTRzX1FPWlJnS0o4ZWN6N0R1RTI0b3ZVSA?oc=5",
@@ -15965,11 +15989,11 @@
             "sources": [
               "lovin.co"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-11T11:26:04.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "迪拜航空副驾驶员承认访问墨尔本清真寺并会见与宗教中心有关的人-海湾新闻",
             "originalTitle": "flydubai co-pilot admits visiting Melbourne mosque and meeting people linked to religious centre - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON240N2pLemk4MDZBVFY2U0FkTGFWeHpzS08tYWtEdFZrRV9FdFBaX29WMWYwNlJWUWdicjNrWjFXenJqMHgwNWFpNFE5T0xwaFBPYTh4Z0FpWGI2b3R5QmwyYy04Rnp2TG52ejFWSXdieTdxNVNBbTBBOTVHd1FIWWdWb1p2UmNlblZGQ3U3dXlqcms5REFsNlFTd2w4Z1dsWTBaT3VqYWVZbnJHbXBkbGxDVEl2UEMzNXRPX2IyWk5ueF9MWEhWaEhMdHBvc09xbEZFVkRIR3J5MGNoRUxnRNIB8wFBVV95cUxNYTFRaTVQWWk2ZzRIXzZfenljREIyZjZsQ1h5Q3Z5dzRmelE1T2FKT0FuU3pyR0hZdWlOa3lXcEN3OVFyeXBZX212V2pwMmUwam4xOFFsS2pwVjhNOXdFdmNaZ1hEcWpLY1NaaW5PRUlmckktZkFib3UxNEpTUjRuSDAwUEpUdWNqUGJueGJ6aVZDWHF6NXgzc1Y1U0ZGZ3lCTUpSTl84X0F1WEZDSnVCLTIyUzVEdDJPenVxcU1Fa2pCa1FudE04QmE1bWhBaVNkTTJVcHhNYUpQb24ycFJXa243bHZUY3VITGJMXzhKMDhWYTQ?oc=5",
@@ -15977,11 +16001,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-10T19:40:12.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "病毒式鸡肉凯撒包装现已在迪拜上市- AhlanLive",
             "originalTitle": "The viral chicken Caesar wrap is now available in Dubai - AhlanLive",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mTGRMT3hRWDI3dHQtb0RyOHczdnFkTU1jTlZqVmdYZ21UN2tZVTdnV0tzSXNJSTNzcmxLTDJ0eTFvWHdQWWt1Z25PdW4taXdyc29uUS1OcFRxdkVBN1FF?oc=5",
@@ -15993,7 +16017,7 @@
             "publishedAt": "2026-10-11T13:41:43.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "印度驻迪拜领事馆表示， 22名印度船员从哈伊马角海岸的一艘船上获救- LatestLY",
             "originalTitle": "Indian Consulate in Dubai Says 22 Indian Crew Members Rescued From a Vessel off Ras Al Khaimah Coast - LatestLY",
             "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRHJ2eWViR045enBUejk5d1JnWE0zbDdjQmVnNHl6LVJhQ1R6c09qb2xyZEhmZldaXzdNcUZhSC05ZWtZT1R4Z1BJNUhxSkN5NUU2bkdtUXFHd0RsbmhYWEtZMnFySXVQUkppcHNCUDJvYzVyU241bFBUVXFOZklsUnliMzNpOVp4MUtpUGQ0RVRjWVZVdlNvZEdEV3Bhc3ljSENtc0lGcWluZHZubERxNVphRGVKc0QzUDBoNHBMT3l6Zkc3a0QxXzR5T2xNWFNBYnY4c1djc2tfY0hlbnFoLW9xUGF0Rl9W0gHoAUFVX3lxTFBEcnZ5ZWJHTjl6cFR6OTl3UmdYTTNsN2NCZWc0eXotUmFDVHpzT2pvbHJkSGZmV1pfN01xRmFILTlla1lPVHhnUEk1SHFKQ3k1RTZuR21RcUd3RGxuaFhYS1kycXJJdVBSSmlwc0JQMm9jNXJTbjVsUFRVcU5mSWxSeWIzM2k5WngxS2lQZDRFVGNZVlV2U29kR0RXcGFzeWNIQ21zSUZxaW5kdm5sRHE1WmFEZUpzRDNQMGg0cExPeXpmRzdrRDFfNHlPbE1YU0FidjhzV2Nza19jSGVucWgtb3FQYXRGX1Y?oc=5",
@@ -16005,7 +16029,7 @@
             "publishedAt": "2026-10-11T12:28:54.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "沙特阿拉伯和阿联酋就能源交换和铁路连通性达成协议- Italpress",
             "originalTitle": "Saudi Arabia and UAE reach agreement on energy exchange and railway connectivity - Italpress",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1J2M3lZNDhYeGFyNlBtSDdFWkw2d1Zkdl9CTnh3dVpPczIySGtpbEdNeHRhY1FJNzRObnRTTGxmd1MzclNaTDVXbnNHN3g2cGxhSlRqUGt0NXJaaC1PWEdJN0FfMklGdW5TeGoyQ0pLMFhfVmJZYU8taTZiWkpYYWNacWtKMjZJWWRUYzV3N1hmQnZzWlJrdnNWcElycTNZY2lhTV81aTJNRjg?oc=5",
@@ -16015,18 +16039,6 @@
             ],
             "heatScore": 58,
             "publishedAt": "2026-10-10T15:18:30.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "视频： Rashid Khan在迪拜主持Irfan和Yusuf Pathan的奢华阿富汗盛宴- NDTV Food",
-            "originalTitle": "Video: Rashid Khan Hosts Irfan, Yusuf Pathan For A Lavish Afghan Feast In Dubai - NDTV Food",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlBpNXVvWUhLNkZYZlc4SWxrc0paN0FpVWJDZ1hPTTNQOHlFZk1XXzNBRkVUaU1CdmxzN1RVUEtmNG9XY2RlcUdoQ2JVdlE5NlJvZzNHSzE3UENjY1d1NzczTlNzM1VUdldxTnVLdXJpWHd3ZWZZaldERmtIRUJqN282Yk12Nms2WXhHX2J5Q0NPTmpqQWJPdWYweEZnUHgzZjhySWRJcHVXVlZXd2d4dFJwVdIBuwFBVV95cUxQbm1HbW80cVNaUWI4UzhTTjByTDg0dm5BVTg1NEY2UllURmlJZ2hVMy1yOHdQMklLMTdPRWZFZUJLQzM5d2s3Y2lLajRnVm5aeWpmTm5QbzlpYmJXWlQwdmUzeV8wRWlCdkNjZFVXX2k4UngyV3diam1qYmUyZ3EyQXpuLTFXMW12b2tjUVRrMENBN0tHcXhJaF9hTlhvS1J6eWR0TzlOVm1sNVR5RkhnTlRHUzAyOGJJSDFr?oc=5",
-            "source": "NDTV Food",
-            "sources": [
-              "NDTV Food"
-            ],
-            "heatScore": 55,
-            "publishedAt": "2026-10-11T05:01:51.000Z"
           }
         ],
         "china": [
