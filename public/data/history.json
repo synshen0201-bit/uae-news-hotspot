@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T19:28:41.275Z",
+  "updatedAt": "2026-10-11T19:44:52.973Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -15371,7 +15371,7 @@
     },
     "2026-10-11": {
       "date": "2026-10-11",
-      "updatedAt": "2026-10-11T19:28:41.275Z",
+      "updatedAt": "2026-10-11T19:44:52.973Z",
       "categories": {
         "all": [
           {
@@ -15433,30 +15433,6 @@
           },
           {
             "rank": 5,
-            "translatedTitle": "阿布扎比Al Dhafra仓库起火",
-            "originalTitle": "Fire breaks out at warehouse in Abu Dhabi’s Al Dhafra",
-            "url": "https://c.newsnow.co.uk/A/1326767299?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-11T17:56:33.000Z"
-          },
-          {
-            "rank": 6,
-            "translatedTitle": "Jumada Al Awwal新月在迪拜拍照",
-            "originalTitle": "Jumada Al Awwal crescent photographed in Dubai",
-            "url": "https://c.newsnow.co.uk/A/1326759583?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-11T15:13:33.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "中东危机：利雅得机场再次遭到袭击，胡塞武装声称发动袭击，包括造成12人死亡的罢工",
             "originalTitle": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
             "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
@@ -15468,7 +15444,19 @@
             "publishedAt": "2026-10-11T18:03:22.000Z"
           },
           {
-            "rank": 8,
+            "rank": 6,
+            "translatedTitle": "阿布扎比Al Dhafra仓库起火",
+            "originalTitle": "Fire breaks out at warehouse in Abu Dhabi’s Al Dhafra",
+            "url": "https://c.newsnow.co.uk/A/1326767299?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-11T17:56:33.000Z"
+          },
+          {
+            "rank": 7,
             "translatedTitle": "阿联酋、新加坡探索加强贸易的新视野",
             "originalTitle": "UAE, Singapore explore new horizons to strengthen trade",
             "url": "https://c.newsnow.co.uk/A/1326765912?-15565:1965",
@@ -15478,6 +15466,18 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-11T17:26:07.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Jumada Al Awwal新月在迪拜拍照",
+            "originalTitle": "Jumada Al Awwal crescent photographed in Dubai",
+            "url": "https://c.newsnow.co.uk/A/1326759583?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-11T15:13:33.000Z"
           },
           {
             "rank": 9,
@@ -15527,7 +15527,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-11T15:13:33.000Z"
           },
           {
@@ -15568,18 +15568,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "伊朗国家媒体报道，伊朗称美国对其重新开放霍尔木兹的提议的回应“不够”",
-            "originalTitle": "Iran says US response to its proposal to reopen Hormuz was ‘insufficient’, state media reports",
-            "url": "https://www.arabnews.com/middle-east/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient-state-media-reports-3005806",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 79,
-            "publishedAt": "2026-10-11T16:26:21.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "迪拜精品店老板的儿子因喀拉拉邦坠机事件被捕",
             "originalTitle": "Dubai boutique owner's son arrested over Kerala crash",
             "url": "https://c.newsnow.co.uk/A/1326760065?-15565:1965",
@@ -15591,7 +15579,7 @@
             "publishedAt": "2026-10-11T15:23:34.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "领事馆表示，在阿联酋沿海发生事故后，所有22名印度船员均获救并获得安全-路透社",
             "originalTitle": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says - Reuters",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUhfcGw1bnduOEZwNWdrQUFlMUFUa1RXUkpsMjNXZlBSSGhpcVN5ZjBrWjVoQ2trc0p2aWszWkZlc2VvZTE5NVRqNXNuR0lSM1NnTmVUMlRpS1UteENwMlNZVjRubkNkbTRXSWZXM1kydHBLZlktYmVmRHJCOWRiQWFldHlSWkhTMmR3dTRDT0JrNnRaQ1VySk00VDItc0xaSTlFc1RZRVdLamEtZzJUXzNSVl9yUTZxS1AzT3BmclA?oc=5",
@@ -15601,6 +15589,18 @@
             ],
             "heatScore": 78,
             "publishedAt": "2026-10-11T04:54:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "伊朗国家媒体报道，伊朗称美国对其重新开放霍尔木兹的提议的回应“不够”",
+            "originalTitle": "Iran says US response to its proposal to reopen Hormuz was ‘insufficient’, state media reports",
+            "url": "https://www.arabnews.com/middle-east/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient-state-media-reports-3005806",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-11T16:26:21.000Z"
           },
           {
             "rank": 9,
@@ -15685,7 +15685,7 @@
             "sources": [
               "InterSpace Music Distribution"
             ],
-            "heatScore": 43,
+            "heatScore": 42,
             "publishedAt": "2026-10-10T19:34:13.000Z"
           },
           {
@@ -15735,7 +15735,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-10-11T10:23:18.000Z"
           },
           {
@@ -15759,7 +15759,7 @@
             "sources": [
               "Gulf Times"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-11T14:40:58.000Z"
           }
         ],
@@ -15824,18 +15824,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "阿布扎比Al Dhafra仓库起火",
-            "originalTitle": "Fire breaks out at warehouse in Abu Dhabi’s Al Dhafra",
-            "url": "https://c.newsnow.co.uk/A/1326767299?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-11T17:56:33.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "中东危机：利雅得机场再次遭到袭击，胡塞武装声称发动袭击，包括造成12人死亡的罢工",
             "originalTitle": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
             "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
@@ -15847,6 +15835,18 @@
             "publishedAt": "2026-10-11T18:03:22.000Z"
           },
           {
+            "rank": 5,
+            "translatedTitle": "阿布扎比Al Dhafra仓库起火",
+            "originalTitle": "Fire breaks out at warehouse in Abu Dhabi’s Al Dhafra",
+            "url": "https://c.newsnow.co.uk/A/1326767299?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-11T17:56:33.000Z"
+          },
+          {
             "rank": 6,
             "translatedTitle": "胡塞武装袭击沙特阿拉伯和也门机场，阿联酋谴责胡塞武装袭击民用设施- DD News",
             "originalTitle": "Houthis attack Airports in Saudi Arabia and Yemen, UAE condemns Houthi attacks on civilian facilities - DD News",
@@ -15855,7 +15855,7 @@
             "sources": [
               "DD News"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-10-11T16:29:40.000Z"
           },
           {
@@ -15872,18 +15872,6 @@
           },
           {
             "rank": 8,
-            "translatedTitle": "阿联酋强烈谴责胡塞武装对利雅得哈立德国王机场的致命袭击- Khaleej Times",
-            "originalTitle": "UAE strongly condemns deadly Houthi attack on King Khalid Airport in Riyadh - Khaleej Times",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX244Q0NpOGNhZEZXMlNnaDBRS0hsbmJzdUdXSVZiOWZQWDZYSWJUam1BLUs3NXJDTHJtUHhMeU1GS1NYM0hmWEVyYXZlelNlb2dyRFJHUHJRYTZnbWZ6djI2NnJfZl9MMlhpbkNtODAwOXpKZThGNVQ1eS14eEp2TU02bWJka2QzbkRyNlIyakMwNHhYak1PWNIBoAFBVV95cUxOblAxdU96aWZMMGVHU2ZOM3Jsc2RqTmdnQnJiSlVKNlFMVnU0RjFZa3o4WmVtblpUM19nMzBGVUFSaXhFUDIyalJuNWNGdWRVNllVTERvUGJsV3BCWGpYelpZS2VHNnluMzFZc0dnd3RLTXpya05kVnEtOHExR29LSWRWNHJCLTlmYjJpbzdVYjJTaDliYTAtMU9uWEhMYlUx?oc=5",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 73,
-            "publishedAt": "2026-10-11T09:44:33.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "Sheikh Hamdan宣布， RTA赢得了政府部门的第一个迪拜IT奖",
             "originalTitle": "RTA wins first Dubai-it award in government sector, Sheikh Hamdan announces",
             "url": "https://www.khaleejtimes.com/uae/rta-wins-first-dubai-it-award-in-government-sector-sheikh-hamdan-announces",
@@ -15893,6 +15881,18 @@
             ],
             "heatScore": 73,
             "publishedAt": "2026-10-11T08:15:08.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装对利雅得哈立德国王机场的致命袭击- Khaleej Times",
+            "originalTitle": "UAE strongly condemns deadly Houthi attack on King Khalid Airport in Riyadh - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX244Q0NpOGNhZEZXMlNnaDBRS0hsbmJzdUdXSVZiOWZQWDZYSWJUam1BLUs3NXJDTHJtUHhMeU1GS1NYM0hmWEVyYXZlelNlb2dyRFJHUHJRYTZnbWZ6djI2NnJfZl9MMlhpbkNtODAwOXpKZThGNVQ1eS14eEp2TU02bWJka2QzbkRyNlIyakMwNHhYak1PWNIBoAFBVV95cUxOblAxdU96aWZMMGVHU2ZOM3Jsc2RqTmdnQnJiSlVKNlFMVnU0RjFZa3o4WmVtblpUM19nMzBGVUFSaXhFUDIyalJuNWNGdWRVNllVTERvUGJsV3BCWGpYelpZS2VHNnluMzFZc0dnd3RLTXpya05kVnEtOHExR29LSWRWNHJCLTlmYjJpbzdVYjJTaDliYTAtMU9uWEhMYlUx?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-10-11T09:44:33.000Z"
           },
           {
             "rank": 10,
@@ -15910,18 +15910,6 @@
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "胡塞武装袭击沙特阿拉伯和也门机场，阿联酋谴责胡塞武装袭击民用设施- DD News",
-            "originalTitle": "Houthis attack Airports in Saudi Arabia and Yemen, UAE condemns Houthi attacks on civilian facilities - DD News",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd09KblhXMTMzVElsWVBJQjkxYnFHR0sxUk5XeGppR2xMa0NZa3dyc3NlMUp6RmJjZ1JUQ1VPRWN5VnppQWlzT3U4UFN0UVNTZXJDOUNlOG1hcXdOX1BZZHUxVFhxcF9OV0hXTU5NUHNPeldIRzdvVDRHMnlLSFZRYVpKeUdOaXZBTUVhVElFWnU4djRBeFNMbm5POThYUUFwSGo0SU1oeVlWNi1ORDJod2ZBWDRCay1uTW1RSUdFZ19GUkhP?oc=5",
-            "source": "DD News",
-            "sources": [
-              "DD News"
-            ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-11T16:29:40.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "阿联酋和沙特阿拉伯对在线欺凌残疾儿童采取法律行动--《国家报》",
             "originalTitle": "UAE and Saudi Arabia take legal action over online bullying of child with disabilities - The National",
             "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2phbmlpeFc0VGpCN19pWGpoQ1JrWXZHeVpzZ2loNU1BTTlFNnNsV1VHQnFLNFVwejF5dzRnRlhBZGdMT3JsbXI0VHZOei1TLUlBZi1IdEJQN2k0c1B6LVhIY1RubXZJbWdoU2Fid0VJbGZzOTJXRzZTT2l1d0ZacG5ELWo0VVlOakhFenNGVm5EZ0NBTE5FTHRIU0N5UmRYX2N1OG9RVjZJZmVFcUlJdUVMdjlXdW5YUVVvdVRJM1BheU4xOE1WRG0wTU1RbVN0QUlia2JR?oc=5",
@@ -15931,6 +15919,18 @@
             ],
             "heatScore": 77,
             "publishedAt": "2026-10-10T13:26:57.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "胡塞武装袭击沙特阿拉伯和也门机场，阿联酋谴责胡塞武装袭击民用设施- DD News",
+            "originalTitle": "Houthis attack Airports in Saudi Arabia and Yemen, UAE condemns Houthi attacks on civilian facilities - DD News",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd09KblhXMTMzVElsWVBJQjkxYnFHR0sxUk5XeGppR2xMa0NZa3dyc3NlMUp6RmJjZ1JUQ1VPRWN5VnppQWlzT3U4UFN0UVNTZXJDOUNlOG1hcXdOX1BZZHUxVFhxcF9OV0hXTU5NUHNPeldIRzdvVDRHMnlLSFZRYVpKeUdOaXZBTUVhVElFWnU4djRBeFNMbm5POThYUUFwSGo0SU1oeVlWNi1ORDJod2ZBWDRCay1uTW1RSUdFZ19GUkhP?oc=5",
+            "source": "DD News",
+            "sources": [
+              "DD News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-11T16:29:40.000Z"
           },
           {
             "rank": 3,
@@ -15994,6 +15994,18 @@
           },
           {
             "rank": 8,
+            "translatedTitle": "印度驻迪拜领事馆表示， 22名印度船员从哈伊马角海岸的一艘船上获救- LatestLY",
+            "originalTitle": "Indian Consulate in Dubai Says 22 Indian Crew Members Rescued From a Vessel off Ras Al Khaimah Coast - LatestLY",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRHJ2eWViR045enBUejk5d1JnWE0zbDdjQmVnNHl6LVJhQ1R6c09qb2xyZEhmZldaXzdNcUZhSC05ZWtZT1R4Z1BJNUhxSkN5NUU2bkdtUXFHd0RsbmhYWEtZMnFySXVQUkppcHNCUDJvYzVyU241bFBUVXFOZklsUnliMzNpOVp4MUtpUGQ0RVRjWVZVdlNvZEdEV3Bhc3ljSENtc0lGcWluZHZubERxNVphRGVKc0QzUDBoNHBMT3l6Zkc3a0QxXzR5T2xNWFNBYnY4c1djc2tfY0hlbnFoLW9xUGF0Rl9W0gHoAUFVX3lxTFBEcnZ5ZWJHTjl6cFR6OTl3UmdYTTNsN2NCZWc0eXotUmFDVHpzT2pvbHJkSGZmV1pfN01xRmFILTlla1lPVHhnUEk1SHFKQ3k1RTZuR21RcUd3RGxuaFhYS1kycXJJdVBSSmlwc0JQMm9jNXJTbjVsUFRVcU5mSWxSeWIzM2k5WngxS2lQZDRFVGNZVlV2U29kR0RXcGFzeWNIQ21zSUZxaW5kdm5sRHE1WmFEZUpzRDNQMGg0cExPeXpmRzdrRDFfNHlPbE1YU0FidjhzV2Nza19jSGVucWgtb3FQYXRGX1Y?oc=5",
+            "source": "LatestLY",
+            "sources": [
+              "LatestLY"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-10-11T12:28:54.000Z"
+          },
+          {
+            "rank": 9,
             "translatedTitle": "沙特阿拉伯和阿联酋就能源交换和铁路连通性达成协议- Italpress",
             "originalTitle": "Saudi Arabia and UAE reach agreement on energy exchange and railway connectivity - Italpress",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1J2M3lZNDhYeGFyNlBtSDdFWkw2d1Zkdl9CTnh3dVpPczIySGtpbEdNeHRhY1FJNzRObnRTTGxmd1MzclNaTDVXbnNHN3g2cGxhSlRqUGt0NXJaaC1PWEdJN0FfMklGdW5TeGoyQ0pLMFhfVmJZYU8taTZiWkpYYWNacWtKMjZJWWRUYzV3N1hmQnZzWlJrdnNWcElycTNZY2lhTV81aTJNRjg?oc=5",
@@ -16005,7 +16017,7 @@
             "publishedAt": "2026-10-10T15:18:30.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "视频： Rashid Khan在迪拜主持Irfan和Yusuf Pathan的奢华阿富汗盛宴- NDTV Food",
             "originalTitle": "Video: Rashid Khan Hosts Irfan, Yusuf Pathan For A Lavish Afghan Feast In Dubai - NDTV Food",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlBpNXVvWUhLNkZYZlc4SWxrc0paN0FpVWJDZ1hPTTNQOHlFZk1XXzNBRkVUaU1CdmxzN1RVUEtmNG9XY2RlcUdoQ2JVdlE5NlJvZzNHSzE3UENjY1d1NzczTlNzM1VUdldxTnVLdXJpWHd3ZWZZaldERmtIRUJqN282Yk12Nms2WXhHX2J5Q0NPTmpqQWJPdWYweEZnUHgzZjhySWRJcHVXVlZXd2d4dFJwVdIBuwFBVV95cUxQbm1HbW80cVNaUWI4UzhTTjByTDg0dm5BVTg1NEY2UllURmlJZ2hVMy1yOHdQMklLMTdPRWZFZUJLQzM5d2s3Y2lLajRnVm5aeWpmTm5QbzlpYmJXWlQwdmUzeV8wRWlCdkNjZFVXX2k4UngyV3diam1qYmUyZ3EyQXpuLTFXMW12b2tjUVRrMENBN0tHcXhJaF9hTlhvS1J6eWR0TzlOVm1sNVR5RkhnTlRHUzAyOGJJSDFr?oc=5",
@@ -16015,18 +16027,6 @@
             ],
             "heatScore": 55,
             "publishedAt": "2026-10-11T05:01:51.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "Huddah Monroe揭示了为什么她更喜欢迪拜而不是肯尼亚和欧洲- Mpasho",
-            "originalTitle": "Huddah Monroe Reveals Why She Prefers Dubai Over Kenya and Europe - Mpasho",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0JubXJPUGhRSG51UU5YUjk1dE5fYlJnM2xJaEFyc3hiMEc0NlNjaFpUUF9IWURkaE5yTmM1cDl3T1NCSloyTUl3Mkg1eEJoUEdDYWE0aFB1TWhlWmR1RDIxdVpQVGxLSGJISFZpbXFlQzBpRkdtN3VCQXpIZVUwUkRrTmlFMkplXzg3dFVUWVFTYXlJVDFLcVRmM1FVUlRmT19tSlA4WVVNV1E5SlRCeDh2dmloZw?oc=5",
-            "source": "Mpasho",
-            "sources": [
-              "Mpasho"
-            ],
-            "heatScore": 54,
-            "publishedAt": "2026-10-11T07:46:00.000Z"
           }
         ],
         "china": [
@@ -16039,23 +16039,11 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-11T09:19:41.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "中国vs阿联酋·足球男子- TOD",
-            "originalTitle": "China vs United Arab Emirates · Football Men's - TOD",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWZ5ZERWSHRPdDQxaTF4SzQyTDBXSy1CSHA1YmUtMjA4a1ozVUdxS1pCOUNvakZ6SWdEZGpQcUJqZ1M3aTJzUlZ6eEduUTVHSW5JcC1yclVZNGl2NUJieGpYYU13SmFtYWpOeFFHM2ZlR1BaS3lnOEVsS2Ewd3Z5Mk9MMm5tMjFRX2N4SjlFSl9vWlhMaTY1VlQ2SFFxZGlLM3VkaVVOeXBNQU0?oc=5",
-            "source": "TOD",
-            "sources": [
-              "TOD"
-            ],
-            "heatScore": 58,
-            "publishedAt": "2026-10-11T12:22:23.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "中国成功将第27批互联网卫星送入轨道- www.uaebarq.ae",
             "originalTitle": "الصين تضع الدفعة الـ27 من أقمار الإنترنت في المدار بنجاح - www.uaebarq.ae",
             "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNZEVKSC1iTC1RTWdSZnd6YVZ0enBxRWFUTzJPS2VSZTY1MHdfNng5WURWUW5LUzgwTlhUNGFjVVAtbUM5Q1RfT3YtRUV6SEIyaWRZdTdsRzlCTUdOaUFCcHlpcmFTdWo2THdLaHVZS0ZsQlYtamlCMzZuR2NRYzN1eVBjdWZ0cDFfcjJtYW1uV2VYM2NWYUpPeG5YMUNxa2l0dWs2SEtlVF9FOFNRalhPTklFcFRHQ0EweGJsd19GV3VoeGxPdWdJNGdBNlBFQlU1QTI2QllJZkctRThackFKSm43SlZ4SjRVQjhfTEJhRXNwdHZDSU11bUYyNVdHcGFseW84Wkl4SmJoMDRLNVRvbWU1VHZ1eVExN2hUTDRET3dFNDRCY2pYcjBlYkV5cTVBanVMZHZmcmVGWlQ3OHpHMWZqMHdtMVF4eFp2WEdYOE85S2VMQS0yaTV3?oc=5",
