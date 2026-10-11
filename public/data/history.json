@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T19:11:53.396Z",
+  "updatedAt": "2026-10-11T19:28:41.275Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -15371,7 +15371,7 @@
     },
     "2026-10-11": {
       "date": "2026-10-11",
-      "updatedAt": "2026-10-11T19:11:53.396Z",
+      "updatedAt": "2026-10-11T19:28:41.275Z",
       "categories": {
         "all": [
           {
@@ -15381,17 +15381,17 @@
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dUWjYwTzdWYndfY2N0VzZOcVlUVmdKZjVTRS00NmJiSmxCcjNPSFZla1BoaEJuVDdKZktBYXdYNVZaQ0VLTjZJb1YxczdUYXp6bldXNUxsMEZyRkRPZnpvNDNZMWJGZFRrVUNpX3NOMFpTU1lSb0hkLS1jclY4NThyZ3BKY1dlUmxzcnF4RDJnZnlKcHI1dFVTRQ?oc=5",
             "source": "www.wam.ae",
             "sources": [
+              "Dubai Eye 103.8",
               "Yemen Online",
               "وكالة الأنباء السعودية",
               "Sharjah24",
-              "Dubai Eye 103.8",
               "ARN News Centre",
               "Gulf News",
               "Emirates 24|7",
               "www.wam.ae"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-11T16:48:12.000Z"
+            "publishedAt": "2026-10-11T17:48:45.000Z"
           },
           {
             "rank": 2,
@@ -15416,7 +15416,7 @@
               "Khaleej Times",
               "Gulf News"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-10-11T14:13:02.000Z"
           },
           {
@@ -15515,7 +15515,7 @@
               "Khaleej Times",
               "Gulf News"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-10-11T14:13:02.000Z"
           },
           {
@@ -15575,7 +15575,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 80,
+            "heatScore": 79,
             "publishedAt": "2026-10-11T16:26:21.000Z"
           },
           {
@@ -15623,7 +15623,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-11T12:52:22.000Z"
           }
         ],
@@ -15785,17 +15785,17 @@
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dUWjYwTzdWYndfY2N0VzZOcVlUVmdKZjVTRS00NmJiSmxCcjNPSFZla1BoaEJuVDdKZktBYXdYNVZaQ0VLTjZJb1YxczdUYXp6bldXNUxsMEZyRkRPZnpvNDNZMWJGZFRrVUNpX3NOMFpTU1lSb0hkLS1jclY4NThyZ3BKY1dlUmxzcnF4RDJnZnlKcHI1dFVTRQ?oc=5",
             "source": "www.wam.ae",
             "sources": [
+              "Dubai Eye 103.8",
               "Yemen Online",
               "وكالة الأنباء السعودية",
               "Sharjah24",
-              "Dubai Eye 103.8",
               "ARN News Centre",
               "Gulf News",
               "Emirates 24|7",
               "www.wam.ae"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-11T16:48:12.000Z"
+            "publishedAt": "2026-10-11T17:48:45.000Z"
           },
           {
             "rank": 2,
@@ -15867,23 +15867,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-11T09:31:29.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "Sheikh Hamdan宣布， RTA赢得了政府部门的第一个迪拜IT奖",
-            "originalTitle": "RTA wins first Dubai-it award in government sector, Sheikh Hamdan announces",
-            "url": "https://www.khaleejtimes.com/uae/rta-wins-first-dubai-it-award-in-government-sector-sheikh-hamdan-announces",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 74,
-            "publishedAt": "2026-10-11T08:15:08.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "阿联酋强烈谴责胡塞武装对利雅得哈立德国王机场的致命袭击- Khaleej Times",
             "originalTitle": "UAE strongly condemns deadly Houthi attack on King Khalid Airport in Riyadh - Khaleej Times",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX244Q0NpOGNhZEZXMlNnaDBRS0hsbmJzdUdXSVZiOWZQWDZYSWJUam1BLUs3NXJDTHJtUHhMeU1GS1NYM0hmWEVyYXZlelNlb2dyRFJHUHJRYTZnbWZ6djI2NnJfZl9MMlhpbkNtODAwOXpKZThGNVQ1eS14eEp2TU02bWJka2QzbkRyNlIyakMwNHhYak1PWNIBoAFBVV95cUxOblAxdU96aWZMMGVHU2ZOM3Jsc2RqTmdnQnJiSlVKNlFMVnU0RjFZa3o4WmVtblpUM19nMzBGVUFSaXhFUDIyalJuNWNGdWRVNllVTERvUGJsV3BCWGpYelpZS2VHNnluMzFZc0dnd3RLTXpya05kVnEtOHExR29LSWRWNHJCLTlmYjJpbzdVYjJTaDliYTAtMU9uWEhMYlUx?oc=5",
@@ -15893,6 +15881,18 @@
             ],
             "heatScore": 73,
             "publishedAt": "2026-10-11T09:44:33.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Sheikh Hamdan宣布， RTA赢得了政府部门的第一个迪拜IT奖",
+            "originalTitle": "RTA wins first Dubai-it award in government sector, Sheikh Hamdan announces",
+            "url": "https://www.khaleejtimes.com/uae/rta-wins-first-dubai-it-award-in-government-sector-sheikh-hamdan-announces",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-11T08:15:08.000Z"
           },
           {
             "rank": 10,
@@ -15965,7 +15965,7 @@
             "sources": [
               "lovin.co"
             ],
-            "heatScore": 63,
+            "heatScore": 62,
             "publishedAt": "2026-10-11T11:26:04.000Z"
           },
           {
@@ -15977,7 +15977,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-10T19:40:12.000Z"
           },
           {
@@ -16044,6 +16044,18 @@
           },
           {
             "rank": 2,
+            "translatedTitle": "中国vs阿联酋·足球男子- TOD",
+            "originalTitle": "China vs United Arab Emirates · Football Men's - TOD",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWZ5ZERWSHRPdDQxaTF4SzQyTDBXSy1CSHA1YmUtMjA4a1ozVUdxS1pCOUNvakZ6SWdEZGpQcUJqZ1M3aTJzUlZ6eEduUTVHSW5JcC1yclVZNGl2NUJieGpYYU13SmFtYWpOeFFHM2ZlR1BaS3lnOEVsS2Ewd3Z5Mk9MMm5tMjFRX2N4SjlFSl9vWlhMaTY1VlQ2SFFxZGlLM3VkaVVOeXBNQU0?oc=5",
+            "source": "TOD",
+            "sources": [
+              "TOD"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-10-11T12:22:23.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "中国成功将第27批互联网卫星送入轨道- www.uaebarq.ae",
             "originalTitle": "الصين تضع الدفعة الـ27 من أقمار الإنترنت في المدار بنجاح - www.uaebarq.ae",
             "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNZEVKSC1iTC1RTWdSZnd6YVZ0enBxRWFUTzJPS2VSZTY1MHdfNng5WURWUW5LUzgwTlhUNGFjVVAtbUM5Q1RfT3YtRUV6SEIyaWRZdTdsRzlCTUdOaUFCcHlpcmFTdWo2THdLaHVZS0ZsQlYtamlCMzZuR2NRYzN1eVBjdWZ0cDFfcjJtYW1uV2VYM2NWYUpPeG5YMUNxa2l0dWs2SEtlVF9FOFNRalhPTklFcFRHQ0EweGJsd19GV3VoeGxPdWdJNGdBNlBFQlU1QTI2QllJZkctRThackFKSm43SlZ4SjRVQjhfTEJhRXNwdHZDSU11bUYyNVdHcGFseW84Wkl4SmJoMDRLNVRvbWU1VHZ1eVExN2hUTDRET3dFNDRCY2pYcjBlYkV5cTVBanVMZHZmcmVGWlQ3OHpHMWZqMHdtMVF4eFp2WEdYOE85S2VMQS0yaTV3?oc=5",
