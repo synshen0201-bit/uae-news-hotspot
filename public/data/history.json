@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T19:49:41.334Z",
+  "updatedAt": "2026-10-12T20:10:55.334Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -16744,6 +16744,673 @@
             ],
             "heatScore": 42,
             "publishedAt": "2026-10-11T19:29:41.000Z"
+          }
+        ]
+      }
+    },
+    "2026-10-13": {
+      "date": "2026-10-13",
+      "updatedAt": "2026-10-12T20:10:55.334Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "迪拜警方因针对公司的虚假谷歌评论而逮捕个人- Khaleej Times",
+            "originalTitle": "Dubai Police arrest individuals over fake Google reviews targeting a company - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/dubai-police-arrests-individuals-fake-google-maps-reviews-company",
+            "source": "Khaleej Times",
+            "sources": [
+              "Menafn",
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-12T11:32:43.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装继续袭击哈立德国王国际机场--沙特通讯社",
+            "originalTitle": "UAE Strongly Condemns Continued Houthi Attacks on King Khalid International Airport - وكالة الأنباء السعودية",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemns-houthi-attacks-king-khalid-international-airport-riyadh-october-12",
+            "source": "Khaleej Times",
+            "sources": [
+              "وكالة الأنباء السعودية",
+              "Khaleej Times"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-10-12T11:25:56.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Al-Ahli在AFC冠军联赛与Al-Wasl的紧张对决中取得胜利",
+            "originalTitle": "Al-Ahli emerge victorious from tense AFC Champions League encounter with Al-Wasl",
+            "url": "https://www.arabnews.com/saudi-football/al-ahli-emerge-victorious-from-tense-afc-champions-league-encounter-with-al-wasl-3005971",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-12T19:13:42.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋因质量问题召回受影响的一批口罩",
+            "originalTitle": "UAE issues recall of affected batch of face masks due to quality concerns",
+            "url": "https://www.khaleejtimes.com/uae/uae-issues-recall-face-mask-batch-quality-concerns",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-12T16:42:21.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋的Etisalat推出世界首创的5.5G技术，将智能手机上传速度提高三倍",
+            "originalTitle": "UAE's etisalat launches world-first 5.5G technology to triple smartphone upload speeds",
+            "url": "https://www.khaleejtimes.com/business/tech/uae-etisalat-world-first-55g-tech-triple-upload-speeds",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-10-12T15:37:16.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋在道路交通事故造成11人死亡， 20多人受伤后表示声援土耳其",
+            "originalTitle": "UAE expresses solidarity with Turkey after road crash kills 11, injures more than 20",
+            "url": "https://www.khaleejtimes.com/uae/uae-solidarity-turkey-road-crash-kills-injures-over-20",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-12T15:17:15.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋海岸警卫队称赞其从阿拉伯湾油轮火灾中救出22名亚洲船员",
+            "originalTitle": "UAE Coast Guard praised for rescuing 22 Asian crew from tanker fire in Arabian Gulf",
+            "url": "https://www.khaleejtimes.com/uae/uae-coast-guard-praised-rescuing-crew-tanker-fire-arabian-gulf",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-12T14:39:05.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "在阿联酋沿海发生船舶事故后，所有22名印度船员获救- Yeni Şafak英语",
+            "originalTitle": "All 22 Indian crew rescued after vessel incident off UAE coast - Yeni Şafak English",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUhfcGw1bnduOEZwNWdrQUFlMUFUa1RXUkpsMjNXZlBSSGhpcVN5ZjBrWjVoQ2trc0p2aWszWkZlc2VvZTE5NVRqNXNuR0lSM1NnTmVUMlRpS1UteENwMlNZVjRubkNkbTRXSWZXM1kydHBLZlktYmVmRHJCOWRiQWFldHlSWkhTMmR3dTRDT0JrNnRaQ1VySk00VDItc0xaSTlFc1RZRVdLamEtZzJUXzNSVl9yUTZxS1AzT3BmclA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Yeni Şafak English",
+              "Reuters"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-10-11T17:25:36.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜精品店老板的儿子被送往喀拉拉邦的博斯塔尔",
+            "originalTitle": "Dubai boutique owner's son sent to borstal in Kerala",
+            "url": "https://c.newsnow.co.uk/A/1326848100?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-10-12T17:10:51.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋明天天气：可能下雨；阿布扎比气温将达到39ºC",
+            "originalTitle": "UAE weather tomorrow: Rains likely; Abu Dhabi temperatures to hit 39ºC",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-13-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-10-12T13:46:32.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "Al-Ahli在AFC冠军联赛与Al-Wasl的紧张对决中取得胜利",
+            "originalTitle": "Al-Ahli emerge victorious from tense AFC Champions League encounter with Al-Wasl",
+            "url": "https://www.arabnews.com/saudi-football/al-ahli-emerge-victorious-from-tense-afc-champions-league-encounter-with-al-wasl-3005971",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-12T19:13:42.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋因质量问题召回受影响的一批口罩",
+            "originalTitle": "UAE issues recall of affected batch of face masks due to quality concerns",
+            "url": "https://www.khaleejtimes.com/uae/uae-issues-recall-face-mask-batch-quality-concerns",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-12T16:42:21.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋在道路交通事故造成11人死亡， 20多人受伤后表示声援土耳其",
+            "originalTitle": "UAE expresses solidarity with Turkey after road crash kills 11, injures more than 20",
+            "url": "https://www.khaleejtimes.com/uae/uae-solidarity-turkey-road-crash-kills-injures-over-20",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-12T15:17:15.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋海岸警卫队称赞其从阿拉伯湾油轮火灾中救出22名亚洲船员",
+            "originalTitle": "UAE Coast Guard praised for rescuing 22 Asian crew from tanker fire in Arabian Gulf",
+            "url": "https://www.khaleejtimes.com/uae/uae-coast-guard-praised-rescuing-crew-tanker-fire-arabian-gulf",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-12T14:39:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜精品店老板的儿子被送往喀拉拉邦的博斯塔尔",
+            "originalTitle": "Dubai boutique owner's son sent to borstal in Kerala",
+            "url": "https://c.newsnow.co.uk/A/1326848100?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-10-12T17:10:51.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋明天天气：可能下雨；阿布扎比气温将达到39ºC",
+            "originalTitle": "UAE weather tomorrow: Rains likely; Abu Dhabi temperatures to hit 39ºC",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-13-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-10-12T13:46:32.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Jens Wissing ： Al-Ittihad面临对Shabab Al-Ahli Dubai的艰难挑战",
+            "originalTitle": "Jens Wissing: Al-Ittihad face difficult challenge against Shabab Al-Ahli Dubai",
+            "url": "https://www.arabnews.com/football/jens-wissing-al-ittihad-face-difficult-challenge-against-shabab-al-ahli-dubai-3005967",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-12T17:19:53.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "美伊战争：阿联酋居民今天需要知道的5件事",
+            "originalTitle": "US-Iran war: 5 things UAE residents need to know today",
+            "url": "https://c.newsnow.co.uk/A/1326845568?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-12T16:40:22.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "环球村第31季： RTA宣布4条前往主要交通枢纽的公交线路",
+            "originalTitle": "Global Village Season 31: RTA announces 4 bus routes to key transport hubs",
+            "url": "https://www.khaleejtimes.com/uae/global-village-31-rta-4-bus-routes-key-transport-hubs",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-12T13:35:44.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "观看：大雨、雷暴、闪电击中艾因；冰雹鞭打部分地区",
+            "originalTitle": "Watch: Heavy rains, thunderstorms, lightning hit Al Ain; hail lashes some areas",
+            "url": "https://www.khaleejtimes.com/uae/weather/video-rains-hail-al-watan-street-hatta-road-shawkah-rak-flood-warning-oct-12-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-12T12:15:48.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "在阿联酋沿海发生船舶事故后，所有22名印度船员获救- Yeni Şafak英语",
+            "originalTitle": "All 22 Indian crew rescued after vessel incident off UAE coast - Yeni Şafak English",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUhfcGw1bnduOEZwNWdrQUFlMUFUa1RXUkpsMjNXZlBSSGhpcVN5ZjBrWjVoQ2trc0p2aWszWkZlc2VvZTE5NVRqNXNuR0lSM1NnTmVUMlRpS1UteENwMlNZVjRubkNkbTRXSWZXM1kydHBLZlktYmVmRHJCOWRiQWFldHlSWkhTMmR3dTRDT0JrNnRaQ1VySk00VDItc0xaSTlFc1RZRVdLamEtZzJUXzNSVl9yUTZxS1AzT3BmclA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Yeni Şafak English",
+              "Reuters"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-10-11T17:25:36.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "SARCO与总部位于阿联酋的Go Energy的谅解备忘录无约束力协议到期-报纸",
+            "originalTitle": "SARCO's MoU with UAE-based Go Energy Expires Without Binding Agreement - صحيفة مال",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uMkExckhBYlJtNERNYlV4OXNQczk0NEZCSzFOQjBHdFJONGdIMmhjRGtnQ2c5QWtISHNxVnk4QlVmTFJaZVY4QjlJV0U5cG85QmxFTUpNbGpMYVM1NEVjWGtKcXJjblVVTEdfZlpncw?oc=5",
+            "source": "ارقام",
+            "sources": [
+              "ارقام",
+              "صحيفة مال"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-10-12T05:59:25.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋ADCAN Pharma签署战略协议，推进德国药品注册- Zawya",
+            "originalTitle": "UAE's ADCAN Pharma signs strategic agreement to advance medicine registration in Germany - Zawya",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUdVWXFqSmZET0JyVkg0cWtmSDVnekwtY3VCSHZUWE9YYWZnSEppZWVua1pvZzVWejlwZy1nQ1d1YkxUQkpzdkR0aklzZXp4dTdLLWhfX2M4VmdHV3FPN2ZLR1hYZXp0LWJfR2JzSDlrN2NyZEUwY1JwY2JIOFN0VjNnSTcxQ0JEalA3Y3JGZzdhanEtYUFnakNpRFB6NUR4cFB6RzRQOUx1dUVVZUpmV05qdTFDU2dWdi1RVjBWLVdvdmhHdll2bg?oc=5",
+            "source": "Zawya",
+            "sources": [
+              "Zawya"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-12T13:09:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋顾问称袭击沙特阿拉伯威胁海湾安全--库尔德斯坦24",
+            "originalTitle": "UAE Adviser Says Attacks on Saudi Arabia Threaten Gulf Security - Kurdistan24",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlpIOVR0bzhxMXBaUWhyOXZHV1FKWU9faHZqY0g0cmJBcDd0SlZaZVB3SExmOUNiRFYzODdRMHR1U2t2cXJQdmJlV3BjaGVENWctNHB4blpYYWdNWWcySzd0Q2duelp0ZkNSV2VoZEN5RlhqUFdscjd3TkYycDZxajBmanNjVlBTb0owME9Ydm9ta3d6X0JqWnVHbWlSVGtTN21wVVp4SlZMX0U?oc=5",
+            "source": "Kurdistan24",
+            "sources": [
+              "Kurdistan24"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-12T06:05:41.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋大使会见俄罗斯联邦总统顾问--阿联酋外交部",
+            "originalTitle": "UAE Ambassador Meets with Advisor to the President of the Russian Federation - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjFuN0Z0c0ozZW9ORkRLVkh3eUN4TGlHamVmVV9IUTFOQkFwX0lTTjVGZ3o0ODJJa0EwUFFoNXpmdDBvSnljT1I4NUQ0QmNIMjN4SC1YTVRGUmFGdVF1V005WTBwdS05MXZZTHB2X1o2dkJ4eW1PRHN5RnJobEpnaFh3QV81b0k?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-10-12T08:32:14.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "Flydubai乘客计划数百万美元的诉讼",
+            "originalTitle": "Flydubai passengers plan multi-million-dollar lawsuit",
+            "url": "https://c.newsnow.co.uk/A/1326847439?-15565:1965",
+            "source": "The New Arab",
+            "sources": [
+              "The New Arab"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-12T17:03:11.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋的Etisalat推出世界首创的5.5G技术，将智能手机上传速度提高三倍",
+            "originalTitle": "UAE's etisalat launches world-first 5.5G technology to triple smartphone upload speeds",
+            "url": "https://www.khaleejtimes.com/business/tech/uae-etisalat-world-first-55g-tech-triple-upload-speeds",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-10-12T15:37:16.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "网络主管警告称，人工智能特工可能会被诱骗访问阿联酋政府的敏感数据",
+            "originalTitle": "AI agents could be tricked into accessing sensitive UAE government data, cyber chief warns",
+            "url": "https://www.khaleejtimes.com/business/tech/ai-agents-tricked-accessing-sensitive-government-data-cybersecurity",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-12T13:13:47.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "随着人工智能需求推动电力需求，阿布扎比计划进行2500亿迪拉姆的能源投资",
+            "originalTitle": "Abu Dhabi plans Dh250 billion energy investment as AI demand drives power needs",
+            "url": "https://www.khaleejtimes.com/business/abu-dhabi-plans-dh250-billion-energy-investment-as-ai-demand-drives-power-needs",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-12T09:29:15.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装继续袭击哈立德国王国际机场--沙特通讯社",
+            "originalTitle": "UAE Strongly Condemns Continued Houthi Attacks on King Khalid International Airport - وكالة الأنباء السعودية",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemns-houthi-attacks-king-khalid-international-airport-riyadh-october-12",
+            "source": "Khaleej Times",
+            "sources": [
+              "وكالة الأنباء السعودية",
+              "Khaleej Times"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-10-12T11:25:56.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Sheikha Aisha Humaid Al Mulla在未来博物馆向Arif Developments颁发“卓越企业社会责任”奖",
+            "originalTitle": "Sheikha Aisha Humaid Al Mulla presents ‘Excellence in CSR’ award to Arif Developments at Museum of the Future",
+            "url": "https://www.khaleejtimes.com/business/property/sheikha-aisha-humaid-al-mulla-presents-excellence-in-csr-award-to-arif-developments-at-museum-of-the-future",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-12T13:39:05.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋警告不要试图分裂阿联酋和沙特-海湾新闻",
+            "originalTitle": "UAE warns against attempts to divide Emiratis and Saudis - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSklFQlprdnlNQm11bDZGek9ZVW9hbHl3OFVMZGpDNklyY1M4SUd0WExBNGNjZy1jS1N6bGVIandINXNzMC1RLTItVk9mTXBGb0FJbXBwODlfeUZneUVOblplanloS3ZsNVVuNE5qOUU1bGJKZk50R3hpUHZFcXV1VzBSS3cxZkpKcng2cEtyeHBDdnhGMGtZNdIBqAFBVV95cUxPTFJLbWVRRW5OQm1kRUtMc3Y5bDItbUJ2WFhHOW9KN2MyWER4R3hTV3d3QVk5eWFOOGRybngzRXY5R0JJaW90bzFlMlVBaUc4VVg3RHphOXowV2VpN2YxcWVlLTZZaVk1ZGVRcFBUZU1GRVYzTzBVMkxXaU5INi1KWkMyc0NNeG9DTk5HaTlkVW9RaF80VFN5V3RkMGFTcnJQczEtbzR4ZFc?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-12T13:33:24.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "“你将继续你的Umrah” ：沙特部长在利雅得袭击后对受伤的阿联酋教师的承诺-海湾新闻",
+            "originalTitle": "‘You will continue your Umrah’: Saudi minister’s promise to injured UAE teacher after Riyadh attack - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFVYY092TGlHMEhrbV9tVGt2NC1oWkJXUUowaXRGUVJWaWVvLUs0UmVRMUJiQzlKODNFOENldFV2SlZOM1doLVFkbHF1XzU4S09MM1JiYzExZk5aMXNwVFdFbXUzUGtKVHpzb080SlVJTkRKaXR3VmE3TE1RZS1oUVRwNWswX3NPbXlyUWRiS1VZNHl2QWFWbTJGTnFlNHUxdS1CcE9DY1paVlBfV2F6RWdWRTlrd3NLLXdFVE1IeG1pT0NHb3VSX2NRMGM?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-12T12:55:24.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Mohamed Hefzy将在旧金山阿拉伯电影节上获得首届文化影响力奖",
+            "originalTitle": "Mohamed Hefzy to receive inaugural cultural impact award at San Francisco Arab Film Festival",
+            "url": "https://www.arabnews.com/lifestyle/mohamed-hefzy-to-receive-inaugural-cultural-impact-award-at-san-francisco-arab-film-festival-3005909",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-12T12:48:24.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋谴责胡塞武装继续袭击利雅得机场--迪拜之眼103.8",
+            "originalTitle": "UAE condemns continued Houthi attacks on Riyadh airport - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQW1lZjk5VXdGX3dtS2xyUmZPNTJBWVl5TjAxcGRlc0kyUkRtXzM3eTJoU3B6QnZ6ckdxVEt0RTlaWG1YV1RuSFVfWnVzbXRLc2ZhM1EtdzJaMkpzallKcE9FN1lUbFFpQkttOGhoWWxlT2N2MV9XYnRlcUptaGpaMmF0U2YxMXdDcnh5ajJxSFpsZlBNanZJREkwNkY?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8",
+              "ARN News Centre"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-12T17:48:45.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "科威特、阿联酋讨论军事合作",
+            "originalTitle": "Kuwait, UAE discuss military cooperation",
+            "url": "https://c.newsnow.co.uk/A/1326859760?-15565:1965",
+            "source": "Kuwait Times",
+            "sources": [
+              "Kuwait Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-12T20:08:47.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋谴责胡塞武装继续袭击哈立德国王机场-也门在线",
+            "originalTitle": "The UAE condemns continued Houthi attacks on King Khalid Airport - Yemen Online",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jM2o2YVMycXpvVkJDZWVBbkdkYlBtbUVHZVNqbXROVGpjaWs0Y0EzSTc1TV9tTG4wemJPNExlM2hKOEZRanBvYVV1enNnZ01ZMEE?oc=5",
+            "source": "Yemen Online",
+            "sources": [
+              "Yemen Online"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-12T17:08:31.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋敦促在利雅得机场袭击事件后开展海湾防务合作- Euronews.com",
+            "originalTitle": "UAE urges Gulf defence cooperation after Riyadh airport attacks - Euronews.com",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2lVWGZucVhfZ3A4YXpvUWRkeGItZExMM0xIN2VSUjhNQXRTc2lEb1pwT1phNlZaR01rVThFNE9XN3pfQzlZM0RDWXo2UGNmNXVtRXNzNlhnNXFPdXFveWVUWGtiWDlDUEo2U3ZIWlBpLWxRS2F3LWoxNXVkalpDYTZrMkQxYTVYX2NqU0VjQ2doOExsMkpYSGVxZUhPOE11a2Z4WWhtTzhvOU5vSlJwWUs4VWt4Z2t1UUtXbmplanBhU05x?oc=5",
+            "source": "Euronews.com",
+            "sources": [
+              "Euronews.com"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-12T12:19:35.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "中东危机：利雅得机场再次遭到袭击，胡塞武装声称发动袭击，包括造成12人死亡的罢工",
+            "originalTitle": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 – as it happened",
+            "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-11T18:03:22.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "迪拜警方因针对公司的虚假谷歌评论而逮捕个人- Khaleej Times",
+            "originalTitle": "Dubai Police arrest individuals over fake Google reviews targeting a company - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/dubai-police-arrests-individuals-fake-google-maps-reviews-company",
+            "source": "Khaleej Times",
+            "sources": [
+              "Menafn",
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-12T11:32:43.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "每天使用TikTok 8小时？阿联酋青年分享滚动如何影响他们的注意力和生产力- Khaleej Times",
+            "originalTitle": "8 hours of TikTok a day? UAE youth share how scrolling affects their focus and productivity - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFpHMGhoUTFPSVQydmU4Y280TnhTcVk5QmFtZmdnbWQxa2VHUVN4d3hwMVNSeHEzVkdXcnBPUDZVYWFtLVBWLVJTQmdMOUJva0Z4YkNqNVQ1LUVxd3pJNXZ3emhOTHdLQ1dBM3dkU002c2lDak9LSzNncHg3WlJoQ21FMzkxUDTSAYcBQVVfeXFMUHhaRzBoaFExT0lUMnZlOGNvNE54U3FZOUJhbWZnZ21kMWtlR1FTeHd4cDFTUnhxM1ZHV3JwT1A2VWFhbS1QVi1SU0JnTDlCb2tGeGJDajVUNS1FcXd6STV2d3poTkx3S0NXQTN3ZFNNNnNpQ2pPS0szZ3B4N1pSaENtRTM5MVA0?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-12T11:13:22.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜警方以虚假谷歌地图评论逮捕嫌疑人-海湾新闻",
+            "originalTitle": "Dubai Police arrest suspects over fake Google Maps reviews - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlJKRmVsQ1pmZVE0dmN2UlVsUHpFMTlBUmdtY29nUXBPdU1xTGhnRkwyN1dqS2ZIaG5TMVlBdjdTV1hLODZrZ0VkRTlEUzl4elhxbDFaYWxjLS1yS2dJbUgyNl9HVS05VXczeVRyWklkWTB5R0pLa3hPV2VBLXVtWTJsNHZ0TnhDaldJMG10S3hpYkhsdS11R0RoZUlGbmxNTW14Ri1B0gG4AUFVX3lxTFBRbnM1VTZFYk1mMjJwVEI1VEpSbmZEM21fUTY0aTQ3S1lEWjNlTFFQVURESWNoYjhzeXJyTXRnWGN4bFhSbUwwcDRtbHh2dzNYT0xvTmI1N0dZcHFLMDZSV0ZhUlhXRWJUUVFKQW9XZmNjY0plazhJTjFRbGpkNk1kUERDZDRQRDRVUENRemQwQzUyaG5Lb0RmT2FCUk1DTXJVbzQ1YVhCOHJfUVd4QWJkRUFsMmY2TTE?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-12T11:44:11.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "在阿联酋的印度外籍人士警告欺诈签证机构：永远不要按批准承诺付款-海湾新闻",
+            "originalTitle": "Indian expats in UAE warned about fraudulent visa agencies: Never pay on promise of approval - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnY3X0szUnlMZ3UxX3BwY1JBMXVzNFU4c190ajVYN0xzZnpQdEhja2ktX1Q2UmNLbUY5dTl6ZFptTENxYW56NlNoYWxQQ3czLXctODVNV1hOOXZkSEUySURmOXFqRUdNLWZHRG5URU9fVHl2ODhudV9RcUJxNUJ3NkJEODhtQkk1LU1MX2FadWlrQTVEaXBQZjhBWjhsVzFmYk5CZzZEUFJFUFQtUU9FQWZZeXZqRjI2V3FKaGxodXdTOHVOazc0?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-12T11:20:17.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜警方逮捕涉嫌虚假谷歌负面评价的嫌疑人-《菲律宾时报》",
+            "originalTitle": "Dubai Police arrest suspects over fake negative Google reviews - The Filipino Times",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU21QcGFCWmhpSDZudEl6N19ETGhuOG9TcVp5WlJjcHp6emFJd19COXB5U0VKZkU0LWRFNW9mSWxCR2VyT0hBLWgxVmkyS3R2aXEtak44c25FMG9RdTc4UUtqekJvSi1rOERycS1fYjBDLVFSclh0WmgxWTd1RGx5cUY3Zi16c0ZZbllaYk9MTUNTMEMxYkE5OEMyMG4tNXpBcWVib0laQmNtbGtORjh3cC1R?oc=5",
+            "source": "The Filipino Times",
+            "sources": [
+              "The Filipino Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-12T14:02:46.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "迪拜警方逮捕故意对公司发布虚假和负面评论的个人- Gulf Today",
+            "originalTitle": "Dubai Police arrest individuals for deliberately posting false and negative reviews on a company - Gulf Today",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFJBY3JkZ1plTWQ1aWliZGhJakVVZmszYTFwZk1PLUc4ejdoWTZaWmpWRlFHdl96RDdqVFB5TWFUS1ZBM09meE80ZUp6WUZvcDNYOXp6Qm9nMFNmeTlTamFlU1lybVNLZjVsYmNNTUJNNV9zLWZ1WUM0ekhjX0syZWhrc0MyS0JkTV9odFBFVXZEbkNodVA4TDJVZ29XUnBnRnFsUmZmQ19tODJMaE51WDJyXzlUY2ZYU2RGblY3em43TkdYWDY4SC1vUko1SWFCenJ3?oc=5",
+            "source": "Gulf Today",
+            "sources": [
+              "Gulf Today"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-12T12:12:34.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋机场改名和足球俱乐部帖子招致沙特社交媒体用户批评-中东监测",
+            "originalTitle": "UAE airport renaming and football club posts draw criticism from Saudi social media users - Middle East Monitor",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONXVEY0M2Y0pBTXpaLUxGaFY0MngyMVZ0WjFramxQeU1zOGxvRzhCWXY4bXNSbFBYWG1TOHJkV0FuZno0VHhEbFkxX1JWb0FXSU1KYTNNNzMwdHByQ1JrbmlYX2x2cHc4T2U4dUR0dzhuYWtadWVfcmdrOVliOGJqbV9nQzZza0ZFZDZwRHpCWEczWHBDNTlQdDFkTGhVZmIzbWcteG5nSUtSUHN2OG1MNjdQVlVFWGcwUU5yM3RBNkRJb2RYZE05VC15Z0pEdw?oc=5",
+            "source": "Middle East Monitor",
+            "sources": [
+              "Middle East Monitor"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-12T11:51:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "从心碎到历史： “Exesanonymous.com”在迪拜首次亮相时售罄-《菲律宾时报》",
+            "originalTitle": "From heartbreak to history: ‘Exesanonymous.com’ sells out Dubai debut - The Filipino Times",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1I1Qm9hcEk3c0tETGNIRkh3X0hjdUM0alNKMDVBRU5YTnc4aWlPYXlEaTE5cjJ2eTJIbTZpcHJFNjZGNm5YYzNqQWc4MXZjaU1PeTlqQ3RWU1Z2S2ViZFhLLW5BZGdzUjdQWnR6VG9qblVxcUREVnA1Sk56TFRvbzBqbldmMlJtUVJfRTlrUUwyZFNwblQxc3pSN2FpZTExOURBRmRIUWNQMTViQlZIc1FZRllJekZacVE?oc=5",
+            "source": "The Filipino Times",
+            "sources": [
+              "The Filipino Times"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-12T12:14:08.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "莫里斯·奥格塔（ Maurice Ogeta ）澄清了在迪拜拍摄的穿着医院礼服的Raila Odinga的病毒视频-肯尼亚侨民媒体",
+            "originalTitle": "Maurice Ogeta clarifies viral video of Raila Odinga in hospital gown was filmed in Dubai - The Kenyan Diaspora Media",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTkU0SmpES1VHS0JlTUtSdHB4UzNzckVVX3VVbnUyTGVhQ2lYdDRIZU4wdjNLOVRQdXd3MGlTYU5sVGVlMmhWMnhlSTdTNnh3dkhTblNNWjBnRXJQQlhLYm50cFNZNHZIZDZvZTRYb295MVJJS0hvOGx6Y0xIaHg2UlJManNsRnRlMW5WMDFlQllWU2g5SktmTG1zLUFYUGN2RjE0WWVBSkZFVElCOFZzc0JROVcxTzYyQzJBMWlNNmhnRG1vVHBIS2RFUQ?oc=5",
+            "source": "The Kenyan Diaspora Media",
+            "sources": [
+              "The Kenyan Diaspora Media"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-12T09:01:48.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "英国网红在“自卫刺伤男友”后在迪拜监狱痛苦不堪- Chronicle Live",
+            "originalTitle": "British influencer miserable in Dubai prison after 'stabbing boyfriend in self defence' - Chronicle Live",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODRvZUVjZW5aNGFLdWtUSlVIeUZ3Vk9iUDhPd1g5NUV4a2Y2bW0wQW12Skd0TV9iUUtWSWV3aG9ISjZCRXQyUldiSlpnUG16R2VZZXBhNTE4ODhCMnNsaXMzQTNSUWNvejVUMklFMjNBeGVRUXlocV80azJaTk5qYWhBTVM2SVpDTTVyTk1RMHNuVlJhSERiU2F3bDBuZlJS0gGgAUFVX3lxTE84NG9lRWNlblo0YUt1a1RKVUh5RndWT2JQOE93WDk1RXhrZjZtbTBBbXZKR3RNX2JRS1ZJZXdob0hKNkJFdDJSV2JKWmdQbXpHZVllcGE1MTg4OEIyc2xpczNBM1JRY296NVQySUUyM0F4ZVFReWhxXzRrMlpOTmphaEFNUzZJWkNNNXJOTVEwc25WUmFIRGJTYXdsMG5mUlI?oc=5",
+            "source": "Chronicle Live",
+            "sources": [
+              "Chronicle Live"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-12T13:23:00.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "哈姆丹·本·穆罕默德：从丝绸之路到人工智能视野，迪拜和中国之间的合作桥梁得到更新--阿联酋今天",
+            "originalTitle": "حمدان بن محمد: من طريق الحرير إلى آفاق الذكاء الاصطناعي تتجدّد جسور التعاون بين دبي والصين - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zeDhLUkpPZjh0cTlSWHVYY0pvQ1pSYXlDTTloQ1JZQkxRUEplVnp2RXo1eVZTUkY3cDUzRDQ2X2dCN2tteWRCOXQxd0JrQTQ2Rl9hSjFKNFFuZ0NsQU5pX3Y3ZWVFVlNIakNpVlpPdVduVXdEVWFoeNIBkwFBVV95cUxOSlZXejhKd0lrNlFIazY3Y19ZZ2NNWF9QSXk4cV9DbkNsMEZWRkV5OEFOU2EwNFRoLXRVNDN4NERkQnJYU2d1aXZUZmpXTHZSR1RXR1ZkSmp1cUdNZFJxRERybTVkN0UyXzVROWpmUDByNHRXWk5MLWJIenZ1UWx4V29BNXZ1RXVOOUlOdWI2RkVNMFE?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم",
+              "البيان"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-12T15:05:48.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋参加2026年中国国际工业博览会-今日阿联酋",
+            "originalTitle": "الإمارات تشارك في معرض «الصين الدولي للصناعة 2026» - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05a19DZkpNbTlRNmJNSHIwdlc1WXNQZVpBMDBYTUNHVGVFNThDMmZFWWNXOXNDbEVyd1JoZmpyMEhENXZYcTlxYnZjd0stQ3pqQzItZ0FJRGFBWFF6VGw0MlRmeTk1Q0RRREVjMjBfR0VjQdIBjAFBVV95cUxPNEtHZGlpV0x6WGgzYW1tcllaMU4yZS1rcFRyNDRNSmtTSFBXZ3RNYjBleTlXMld2NmxWQ1hiazBDQk05LUluNFV4Ql9JTFpyUVY5bFVIeldYcVJvbG9rMndaa18tQTlvVjNfQjAtaml5Ry16MDhPdkxoY2NrRFRCMU1tZVBOY3AyMThqTg?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-12T15:45:30.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋青年通过中国的研究和媒体计划记录该国的发展领导力- Al Bayan",
+            "originalTitle": "شباب الإمارات يوثقون ريادة الدولة التنموية ببرنامج بحثي وإعلامي في الصين - البيان",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmNFRkUTJWMG42dFZKdWMxdlRRNFlLMGlFUnpRcmpLWGoyUW9ERGZ0elJ4NmR4NHNMX0t5bm5xZkZyVUZacUdSMDJhaEh3UWlreVVfYTV30gFWQVVfeXFMUGY0VGRRMlYwbjZ0Vkp1YzF2VFE0WUswaUVSelFyaktYajJRb0REZnR6Ung2ZHg0c0xfS3lubnFmRnJVRlpxR1IwMmFoSHdRaWt5VV9hNXc?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-12T10:49:03.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "“阿联酋专家”在中国公司和专业机构中探索人工智能系统- Al Bayan",
+            "originalTitle": "\"خبراء الإمارات\" يستكشفون منظومة الذكاء الاصطناعي في الشركات والمعاهد الصينية المتخصصة - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRFEtV096M2hYa25NYU55WTBpZUxjU0c4Z0djbHU1VGM3aFlRQlYxMW5OeEZZclNkTW1VVno4cUZuZS0wcEs3MkZILTBmYWFCN2VHYWhpdUJEOGxvdlR0YUhvRW1tRmhxWEN30gFwQVVfeXFMT1l5Z0dWaEF5cy12dkt2Vkk4RThkVkl6TXRIRTFnTVljRDhNLU5wNEZBTjhLQkN3X2JxcnJFeHc0QVpoTlZuT1pSQ1A0VUNoY0ozRHhOVHdLQ0FvZU1EQ01IMVY0djRPM3VPX3JKMnctNw?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-10-11T09:19:41.000Z"
           }
         ]
       }
