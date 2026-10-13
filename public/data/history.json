@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T19:23:59.234Z",
+  "updatedAt": "2026-10-13T19:57:03.567Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -16750,7 +16750,7 @@
     },
     "2026-10-13": {
       "date": "2026-10-13",
-      "updatedAt": "2026-10-13T19:23:59.234Z",
+      "updatedAt": "2026-10-13T19:57:03.567Z",
       "categories": {
         "all": [
           {
@@ -16768,18 +16768,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "2025年，阿联酋在虚假的阿联酋化案件中标记了679家公司",
-            "originalTitle": "UAE flags 679 firms in fake Emiratisation cases in 2025",
-            "url": "https://c.newsnow.co.uk/A/1326936392?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-13T14:53:37.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "沙特外交部长接到阿联酋对应方的电话-阿拉伯新闻PK",
             "originalTitle": "Saudi foreign minister receives phone call from UAE counterpart - Arab News PK",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEVremFJX2FCdzRPVFFSUVp1M0QwRWFDT1dFUlZxYldVY3RTTWVCNjNUU2xFSUJPVHBvMGp2RTY1RUZWb3dRYjFCRkZFSEs4aXNJOHFkNGxOSmxHbjdrMUNjSzVpX2NVVlFhZDEzUXhJdU9IdG8xOVdOUGlsYVFDY29jbGEtSmszUC1wOElJYmJOa0pJTl9fMjBKc3l6MmZFVms2b014NnFHWHJaTlE?oc=5",
@@ -16792,7 +16780,7 @@
             "publishedAt": "2026-10-13T09:05:11.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "迪拜将在2040年之前种植350万棵树，实现全面绿色转型",
             "originalTitle": "Dubai to plant 3.5 million trees by 2040 in sweeping green transformation",
             "url": "https://www.khaleejtimes.com/uae/dubai-35-million-trees-2040-sweeping-green-transformation",
@@ -16804,7 +16792,7 @@
             "publishedAt": "2026-10-13T18:00:12.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "“周一早上有什么变化？“人工智能如何减少阿布扎比的政府工作量",
             "originalTitle": "'What changes on Monday morning?' How AI reduces Abu Dhabi's govt workload",
             "url": "https://www.khaleejtimes.com/uae/abu-dhabi-government-ai-tools-free-up-work-hours",
@@ -16812,11 +16800,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 87,
             "publishedAt": "2026-10-13T17:28:59.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "RTA负责人表示，迪拜的道路网络可能会延伸到世界各地的一半",
             "originalTitle": "Dubai’s road network could stretch halfway around the world, says RTA chief",
             "url": "https://www.khaleejtimes.com/uae/transport/dubai-road-network-stretch-halfway-around-world-rta-mattar-al-tayer",
@@ -16824,11 +16812,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 86,
             "publishedAt": "2026-10-13T17:11:52.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "EDGE、阿联酋国防部、巴西陆军和Imbel加强战略防务合作- www.wam.ae",
             "originalTitle": "EDGE, UAE Ministry of Defence, Brazilian Army and Imbel strengthen strategic defence cooperation - www.wam.ae",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGJxOWxVZEpSWHFNWTBJWl82UjlhOUdjREhQTkVmNjhwQ1BobEVEYlBqWDdaQXNBbk5jd3ZIOTNteDhkejZpVk83VFV1cVl6ZWFqNXdvQXdQU0w1RVUwMXhqbUVZY3FoYjNVdVJSZDNZcy1IOEN6VnRnN3dOQ25ZcThzM2ozaDlNcm1ST3JoUTVmQQ?oc=5",
@@ -16836,23 +16824,11 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 84,
+            "heatScore": 85,
             "publishedAt": "2026-10-13T15:22:24.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "迪拜的Dh30b排水计划将产能提高700 ％",
-            "originalTitle": "Dubai's Dh30b drainage plan to boost capacity by 700%",
-            "url": "https://c.newsnow.co.uk/A/1326954349?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-13T17:46:53.000Z"
-          },
-          {
-            "rank": 9,
+            "rank": 7,
             "translatedTitle": "地球村将于10月14日以无人机表演、合唱团表演拉开第31季的序幕",
             "originalTitle": "Global Village to kick off Season 31 on Oct 14 with drone show, choir performance",
             "url": "https://www.khaleejtimes.com/uae/dubai-global-village-season-31-begin-drone-show-what-to-expect",
@@ -16860,11 +16836,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 84,
+            "heatScore": 85,
             "publishedAt": "2026-10-13T16:32:49.000Z"
           },
           {
-            "rank": 10,
+            "rank": 8,
             "translatedTitle": "迪拜奇迹花园第15季：门票价格、开放时间和最佳参观时间",
             "originalTitle": "Dubai Miracle Garden Season 15: Ticket prices, opening hours and best time to visit",
             "url": "https://www.khaleejtimes.com/travel/uae-attractions/dubai-miracle-garden-season-15-ticket-prices-opening-hours-best-time-to-visit",
@@ -16874,23 +16850,35 @@
             ],
             "heatScore": 84,
             "publishedAt": "2026-10-13T16:27:21.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜的Dh30b排水计划将产能提高700 ％",
+            "originalTitle": "Dubai's Dh30b drainage plan to boost capacity by 700%",
+            "url": "https://c.newsnow.co.uk/A/1326954349?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-13T17:46:53.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "要去沙迦书展吗？您的故事可以用阿拉伯语、英语写成诗歌",
+            "originalTitle": "Going to Sharjah book fair? Your stories could become poetry in Arabic, English",
+            "url": "https://www.khaleejtimes.com/uae/sibf-2026-poets-corner-future-hands-district-thriller-festival-cookery-corner",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-13T14:23:06.000Z"
           }
         ],
         "domestic": [
           {
             "rank": 1,
-            "translatedTitle": "2025年，阿联酋在虚假的阿联酋化案件中标记了679家公司",
-            "originalTitle": "UAE flags 679 firms in fake Emiratisation cases in 2025",
-            "url": "https://c.newsnow.co.uk/A/1326936392?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-13T14:53:37.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "迪拜将在2040年之前种植350万棵树，实现全面绿色转型",
             "originalTitle": "Dubai to plant 3.5 million trees by 2040 in sweeping green transformation",
             "url": "https://www.khaleejtimes.com/uae/dubai-35-million-trees-2040-sweeping-green-transformation",
@@ -16902,7 +16890,7 @@
             "publishedAt": "2026-10-13T18:00:12.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "RTA负责人表示，迪拜的道路网络可能会延伸到世界各地的一半",
             "originalTitle": "Dubai’s road network could stretch halfway around the world, says RTA chief",
             "url": "https://www.khaleejtimes.com/uae/transport/dubai-road-network-stretch-halfway-around-world-rta-mattar-al-tayer",
@@ -16910,23 +16898,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 85,
+            "heatScore": 86,
             "publishedAt": "2026-10-13T17:11:52.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "迪拜的Dh30b排水计划将产能提高700 ％",
-            "originalTitle": "Dubai's Dh30b drainage plan to boost capacity by 700%",
-            "url": "https://c.newsnow.co.uk/A/1326954349?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 84,
-            "publishedAt": "2026-10-13T17:46:53.000Z"
-          },
-          {
-            "rank": 5,
+            "rank": 3,
             "translatedTitle": "迪拜奇迹花园第15季：门票价格、开放时间和最佳参观时间",
             "originalTitle": "Dubai Miracle Garden Season 15: Ticket prices, opening hours and best time to visit",
             "url": "https://www.khaleejtimes.com/travel/uae-attractions/dubai-miracle-garden-season-15-ticket-prices-opening-hours-best-time-to-visit",
@@ -16938,7 +16914,19 @@
             "publishedAt": "2026-10-13T16:27:21.000Z"
           },
           {
-            "rank": 6,
+            "rank": 4,
+            "translatedTitle": "迪拜的Dh30b排水计划将产能提高700 ％",
+            "originalTitle": "Dubai's Dh30b drainage plan to boost capacity by 700%",
+            "url": "https://c.newsnow.co.uk/A/1326954349?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-13T17:46:53.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "要去沙迦书展吗？您的故事可以用阿拉伯语、英语写成诗歌",
             "originalTitle": "Going to Sharjah book fair? Your stories could become poetry in Arabic, English",
             "url": "https://www.khaleejtimes.com/uae/sibf-2026-poets-corner-future-hands-district-thriller-festival-cookery-corner",
@@ -16950,7 +16938,7 @@
             "publishedAt": "2026-10-13T14:23:06.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "谢赫·穆罕默德·本·拉希德宣布在迪拜开展2.1万亿迪拉姆的项目",
             "originalTitle": "Sheikh Mohammed bin Rashid announces Dh2.1 trillion of projects under way in Dubai",
             "url": "https://c.newsnow.co.uk/A/1326951334?-15565:1965",
@@ -16962,7 +16950,7 @@
             "publishedAt": "2026-10-13T17:09:11.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "阿联酋敦促父母保护儿童免受在线风险",
             "originalTitle": "UAE urges parents to protect children from online risks",
             "url": "https://c.newsnow.co.uk/A/1326945969?-15565:1965",
@@ -16970,11 +16958,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 79,
+            "heatScore": 80,
             "publishedAt": "2026-10-13T16:15:12.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "迪拜EYES人货地下网络",
             "originalTitle": "Dubai eyes underground network for people and goods",
             "url": "https://c.newsnow.co.uk/A/1326944668?-15565:1965",
@@ -16982,20 +16970,32 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 79,
+            "heatScore": 80,
             "publishedAt": "2026-10-13T16:04:52.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "阿联酋明天天气：沙迦迪拜可能有降雨、大雾；水银温度将达到38°C",
-            "originalTitle": "UAE weather tomorrow: Chance of rain, fog; mercury to hit 38°C in Dubai, Sharjah",
-            "url": "https://www.khaleejtimes.com/uae/weather/october-14-2026",
+            "rank": 9,
+            "translatedTitle": "有声读物，儿童出版成为2026年沙迦国际书展的焦点",
+            "originalTitle": "Audiobooks, kids' publishing take centre stage at Sharjah International Book Fair 2026",
+            "url": "https://www.khaleejtimes.com/uae/what-to-expect-at-sharjah-international-book-fair-2026",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
             "heatScore": 79,
-            "publishedAt": "2026-10-13T13:13:25.000Z"
+            "publishedAt": "2026-10-13T12:50:02.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "2025年，阿联酋在虚假的阿联酋化案件中标记了679家公司",
+            "originalTitle": "UAE flags 679 firms in fake Emiratisation cases in 2025",
+            "url": "https://c.newsnow.co.uk/A/1326936392?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-13T14:53:37.000Z"
           }
         ],
         "diplomacy": [
@@ -17014,6 +17014,18 @@
           },
           {
             "rank": 2,
+            "translatedTitle": "埃塞俄比亚的提格雷战争：阿联酋和沙特阿拉伯的立场如何？ -半岛电视台",
+            "originalTitle": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand? - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUV5MndaMXRQMERSYVZhSXo0NWVYdjRfbmtqSU9MM1NGV0k2d3RBZ1VWdWVEN3I1bFlaYW9DWUx6NkpmUDMwS1dSTG9lRDRQUXlscmFPQjZNVHZycUhfLUVJS2VXS2wtSlRlYTRkb0ltVkJaRThSNHNpX1NRdEcxUWNxenI3Slg5T1AzTDZtUGgyZVhSeFJxQ0MtR2Zxd3ZLNHVqVtIBqgFBVV95cUxOcVl5a0FQUGpXWVhnTGV3bExraFZMTFJZYk9kcTRGN3VwS0dtaHp3RTNoV1NENGw5bFZsUkFoYUxSWkRCUTJuNFN3N3dOREt3ZjNxRFVFNEctT29mS0VmclNDUlZmVzZKeUZjWjR5dDFqUnZ3dFBEbVEtcW5mN2c3S3VYNGNOY1ZNbFRJSFdIRlFXZDlCaXlHTTNGNnQ0Vm5mZVo3eDdDLXRfdw?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-13T01:57:06.000Z"
+          },
+          {
+            "rank": 3,
             "translatedTitle": "阿联酋，俄罗斯领导人讨论双边合作和中东发展- FANA新闻-",
             "originalTitle": "UAE, Russia Leaders Discuss Bilateral Cooperation and Mideast Developments - Fana News -",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUt3bi1VQnY1YlBMQ0h4N3oxSDBKSGNwUklhZVpzRk85TFhrb3RBaWUyenZPWEZWR253UWlrd0ZHRkEydS15YWZRaklLOWV0OTN2Slk4eTQ4cjZhbTcwNTgxQW5WSTQzRDlZR2R0U01vNmdmbzRKeGgwM0d1X3otdmM5cHJab3RicTF6aWFlR3RydGtUel9GMG1maE0wejVRN0h4VzA4akJKRjExMDRVcA?oc=5",
@@ -17024,18 +17036,6 @@
             ],
             "heatScore": 73,
             "publishedAt": "2026-10-13T13:35:06.000Z"
-          },
-          {
-            "rank": 3,
-            "translatedTitle": "埃塞俄比亚的提格雷战争：阿联酋和沙特阿拉伯的立场如何？ -半岛电视台",
-            "originalTitle": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand? - Al Jazeera",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUV5MndaMXRQMERSYVZhSXo0NWVYdjRfbmtqSU9MM1NGV0k2d3RBZ1VWdWVEN3I1bFlaYW9DWUx6NkpmUDMwS1dSTG9lRDRQUXlscmFPQjZNVHZycUhfLUVJS2VXS2wtSlRlYTRkb0ltVkJaRThSNHNpX1NRdEcxUWNxenI3Slg5T1AzTDZtUGgyZVhSeFJxQ0MtR2Zxd3ZLNHVqVtIBqgFBVV95cUxOcVl5a0FQUGpXWVhnTGV3bExraFZMTFJZYk9kcTRGN3VwS0dtaHp3RTNoV1NENGw5bFZsUkFoYUxSWkRCUTJuNFN3N3dOREt3ZjNxRFVFNEctT29mS0VmclNDUlZmVzZKeUZjWjR5dDFqUnZ3dFBEbVEtcW5mN2c3S3VYNGNOY1ZNbFRJSFdIRlFXZDlCaXlHTTNGNnQ0Vm5mZVo3eDdDLXRfdw?oc=5",
-            "source": "Al Jazeera",
-            "sources": [
-              "Al Jazeera"
-            ],
-            "heatScore": 72,
-            "publishedAt": "2026-10-13T01:57:06.000Z"
           },
           {
             "rank": 4,
@@ -17063,8 +17063,8 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "委员会批准了阿联酋驻以色列中部永久大使馆的建筑计划--《耶路撒冷邮报》",
-            "originalTitle": "Committee approves building plans for permanent UAE embassy in central Israel - The Jerusalem Post",
+            "translatedTitle": "特拉维夫地区批准阿联酋驻赫兹利亚永久大使馆的建筑计划-《耶路撒冷邮报》",
+            "originalTitle": "Tel Aviv district approves building plans for permanent UAE embassy in Herzliya - The Jerusalem Post",
             "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WYW1lS1h4NU93dVVuZllKeTVkbWdtMm00WVJxck9xcTRxc3FFTnd6ZEZNbGZNU1l5RW5xMzdRM3ZkRkZlcXF3b0FpZnhLWS1hQlhIMkh2N2FtRWNq?oc=5",
             "source": "The Jerusalem Post",
             "sources": [
@@ -17144,7 +17144,7 @@
             "sources": [
               "NewsNow"
             ],
-            "heatScore": 65,
+            "heatScore": 63,
             "publishedAt": "2026-10-13T17:28:34.000Z"
           }
         ],
@@ -17158,7 +17158,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 87,
             "publishedAt": "2026-10-13T17:28:59.000Z"
           },
           {
@@ -17209,7 +17209,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 84,
+            "heatScore": 85,
             "publishedAt": "2026-10-13T15:22:24.000Z"
           },
           {
@@ -17221,7 +17221,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 84,
+            "heatScore": 85,
             "publishedAt": "2026-10-13T16:32:49.000Z"
           },
           {
@@ -17245,7 +17245,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 71,
+            "heatScore": 70,
             "publishedAt": "2026-10-13T06:26:44.000Z"
           },
           {
@@ -17257,7 +17257,7 @@
             "sources": [
               "The Sauce Mag"
             ],
-            "heatScore": 69,
+            "heatScore": 68,
             "publishedAt": "2026-10-13T17:11:12.000Z"
           },
           {
@@ -17293,7 +17293,7 @@
             "sources": [
               "سانا"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-13T12:04:40.000Z"
           },
           {
@@ -17312,18 +17312,6 @@
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "2025年，阿联酋在虚假的阿联酋化案件中标记了679家公司",
-            "originalTitle": "UAE flags 679 firms in fake Emiratisation cases in 2025",
-            "url": "https://c.newsnow.co.uk/A/1326936392?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 90,
-            "publishedAt": "2026-10-13T14:53:37.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "沙特网红Yara Alnamlah说： “我们的家园贯穿我们的血管。”",
             "originalTitle": "'Our homeland runs through our veins,' Saudi influencer Yara Alnamlah says",
             "url": "https://www.arabnews.com/lifestyle/our-homeland-runs-through-our-veins-saudi-influencer-yara-alnamlah-says-3006126",
@@ -17331,11 +17319,11 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 79,
+            "heatScore": 80,
             "publishedAt": "2026-10-13T16:15:13.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "今年秋天， Java Monster将把迪拜巧克力热变成您最喜欢的新能量饮料- AL.com",
             "originalTitle": "Java Monster is turning the Dubai chocolate craze into your new favorite energy drink this fall - AL.com",
             "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdzBqTDZKcEFJWXJsT0E1REREcnB5bTRfZlRiUGtheW1Rbm9PeGtReS1FLVZwUjRGcUtiUm1lbUlKSGdrLXc0NkhyM01GV0NMbHZlRDRwQVJvVjRzN2VNVGJNbWt6b083eVVOWHBVR3c2am00V1AxVkZ0a1d1MkpJUmV6Y3BuVXJOanJXS1FJQ1FtOXRZVkM2ZV9NMWRmWjc5OGlDR25sdW1CeldySTlIQnF3akdTVXJ3SmdUS1FLenJrdVRnd3lQdXZGZWnSAeABQVVfeXFMTmZvdk9PRUxkOHlnWXM5WkljSVg2eGdtNVg3UDRydm9KVUVOd2VjMjhhbWlpM2VZaTljU0RyR091VUtnYkE5LU1MYnJKcHkxWE9CM0dQcU1KeWxSeWV6UjdMYkl6VGtXbFFUd2w2ZUNVQ1JaV21YWmc0Wi15OEc4SkE1eE1tNnVnN2VHNGhYd1dHRlpkWndmWjdGc3pJNG9VTzdDS1VkSjdJV1V4bDNqNHc4V3ByRzBnSFZOODVFNFpSRXVkMEVGNWpUQmNfUzk5UFBpekJaQkd1c1g2NnFOR3Q?oc=5",
@@ -17347,7 +17335,7 @@
             "publishedAt": "2026-10-13T18:51:00.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "迪拜警方警告在线批评的局限性：评论不得用于伤害他人- Khaleej Times",
             "originalTitle": "Dubai Police warn of limits to online criticism: Comments must not be used to harm others - Khaleej Times",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTFlBYWFpRnhtWEN2NjVncUExWnNnZGFndWFhR3R6T0N0SzBaOENpcDMzN0d5MHV2c2tLb1dvVi1xTU9EaXItSlV3WE1kRXNXdG5qQmVhUTZiaGQ2c05ybjFyM2YtVXlBTkt1azlJejlIWkRObmlwWXhFUy1EY25yMjdVbFF1ZG5tUzg4b1BNQzljcUNfVF9KbWViVnM2QdIBpgFBVV95cUxOaGZvcGtGbVFaODh1Ny1LV2x4WEhOU1VXNDE5dUxTQ1Q5bHZPRXV1RmVDNGZFbnR6YUdEVFpnaGI3eGJDcURza2pWM21iZFRkdmdFaHJYQW84SUQxMkpCY0xwNEg4b3ZlZXRpOXVnQVJxTkNiNDZMOFJYQlZxeXdCNWtwVVlYT1I4T0Q0QS1xN2NNX1BDdG5URlYwalpnc3BIXzJNR093?oc=5",
@@ -17359,7 +17347,7 @@
             "publishedAt": "2026-10-13T02:00:00.000Z"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "translatedTitle": "英国TikTok Star在迪拜面临可能的死刑，母亲透露令人震惊的拘留条件-印度时报",
             "originalTitle": "British TikTok Star Faces Possible DEATH Penalty In Dubai, Mother Reveals SHOCK Detention Conditions - The Times of India",
             "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQR2hfVXNDbTk4VWp2WFlVWFRlT1ZuTmRZWUlOWi05Zzc0Z1hyNHQyclFfUGRHa0lqX21qQnE4a1dBNTN0NzY2Z1FEdVQtN0haaW9JRnZKcC05SnVUWnllLUNjU2VlRzZrbWRISzYybTloa0xhelJtZXdtTjZGdW1sZjE3dGc2TVNPSHpJR21mVEgzeXFZa0piM0xUWVdkaW56ZXRueVVZVmJUMEoxZVhQMTlBLXJHMmlnTXZ5ZEotd0s2RmEyN3pvOHpkUGdxY0VMNndYS25Hb01sYktuS2UybGJ6QWJfUF8tU2Y2TzZCMnNSckVQdFRNeHhWTUFPd3RNZ2hWcUJVbXpBUkVDQ1IwZ0RUdUc4SUXSAZwCQVVfeXFMTmNUZUQ4ejNQaFdkMUlGbWJDMFNYNEpwU3VSc19PQ2kzREJWdjg2UmZ5QnJuV3JqdjQ5SDdVYU5sbTVYYkRhZGdETVl5aHFwdHNvZ2FCQ3hDZVI1dVhoQW1jUjM3ZHBDVlpNRDdTaDhhWkJvZnIwZTNFMmZuN2N3RFRZWVUtUW1fWThUR3pQTUVscGtIaFZIbnAwRjhWU0J4WWh5bVJscFJtRHZrRko1XzNmUk12TlJVYS1UUVlLdDVzT3ltNHZSUlRfd3RsOXRzTEJ5VnNqUlgxUS1vYUpCVkFYbkVCZ2p3M1dMNHZjMWVtM0tTaDYxS3oxUF96TXFWejh1dlZraWs5U2lmYnVwUS1WZkhLRUNNNG1MMEw?oc=5",
@@ -17369,6 +17357,18 @@
             ],
             "heatScore": 67,
             "publishedAt": "2026-10-13T15:45:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜警方因虚假谷歌评论逮捕团伙- Gulf Business",
+            "originalTitle": "Dubai Police arrest group over fake Google reviews - Gulf Business",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnJiZzRoUEtBajVhTnZtOFlCNUNuMFlvS1dIY3UtM0lQSG1ZNjFSbTRWdG5uQWtaTmZBb3NOT2tZWGluT2Z3V3RHb2lQSldHcGZnVGNOMHYyeXE5czBtWFRKYzEwMWYzRTQ5UnRFQmktaEFYYUtVdjZSTHdIYXUtY2t4WC01TTNYM1BvVlhBR2p6QVk?oc=5",
+            "source": "Gulf Business",
+            "sources": [
+              "Gulf Business"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-13T08:49:39.000Z"
           },
           {
             "rank": 6,
@@ -17384,18 +17384,6 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "迪拜警方因虚假谷歌评论逮捕团伙- Gulf Business",
-            "originalTitle": "Dubai Police arrest group over fake Google reviews - Gulf Business",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnJiZzRoUEtBajVhTnZtOFlCNUNuMFlvS1dIY3UtM0lQSG1ZNjFSbTRWdG5uQWtaTmZBb3NOT2tZWGluT2Z3V3RHb2lQSldHcGZnVGNOMHYyeXE5czBtWFRKYzEwMWYzRTQ5UnRFQmktaEFYYUtVdjZSTHdIYXUtY2t4WC01TTNYM1BvVlhBR2p6QVk?oc=5",
-            "source": "Gulf Business",
-            "sources": [
-              "Gulf Business"
-            ],
-            "heatScore": 58,
-            "publishedAt": "2026-10-13T08:49:39.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "阿联酋航空公司取消更多飞往沙特阿拉伯的航班- ARN新闻中心",
             "originalTitle": "UAE carriers cancel more flights to Saudi Arabia - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnpadXNXYXlZT3NtU0dFNm16YXFuUW8wblpyRzBPRlZpUEVMcGlnOVJHeGNxWjhDYzgxLW1CWlByaWxXUk1iMVVxNC1Fa0tkTmswLTM3cFd4bGNyWUhwUmxPWlVqT1dSWUZaXzRScnR6aTlDV3ZnZUhfVGFKTTdyTi1BRHIyZFJYUmx1dmZRWU5rcHNQcFV0NA?oc=5",
@@ -17403,11 +17391,11 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 58,
+            "heatScore": 59,
             "publishedAt": "2026-10-13T07:49:03.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "印度驻阿联酋大使馆警告欺诈性签证和移民处理机构-卷曲故事",
             "originalTitle": "Indian Embassy In The UAE Warns Against Fraudulent Visa & Migration Processing Agencies - Curly Tales",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGM5UG9Ed2Vsd25URXBZRWpHT0tFUWhQczVlUHNkQjNJSzJja1BBb253S0o2eXlHS2Riay1CSHFTU0NYWDBIU1N4Z2JlbG1WSWNmelJVbk5XUkZub1gzMmxxZ21JWkZybkNnaVhXank0VXNWTGgxQVVQYUJMcE5GU2M1aW5wUGE4WU1aNGItUXpqdUJ1NVJmY0hfaHRWNFBwU2FNR2RxR1RqM3Jaa0RuZ2U3N3c2OWhMRXRrRGozM05WU1ozSUl30gHMAUFVX3lxTE50VEc5YjBKQXVucEU5WWk3Mk5BTlRxbHlwd0FLZ04yeFEyX2pCcmdRLWtfVHY1M2tfemx6QlFnaV96UGZiX2FYRWk1NWQwVW5XUHN3YVRMbU5reGloOFhGektWQ05oOUxGRDVwMTE4RnhHLUhrRVRKZ1poNmlDMDlkbGpFTnZvakU3ZnBrR1RmMl94eXhDemFLaDZ5Tnh3UHVCSVVWbC0weE1FQWphcW5RRVJVUnJ0UXRCMHBpOEVRc1JoUXhSX24zbE9BSQ?oc=5",
@@ -17419,7 +17407,7 @@
             "publishedAt": "2026-10-13T11:19:20.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "迪拜的印度卡车司机赢得了1.3亿卢比的彩票，以下是他计划如何使用它-今日印度",
             "originalTitle": "Indian truck driver in Dubai wins Rs 1.3 crore lottery, here's how he plans to use it - India Today",
             "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSzItdE1qSHRhMEJtQ3kxVkNTSWJjajFrTVFXM0JxbWdtdktIcWJPZXZ4Q2kzZjdpdzI2d2M2aUtncDNOTUZGdkhDckl1aXVHSGRSN0Q1Zlp5QlVvdVY0REUtRTdOcl9fVUFqME1XWVd6elA5bDA0N0RGbmNTZXJnR3p3ZVhWSld4MU9WMFVaTXhJZ05NRFozLXhicDJBazAwWWhKUjZUSWs5U3RONGdvaTVLQ1Jpb2pmZklEQ1d6MmNEUUk3TVV5alplbXhDMVlqQ2V4c19nNDRSZkRVcG43V9IB5gFBVV95cUxPWHNudl9leWZtUjdUbDhQRjIzTnVsWXpwV3Y0Y0xNY0JtbEZaVE1ST25OdG16SFFTNS1NeDJiS3hSSVBQdjNOSzJYZVFZQU9GaTZDS3FVRV9pa0NJWU9saUVUZDJXUUhxMmFPMTRPS0xsSXVfOEtNblBiMm1tQ3FFbVhPdVYyNXJzN1RDMTVuY0hISUQ5QllPOUF2Y0prcVMxVnRMb20ya3d4RTRQVElSdk96SUFueF9GeU1EN2t2SzlNd2pyWjdfYk9xM2VyeGN5d3l5UkFPbkxVeXEzcnFIVjFlODNOQQ?oc=5",
@@ -17427,8 +17415,20 @@
             "sources": [
               "India Today"
             ],
-            "heatScore": 55,
+            "heatScore": 54,
             "publishedAt": "2026-10-13T08:49:36.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "来自旁遮普邦的迪拜卡车司机与五位朋友中了1.3亿₹的彩票；他说他对这笔钱有计划-印度时报",
+            "originalTitle": "Dubai truck driver from Punjab wins ₹1.3 crore lottery with five friends; says he has plans for the money - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOc2xnVHVoRUlISDVnbnEybFBvVVdYRnEtU3JULV9USEVvelpJMHBNdHcxQkhzVVo3aUpMdTVWSXlfbWNSYW9rLVpTMWhnVGtiN2JmYW5lTzR4VVFidGpfNkNKODJOam1xaWdZRUUwaGpjeW5jS0Ywc3pocm1DdnFwV2U1ZTRHWkdtQnBKc0c3bmt0Nlk4eVhpNkZpTmFCcmtCWTBoV3JFeXNUb2J1amJxTG1vVW1JSTh3RC1jSW5BZGdvakZOWW92T2o5RDN3TF9OVmU1Wm41UWtKZXVnV3FjLUlqYjNEVkYtVzJfYktIR01wR3pOQkVOZGtEQXRyRHhFQ2M4aDc5YklhQzZDZmfSAZMCQVVfeXFMTUxkOW1LUEN1TjhVLTB4dk44ZXVibEhVR2tvOXNjUTNVLWkxT05YdnNhNnUxOTUwQlg3eFd4eEQwMUhsWHBINWVzX09LR3Vmdm5DeGdvSWljV1VKUTVJMGR0UjNLQm9iR01STHFlSGkwdW13Wll2WFBCSTBCNUJGbDFiOE9XTlY2bGtNWHpHTzh0YVhSZkRtUmVzc21SZjZQb1QtdS1ZY1Y4Q1Z2c0dGNERSUHJoekRLZUczVFNiSzFJX1hZanFHTEJTdndMeElkRUpYQjlxTjhaRXRqY20tZkplUmc3dHNJbUVOMWFwV3BrVWQ1ekhtd0ZEQjJFQ09Cc3RUVHN4czd1eW95dzJ1TWtlUlE?oc=5",
+            "source": "The Times of India",
+            "sources": [
+              "The Times of India"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-10-13T04:44:00.000Z"
           }
         ],
         "china": [
@@ -17466,7 +17466,7 @@
               "الإمارات اليوم",
               "البيان"
             ],
-            "heatScore": 58,
+            "heatScore": 59,
             "publishedAt": "2026-10-12T15:05:48.000Z"
           },
           {
@@ -17490,7 +17490,7 @@
             "sources": [
               "الإمارات اليوم"
             ],
-            "heatScore": 51,
+            "heatScore": 50,
             "publishedAt": "2026-10-13T00:01:00.000Z"
           },
           {
