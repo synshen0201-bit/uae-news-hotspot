@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T19:39:25.728Z",
+  "updatedAt": "2026-10-15T20:06:57.223Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -19166,6 +19166,819 @@
               "صوت الإمارات"
             ],
             "heatScore": 57,
+            "publishedAt": "2026-10-14T12:55:25.000Z"
+          }
+        ]
+      }
+    },
+    "2026-10-16": {
+      "date": "2026-10-16",
+      "updatedAt": "2026-10-15T20:06:57.223Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues - Press Trust of India",
+            "originalTitle": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues - Press Trust of India",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWR6RlpEMFFFTzZPQlVPSWZQckNtUnNtMzlaM3JWSmo4NnZPc04tSkZ3ZlhJUFBlY3N3QnctajFESXhkZ2VLeHdWNmJUUXlZdUQ2ejhXQ0JuOFBRNks3SXJGSVpidFZGSnhUTjJsdklhbUZ6dHhBb2gzaWV5TUFnN3E3eGxaSjNKWU1KWUZ3ajVRSVoxbGQ0LVFkLURibkNvYjJTNTdsbXNaNE1UTWlFLXFEOFhrMVdGMDVUaGlSRGFrNDBxVzhnM3h6cXo5SWdsbUhN0gHTAUFVX3lxTE9tZHpGWkQwUUVPNk9CVU9JZlByQ21Sc20zOVozclZKajg2dk9zTi1KRndmWElQUGVjc3dCdy1qMURJeGRnZUt4d1Y2YlRReVl1RDZ6OFdDQm44UFE2SzdJckZJWmJ0VkZKeFROMmx2SWFtRnp0eEFvaDNpZXlNQWc3cTd4bFpKM0pZTUpZRndqNVFJWjFsZDQtUWQtRGJuQ29iMlM1N2xtc1o0TVRNaUUtcUQ4WGsxV0YwNVRoaVJEYWs0MHFXOGczeHpxejlJZ2xtSE0?oc=5",
+            "source": "Metro Vaartha",
+            "sources": [
+              "Metro Vaartha",
+              "CNBC TV18",
+              "Press Trust of India",
+              "DD News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-15T13:07:31.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Ministry of Defence confirms scientific programme, opens registration for ICMM Abu Dhabi 2026 - www.wam.ae",
+            "originalTitle": "Ministry of Defence confirms scientific programme, opens registration for ICMM Abu Dhabi 2026 - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXBZRkYzaVJZVVZFRWNsaTBvclU0SDdBRTBkcUJMcDZfb3J4aWpPYUdtS3hkNUF1Q2FUMm1PbTBEa1pvZVJnQ3JmNWc4WUtIYXU5SDN3ZFF5QXR2dDV4VHFSYnlRMTJ4SHMxcDlCaUlpRmtmUTBfYnNfUF95WmpHaVBidE96cW9hbmxrVw?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "Zawya",
+              "www.wam.ae"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-10-15T09:16:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Inside Dubai’s new Etihad Rail-Metro pedestrian bridge",
+            "originalTitle": "Inside Dubai’s new Etihad Rail-Metro pedestrian bridge",
+            "url": "https://c.newsnow.co.uk/A/1327179760?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-10-15T19:48:44.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Sharjah Police foil murder plot in cybercrime raid",
+            "originalTitle": "Sharjah Police foil murder plot in cybercrime raid",
+            "url": "https://c.newsnow.co.uk/A/1327166994?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-15T17:05:34.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "UAE weather tomorrow: Rain likely; mercury to hit 37°C in Dubai, Sharjah",
+            "originalTitle": "UAE weather tomorrow: Rain likely; mercury to hit 37°C in Dubai, Sharjah",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-16-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-15T16:45:08.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Emirati named among 100 influential women farmers worldwide by UN agency",
+            "originalTitle": "Emirati named among 100 influential women farmers worldwide by UN agency",
+            "url": "https://www.khaleejtimes.com/uae/emirati-woman-100-influential-women-farmers-un-agency",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-15T15:33:28.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Watch: Carpet of ice in UAE desert after hail, heavy rains hit Sharjah, Al Ain",
+            "originalTitle": "Watch: Carpet of ice in UAE desert after hail, heavy rains hit Sharjah, Al Ain",
+            "url": "https://www.khaleejtimes.com/uae/weather/uae-weather-hail-heavy-rains-videos-sharjah-al-ain",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-15T15:31:51.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "US-Israel-Iran war: Key updates for UAE residents today",
+            "originalTitle": "US-Israel-Iran war: Key updates for UAE residents today",
+            "url": "https://c.newsnow.co.uk/A/1327156139?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-15T15:24:02.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "UAE 'better prepared' for war than when US conflict with Iran began, says official",
+            "originalTitle": "UAE 'better prepared' for war than when US conflict with Iran began, says official",
+            "url": "https://c.newsnow.co.uk/A/1327147913?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-15T14:12:15.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "ADIPEC 2026 expects 239,000 visitors in Abu Dhabi",
+            "originalTitle": "ADIPEC 2026 expects 239,000 visitors in Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1327165186?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-15T16:45:13.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "Inside Dubai’s new Etihad Rail-Metro pedestrian bridge",
+            "originalTitle": "Inside Dubai’s new Etihad Rail-Metro pedestrian bridge",
+            "url": "https://c.newsnow.co.uk/A/1327179760?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-10-15T19:48:44.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Sharjah Police foil murder plot in cybercrime raid",
+            "originalTitle": "Sharjah Police foil murder plot in cybercrime raid",
+            "url": "https://c.newsnow.co.uk/A/1327166994?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-15T17:05:34.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE weather tomorrow: Rain likely; mercury to hit 37°C in Dubai, Sharjah",
+            "originalTitle": "UAE weather tomorrow: Rain likely; mercury to hit 37°C in Dubai, Sharjah",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-16-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-15T16:45:08.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Emirati named among 100 influential women farmers worldwide by UN agency",
+            "originalTitle": "Emirati named among 100 influential women farmers worldwide by UN agency",
+            "url": "https://www.khaleejtimes.com/uae/emirati-woman-100-influential-women-farmers-un-agency",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-15T15:33:28.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Watch: Carpet of ice in UAE desert after hail, heavy rains hit Sharjah, Al Ain",
+            "originalTitle": "Watch: Carpet of ice in UAE desert after hail, heavy rains hit Sharjah, Al Ain",
+            "url": "https://www.khaleejtimes.com/uae/weather/uae-weather-hail-heavy-rains-videos-sharjah-al-ain",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-15T15:31:51.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "US-Israel-Iran war: Key updates for UAE residents today",
+            "originalTitle": "US-Israel-Iran war: Key updates for UAE residents today",
+            "url": "https://c.newsnow.co.uk/A/1327156139?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-15T15:24:02.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "ADIPEC 2026 expects 239,000 visitors in Abu Dhabi",
+            "originalTitle": "ADIPEC 2026 expects 239,000 visitors in Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1327165186?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-15T16:45:13.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Abu Dhabi to host face-slapping showdown, F1, concerts, comedy shows before 2026 ends",
+            "originalTitle": "Abu Dhabi to host face-slapping showdown, F1, concerts, comedy shows before 2026 ends",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-concerts-events-power-slap-f1-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-15T14:10:30.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Flydubai FZ1073: What UAE was doing behind the scenes as unverified reports spread",
+            "originalTitle": "Flydubai FZ1073: What UAE was doing behind the scenes as unverified reports spread",
+            "url": "https://www.khaleejtimes.com/uae/flydubai-fz1073-incident-uae-combats-misinformation-unverified-reports-accuracy",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-15T13:46:02.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "No taxi, bus needed: New bridge links Dubai Metro to Etihad Rail",
+            "originalTitle": "No taxi, bus needed: New bridge links Dubai Metro to Etihad Rail",
+            "url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-etihad-rail-pedestrian-bridge-opens",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-15T13:39:23.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues - Press Trust of India",
+            "originalTitle": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues - Press Trust of India",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbWR6RlpEMFFFTzZPQlVPSWZQckNtUnNtMzlaM3JWSmo4NnZPc04tSkZ3ZlhJUFBlY3N3QnctajFESXhkZ2VLeHdWNmJUUXlZdUQ2ejhXQ0JuOFBRNks3SXJGSVpidFZGSnhUTjJsdklhbUZ6dHhBb2gzaWV5TUFnN3E3eGxaSjNKWU1KWUZ3ajVRSVoxbGQ0LVFkLURibkNvYjJTNTdsbXNaNE1UTWlFLXFEOFhrMVdGMDVUaGlSRGFrNDBxVzhnM3h6cXo5SWdsbUhN0gHTAUFVX3lxTE9tZHpGWkQwUUVPNk9CVU9JZlByQ21Sc20zOVozclZKajg2dk9zTi1KRndmWElQUGVjc3dCdy1qMURJeGRnZUt4d1Y2YlRReVl1RDZ6OFdDQm44UFE2SzdJckZJWmJ0VkZKeFROMmx2SWFtRnp0eEFvaDNpZXlNQWc3cTd4bFpKM0pZTUpZRndqNVFJWjFsZDQtUWQtRGJuQ29iMlM1N2xtc1o0TVRNaUUtcUQ4WGsxV0YwNVRoaVJEYWs0MHFXOGczeHpxejlJZ2xtSE0?oc=5",
+            "source": "Metro Vaartha",
+            "sources": [
+              "Metro Vaartha",
+              "CNBC TV18",
+              "Press Trust of India",
+              "DD News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-15T13:07:31.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "World News | EAM Jaishankar Meets UAE Deputy PM Al-Nahyan, Discusses Bilateral and Global Issues - LatestLY",
+            "originalTitle": "World News | EAM Jaishankar Meets UAE Deputy PM Al-Nahyan, Discusses Bilateral and Global Issues - LatestLY",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTG5mRzN0Rm91eGZjZE9ScnQ1VVhVZ1hIU2I1aldqc2NiaGMwZzBrZXVzNjFySGJOQWNLVEUtbm42YWNtTFAxV1pKUFJPQ0w1T0stMW1sQ3lnWlgtaHFWbUxIT1h2UVVuY2FkemV5UmRMUFBqeFhQZkJTVzZnR3paTm1VUlFKaE54Wl9oZmFnWHBCUFpncUdHcFVXYnNQOUhIdVJzZFJUMA?oc=5",
+            "source": "NKTV",
+            "sources": [
+              "NKTV",
+              "LatestLY",
+              "The Tribune"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-15T04:58:59.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE's 1 Billion Followers Summit to fund 100 aspiring entrepreneurs with $10,000 each - Khaleej Times",
+            "originalTitle": "UAE's 1 Billion Followers Summit to fund 100 aspiring entrepreneurs with $10,000 each - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/uae-100-dreams-content-creators-10000-business-funding-1-billion-followers-summit",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-15T08:55:04.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "UAE launches $1m ‘100 Dreams’ initiative to back aspiring entrepreneurs - Gulf News",
+            "originalTitle": "UAE launches $1m ‘100 Dreams’ initiative to back aspiring entrepreneurs - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlRoOVVmREQ5cmJPTWp4ZTNBMGtZWXR3ejZ1YmxJN3REaTIyekNRWm9jb1BhckZMU0wtZDdtaFNlUXpZdlNiUWRuVGtOS01lRElaWldVSEtINVR4MnVWYVBVQUM4VWE4Yk5pdWxhWUpOUDNnN1lLNERoUlAwNmlSYmpnM2l6b3FYelJDMU9UOENEMk4xelNfTXEzb05haGdFNmhEeEVhZHU?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-15T08:41:15.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "UAE leaders congratulate Laos Pres. on 30 years of diplomatic ties - Sharjah24",
+            "originalTitle": "UAE leaders congratulate Laos Pres. on 30 years of diplomatic ties - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IazFDSVpSbjFRTU5vYkFqbzg0SjlNN082SkhUY1doSzEzT0hteEhWT1BvcWszeUNpTGRVcllXVkRpUGR3WGtKME9WYUVNUUhEV055dGF2aW1BQQ?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-15T18:32:07.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "The Constitutional Court will decide again on the agreement with the UAE on October 19th. - vijesti.me",
+            "originalTitle": "The Constitutional Court will decide again on the agreement with the UAE on October 19th. - vijesti.me",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0hOVTRFLUJxTVI3UkI2WUN3VG5lcVlFT2UwcTJocHd1NXFZbkVQcngtbWZINUhpZGJhR2hJM0piZm9scUhnelEyekdqTlFuUW1RQjRHdlVmYzgzZDlaT2pfa25fYnU2NjFfaGhoYS0yajdGOG5BVjR1el9tNGVWNWFIU3hHeGJYenM0TnhYSTRlU0t5ZjFmMF9MWDdGclpsb2RFbkY5TXBSQXNvUlkyS1FhR2Rrd29RaC1hQlFWMS00OE5SMkVxMjY3OTBFMWJT0gG_AUFVX3lxTFBidEhnY0JUUC1jdFY0dklBanpNb0dFVFZOdjE5aHk3a3U0UF9HWk5MUTYtR0FpWEFfanhnNXRBNUdpVm1scEVNQURzamFLS2NjLUtEZzJEZVBrdXRwc2FhSmxtdnI5a1hKSHVBZExheUNGUXo0VVVsTXNGV3JTMDhaWURYTUxtNE9qVlNUcXJsb3YxN1RWSTdXWVpDMmdWVFpsRzJ0Z29pMXZ2bzlCZUF0eEc1QXpDd0ZZeWVIbWVn?oc=5",
+            "source": "vijesti.me",
+            "sources": [
+              "vijesti.me"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-15T11:23:14.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "UAE leaders congratulate President of Laos on 30 years of diplomatic relations - برق الإمارات",
+            "originalTitle": "UAE leaders congratulate President of Laos on 30 years of diplomatic relations - برق الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcllGM0VKU3NSeDJGZXk5U2U4QVNJRHpUMVhjOVFmWnpBOWZaZnQ3R0tGdm40WHd1R0FlZm9pdVZVckt4NHBJQS0tTFV0RjNJa3ZqaGhlX2tTdlZGMUNxemxkRldqWVZfYWlqOE95MFdDZWZGWWNZd3RadkRqYUdIbjdQLUhCT05QRU5TRVRicVd3UUJaOWJmaFFVYnEzWllvd0h2cTV2U0hkbDB3eUlxYVA2YzRJN00?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-15T11:02:10.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "EAM Jaishankar calls for 'urgent' reform of multilateralism, cites India-UAE partnership - The New Indian Express",
+            "originalTitle": "EAM Jaishankar calls for 'urgent' reform of multilateralism, cites India-UAE partnership - The New Indian Express",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2VEbFJWemFSLXY1Q0dVSExjb0ltZGlrRmplb0xaa0xxYUYwX0RwOUkzS2JSbzlHeVJrVDVEd2Jkb2RaUmpFdV9tUzRRRUJxQ1RVR0piY2JXRWJDSUlXYldoYV9qVjltTWlkX18yeGExYTdranlpZGdlTHE3YS1PSF9DamM2eWNPMW5zdnBiZWVMa1AyNmdKdzY5QTZmSFk4UWo4aDNEZDR1UEFPX1Y2SjFZTEoyTUxtQ0xoTDFvNmFCT2tWU002Um1Gdzh5YnhNSlHSAd8BQVVfeXFMTkhpNDJ6TVVyS0pIYjBmRjE5TFY0X3g1WDRZTDR3eWkwbjlQanZwMUQ4LTk3WVJXaFFYaXpDRndadUZtOVpyQklfR281R1B6YlczaVNBaTFYcFJhQ1dWRERVbi1ZeVZnaUh4Wk1lNmpRajdETFlFajI1bzdhdzNNQVdmRkRPaDM2Ml9sOGRhaE15M2hvQ3NQUVhfTmQxdDYzeEE2LURUNGd1Q19DcnhicFVXTC01eTBDSW1VQlBaWFFnNXB2V1ZmcVQ1SXRLRDhVTUh5YzNiWnhQVENqU0hrNA?oc=5",
+            "source": "The New Indian Express",
+            "sources": [
+              "The New Indian Express"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-15T06:08:29.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "EAM Jaishankar meets UAE FM, discusses bilateral ties | Tap to know more | Inshorts - Inshorts",
+            "originalTitle": "EAM Jaishankar meets UAE FM, discusses bilateral ties | Tap to know more | Inshorts - Inshorts",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUE40UHRsYXN5RHRxU0tyM3c4TENVT2tSWU1tNjVDb0NmSDdKN2RJWU9fdUpfX3RlcWh2MFlSRXV0dUNCcm5Zdl9fcjR2bkhqX1cyZkZmWGwzd0NpNG1GMV9pd0NqZEpoZjhMSER5M0h6Q0g0M1huNDFjcUZaS3dwX0pPVzVIS21YNnRVRnYzU2JEbEQ0LVpFNmpBWW3SAZwBQVVfeXFMTVBONFB0bGFzeUR0cVNLcjN3OExDVU9rUllNbTY1Q29DZkg3SjdkSVlPX3VKX190ZXFodjBZUkV1dHVDQnJuWXZfX3I0dm5Ial9XMmZGZlhsM3dDaTRtRjFfaXdDamRKaGY4TEhEeTNIekNINDNYbjQxY3FGWkt3cF9KT1c1SEttWDZ0VUZ2M1NiRGxENC1aRTZqQVlt?oc=5",
+            "source": "Inshorts",
+            "sources": [
+              "Inshorts"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-10-15T08:55:01.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "FREELANDER 8 Takes Centre Stage At Chery International User Summit Following UAE Debut - menafn",
+            "originalTitle": "FREELANDER 8 Takes Centre Stage At Chery International User Summit Following UAE Debut - menafn",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTBGT3pVZW9TcXZQajk4QS14dHc1YnNSV21NSjFLQWRMaW1pekdiMVlwWmY4bk5yQXE2QkU1TUNYZ3pKTGhEeXlqRmJoRG14TVgtd1l6M3pYcHJfTGRGM1QxVjBBWEY4Z3JHZVV3NWdfdW5VRUkwaFVFS1MxVlh5UG01U3NDZU5jdFdrTkVaMm5iZjdSOVI4MkV3S1E0emhWdUU0QnZnM3BZSUYzUExteE43b3JSZWs?oc=5",
+            "source": "menafn",
+            "sources": [
+              "menafn"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-10-15T07:45:46.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "India's Bank of Baroda says it will defend interests after UAE businessman Shetty files $15 bln suit - Reuters",
+            "originalTitle": "India's Bank of Baroda says it will defend interests after UAE businessman Shetty files $15 bln suit - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMTZESmVsRjhVODdrejh2dmx0WkZvMnZXcmNuU1JtM3Z6b0RFMElUVTl2Q2ZBUXlyY2VJSVhFVDZXNjZXSS1vanVOLVhiQmdKSnFWamMxUEthb3BDMFBGVFdBUDZPTzloaEJ3UkVKSC04dzJsUUpCaFFDYmR2SzFmX3RjdkMtYmhhelBFalByT25zcWJpQkwwTzNYSUhNQmNycEllc2Z0VTN5dG50eENERnZveEFrdHpFMHk1QzluY0JQOUlibjJzUjZzZDdKeTBaUG5LNXdOX3g0cS00T1poNjJuTQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-10-14T05:09:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "How Investors Are Reacting To Wynn Resorts (WYNN) UAE Resort Plans Advance",
+            "originalTitle": "How Investors Are Reacting To Wynn Resorts (WYNN) UAE Resort Plans Advance",
+            "url": "https://c.newsnow.co.uk/A/1327177266?-15565:1965",
+            "source": "Simply Wall St",
+            "sources": [
+              "Simply Wall St"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-15T19:14:28.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "Abu Dhabi replaces certain paper permits for buildings with digital reports",
+            "originalTitle": "Abu Dhabi replaces certain paper permits for buildings with digital reports",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-replaces-paper-permits-for-buildings-with-digital-reports-new-directive",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-15T14:24:21.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "How to tell if your children are using AI to do their homework",
+            "originalTitle": "How to tell if your children are using AI to do their homework",
+            "url": "https://www.khaleejtimes.com/uae/schools-and-parents/students-using-ai-for-homework-what-parents-need-to-check",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-15T13:16:32.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "ما وراء الصورة التقليدية: الإمارات العربية المتحدة بعدسة HUAWEI XMAGE - موقع القيادي",
+            "originalTitle": "ما وراء الصورة التقليدية: الإمارات العربية المتحدة بعدسة HUAWEI XMAGE - موقع القيادي",
+            "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQWnZGZ21RQ1BQcWdoWF9CaWpmaF9DTkVFSUE0aUFzdjhIZ1hNSFB4U3pNeEU1a1VpTGtjYk5pTjd0N1hrc0VIdWctd3pPYUFhVEh1eFZJTTJ4YVBPellGN1I1UnZnRGdSMGN3TXdrMWwxYnZYZVRTUHQwclJUdTloamFzSW5wMlhJVXZYankybjBTVnA4UXVhczgtc3djMXVISUlIc2hZbThlS1pYVENxS1BCWm5WWVhMdUtDQjFUUEFaM0RIS19VaENmQldVSTF0X3UzVHhDZU9sZ3RSVXdqOUR4QnRTV0llRlRkMkhMdzJqM0tENVU5MnhDa3JCNl9QY01CNEdoeFphdFBVUGhuZmpRR1lFdWtFeTVGVFNwLUFGbU02a3ExeXVDMFRPLWs3d2VmOFpUZlh2eWVhLXVPSTNvazFNX0JsNUNibG82d3RyRFdpRlNWTTVXakhuUXFCcUlpRFNNT1c2a0NjdExkWVlCMHg3eGtDNXE0VzVHUEJuNlhBdzhFaWdyajFQdXBlZGNPd3ZmS0Nzc2d3UnNRMjZrODRpcGQ0QnFaa2RKNURoX05vNFIxaExUZTZ3d2MyWElqTkRtcVFPRHZlcGN5VU9nLWp1ZDFhakZIeEt0ZzhxazdOdlRTRdIB7gNBVV95cUxNbGFnNm4tM3Y1aVlfMUlpNjY5MVFTbU52clhoSFduMFJYYzNkY0lKV0xKanVOYTcwb1A5MXl2WGYtQ1BtX1Rodl9GcXhFWjBpZ3doVmxmajk1SEtEcVoxSkRWeWxZbmNQVXMzOFN1d19NdE9kSUplMl81NVBud1Z2RG1XQmROUHUtZzZYZXBEVE11RW5HVV9mZ3NhNllITVlMMU92NDB3LTJpTnV3VFpVTDNWa0t0WkdUZnlOUGh4aDFURzQ2V3ZPRjE0ODBMYVR0NkpaZDRYNnNQVUw1dGZwdGlXN21HZDRlZTl5ZE1uT2hPSktocHNSQ3Rac3JZWVEyaDIxVUxfNWtza2Z0WVE0TU9PZjEwOGplcEVWeUVVeTZSNTNadkVwUzJwVjUzS1NacWR5c0QxLXFhR1ZkcXVodFBIdXl4bHczQVZBV1Vlak9GS0JUREhPMWJlU1UyVk1pSVhIMldDZzVGdEF4UFBYODRuejRGRWRLYWpVajhpSHkxaFA0bExsZ1doUWdCbWtEbFhsUFlmLWJaX3czeEZXdFVIcUU2aVZCZkZFekpuOGRCVVgxdEJuem5UQ19wQTd0bG45QnN6WkRCcldEbkx6dVRLZlkzTG85WE9zNGN2TDRxOHdJNGRsNU1zNi14Zw?oc=5",
+            "source": "موقع القيادي",
+            "sources": [
+              "موقع القيادي"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-15T12:47:22.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "Ministry of Defence confirms scientific programme, opens registration for ICMM Abu Dhabi 2026 - www.wam.ae",
+            "originalTitle": "Ministry of Defence confirms scientific programme, opens registration for ICMM Abu Dhabi 2026 - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXBZRkYzaVJZVVZFRWNsaTBvclU0SDdBRTBkcUJMcDZfb3J4aWpPYUdtS3hkNUF1Q2FUMm1PbTBEa1pvZVJnQ3JmNWc4WUtIYXU5SDN3ZFF5QXR2dDV4VHFSYnlRMTJ4SHMxcDlCaUlpRmtmUTBfYnNfUF95WmpHaVBidE96cW9hbmxrVw?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "Zawya",
+              "www.wam.ae"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-10-15T09:16:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "UAE 'better prepared' for war than when US conflict with Iran began, says official",
+            "originalTitle": "UAE 'better prepared' for war than when US conflict with Iran began, says official",
+            "url": "https://c.newsnow.co.uk/A/1327147913?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-15T14:12:15.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "FNC Speaker condemns Houthi attacks on Saudi Arabia, affirms UAE's full solidarity - www.wam.ae",
+            "originalTitle": "FNC Speaker condemns Houthi attacks on Saudi Arabia, affirms UAE's full solidarity - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGZhNUdJeE5NdUdjWUNpdTJ4czhzbGVwakFxSnVQM2lVQWVKemljd3JrNXdib1hlbDU4M3dCc2FDSTMxUVE1ejlJV3JVQ1YyTWhPVU9EbU5UYmNTV2RTdU5GbkFoY0dtSlZCSEhtMnhuSjU2YTY1SXhSd0JjUWl5XzdRb1ZCc0NwQ1M0VmJ0aw?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-15T09:20:38.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "UAE ready to take all necessary measures if Iran attacks again, says official",
+            "originalTitle": "UAE ready to take all necessary measures if Iran attacks again, says official",
+            "url": "https://www.khaleejtimes.com/uae/uae-ready-to-take-all-necessary-measures-if-iran-attacks-again-says-official",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-15T12:18:43.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Saudi Arabia must decide response to Houthi attacks, says UAE official - Khaleej Times",
+            "originalTitle": "Saudi Arabia must decide response to Houthi attacks, says UAE official - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/saudi-arabia-must-decide-response-to-houthi-attacks-says-uae-official",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-15T10:52:34.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "FNC Speaker denounces Houthi attacks, reaffirms UAE's solidarity with Saudi Arabia - Gulf News",
+            "originalTitle": "FNC Speaker denounces Houthi attacks, reaffirms UAE's solidarity with Saudi Arabia - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUJnWmd4cVdiQUhZM3RncmhEOXItdEQwd2tTZlJTQWtGNFpVdUhJQWwway03UmZUMFo1TGRTa0pFSTVoS1BtTTI5UE5PODRsckVJandDQTBkd19INVVWVnljeUlZMnBnMGdvMGZkd2diRmRFcmgzWHNOQ0NFWTlOdWxwRWZSWHdpRHVnMG9KOVJyZ2xiTW1pZm4zdlFOZGpBdzJtUjVvSjRUQUJLSS1tb1BGZWZjY0x4?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-15T09:33:59.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Gulf countries need joint missile defence system to respond to attacks, says UAE expert - Khaleej Times",
+            "originalTitle": "Gulf countries need joint missile defence system to respond to attacks, says UAE expert - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2YzM2hKSkFlUWs4T2tPYkY4VWNUNkZRUDhYTHlMRVFNcFVsODJvSWZfZlBDRWxQOUwwZER0bk1waDNYYUpON2NaVmliNmRRelpFdkt2NDJCSWdKbEpTYkNVQVNhXzRWUE9tUTBDOUpKTlV1Z09WdlZnVU12TmJuODc2X1g0anU1QzlnRndQLVFwVDFXQ29tWVRLa9IBowFBVV95cUxQSURKRm93ZkhfWXNKalh1dkhRcWYzRS1sQ01FZU9lR0tfTU1pNUtEam5MbFUtNTJISDl3YWR4UE84VkRaR0c5dVNWeXJHeUVjeXlKYnlHclJXRG5xMS1uY2dtRjNxQUs0QUFWYmxYd3E0bEx4UWtqY0pSRlZ4RUhMTExNUWJMU1lmX2I2c2o0RXVLZUs5aElGcHZRVDZfTDRFRWVz?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-15T02:00:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "F1 set to push ahead with Qatar and Abu Dhabi races despite missile strikes - GPFans",
+            "originalTitle": "F1 set to push ahead with Qatar and Abu Dhabi races despite missile strikes - GPFans",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGhJclFHeHJ3TGNTVGNKS3dtTGtTTklWR0hRTWNtUUNIM2hoR2ktakxKczdiek8xVGw4VDBPQjVScVhfcGVpTklfdks4U1FLeFROSlRvWEJMQjRHbVp0dEd5V3l3WFA3UkpuVzZOTzlwek1xQ3BxTTJyQUhHamgzd2tOd094alFOem5pb21qVTlqSTVJUkUzTzZETU9zUmUwNmJWOFhwTld0a3JZRVB0UTRCV1pPemc?oc=5",
+            "source": "GPFans",
+            "sources": [
+              "GPFans"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-15T19:44:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Flying out of the UAE today? Cancellations, delays and travel warnings you should know about - Gulf News",
+            "originalTitle": "Flying out of the UAE today? Cancellations, delays and travel warnings you should know about - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSE5HUEU1bUphSlNXYXZnaFR2dldlS2tGOE5MQ1E5Zkk1c3VaaXIwZWpfX3NzcEhBa2F4RzV6ODB6SE9RQVk4Q05tOTlOdkMzQ0RSaURGZC05Z2MtcTRfay1FWjNISmlhY2dLX3V2dFJDOENIU3J1NmJ6Z3lON01LdnNjbEoxSUthWmJSOXhqZnVGcHB0WWc3elBtQlZEZmVlczM4cVRwWHRoYVd0bW1ublQyUHg5NnNwLU92bTVycEpCTm95NjhoZmtEU3BibmN4WjFZ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-14T07:30:57.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Kieron Pollard's UAE Bulls To Launch Title Defence In Abu Dhabi T10 - NDTV Sports",
+            "originalTitle": "Kieron Pollard's UAE Bulls To Launch Title Defence In Abu Dhabi T10 - NDTV Sports",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHRGLTlsdnlaS3JqWlJOYlBTNDBNZmRQVGFOYy1KMUVpNDJtVzlzc0dXa0Nrc1loTExfZGVFVUJld1I1VlJsSjlyTndwRXNQVE9JZXlMeDBhelYzZDFQT3d0ck5RcVVJckhpR3E4aFBwYVNHZzJkX0Nicml5ZmY1aGhqZDEzaGRpdnRsTFpaOV93eXozV3ZQTktvN2FYaElvX09BQjRqaHpLa1U?oc=5",
+            "source": "NDTV Sports",
+            "sources": [
+              "NDTV Sports"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-15T13:58:25.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "Suryakumar Yadav Buys Waterfront Home In Dubai; Shares Video On Social Media - Mashable India",
+            "originalTitle": "Suryakumar Yadav Buys Waterfront Home In Dubai; Shares Video On Social Media - Mashable India",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmI1SDF6SUM4TGFGdEFpLWItbm9VbDV3dzV0WWp4R1hFMHczS01zSDZEbFh3MEdsZWhmRUd0RE1pd3NOOGl4bEJiMFdzSS1md3FrenBZcVhZU0R2UzFDSHAwSngwcjdmUndFT0VfQUdHNlhWQXI4ZV9iMUJnR0ZaTU1XSVc3SkQzNWFEeWN0WTF6bUtWVkJraVhnRjgtNFJmTDYxZ2xyYnJORlgtV3FSdml5RQ?oc=5",
+            "source": "Mashable India",
+            "sources": [
+              "Mashable India"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-15T18:27:26.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Suryakumar Yadav buys luxury home in Dubai, becomes Shah Rukh Khan's neighbour - India Today",
+            "originalTitle": "Suryakumar Yadav buys luxury home in Dubai, becomes Shah Rukh Khan's neighbour - India Today",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV19kR0ZLMjlZV3d0X1czdDhCelBOZGNJUkdCUEY0c2VVY0JKWE0zdGF5TlMyUmVDc1RTTU9EWGNQcXhEbFB5TEFmcHo2WlBhQ0xXOGRnNFFCcVVyWUxOazRqMzZvc1lqNTV3TjBCWTJvelB0VlJuR1RILVdzbF9VUU1aYXJpR2VMVm9XTzk2ZFJiZ0xLdTFtSDJJeUJUOVdsMk4tdE9Ld2pyMURUQVAtdkZTT01ESDVFNnVlNUJmRF9PNWPSAcgBQVVfeXFMTnVWcXdtcTVDVWp5RGM3NXRWSldZMlh0YnFYR2REYVd5MjdMVmZFR29uQWY4alowekhha2R3NldtSFZpWU1JYjVJZFUzSWYwaWhNR00waDBFR3BXbWJMUktOOGRvbTVYUTRDQVNTXzVoaFI0NzFLUzhtcnpqcFhMRXBMMXlpS2Z2RW8ycXppaE1pNmJFYXJQTEpHUkdla0pXeHJ6YW1Mb3prZzNvWjBiU1RlTjcwaEIzV21lVzVnTjNMM21TTW5IaDU?oc=5",
+            "source": "India Today",
+            "sources": [
+              "India Today"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-15T13:48:21.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Dubai-China non-oil trade tops $500bn over past decade - アラブニュース",
+            "originalTitle": "Dubai-China non-oil trade tops $500bn over past decade - アラブニュース",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUdhT2dCQUV2VHQyTlFsSTJ1SmJDVnJsQnNrYkVFS1pka0tnMF9TOWJOclNZNVU1VGJQSHdnTDUwQkluRkxxRkJ3MXVnZG0yZUI3WFNrZnNZUDVCdWk3RkU3U3FXSG5FNV93X1lfSDZLby1DNWR5Ymg5TGJZV0lmcHZvRDZ0UVdxYVFYZ2tjcUdXYXc3UHNFWV8tMjlHdw?oc=5",
+            "source": "アラブニュース",
+            "sources": [
+              "アラブニュース"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-15T12:43:15.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "A Coffee Rave On A Superyacht? Fred’s Is Doing It In Dubai & Here’s How To Get In! - Curly Tales",
+            "originalTitle": "A Coffee Rave On A Superyacht? Fred’s Is Doing It In Dubai & Here’s How To Get In! - Curly Tales",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2x2ZEtObHBWYkItMElJRTJnWXJ6bTEtV2JHaWRTbFQtcTdjOXV5MWg3S01xLTd3cGFhZ1h5UXp5RTJPZmNkSjNhZHFRekhmY205QVc5dmo1S3kyRWhwYnZmSk5oaDNqaDRVUDF3Y3RtZy1rVjFmZlNkOWVoQ3Q3VTZWbFlaRTNwWTBMZ1I0UUQyNmJzSzhjamFGeEZ4RHU4clo2RkY0aWtoNkwxZWpoV3J1Y0N1NEFR0gG-AUFVX3lxTE1DYnlOcGJRaG5HZXBvTktBRDZOcTRxa09fU21QWUNXbzZGallXZ1ZPby1hMXEzblAxYzlQbzZOanJSRWd3bWU3WU96QXNaS24tNGNBY1RIWTlwcm11SDAtRjltQS1UaU1KUWNJWTQwbnpSVkZYd2oxMkkwaVk5ZVpRaEw4RXVEREhlUlktR29odlo1S0I5TzFHODB0dTN4THhqa2czTjJ4Z19FYVZ4elJvZUxKekNENjV4NG9ZeUE?oc=5",
+            "source": "Curly Tales",
+            "sources": [
+              "Curly Tales"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-15T11:58:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "US court allows Florida to ban children from social media platforms - برق الإمارات",
+            "originalTitle": "US court allows Florida to ban children from social media platforms - برق الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTNHaXFQblZ0dWs0R2d2RUlqSlZsOHVMSEdlSnpoRU9HWnZuT2tjQ2JWcll4ZHhNVm95UWg2TGJaZ2huRW5PbXNVdWN1eWFJX0hWRlVtUUhuaDhqa2N3MkhmVk9BcXVhTElibE1RNWV0ZmJVSk1zTTV6UElvVXhZVEhrdkpSMUFxeWlxNEk5Q2VUMkRra19MMUNsOVhjUUZaRkR0cW1sZXA?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-15T08:03:44.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Influencer faces firing squad inside notorious Dubai jail - The Nightly",
+            "originalTitle": "Influencer faces firing squad inside notorious Dubai jail - The Nightly",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZzF6NlNUNjRtYTU3Qm4waWN4V3FEMEpzVW1oUzRFUHFSNjhWbzYyUG1lT2FwUlZyRUJQNkh4VFEyN0lRNWFuelM4dnlQQ3BzR3lCS0V2c0NVc1ppVGh5ZmY2T0k0b1dkeHpEMFdnemY0LW1ZRG9UVlVobVlBT2JfTE1mSnVTU0dPREw0Z2xwOG1DMkRqSEUtWEY2TlAySHNEUUNMd3hCRG9jd1c5ckNmY000MjlwSDdFbjBqdzV5d0tzV2hXRlc3alk4MFZQSHhFRVlvMkdRWXJNaUpYNGhtdm1sQWc?oc=5",
+            "source": "The Nightly",
+            "sources": [
+              "The Nightly"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-15T05:31:57.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "What Is The Dubai Mall Plaza & Hotel That Was Recently Teased By Emaar? - Curly Tales",
+            "originalTitle": "What Is The Dubai Mall Plaza & Hotel That Was Recently Teased By Emaar? - Curly Tales",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDgyQXJLdldoN1J4VVVUSGp4cHhuX3BOcmpFd2ZMZUFJZEh1UWVJWXRiYTlrNzRJTHpqQkpXcGI2MUhaU1QxV3dNRHlfTnlhQmF1UnVMeERqQzZhWTZ2TkF1NDFVYlBvelZfMUZxLVNhZnIzb2Y2S3puYjhQYlZkUGlBZ2htcDNOSE9VcGFhd2NFT0k3Z2RkTjNLU1YxTldFb2R1UHJrblVzU0g4TDJkZmZqRdIBuAFBVV95cUxOR3JEN2lxT29RZmg5YVBRdDdNcDNoRHBPQW1jdm9obko3Zzc0ZFdUblo2aVBoWFI5bTB2WFFfcnFhVFJXM3RyX1JFS1FjZUUxbEV3SU80ODk5LWtodjBfbEtvM0IxUmVtRURDaFVVcGtiVmE5QmZkbjhubFdvOFhsanNiU29DeC1uOG5zNTZCZ3NGZ3c0MXhFM3REZ2lrdHlqajMzLWdvT1BTVHV5cXJFeVlxVWgyVTUw?oc=5",
+            "source": "Curly Tales",
+            "sources": [
+              "Curly Tales"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-10-15T08:59:05.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Emaar founder drops first look at new Dubai Mall project: Here’s what we know - Gulf Business",
+            "originalTitle": "Emaar founder drops first look at new Dubai Mall project: Here’s what we know - Gulf Business",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGxlTXRpdWhRaldvZVAwcDM2bnZoT0ZGV3RQb2FpcWl0MDZwQ3AwMXgxeHZkZjhHLV9pcnN3TXkwbmlHLWhFRmtpdkh1QlFydnNNTk1sY3liem5LUU9XdHZjYXhkX010Q0ZNLW9iYkgxejMwd3V6MVVVb2hSUDhaeVZyOW5EUE9VQ2dYRi1PSEpiWmdud1pfdHFtRkhjSk51OEZNeEItaEhwN05PdExYZG13MTF6QQ?oc=5",
+            "source": "Gulf Business",
+            "sources": [
+              "Gulf Business"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-15T06:53:14.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Abu Dhabi royal found passed out on London street with toddler admits child neglect | Trending - Hindustan Times",
+            "originalTitle": "Abu Dhabi royal found passed out on London street with toddler admits child neglect | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdTI1Y29DZlpmX1BLTUlncmhpTnFEUF85cEp1MlBmQXZhWjNRN1VsWkE0YUs4THAxdzlwUm1WYVlEVHphSEF6WHRVWDZURGpXOEQ3NmlOQl9iVWp2UVY4UkRqdlA0Uk9zeHdQQVpsNUtRTzZOaUs0VWw5LXpkYVdKMVZ3WERha2d0MkRUR3ZtM1pMOWM1VmY4cElNeHZfRnFxWTZMbEFYREplNm5VSzM5Um5UVUYyczRVWmwtamN3NEhCN09DdmZHMnh6bGpiNHJOWmFGdmk4RDZWZUtDMFJLb1VNeDdJZEVldnJFSHpwX2FtT0xuV0tVdk05dTNId9IBgwJBVV95cUxPczFlczNxdXRPaTVtLTBwdEJTaml6Y1JvbEtjTkV3WXdVdzJYZ2lqVDNuM1NuVm5mSW5QdkFVVG5IeUx5eU1nLWxER3VrWlU5SV9pWkRVQWhuQm4yLTI3UWo1elcwV05laVN1Vk81dVJjdlpjeVc5ZU1XeUNvZGdaUnM1ZGpNLTJuRWpxazVNb0dPSnVLNDN0a1pHR1pEWkNGMmo1Y0dtdktWeF84MjN6Z1FyUlNPQTRZTHNsNlJQcEJRZjdPTzVjNUpaOFdYcjhCcTRSY1FpcHBwNVl4YXBkZ2EwVkx3bFpWZmxRcmFYb0ZlV0ozSzVhQzlsMnRCLUtYTVg4?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-15T02:07:36.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "New restaurants in Dubai 2026: 32 just-opened spots you need to try - Time Out Dubai",
+            "originalTitle": "New restaurants in Dubai 2026: 32 just-opened spots you need to try - Time Out Dubai",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOMEF3RUx6T0lxT1hBeDRQV2dBQk93LTExbjFHNWRyci1fYkExcXAyZVE0dDN4RWFPRHotSHAxcnp5Q1ozam1faGZWYVBXNEdCWDlKZVRDeVVFa0V5dkJ2MWtmNHZQdU05R3VBa3JvNW1sSVpTV29CSFVKYw?oc=5",
+            "source": "Time Out Dubai",
+            "sources": [
+              "Time Out Dubai"
+            ],
+            "heatScore": 50,
+            "publishedAt": "2026-10-15T04:30:17.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "سلطان المنصوري: 2.1 تريليون درهم حجم التجارة غير النفطية بين دبي والصين خلال عقد - www.wam.ae",
+            "originalTitle": "سلطان المنصوري: 2.1 تريليون درهم حجم التجارة غير النفطية بين دبي والصين خلال عقد - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPMmJ0NGpPYmtKaVlYOFo0YVZNa2p4Z1J2Wi1JdDh0dXdsV3o3enB4akY0bVZnREdmTFNpaGg5TFhtMktMVXU1aVNKY25GMzZ0XzdjaExpY3NOSE5ZSDE2elhodm0xZVN2V0FMelNSX051UzJjR04xV1RNMzU0dW1lY2F4MEVDcjNvUGpOa3hjZGY1eTY0U1RGV3VvRTF6RFZqWkE5WXltbVRvQU0wV3k0N1lmMTRvTHAzdzJUZTNhLUFXT2NsVU8wOW1jZHBJdjFZRGdTTmRSblNDN1VsRjMxVUpDNC1TM3UwMlRicTN1WFBGOGl0ZWF0dGxLczdNbXNpQWVfcWNINFFBd2tqeTRUZ0Z4TUVsY1p2TUUzM1dLSS11eTZNdGgzUG5laDBCNmVUWWJhY1pQb0lQQm5IemNHY2RzMmdDdDJETk0yVDBUUUNJVW5XV3BRM1BLMTFsTWwwNi0xeVNEMTZ4ZUNlWVVrMkNhNkpGQkc3Uy1MaGhmVXFBLWc?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-10-14T12:00:08.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "تحالف الابتكار.. دبي والصين تسرعان اقتصاد الذكاء الاصطناعي - البيان",
+            "originalTitle": "تحالف الابتكار.. دبي والصين تسرعان اقتصاد الذكاء الاصطناعي - البيان",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ejRMZ1hOVGdMbzZMTVI2TEVzSExkNG5RY183ZVpfTkw0NjBOdUZXLVI1VTR1U3U0RjBGN1VYMFlRaElwQnJwZDVPN3k5SDMxNDFGQUJYVWtfYWYzdWJyekc4cFlqYTAxcFBsS08xZE7SAXBBVV95cUxNOXo0TGdYTlRnTG82TE1SNkxFc0hMZDRuUWNfN2VaX05MNDYwTnVGVy1SNVU0dVN1NEYwRjdVWDBZUWhJcEJycGQ1Tzd5OUgzMTQxRkFCWFVrX2FmM3VicnpHOHBZamEwMXBQbEtPMWRO?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-15T13:35:22.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "دبي والصين تتعاونان لإطلاق ممر للذكاء الاصطناعي المساعد.. 295 ألف شركة و100 وكيل ذكي ضمن الأهداف - https://emirates24.net/",
+            "originalTitle": "دبي والصين تتعاونان لإطلاق ممر للذكاء الاصطناعي المساعد.. 295 ألف شركة و100 وكيل ذكي ضمن الأهداف - https://emirates24.net/",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SUl82ZnRPSjBueGZzVXdFdHhCMUtGLThvcDVuNGpnTUE4X0haTnBGQUdfNzJ6ZjRaNmVDSW1GZE5ENnA5NE5fZ28xdTRCc3NST1lN?oc=5",
+            "source": "https://emirates24.net/",
+            "sources": [
+              "https://emirates24.net/"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-15T15:22:51.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Dubai-China non-oil trade tops $500bn over past decade - アラブニュース",
+            "originalTitle": "Dubai-China non-oil trade tops $500bn over past decade - アラブニュース",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUdhT2dCQUV2VHQyTlFsSTJ1SmJDVnJsQnNrYkVFS1pka0tnMF9TOWJOclNZNVU1VGJQSHdnTDUwQkluRkxxRkJ3MXVnZG0yZUI3WFNrZnNZUDVCdWk3RkU3U3FXSG5FNV93X1lfSDZLby1DNWR5Ymg5TGJZV0lmcHZvRDZ0UVdxYVFYZ2tjcUdXYXc3UHNFWV8tMjlHdw?oc=5",
+            "source": "アラブニュース",
+            "sources": [
+              "アラブニュース"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-15T12:43:15.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "منشأة لوجستية في دبي لتعزيز سلاسل الإمداد مع الصين - صحيفة الخليج",
+            "originalTitle": "منشأة لوجستية في دبي لتعزيز سلاسل الإمداد مع الصين - صحيفة الخليج",
+            "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxQRTI4ZjhvS1c2al8yVXZfWnFRWU1DWUVoc2drdkFTMFBHeXBXNnRwMkJoREx3aWM0UDBrMFgzWmRyMkkzcFdDYm1McWFSMGhJTmQ4VlEzYkZjdzI3SWViaVhmY1dGNURmNVVFVk40V2d6V2lrZmhmS3JqaUVyc0VDd1R5cUZBQnZfNTBDN2JYZGNhblgxV1FlVnpwQUFsWXV3TDJLQWZxTTllbzgtTERpTlNnY0M5am4tWDJqTFFLOXpPVlRmNmVKVkU4ZlZlYTVlSkVEcW0tUnJtWkc2bGoxbm9qTUpfME11UXhYYjBhTlZ4MGliLTlKMFdrQVZUUVppdlRRYUZYdnl6YXk5SzlHeExtV2ttVWZjSEtMLUx0UXlpd2lYLW13OGk2VU83XzFlSGEzbERGSEI1R0NPVmxqTDFHdGc1WHJDaHBzczZvMDlMS3p0aVNJcXcwM0R2SE5MblZKYnpSamY2b1Q5SmdJSWcyaDktVFYwaXNzVDJNUVFET2dQVXNXcTdEMUdqWEsxTmZxSEZLajhLUGxBZTdVQXMtcmxkRFR2RS1rdUQ5ZDF2WWt4VEFKY2I0c2NCVk4zdnFOeXZhaGR6WFB2SWlMbTBuS0VueXlFN1VoTDJuY0lSWlRwTlV0dHVVa1NqSnRReGRienh1WjZLdVVmY0RxR3lUZkF3bmFza1ZOUnFRNmZCeTliUmZSc0c3eldGckJOWl9kV2l5clh4V3c4Nk9RcGF6Wkh2aGJpR2hPWnVpMnBpbjdMQ19WdjJDVGJZbWJMWVMtejNTRWJiSVR3LWlKcW0xR2NNQmM2blNxa0k5dVJxMy1PNTJiWFNOcHA?oc=5",
+            "source": "صحيفة الخليج",
+            "sources": [
+              "صحيفة الخليج"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-15T13:44:58.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "ما وراء الصورة التقليدية: الإمارات العربية المتحدة بعدسة HUAWEI XMAGE - موقع القيادي",
+            "originalTitle": "ما وراء الصورة التقليدية: الإمارات العربية المتحدة بعدسة HUAWEI XMAGE - موقع القيادي",
+            "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQWnZGZ21RQ1BQcWdoWF9CaWpmaF9DTkVFSUE0aUFzdjhIZ1hNSFB4U3pNeEU1a1VpTGtjYk5pTjd0N1hrc0VIdWctd3pPYUFhVEh1eFZJTTJ4YVBPellGN1I1UnZnRGdSMGN3TXdrMWwxYnZYZVRTUHQwclJUdTloamFzSW5wMlhJVXZYankybjBTVnA4UXVhczgtc3djMXVISUlIc2hZbThlS1pYVENxS1BCWm5WWVhMdUtDQjFUUEFaM0RIS19VaENmQldVSTF0X3UzVHhDZU9sZ3RSVXdqOUR4QnRTV0llRlRkMkhMdzJqM0tENVU5MnhDa3JCNl9QY01CNEdoeFphdFBVUGhuZmpRR1lFdWtFeTVGVFNwLUFGbU02a3ExeXVDMFRPLWs3d2VmOFpUZlh2eWVhLXVPSTNvazFNX0JsNUNibG82d3RyRFdpRlNWTTVXakhuUXFCcUlpRFNNT1c2a0NjdExkWVlCMHg3eGtDNXE0VzVHUEJuNlhBdzhFaWdyajFQdXBlZGNPd3ZmS0Nzc2d3UnNRMjZrODRpcGQ0QnFaa2RKNURoX05vNFIxaExUZTZ3d2MyWElqTkRtcVFPRHZlcGN5VU9nLWp1ZDFhakZIeEt0ZzhxazdOdlRTRdIB7gNBVV95cUxNbGFnNm4tM3Y1aVlfMUlpNjY5MVFTbU52clhoSFduMFJYYzNkY0lKV0xKanVOYTcwb1A5MXl2WGYtQ1BtX1Rodl9GcXhFWjBpZ3doVmxmajk1SEtEcVoxSkRWeWxZbmNQVXMzOFN1d19NdE9kSUplMl81NVBud1Z2RG1XQmROUHUtZzZYZXBEVE11RW5HVV9mZ3NhNllITVlMMU92NDB3LTJpTnV3VFpVTDNWa0t0WkdUZnlOUGh4aDFURzQ2V3ZPRjE0ODBMYVR0NkpaZDRYNnNQVUw1dGZwdGlXN21HZDRlZTl5ZE1uT2hPSktocHNSQ3Rac3JZWVEyaDIxVUxfNWtza2Z0WVE0TU9PZjEwOGplcEVWeUVVeTZSNTNadkVwUzJwVjUzS1NacWR5c0QxLXFhR1ZkcXVodFBIdXl4bHczQVZBV1Vlak9GS0JUREhPMWJlU1UyVk1pSVhIMldDZzVGdEF4UFBYODRuejRGRWRLYWpVajhpSHkxaFA0bExsZ1doUWdCbWtEbFhsUFlmLWJaX3czeEZXdFVIcUU2aVZCZkZFekpuOGRCVVgxdEJuem5UQ19wQTd0bG45QnN6WkRCcldEbkx6dVRLZlkzTG85WE9zNGN2TDRxOHdJNGRsNU1zNi14Zw?oc=5",
+            "source": "موقع القيادي",
+            "sources": [
+              "موقع القيادي"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-15T12:47:22.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "على هامش منتدى دبي للأعمال – الصين في شنجن قرقاش برايم و جينغ دونغ بروبرتي توقّعان اتفاقية شراكة لإنشاء منشأة لوجستية في دبي - Government of Dubai Media Office",
+            "originalTitle": "على هامش منتدى دبي للأعمال – الصين في شنجن قرقاش برايم و جينغ دونغ بروبرتي توقّعان اتفاقية شراكة لإنشاء منشأة لوجستية في دبي - Government of Dubai Media Office",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFT3VqYVgzRkx5QWVsSE93OTE2aWZHX0dMT3p0dUdCcGpoU3Q3T0NpWmtBY25SbWVyWWJocVVtOTRjaDY0QVU2Q0x1TzIteTBCUmg5UkJDb24tSU1ZLUhfMWdlNmpMY0QtbTc2QlRyWnpsQ3VZaFE?oc=5",
+            "source": "Government of Dubai Media Office",
+            "sources": [
+              "Government of Dubai Media Office"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-15T07:04:40.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "مجلس سيدات أعمال دبي: تنامي حضور سيدات الأعمال الصينيات في دبي - البيان",
+            "originalTitle": "مجلس سيدات أعمال دبي: تنامي حضور سيدات الأعمال الصينيات في دبي - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Qm5fWFBkWWVlNERIdUFTRzNrU0UtdEJOT3I1bmVsYU12cVpKdERpZlRyRDduQXZndVM1RVhiTW9jNGZReTN4bkFCSWhiZTI3RmM1QU1QczBLbjdHSUxacWEwZk43Q3lzeEMw0gFwQVVfeXFMTVJaRzR4dkNSYVBrU294SUJOYUZtR001T2JqREFTeFNIZ0tNREp5M2ZBNlhKVDJfZUtoNnJmcndrUE16MXhBbndPYjRiZGp0aklfeU54ZzZmTExHSzQ5NTBSRjFxUk5iYkFpMXRleVluTA?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-15T10:03:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "التجارة غير النفطية بين الصين ودبي ترتفع 23 بالمئة إلى 99 مليار دولار خلال ‌‏2025 - سانا",
+            "originalTitle": "التجارة غير النفطية بين الصين ودبي ترتفع 23 بالمئة إلى 99 مليار دولار خلال ‌‏2025 - سانا",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVT3lmT1pNSmJxcmVQSG5Jend4dnBQUkRvN1ZjTF9GTjdqSEZlbWpWWUdQWHNaNU1LWTlEYVE2NGw1elUzaklV?oc=5",
+            "source": "سانا",
+            "sources": [
+              "سانا"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-15T09:20:38.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "منتدى دبي للأعمال – الصين يختتم أعماله في شينجن بتعزيز الشراكات الاستثمارية والتجارية - أربيك",
+            "originalTitle": "منتدى دبي للأعمال – الصين يختتم أعماله في شينجن بتعزيز الشراكات الاستثمارية والتجارية - أربيك",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ra3BYZ3A4THgwZ1NDdDFqRFNzX2xidF9LaHpLN25zTDZjc0JjNTZpV2FqeUlJSnFEcGxiMmh4dERBT1Z3ZXd3RzJoUWRBZw?oc=5",
+            "source": "أربيك",
+            "sources": [
+              "أربيك",
+              "صوت الإمارات"
+            ],
+            "heatScore": 55,
             "publishedAt": "2026-10-14T12:55:25.000Z"
           }
         ]
