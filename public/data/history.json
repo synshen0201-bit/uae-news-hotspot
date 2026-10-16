@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T19:21:24.330Z",
+  "updatedAt": "2026-10-16T19:53:01.451Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -19173,7 +19173,7 @@
     },
     "2026-10-16": {
       "date": "2026-10-16",
-      "updatedAt": "2026-10-16T19:21:24.330Z",
+      "updatedAt": "2026-10-16T19:53:01.451Z",
       "categories": {
         "all": [
           {
@@ -19198,7 +19198,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 98,
+            "heatScore": 97,
             "publishedAt": "2026-10-16T19:15:46.000Z"
           },
           {
@@ -19210,7 +19210,7 @@
             "sources": [
               "Brazil-Arab News Agency"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-10-16T19:02:10.000Z"
           },
           {
@@ -19222,7 +19222,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-10-16T18:53:55.000Z"
           },
           {
@@ -19234,7 +19234,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 93,
+            "heatScore": 92,
             "publishedAt": "2026-10-16T18:12:45.000Z"
           },
           {
@@ -19246,7 +19246,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 92,
             "publishedAt": "2026-10-16T15:36:24.000Z"
           },
           {
@@ -19258,7 +19258,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 92,
+            "heatScore": 91,
             "publishedAt": "2026-10-16T14:37:27.000Z"
           },
           {
@@ -19270,7 +19270,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-16T17:33:14.000Z"
           },
           {
@@ -19282,7 +19282,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-16T13:39:03.000Z"
           },
           {
@@ -19294,7 +19294,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 90,
+            "heatScore": 89,
             "publishedAt": "2026-10-16T12:05:20.000Z"
           }
         ],
@@ -19308,7 +19308,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 98,
+            "heatScore": 97,
             "publishedAt": "2026-10-16T19:15:46.000Z"
           },
           {
@@ -19320,7 +19320,7 @@
             "sources": [
               "Brazil-Arab News Agency"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-10-16T19:02:10.000Z"
           },
           {
@@ -19332,7 +19332,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 95,
+            "heatScore": 94,
             "publishedAt": "2026-10-16T18:53:55.000Z"
           },
           {
@@ -19344,7 +19344,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 93,
+            "heatScore": 92,
             "publishedAt": "2026-10-16T18:12:45.000Z"
           },
           {
@@ -19356,7 +19356,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 93,
+            "heatScore": 92,
             "publishedAt": "2026-10-16T15:36:24.000Z"
           },
           {
@@ -19368,7 +19368,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 92,
+            "heatScore": 91,
             "publishedAt": "2026-10-16T14:37:27.000Z"
           },
           {
@@ -19380,7 +19380,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-16T17:33:14.000Z"
           },
           {
@@ -19392,7 +19392,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-16T13:39:03.000Z"
           },
           {
@@ -19404,7 +19404,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 90,
+            "heatScore": 89,
             "publishedAt": "2026-10-16T13:44:52.000Z"
           },
           {
@@ -19416,7 +19416,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 89,
+            "heatScore": 88,
             "publishedAt": "2026-10-16T16:52:18.000Z"
           }
         ],
@@ -19430,23 +19430,11 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 90,
+            "heatScore": 89,
             "publishedAt": "2026-10-16T12:05:20.000Z"
           },
           {
             "rank": 2,
-            "translatedTitle": "Al Shifaa峰会于10月20日返回阿布扎比",
-            "originalTitle": "Al Shifaa Summit returns to Abu Dhabi from October 20",
-            "url": "https://c.newsnow.co.uk/A/1327256909?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-16T15:20:46.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "捍卫合作伙伴：以色列-阿联酋关系中的防空外交-电子国际关系",
             "originalTitle": "Defending a Partner: Air Defense as Diplomacy in Israel–UAE Relations - E-International Relations",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMaXFHTXlIUG5ySzJISkxUTnRxcG1FeGM3ZGJUYmZ6ZW1nTlU3a3c3UGRlR0tEQjhwTXdGNzRrSTJ0cktJUDd2YmRlTDA0M2l2cjFicHpzbDJpem42MVowUC0xNGk2Y3k3?oc=5",
@@ -19458,20 +19446,7 @@
             "publishedAt": "2026-10-16T09:57:28.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "EAM Jaishankar将于下周在孟买接待来自阿联酋和美国的同行- IANS LIVE",
-            "originalTitle": "EAM Jaishankar to host counterparts from UAE, US in Mumbai next week - IANS LIVE",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDZYQm1rV0tZdzRuZDN3aHF4VUdNN3JGbm1WdWl0SjJVOXR2MXZ3YjNPRnhoVnlEMW5jYjJjSzF5QTBuZGN0S3dETGduT2R2bVJGRHpxM3JIQ1V2cFlEeXVfSEIyZVU1MzJaRWc1TU9oUmJrWXIzTFpNNmx4WnI1T0FYZV9IbDV0YktwVnpjeWpwc2JDQmVfRmtSXzRNaGVRUnR4NmdwcXFTZS1lODVtT1Q2N0JOVkFHelhQRWdyX2V2d2xEc2ZvWS1n0gHKAUFVX3lxTE9INlhCbWtXS1l3NG5kM3docXhVR003ckZubVZ1aXRKMlU5dHYxdndiM09GeGhWeUQxbmNiMmNLMXlBMG5kY3RLd0RMZ25PZHZtUkZEenEzckhDVXZwWUR5dV9IQjJlVTUzMlpFZzVNT2hSYmtZcjNMWk02bHhacjVPQVhlX0hsNXRiS3BWemN5anBzYkNCZV9Ga1JfNE1oZVFSdHg2Z3BxcVNlLWU4NW1PVDY3Qk5WQUd6WFBFZ3JfZXZ3bERzZm9ZLWc?oc=5",
-            "source": "Devdiscourse",
-            "sources": [
-              "Devdiscourse",
-              "IANS LIVE"
-            ],
-            "heatScore": 79,
-            "publishedAt": "2026-10-16T13:47:12.000Z"
-          },
-          {
-            "rank": 5,
+            "rank": 3,
             "translatedTitle": "世界警察峰会对话涉及人工智能、非法金融- www.uaebarq.ae",
             "originalTitle": "World Police Summit Dialogue addresses AI, illicit finance - www.uaebarq.ae",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeF92NDZxRnlGak50RmQ4X01vMnBqTnRldWtjZzhISG1xVXZaWE5Bcm5USVdsbVZaT2hCR2xFdkUtc0VIbVJCcEdCTWxhLWJsQ2pmRjY3Y1VvclpjeHpvamNwa2JTTm9YaHU5VDZRTHZaeUtVY0dsUlktbGV5a0xqemhvS21VdXBTb2MtWUktNzNvTjVWNEZWcjRlWQ?oc=5",
@@ -19479,11 +19454,11 @@
             "sources": [
               "www.uaebarq.ae"
             ],
-            "heatScore": 70,
+            "heatScore": 69,
             "publishedAt": "2026-10-16T19:11:27.000Z"
           },
           {
-            "rank": 6,
+            "rank": 4,
             "translatedTitle": "Jaishankar将于下周在孟买与阿联酋外交部长卢比奥会面",
             "originalTitle": "Jaishankar to meet Rubio, UAE Foreign Minister, in back-to-back separate visits in Mumbai next week - The Hindu",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3dicC1MQ0RsMzM3R1d4SF9EMlN4QVFyZFN4b3dyUjN1bEMtNXlmWW5MRXF6dUNoNHB4UElLV1lFZFJaTVJ6bUNqa2E3c1ppeDRNblZBa1BOQzlBaEtvSHFSaFRFUi13SXdIZ21WbnVKdWRhTWFhVG5LNjhoYVpSZWlNNFFiM2VmNmNBUTZ2bDZnWXBfdk5vWVp6My1IdGc0QkU1bW44ZUwtOEJ4d1RLaUJ0TUVyQdIBvAFBVV95cUxPbmF5MHAySnlIcHpxWGNoZDNRa2lzLXBEZXpKR3NQNlJvQkp4RE55cHNUbTc1dXJUZXUtV1RXSzd4cGxZUVRONjY5R2VZT3dKTWx6b2VoSWtwbFZEQ0k5Tk44TmhXOFJWb2JVTWFLS0VWLWJRelBCaDRHaDBSbnhZdlF0RkxlbzllblZtZFg4bDBNTG81enc0QmZJU1ltdVFTX2V6WkhMNGwtRUNtRDdPNlpWVlJndGJ6R2RsTQ?oc=5",
@@ -19491,11 +19466,23 @@
             "sources": [
               "The Hindu"
             ],
-            "heatScore": 67,
+            "heatScore": 66,
             "publishedAt": "2026-10-16T16:25:41.000Z"
           },
           {
-            "rank": 7,
+            "rank": 5,
+            "translatedTitle": "EAM Jaishankar将于下周在孟买接待来自美国阿联酋的同行- Devdiscourse",
+            "originalTitle": "EAM Jaishankar to host counterparts from UAE, US in Mumbai next week - Devdiscourse",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDZYQm1rV0tZdzRuZDN3aHF4VUdNN3JGbm1WdWl0SjJVOXR2MXZ3YjNPRnhoVnlEMW5jYjJjSzF5QTBuZGN0S3dETGduT2R2bVJGRHpxM3JIQ1V2cFlEeXVfSEIyZVU1MzJaRWc1TU9oUmJrWXIzTFpNNmx4WnI1T0FYZV9IbDV0YktwVnpjeWpwc2JDQmVfRmtSXzRNaGVRUnR4NmdwcXFTZS1lODVtT1Q2N0JOVkFHelhQRWdyX2V2d2xEc2ZvWS1n0gHKAUFVX3lxTE9INlhCbWtXS1l3NG5kM3docXhVR003ckZubVZ1aXRKMlU5dHYxdndiM09GeGhWeUQxbmNiMmNLMXlBMG5kY3RLd0RMZ25PZHZtUkZEenEzckhDVXZwWUR5dV9IQjJlVTUzMlpFZzVNT2hSYmtZcjNMWk02bHhacjVPQVhlX0hsNXRiS3BWemN5anBzYkNCZV9Ga1JfNE1oZVFSdHg2Z3BxcVNlLWU4NW1PVDY3Qk5WQUd6WFBFZ3JfZXZ3bERzZm9ZLWc?oc=5",
+            "source": "Devdiscourse",
+            "sources": [
+              "Devdiscourse"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-16T13:47:12.000Z"
+          },
+          {
+            "rank": 6,
             "translatedTitle": "阿联酋驻赫兹利亚常驻大使馆向前推进15层建筑群-媒体专线",
             "originalTitle": "Permanent UAE Embassy in Herzliya Moves Forward With 15-Story Complex - The Media Line",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemtTMTBhSU5yVWcta21heWZ2bF9KUHlPQWIxNmM1TWt4MmNyWktUMmdQOXc3bTVYeW1ZME1fTVVUdTh4aWVJdlo3Y0dheE1YbG8tWWJxOTFlQ01XYWY4UURpbVVJZDN0TFhldW1RM284Z29BS0ZhY2Z3REw2S0tneHlqZmZmZGZDS1pNR0t5aDJKRzNvZU1rODBGOGJhbkJGeWsyZk1MQ3I?oc=5",
@@ -19503,8 +19490,21 @@
             "sources": [
               "The Media Line"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-16T07:50:36.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Jaishankar会见阿联酋外交部长，讨论双边和全球问题- Daily Excelsior",
+            "originalTitle": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues - Daily Excelsior",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUQzSDdEN0IxODAtczFhVzdKTGlvdkgyb1VkSUtQOGhTcDZrdHlSWERKOGExMWZ3S21nZWphNmU3TFptV0kxZmd4a1VBcHBOdXlGN2tKX0s0NXo0aHQ1MVhjd2lRM1U2SGNQcVVNdGJ0NHRISEk2MFFjeWZTZVYtOTFhYWlhZmJVeTlFUzNoMC0za2tLdFkzQ0YtQzktbHFzR1pieENkWU1OMEdIZk9j0gGvAUFVX3lxTFAxRDNIN0Q3QjE4MC1zMWFXN0pMaW92SDJvVWRJS1A4aFNwNmt0eVJYREo4YTExZndLbWdlamE2ZTdMWm1XSTFmZ3hrVUFwcE51eUY3a0pfSzQ1ejRodDUxWGN3aVEzVTZIY1BxVU10YnQ0dEhISTYwUWN5ZlNlVi05MWFhaWFmYlV5OUVTM2gwLTNra0t0WTNDRi1DOS1scXNHWmJ4Q2RZTU4wR0hmT2M?oc=5",
+            "source": "Daily Excelsior",
+            "sources": [
+              "Daily Excelsior",
+              "Metro Vaartha"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-15T23:00:59.000Z"
           },
           {
             "rank": 8,
@@ -19515,7 +19515,7 @@
             "sources": [
               "Moneycontrol.com"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-16T12:09:43.000Z"
           },
           {
@@ -19527,7 +19527,7 @@
             "sources": [
               "وزارة الخارجية الإماراتية"
             ],
-            "heatScore": 58,
+            "heatScore": 57,
             "publishedAt": "2026-10-16T05:37:12.000Z"
           },
           {
@@ -19553,7 +19553,7 @@
             "sources": [
               "Reuters"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-16T12:35:43.000Z"
           },
           {
@@ -19589,7 +19589,7 @@
             "sources": [
               "Aviation24"
             ],
-            "heatScore": 67,
+            "heatScore": 66,
             "publishedAt": "2026-10-16T16:24:50.000Z"
           }
         ],
@@ -19634,18 +19634,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋官员表示，与美国与伊朗的冲突开始时相比，阿联酋为战争“做好了更好的准备”",
-            "originalTitle": "UAE 'better prepared' for war than when US conflict with Iran began, says official - The National",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeG5tQWdGTWNBMEhxOUhHNEpBUmdmVmxpRWJxV0NlQnc4WlpuN3dRNDdGSWJtUC16eENfdXFqdkNRakw1MHVSeFZqNGhjZHY0eXRFbTYyVjI3a1Zxa2pqdEcwdVlXaEhHQnAwdFlKX2J4RU9RWWpHbmhtbE9KUTN3TGFvM2hwc3BkdjBkTWJiSjV3bXdhSUwzS2d4VW1uSDc2WnY0YnhkZHRhUEVXczdHQ1VacTNlQ0JoOWNCbkJ1MWhQQ3FFNXBSZmFDYXIxZw?oc=5",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 68,
-            "publishedAt": "2026-10-15T14:18:26.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "迪拜军事养老金基金启动2026-2028年战略计划- Big News Network.com",
             "originalTitle": "Dubai Military Pensions Fund launches 2026-2028 Strategic Plan - Big News Network.com",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQk9iUUQ0ZnZJSVh1UFBjUExyRFdPYmpPWHRSS3F3YWJLU2t0Tm9GTjZpOWlVbXA1NzkxYzZLamdoYUREMWN5RzZ0MU1zMzFEU2tSVThzcElUVEF6UlZqc2N6bVJTcXhZRi1neTFoLUQ0ajVjR3FLc1hJeHRDaFd5NE54WXpkejJKZzVOVFprNVR1UVowRnhseWhPR1BOV1NfNlk2NFFncDRtdXRk?oc=5",
@@ -19655,6 +19643,18 @@
             ],
             "heatScore": 66,
             "publishedAt": "2026-10-16T16:06:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋官员表示，与美国与伊朗的冲突开始时相比，阿联酋为战争“做好了更好的准备”",
+            "originalTitle": "UAE 'better prepared' for war than when US conflict with Iran began, says official - The National",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeG5tQWdGTWNBMEhxOUhHNEpBUmdmVmxpRWJxV0NlQnc4WlpuN3dRNDdGSWJtUC16eENfdXFqdkNRakw1MHVSeFZqNGhjZHY0eXRFbTYyVjI3a1Zxa2pqdEcwdVlXaEhHQnAwdFlKX2J4RU9RWWpHbmhtbE9KUTN3TGFvM2hwc3BkdjBkTWJiSjV3bXdhSUwzS2d4VW1uSDc2WnY0YnhkZHRhUEVXczdHQ1VacTNlQ0JoOWNCbkJ1MWhQQ3FFNXBSZmFDYXIxZw?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-15T14:18:26.000Z"
           },
           {
             "rank": 6,
@@ -19701,7 +19701,7 @@
             "sources": [
               "مكتب أبوظبي الإعلامي"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-16T13:58:51.000Z"
           },
           {
@@ -19756,6 +19756,18 @@
           },
           {
             "rank": 4,
+            "translatedTitle": "迪拜以假驾驶执照计划逮捕8人- ARN新闻中心",
+            "originalTitle": "Dubai arrests 8 in fake driving licence scheme - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjc4cjMybVZyUVNXcFRoS1pLWnI0SkVIRTV5S2xzQXJpcEYwVlg0QWtQWG1lN2pBQ1VEV21kVXpxQkNCUHFrRnp2X29IWVRxX3pod2tVUlZNYmx5UWc3czJYVU5abFctVjEwSUE5Nk9nQzhpdnl5YXUwdDM2VVZjcEg3dUUwVC15M1lkdWlB?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-16T12:31:59.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "阿联酋国民成为首个被选为国际货币基金组织高级职位的阿联酋人--迪拜之眼103.8",
             "originalTitle": "UAE national becomes first Emirati selected for senior IMF role - Dubai Eye 103.8",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmRUVmRQVjI4a05zeHp5TWU4N1YxaW1fWUJENVp1TlZCT2Y0a1NwNDlabmw2TkNXWFFZMjZPbFhGR294cUlENUcyM1lwTVNHZWxoVUU5VFdKanBWNWFldkNEa2ZfVVRjOUEwanN0X2JOUEN1RlZrMHpiNTNreFVkV1JhZmxmY25SRk9KaEZac1FfUUx5emNNM21DV0kzbFhlSk5PM19hQTY4RWs?oc=5",
@@ -19763,20 +19775,8 @@
             "sources": [
               "Dubai Eye 103.8"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-16T13:56:09.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "迪拜以假驾驶执照计划逮捕8人- ARN新闻中心",
-            "originalTitle": "Dubai arrests 8 in fake driving licence scheme - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWc0R1VjVmdKU05HVXZiNzJCOGVKaVBqYWFwcDd2WXRSaDJzTWNZdndGT0xfWHBmMFBNQ0hUcllIS3ZBR1pNbzN3Y05WSlVtVWd4WW53YlBpbzVjMEp6RHVXQl9kQVpUTll1WUc3MG9aQ185TjRyakZIUkZtdTB6NGFvNzF3XzBXNDhjMWhJNTZhQQ?oc=5",
-            "source": "ARN News Centre",
-            "sources": [
-              "ARN News Centre"
-            ],
-            "heatScore": 64,
-            "publishedAt": "2026-10-16T12:31:59.000Z"
           },
           {
             "rank": 6,
@@ -19811,7 +19811,7 @@
             "sources": [
               "UA.NEWS"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-16T11:11:46.000Z"
           },
           {
@@ -19823,7 +19823,7 @@
             "sources": [
               "lovin.co"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-16T11:04:43.000Z"
           },
           {
@@ -19850,7 +19850,7 @@
               "صوت الإمارات",
               "البيان"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-10-16T09:57:57.000Z"
           },
           {
@@ -19862,7 +19862,7 @@
             "sources": [
               "الإمارات اليوم"
             ],
-            "heatScore": 70,
+            "heatScore": 69,
             "publishedAt": "2026-10-16T14:53:47.000Z"
           },
           {
@@ -19874,7 +19874,7 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 67,
+            "heatScore": 66,
             "publishedAt": "2026-10-16T10:24:47.000Z"
           },
           {
@@ -19886,7 +19886,7 @@
             "sources": [
               "www.uaebarq.ae"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-16T10:00:19.000Z"
           },
           {
@@ -19898,7 +19898,7 @@
             "sources": [
               "صحيفة الخليج"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-16T13:08:21.000Z"
           },
           {
@@ -19910,7 +19910,7 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 63,
+            "heatScore": 62,
             "publishedAt": "2026-10-16T10:27:00.000Z"
           },
           {
