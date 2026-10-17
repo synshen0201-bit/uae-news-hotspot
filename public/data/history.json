@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T19:15:51.098Z",
+  "updatedAt": "2026-10-17T19:47:31.263Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -19930,7 +19930,7 @@
     },
     "2026-10-17": {
       "date": "2026-10-17",
-      "updatedAt": "2026-10-17T19:15:51.098Z",
+      "updatedAt": "2026-10-17T19:47:31.263Z",
       "categories": {
         "all": [
           {
@@ -19948,19 +19948,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "阿布扎比启动受伤或滞留野生动物救援网络",
-            "originalTitle": "Abu Dhabi launches rescue network for injured or stranded wildlife",
-            "url": "https://c.newsnow.co.uk/A/1327319764?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News",
-              "The National"
-            ],
-            "heatScore": 97,
-            "publishedAt": "2026-10-17T13:53:43.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "3名阿联酋彩票玩家每人赢得50,000迪拉姆，因为幸运日标志着第100次抽奖",
             "originalTitle": "3 UAE Lottery players win Dh50,000 each as Lucky Day marks 100th draw",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-lucky-day-draw-results-oct-17-2026",
@@ -19968,35 +19955,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-17T17:59:00.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "阿联酋同意沙特阿拉伯在胡塞武装获利后重返也门冲突--《卫报》",
-            "originalTitle": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains - The Guardian",
-            "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
-            "source": "The Guardian",
-            "sources": [
-              "The Guardian"
-            ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-17T14:46:00.000Z"
-          },
-          {
-            "rank": 5,
-            "translatedTitle": "Dh30m阿联酋彩票：幸运日标志着第100次抽奖",
-            "originalTitle": "Dh30m UAE Lottery: Lucky Day marks 100th draw",
-            "url": "https://c.newsnow.co.uk/A/1327331543?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-17T17:57:57.000Z"
-          },
-          {
-            "rank": 6,
+            "rank": 3,
             "translatedTitle": "巴格达广场萨马拉塔：世博城如何成为阿联酋家庭的“迷你伊拉克”",
             "originalTitle": "Samarra Tower, Baghdad Square: How Expo City turned into ‘mini Iraq’ for UAE families",
             "url": "https://www.khaleejtimes.com/uae/baghdad-square-expo-city-mini-iraq-uae-families",
@@ -20004,11 +19967,35 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 86,
+            "heatScore": 85,
             "publishedAt": "2026-10-17T15:57:35.000Z"
           },
           {
-            "rank": 7,
+            "rank": 4,
+            "translatedTitle": "Dh30m阿联酋彩票：幸运日标志着第100次抽奖",
+            "originalTitle": "Dh30m UAE Lottery: Lucky Day marks 100th draw",
+            "url": "https://c.newsnow.co.uk/A/1327331543?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-10-17T17:57:57.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋同意沙特阿拉伯在胡塞武装获利后重返也门冲突--《卫报》",
+            "originalTitle": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains - The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-17T11:57:15.000Z"
+          },
+          {
+            "rank": 6,
             "translatedTitle": "超过15,000人在迪拜庆祝伊拉克",
             "originalTitle": "Over 15,000 people celebrate Iraq in Dubai",
             "url": "https://c.newsnow.co.uk/A/1327329797?-15565:1965",
@@ -20016,11 +20003,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 83,
             "publishedAt": "2026-10-17T17:17:05.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "“打击不断，我感觉飞机坠毁了” ：驾驶舱战斗中的Flydubai机长拯救了他的飞机",
             "originalTitle": "'Blows kept coming, I felt the aircraft going down': Flydubai captain on the cockpit battle to save his plane",
             "url": "https://c.newsnow.co.uk/A/1327329352?-15565:1965",
@@ -20028,11 +20015,11 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-17T17:08:31.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "“生命建立在慈悲之上” ：迪拜统治者通过人道主义工作传播善意",
             "originalTitle": "‘Life is built on compassion’: Dubai Ruler on spreading kindness through humanitarian work",
             "url": "https://www.khaleejtimes.com/uae/compassion-dubai-ruler-kindness-humanitarian-work-book",
@@ -20044,7 +20031,7 @@
             "publishedAt": "2026-10-17T14:19:13.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "阿联酋的Anwar Gargash敦促海湾国家公民避免社交媒体争吵- Khaleej Times",
             "originalTitle": "UAE's Anwar Gargash urges Gulf nationals to avoid social media spats - Khaleej Times",
             "url": "https://www.khaleejtimes.com/world/gulf/uae-anwar-gargash-urge-gulf-nationals-avoid-social-media-spats",
@@ -20054,6 +20041,18 @@
             ],
             "heatScore": 83,
             "publishedAt": "2026-10-17T13:35:41.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "“我的灵魂是伊拉克人，我的心是阿联酋人” ：伊拉克社区在迪拜齐聚一堂庆祝",
+            "originalTitle": "'My soul is Iraqi, my heart is Emirati': Iraqi community comes together in celebration in Dubai",
+            "url": "https://c.newsnow.co.uk/A/1327326779?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-17T16:17:33.000Z"
           }
         ],
         "domestic": [
@@ -20072,19 +20071,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "阿布扎比启动受伤或滞留野生动物救援网络",
-            "originalTitle": "Abu Dhabi launches rescue network for injured or stranded wildlife",
-            "url": "https://c.newsnow.co.uk/A/1327319764?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News",
-              "The National"
-            ],
-            "heatScore": 97,
-            "publishedAt": "2026-10-17T13:53:43.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "3名阿联酋彩票玩家每人赢得50,000迪拉姆，因为幸运日标志着第100次抽奖",
             "originalTitle": "3 UAE Lottery players win Dh50,000 each as Lucky Day marks 100th draw",
             "url": "https://www.khaleejtimes.com/uae/uae-lottery-lucky-day-draw-results-oct-17-2026",
@@ -20092,8 +20078,20 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 88,
+            "heatScore": 87,
             "publishedAt": "2026-10-17T17:59:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "巴格达广场萨马拉塔：世博城如何成为阿联酋家庭的“迷你伊拉克”",
+            "originalTitle": "Samarra Tower, Baghdad Square: How Expo City turned into ‘mini Iraq’ for UAE families",
+            "url": "https://www.khaleejtimes.com/uae/baghdad-square-expo-city-mini-iraq-uae-families",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-17T15:57:35.000Z"
           },
           {
             "rank": 4,
@@ -20104,23 +20102,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 86,
+            "heatScore": 84,
             "publishedAt": "2026-10-17T17:57:57.000Z"
           },
           {
             "rank": 5,
-            "translatedTitle": "巴格达广场萨马拉塔：世博城如何成为阿联酋家庭的“迷你伊拉克”",
-            "originalTitle": "Samarra Tower, Baghdad Square: How Expo City turned into ‘mini Iraq’ for UAE families",
-            "url": "https://www.khaleejtimes.com/uae/baghdad-square-expo-city-mini-iraq-uae-families",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-17T15:57:35.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "超过15,000人在迪拜庆祝伊拉克",
             "originalTitle": "Over 15,000 people celebrate Iraq in Dubai",
             "url": "https://c.newsnow.co.uk/A/1327329797?-15565:1965",
@@ -20128,11 +20114,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 83,
             "publishedAt": "2026-10-17T17:17:05.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "“生命建立在慈悲之上” ：迪拜统治者通过人道主义工作传播善意",
             "originalTitle": "‘Life is built on compassion’: Dubai Ruler on spreading kindness through humanitarian work",
             "url": "https://www.khaleejtimes.com/uae/compassion-dubai-ruler-kindness-humanitarian-work-book",
@@ -20144,7 +20130,7 @@
             "publishedAt": "2026-10-17T14:19:13.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "“我的灵魂是伊拉克人，我的心是阿联酋人” ：伊拉克社区在迪拜齐聚一堂庆祝",
             "originalTitle": "'My soul is Iraqi, my heart is Emirati': Iraqi community comes together in celebration in Dubai",
             "url": "https://c.newsnow.co.uk/A/1327326779?-15565:1965",
@@ -20156,7 +20142,7 @@
             "publishedAt": "2026-10-17T16:17:33.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "阿联酋明天天气：部分地区继续下雨；迪拜水银温度将升至36°C",
             "originalTitle": "UAE weather tomorrow: Rain to continue in some areas; mercury to hit 36°C in Dubai",
             "url": "https://www.khaleejtimes.com/uae/weather/october-18-2026",
@@ -20168,7 +20154,7 @@
             "publishedAt": "2026-10-17T13:56:37.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "迪拜为户外广告设定了新的标准，以保护阿联酋的视觉形象",
             "originalTitle": "Dubai sets new standards for outdoor ads to protect emirate's visual identity",
             "url": "https://www.khaleejtimes.com/uae/dubai-new-standards-outdoor-ads-protect-visual-identity",
@@ -20178,23 +20164,23 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-17T13:38:12.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "迪拜警方妥善保管旅客在机场丢失的手提包，直到她返回阿联酋",
+            "originalTitle": "Dubai Police keep traveller's handbag lost at airport safe till she returns to UAE",
+            "url": "https://www.khaleejtimes.com/uae/dubai-police-lost-handbag-airport-safe-till-passenger-returns",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-17T11:26:18.000Z"
           }
         ],
         "diplomacy": [
           {
             "rank": 1,
-            "translatedTitle": "奇瑞汽车将展示L4 Robotaxi并与总部位于阿联酋的K2签署战略协议-雅虎财经",
-            "originalTitle": "Chery Auto to Showcase L4 Robotaxi and Sign Strategic Agreement with UAE-Based K2 - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmxfMHVoX2Z4YkxTT2U3cHRTdXVJRGFoMFJlZEVkVjVjVnhETUdVaEctVlVLcVlOVk05YTA5akJzSURWQkVYQWtKdDhla3dXb0NnS1htZy1RYU0ybjE0X2phN3lHTVF5bXN1bHJBbkRnNVQ3WG9GeEcyNW0zLXRXZUNDbVdTX1hCUVRHOUNhNlRpMFktYTlPTkthZw?oc=5",
-            "source": "Yahoo Finance",
-            "sources": [
-              "Yahoo Finance"
-            ],
-            "heatScore": 67,
-            "publishedAt": "2026-10-17T15:36:00.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "Al Shifaa峰会将于10月推动阿联酋中西医结合框架- www.wam.ae",
             "originalTitle": "Al Shifaa Summit to advance UAE integrative medicine framework in October - www.wam.ae",
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR1Q2dG96T1d4YlFJV3lONk9sMkRpdTFRYVozeHdVdldBWDdTZmxXSlprV0NfeHROLWZKRFZwODhWMnZhUmg4TzYtdzdEN2dOQnY3NkVBLTdVdklwTFlnbmZWMDc2T2pvYXpUaU84Z2o1RFdaR3N6aHNtSVhONXlrVUo4RFhuRVZaOEZJYQ?oc=5",
@@ -20206,20 +20192,19 @@
             "publishedAt": "2026-10-16T12:05:20.000Z"
           },
           {
-            "rank": 3,
-            "translatedTitle": "Jaishankar会见哈伊马角统治者，讨论印度-阿联酋关系和海湾局势- Moneycontrol.com",
-            "originalTitle": "Jaishankar meets Ras Al Khaimah ruler, discusses India-UAE ties and Gulf situation - Moneycontrol.com",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEVYVHgtOG9sN0Y1bzQ3d1I3d0Vqa29pT2FNQ2ZnMEFaQ0lPR1A1M215UlRTWFF5ZjN5ZDJFVUMwMTdvM3I0eE5zN1gwZHIwV2pKTTFRbFByaDQ2NFNXWTZCWDl6RWhBaFVYZ1g5MHktbnhyWURiN3BmSmJnWXdWNk01blB1S1Z5QTRHT2hHMDRyLV9ocklTRzljdTFXR2tNTlN4MXpnbEdPQnFJY3c?oc=5",
-            "source": "Bold News",
+            "rank": 2,
+            "translatedTitle": "奇瑞汽车将展示L4 Robotaxi并与总部位于阿联酋的K2签署战略协议-雅虎财经",
+            "originalTitle": "Chery Auto to Showcase L4 Robotaxi and Sign Strategic Agreement with UAE-Based K2 - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmxfMHVoX2Z4YkxTT2U3cHRTdXVJRGFoMFJlZEVkVjVjVnhETUdVaEctVlVLcVlOVk05YTA5akJzSURWQkVYQWtKdDhla3dXb0NnS1htZy1RYU0ybjE0X2phN3lHTVF5bXN1bHJBbkRnNVQ3WG9GeEcyNW0zLXRXZUNDbVdTX1hCUVRHOUNhNlRpMFktYTlPTkthZw?oc=5",
+            "source": "Yahoo Finance",
             "sources": [
-              "Bold News",
-              "Moneycontrol.com"
+              "Yahoo Finance"
             ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-17T05:01:04.000Z"
+            "heatScore": 66,
+            "publishedAt": "2026-10-17T15:36:00.000Z"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "translatedTitle": "捍卫合作伙伴：以色列-阿联酋关系中的防空外交-电子国际关系",
             "originalTitle": "Defending a Partner: Air Defense as Diplomacy in Israel–UAE Relations - E-International Relations",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMaXFHTXlIUG5ySzJISkxUTnRxcG1FeGM3ZGJUYmZ6ZW1nTlU3a3c3UGRlR0tEQjhwTXdGNzRrSTJ0cktJUDd2YmRlTDA0M2l2cjFicHpzbDJpem42MVowUC0xNGk2Y3k3?oc=5",
@@ -20229,6 +20214,19 @@
             ],
             "heatScore": 64,
             "publishedAt": "2026-10-16T09:57:28.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Jaishankar会见哈伊马角统治者，讨论印度-阿联酋关系和海湾局势- Moneycontrol.com",
+            "originalTitle": "Jaishankar meets Ras Al Khaimah ruler, discusses India-UAE ties and Gulf situation - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEVYVHgtOG9sN0Y1bzQ3d1I3d0Vqa29pT2FNQ2ZnMEFaQ0lPR1A1M215UlRTWFF5ZjN5ZDJFVUMwMTdvM3I0eE5zN1gwZHIwV2pKTTFRbFByaDQ2NFNXWTZCWDl6RWhBaFVYZ1g5MHktbnhyWURiN3BmSmJnWXdWNk01blB1S1Z5QTRHT2hHMDRyLV9ocklTRzljdTFXR2tNTlN4MXpnbEdPQnFJY3c?oc=5",
+            "source": "Bold News",
+            "sources": [
+              "Bold News",
+              "Moneycontrol.com"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-17T05:01:04.000Z"
           },
           {
             "rank": 5,
@@ -20256,18 +20254,6 @@
           },
           {
             "rank": 7,
-            "translatedTitle": "随着双边贸易增长40% ，乌兹别克斯坦和阿联酋公司将扩大联合项目- Daryo",
-            "originalTitle": "Uzbekistan and UAE companies to expand joint projects as bilateral trade rises 40% - Daryo",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VWVUgxS3FXQXBSZTJlcXdwMTZUTnctc1V2YWk3cEdYb0RxaVNKNXlvZXpkV0hLRW8wYmo3d3JFdU5QQkpKX1huS2hIYXc0RmJQQXAyZkY1anVwNUVSbXdiZGtYNnZnZkhoMDJWX1R0NVJycjZEa05kTF9XMzNqSThUV294LWV4SDV1OW1sVlhUWklOU2hRX1BmUWJsN0ZiVjJ0cWs3Ym1nRndlT21ZMGtPNA?oc=5",
-            "source": "Daryo",
-            "sources": [
-              "Daryo"
-            ],
-            "heatScore": 55,
-            "publishedAt": "2026-10-17T08:29:03.000Z"
-          },
-          {
-            "rank": 8,
             "translatedTitle": "EAM Jaishankar将主持阿联酋FM节目，下周在孟买与美国国务卿马可·卢比奥举行会谈-商业好转",
             "originalTitle": "EAM Jaishankar to host UAE FM, hold talks with US secretary of State Marco Rubio in Mumbai next week - Business Upturn",
             "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFJucWl6eXJLdzNGaVRKdnNPNTZpXzk0R3ZucE1xWDgxaEpxMUtabVlOR01KRWpVUWZLeDZtWUZGTG5jWGVZa1k3VExFVl82WXJrSVFRdldEbXZzdnNBcl84WkVqVVdoLV96Sjk1dUk5bi11WWRsNk8ycFNxX3ByZXZpOVpNcnFxRllSa2h5bTJEckkzeVdMOWhZWHlvMThzdm5rM013MmlIUGRxbVlKd042amlJaW8wVFItM1ktMjJBN2o2dGJZejVqZjFCZw?oc=5",
@@ -20280,7 +20266,7 @@
             "publishedAt": "2026-10-16T14:26:21.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "EAM Jaishankar将于下周在孟买接待来自阿联酋和美国的同行- IANS LIVE",
             "originalTitle": "EAM Jaishankar to host counterparts from UAE, US in Mumbai next week - IANS LIVE",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDZYQm1rV0tZdzRuZDN3aHF4VUdNN3JGbm1WdWl0SjJVOXR2MXZ3YjNPRnhoVnlEMW5jYjJjSzF5QTBuZGN0S3dETGduT2R2bVJGRHpxM3JIQ1V2cFlEeXVfSEIyZVU1MzJaRWc1TU9oUmJrWXIzTFpNNmx4WnI1T0FYZV9IbDV0YktwVnpjeWpwc2JDQmVfRmtSXzRNaGVRUnR4NmdwcXFTZS1lODVtT1Q2N0JOVkFHelhQRWdyX2V2d2xEc2ZvWS1n0gHKAUFVX3lxTE9INlhCbWtXS1l3NG5kM3docXhVR003ckZubVZ1aXRKMlU5dHYxdndiM09GeGhWeUQxbmNiMmNLMXlBMG5kY3RLd0RMZ25PZHZtUkZEenEzckhDVXZwWUR5dV9IQjJlVTUzMlpFZzVNT2hSYmtZcjNMWk02bHhacjVPQVhlX0hsNXRiS3BWemN5anBzYkNCZV9Ga1JfNE1oZVFSdHg2Z3BxcVNlLWU4NW1PVDY3Qk5WQUd6WFBFZ3JfZXZ3bERzZm9ZLWc?oc=5",
@@ -20291,6 +20277,18 @@
             ],
             "heatScore": 55,
             "publishedAt": "2026-10-16T13:47:12.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "随着双边贸易增长40% ，乌兹别克斯坦和阿联酋公司将扩大联合项目- Daryo",
+            "originalTitle": "Uzbekistan and UAE companies to expand joint projects as bilateral trade rises 40% - Daryo",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VWVUgxS3FXQXBSZTJlcXdwMTZUTnctc1V2YWk3cEdYb0RxaVNKNXlvZXpkV0hLRW8wYmo3d3JFdU5QQkpKX1huS2hIYXc0RmJQQXAyZkY1anVwNUVSbXdiZGtYNnZnZkhoMDJWX1R0NVJycjZEa05kTF9XMzNqSThUV294LWV4SDV1OW1sVlhUWklOU2hRX1BmUWJsN0ZiVjJ0cWs3Ym1nRndlT21ZMGtPNA?oc=5",
+            "source": "Daryo",
+            "sources": [
+              "Daryo"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-10-17T08:29:03.000Z"
           },
           {
             "rank": 10,
@@ -20315,7 +20313,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-17T17:08:31.000Z"
           },
           {
@@ -20327,7 +20325,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-10-17T13:02:49.000Z"
           },
           {
@@ -20344,18 +20342,6 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "Kapil Sharma的迪拜咖啡馆菜单价格： 700卢比aloo paratha ， 1,034卢比孟买三明治， 800卢比pani puri。什么是……",
-            "originalTitle": "Kapil Sharma’s Dubai Cafe menu prices: Rs 700 aloo paratha, Rs 1,034 Bombay sandwich, Rs 800 pani puri. What is the…",
-            "url": "https://c.newsnow.co.uk/A/1327328180?-15565:1965",
-            "source": "The Economic Times",
-            "sources": [
-              "The Economic Times"
-            ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-17T16:44:15.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "阿联酋股市追踪全球股市走高--路透社",
             "originalTitle": "UAE stocks track global shares higher - Reuters",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcklUNzk1b0dzNmNVcU16QkJjS1ZNQ2hNUEtuYmZXdWlTdUpqRGJHdGhnUXVuQ1A0TjlJZjg1b29wSlFicHNjTG5jVjBjUnREcWJqZTNPYkRPMkk3Vml5WXlkN1E5REdveGZXZ2hSeVAzLXhSVnItOVRDTTNscDNzaUNfSVdMV0M4TmtKek5ZX09ycE91SVE?oc=5",
@@ -20365,6 +20351,18 @@
             ],
             "heatScore": 64,
             "publishedAt": "2026-10-16T12:35:43.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Kapil Sharma的迪拜咖啡馆菜单价格： 700卢比aloo paratha ， 1,034卢比孟买三明治， 800卢比pani puri。什么是……",
+            "originalTitle": "Kapil Sharma’s Dubai Cafe menu prices: Rs 700 aloo paratha, Rs 1,034 Bombay sandwich, Rs 800 pani puri. What is the…",
+            "url": "https://c.newsnow.co.uk/A/1327328180?-15565:1965",
+            "source": "The Economic Times",
+            "sources": [
+              "The Economic Times"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-17T16:44:15.000Z"
           }
         ],
         "technology": [
@@ -20377,7 +20375,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-10-17T10:57:25.000Z"
           }
         ],
@@ -20391,8 +20389,8 @@
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 86,
-            "publishedAt": "2026-10-17T14:46:00.000Z"
+            "heatScore": 83,
+            "publishedAt": "2026-10-17T11:57:15.000Z"
           },
           {
             "rank": 2,
@@ -20415,7 +20413,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-17T09:44:25.000Z"
           },
           {
@@ -20428,7 +20426,7 @@
               "Gulf News",
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-16T12:31:55.000Z"
           },
           {
@@ -20464,7 +20462,7 @@
             "sources": [
               "India Today"
             ],
-            "heatScore": 63,
+            "heatScore": 62,
             "publishedAt": "2026-10-17T15:36:52.000Z"
           },
           {
@@ -20476,7 +20474,7 @@
             "sources": [
               "The Times of India"
             ],
-            "heatScore": 63,
+            "heatScore": 61,
             "publishedAt": "2026-10-17T15:34:22.000Z"
           },
           {
@@ -20493,15 +20491,15 @@
           },
           {
             "rank": 10,
-            "translatedTitle": "阿联酋称其拦截伊朗导弹，富查伊拉油区在无人机袭击后遭遇火灾- EnergyNow.com",
-            "originalTitle": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles - EnergyNow.com",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
-            "source": "EnergyNow.com",
+            "translatedTitle": "为曼彻斯特的阿布扎比交易辩护- The Mill",
+            "originalTitle": "In defence of Manchester’s Abu Dhabi deals - The Mill",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FS1NDVkxVNl9UMWxrRDkyUDZlWEtnZ3JCNzVsTF94STlJeDByamJQRVNKVk9MenRjS3VrU1VnbnBZVjZQUk1PWTU3dnJzWU5TcUlreTRZVVUxZ0pUSnpLVjhwSk1wcE9MN01BY3ZERGJMUWpPMTdYVkRXVQ?oc=5",
+            "source": "The Mill",
             "sources": [
-              "EnergyNow.com"
+              "The Mill"
             ],
-            "heatScore": 60,
-            "publishedAt": "2026-10-17T07:45:35.000Z"
+            "heatScore": 58,
+            "publishedAt": "2026-10-17T11:24:53.000Z"
           }
         ],
         "social": [
@@ -20543,6 +20541,18 @@
           },
           {
             "rank": 4,
+            "translatedTitle": "​迪拜链接的ATM卡走私网络被CBI在Kozhikode逮捕- The420.in",
+            "originalTitle": "​Dubai linked ATM card smuggling network busted by CBI with arrest in Kozhikode - The420.in",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54T3gtSWJhbFlsenFVdjJGOWllQWVMRHUya1R1aWJpa1FqUUhBazJ1akdCeWd6dnJHblJucWk1X1B0VmRUMGZRVmh4MF83bFlfemRWUUtiV2tUMUVtU1FsNHlDelpoS09MeVdKSFVXN1o0WWxL?oc=5",
+            "source": "The420.in",
+            "sources": [
+              "The420.in"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-17T13:21:51.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "菲律宾喜剧护士甚至将他的医院笑话带到阿布扎比和迪拜-全球菲律宾杂志",
             "originalTitle": "Viral Filipino nurse-comedian Nurse Even brings his hospital jokes to Abu Dhabi and Dubai - The Global Filipino Magazine",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW5CdE9YSGJhcm5La3c0cVcyMnVTLXJETlBoTU1neHJFYzJmUGY3bXpqS0Z1clQ3cHczQ0tTdlNuZ2xhN0M1VmYyQ1N3NmpjcGJwc2JMUi1GMkcyYW5kbnlvYktTMWZOV1M1YkZZOFR2b3ZPT3Y1emhMaGJlb09zQm83TmJrSGFSbk1UaFhLdXlLMHViS1owSEFXTTZmVW5xUWhaay1aVUFzV1JqMTNuWkdiTUpjZUE4S00xSHhwZUpCZWd3Yk9V?oc=5",
@@ -20554,7 +20564,7 @@
             "publishedAt": "2026-10-17T12:44:03.000Z"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "translatedTitle": "GCAA警告天气可能会扰乱阿联酋各地的航班- ARN新闻中心",
             "originalTitle": "GCAA warns weather may disrupt flights across UAE - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzk2ZjRJYkxuOXNRc1RFb3lNSkRMXzdmOWs1WlZuZ0xYbXp0LVVna0l5b2dLcjNZdUY2ZXZ1YXFzZXdPeXo5cDYzb0hoeUQxMElxNHBFOHRTRnlSLTdhVGdHTzU2dUE3cy1ld2VyVzBJZDJEemtMT0JCWVZ0OHlWdGRSMk00ZElxd2RBRkJ5ZzVJQQ?oc=5",
@@ -20566,7 +20576,7 @@
             "publishedAt": "2026-10-17T07:27:14.000Z"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "translatedTitle": "TJ Monterde与父母分享迪拜和多哈度假之旅-全球菲律宾杂志",
             "originalTitle": "TJ Monterde shares Dubai and Doha getaway with his parents - The Global Filipino Magazine",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZU51N2t4cGRfSmFlcWFsZG5wZ3NoN3hyWnFFd2xrY2FIcERQc2FrZW9pd3VpR2hOcDgtSkQ3Vzh4Z3I2NXM5bE5iaHVvdUtQWTMtU2RPZTFGaGN0blJqY3NONnN3ZzllZFhjMU1tcDRkOEtLenFhREZLWVVhZ0E3NXhIQU9ndGtVRk1oenJCTmZic0pURGI4TEZXejBFQQ?oc=5",
@@ -20574,20 +20584,8 @@
             "sources": [
               "The Global Filipino Magazine"
             ],
-            "heatScore": 56,
+            "heatScore": 55,
             "publishedAt": "2026-10-17T09:24:43.000Z"
-          },
-          {
-            "rank": 7,
-            "translatedTitle": "Ghirardelli加入迪拜巧克力热潮，推出全新外观的Squares -糖果新闻",
-            "originalTitle": "Ghirardelli joins Dubai chocolate craze with new-look Squares - Confectionery News",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmhxVnBHYzlLdm0xaklTQTE4R2U1Vnh2M0ZpOW51SFc0QllDTHhpZHdyZmFGSE9RejB6eGl3d1Zxai14cWZfNXQwd1ZnTFJOZndMQ0RyOGMwTnRLaHZtdkpSdzhKZWxPMnpmYmltaXZXcWl1MEt0LUFsbS0wU245SjBwdERIbWFBX3RyNGFHVnZ2dGxRdmlSWExHbTBVY2VyMnVHUllYcUlzQUJJUUdDMWczSVctQQ?oc=5",
-            "source": "Confectionery News",
-            "sources": [
-              "Confectionery News"
-            ],
-            "heatScore": 48,
-            "publishedAt": "2026-10-16T14:55:33.000Z"
           },
           {
             "rank": 8,
@@ -20598,7 +20596,7 @@
             "sources": [
               "LADbible"
             ],
-            "heatScore": 47,
+            "heatScore": 46,
             "publishedAt": "2026-10-16T23:31:19.000Z"
           },
           {
@@ -20622,7 +20620,7 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 43,
+            "heatScore": 44,
             "publishedAt": "2026-10-16T17:37:47.000Z"
           }
         ],
@@ -20636,7 +20634,7 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-17T15:20:00.000Z"
           },
           {
@@ -20661,7 +20659,7 @@
             "sources": [
               "TOD"
             ],
-            "heatScore": 56,
+            "heatScore": 55,
             "publishedAt": "2026-10-17T09:26:11.000Z"
           },
           {
@@ -20685,7 +20683,7 @@
             "sources": [
               "alwatannewspaper.ae"
             ],
-            "heatScore": 51,
+            "heatScore": 50,
             "publishedAt": "2026-10-16T23:17:41.000Z"
           },
           {
