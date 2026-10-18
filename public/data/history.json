@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T19:40:24.350Z",
+  "updatedAt": "2026-10-18T19:59:48.067Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -20751,7 +20751,7 @@
     },
     "2026-10-18": {
       "date": "2026-10-18",
-      "updatedAt": "2026-10-18T19:40:24.350Z",
+      "updatedAt": "2026-10-18T19:59:48.067Z",
       "categories": {
         "all": [
           {
@@ -20784,7 +20784,7 @@
               "Nation Thailand"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-18T19:28:42.000Z"
+            "publishedAt": "2026-10-18T19:33:09.000Z"
           },
           {
             "rank": 3,
@@ -20826,18 +20826,6 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "阿联酋哀悼两名沙特军官在直升机坠毁中丧生",
-            "originalTitle": "UAE mourns 2 Saudi officers killed in helicopter crash",
-            "url": "https://c.newsnow.co.uk/A/1327385307?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-18T18:42:48.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "谢赫·穆罕默德（ Sheikh Mohammed ）邀请“榜样”获得100万迪拉姆的“希望创造者”奖",
             "originalTitle": "Sheikh Mohammed invites 'role models' for Dh1 million 'Hope Makers' award",
             "url": "https://www.khaleejtimes.com/uae/dubai-sheikh-mohammed-dh1-million-prize-7th-edition-arab-hope-makers",
@@ -20849,31 +20837,19 @@
             "publishedAt": "2026-10-18T15:53:01.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "视频：阿联酋副总统会见沙特国防部长，讨论地区发展",
-            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments",
-            "url": "https://www.khaleejtimes.com/uae/uae-vice-president-meet-saudi-arabia-defence-minister",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-18T15:33:31.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "阿联酋在富裕家族办公室的全球排名中名列前茅",
-            "originalTitle": "UAE tops global ranking for wealthy family offices",
-            "url": "https://c.newsnow.co.uk/A/1327383175?-15565:1965",
+            "rank": 7,
+            "translatedTitle": "阿联酋哀悼两名沙特军官在直升机坠毁中丧生",
+            "originalTitle": "UAE mourns 2 Saudi officers killed in helicopter crash",
+            "url": "https://c.newsnow.co.uk/A/1327385307?-15565:1965",
             "source": "Gulf News",
             "sources": [
               "Gulf News"
             ],
             "heatScore": 82,
-            "publishedAt": "2026-10-18T17:53:38.000Z"
+            "publishedAt": "2026-10-18T18:42:48.000Z"
           },
           {
-            "rank": 10,
+            "rank": 8,
             "translatedTitle": "沙特国防部长在阿布扎比与阿联酋总统讨论地区发展-阿拉伯新闻",
             "originalTitle": "Saudi defense minister discusses regional developments with UAE president in Abu Dhabi - Arab News",
             "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-discusses-regional-developments-with-uae-president-in-abu-dhabi-3007039",
@@ -20883,6 +20859,30 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-18T17:03:26.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "视频：阿联酋副总统会见沙特阿拉伯国防部长，讨论地区发展- Khaleej Times",
+            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/uae-vice-president-meet-saudi-arabia-defence-minister",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-18T15:33:31.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿布扎比利瓦节将于12月11日回归；官方应用程序即将推出",
+            "originalTitle": "Abu Dhabi's Liwa festival returns on December 11; official app to be launched",
+            "url": "https://www.khaleejtimes.com/travel/uae-attractions/abu-dhabi-liwa-international-festival-2026-start-official-app",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-18T14:53:14.000Z"
           }
         ],
         "domestic": [
@@ -20919,23 +20919,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-18T18:42:48.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "阿联酋在富裕家族办公室的全球排名中名列前茅",
-            "originalTitle": "UAE tops global ranking for wealthy family offices",
-            "url": "https://c.newsnow.co.uk/A/1327383175?-15565:1965",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 82,
-            "publishedAt": "2026-10-18T17:53:38.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "沙特国防部长在阿布扎比与阿联酋总统讨论地区发展-阿拉伯新闻",
             "originalTitle": "Saudi defense minister discusses regional developments with UAE president in Abu Dhabi - Arab News",
             "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-discusses-regional-developments-with-uae-president-in-abu-dhabi-3007039",
@@ -20947,7 +20935,7 @@
             "publishedAt": "2026-10-18T17:03:26.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "阿布扎比利瓦节将于12月11日回归；官方应用程序即将推出",
             "originalTitle": "Abu Dhabi's Liwa festival returns on December 11; official app to be launched",
             "url": "https://www.khaleejtimes.com/travel/uae-attractions/abu-dhabi-liwa-international-festival-2026-start-official-app",
@@ -20957,6 +20945,18 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-18T14:53:14.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋在富裕家族办公室的全球排名中名列前茅",
+            "originalTitle": "UAE tops global ranking for wealthy family offices",
+            "url": "https://c.newsnow.co.uk/A/1327383175?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-18T17:53:38.000Z"
           },
           {
             "rank": 7,
@@ -20984,18 +20984,6 @@
           },
           {
             "rank": 9,
-            "translatedTitle": "曼城业主在伯纳姆担任市长期间获得的5500万£住房贷款",
-            "originalTitle": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
-            "source": "The Guardian",
-            "sources": [
-              "The Guardian"
-            ],
-            "heatScore": 79,
-            "publishedAt": "2026-10-18T14:41:15.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "阿联酋通过英勇骑士行动3向加沙运送60卡车食品和住所援助",
             "originalTitle": "UAE sends 60 lorries of food and shelter aid to Gaza under Operation Gallant Knight 3",
             "url": "https://c.newsnow.co.uk/A/1327381960?-15565:1965",
@@ -21005,6 +20993,18 @@
             ],
             "heatScore": 79,
             "publishedAt": "2026-10-18T17:25:42.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋向加沙派遣五个救援车队，运送789吨货物",
+            "originalTitle": "UAE sends five aid convoys carrying 789 tonnes to Gaza",
+            "url": "https://c.newsnow.co.uk/A/1327381795?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-18T17:21:33.000Z"
           }
         ],
         "diplomacy": [
@@ -21025,7 +21025,7 @@
               "Nation Thailand"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-18T19:28:42.000Z"
+            "publishedAt": "2026-10-18T19:33:09.000Z"
           },
           {
             "rank": 2,
@@ -21055,15 +21055,15 @@
           },
           {
             "rank": 4,
-            "translatedTitle": "摩洛哥，阿联酋讨论双边关系和区域稳定-摩洛哥世界新闻",
-            "originalTitle": "Morocco, UAE Discuss Bilateral Ties and Regional Stability - Morocco World News",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWZjMVdmdVpoM09mcHlKNlZwUzRUQkxEZlo5YldaX2huTWJjOFpIbktDbnNEM2x0UkY0RHlxZkQxTzQxRDNja2czZjYwbEtmdHVzNmdSVTV1S0p5M042elVUVk41Ylp1TkdZWEZuclRRVVQ1ajk2S1JzdTREQVpxR0tCb00yTzAzNUdSbmtJaHRDeGZmRGhDRXB0R05wUDVxS0EtLVZBZ25Rdw?oc=5",
-            "source": "Morocco World News",
+            "translatedTitle": "总理与阿联酋外交部长通电话-卡塔尔半岛",
+            "originalTitle": "Prime Minister holds phone call with UAE Foreign Minister - The Peninsula Qatar",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3lzYVBwVVZTd3FpQ0lXekFTclVnQzdaeHRidnF4clpxdFZGbXdIMnFpS3loSzhBZUNSR3c3ZnphYndjTXNjQk8zRHk1UjFTcG1vMkxFZlFkczdxZzY5a2FWb3ZQTXRLSkExREFmblhTb1ozTHdlUFUyQnFEUVZWYzBPbnl5MzVaZk8tZzJrT181M1pzWE9uNS1TeUs2N3Y3M0tJdzU5ZUNzTjNf?oc=5",
+            "source": "The Peninsula Qatar",
             "sources": [
-              "Morocco World News"
+              "The Peninsula Qatar"
             ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-18T16:29:29.000Z"
+            "heatScore": 64,
+            "publishedAt": "2026-10-18T19:55:09.000Z"
           },
           {
             "rank": 5,
@@ -21079,6 +21079,18 @@
           },
           {
             "rank": 6,
+            "translatedTitle": "摩洛哥，阿联酋讨论双边关系和区域稳定-摩洛哥世界新闻",
+            "originalTitle": "Morocco, UAE Discuss Bilateral Ties and Regional Stability - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWZjMVdmdVpoM09mcHlKNlZwUzRUQkxEZlo5YldaX2huTWJjOFpIbktDbnNEM2x0UkY0RHlxZkQxTzQxRDNja2czZjYwbEtmdHVzNmdSVTV1S0p5M042elVUVk41Ylp1TkdZWEZuclRRVVQ1ajk2S1JzdTREQVpxR0tCb00yTzAzNUdSbmtJaHRDeGZmRGhDRXB0R05wUDVxS0EtLVZBZ25Rdw?oc=5",
+            "source": "Morocco World News",
+            "sources": [
+              "Morocco World News"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-18T16:29:29.000Z"
+          },
+          {
+            "rank": 7,
             "translatedTitle": "阿联酋外交部长萨法迪讨论双边关系、地区降级-约旦通讯社",
             "originalTitle": "Safadi, UAE Foreign Minister discuss bilateral ties, regional de-escalation - وكالة الانباء الاردنية",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFpmc0R2VHU5ZVc5WE9RcjBEUVVXbkJWNXVKUzkta1k4RWYwcVlkX0NYSFlVNUZ5Ul8xREt2S0dSa3NCRjAyWU9HdmJYa0x4Q0pRWWh6Y1VxZmV0bDFzUktRaUt3aHdNN2pobjRqMGVycEd0QmxxYnktMUpEOV9nMHFfYWxQeHRDOWxfTmhWR2F5dGhmTzgyRURhR1RWZ2pyUGVGZQ?oc=5",
@@ -21090,7 +21102,7 @@
             "publishedAt": "2026-10-18T18:30:19.000Z"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "translatedTitle": "阿联酋外交部长与同行就地区安全问题举行会谈— The National - UA.NEWS",
             "originalTitle": "UAE foreign minister holds talks with counterparts on regional security — The National - UA.NEWS",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVBMVkh5bVB2VTNFLXI4a1FlX3dod3ZiREJvT3VPREpFVFZiZ090Szd6ck9YMWFza3JmNlpFdlY0OWJROF9zS2FYQnhRTVBMTDIwTXdHeDI2bEVraGZZOERuZHpOVmpjbTRHTjRoUnd6OUdrZ1MzZU1nWG1BNmZvLUl0QjljQ1ROS2ZkUWZkdU83b25ZZEpHVW9RRHZpZw?oc=5",
@@ -21102,7 +21114,7 @@
             "publishedAt": "2026-10-18T16:56:01.000Z"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "translatedTitle": "中东危机：阿联酋居民必须跟踪的10项发展- https://www.thetraveler.org/",
             "originalTitle": "Middle East crisis: 10 developments UAE residents must track - https://www.thetraveler.org/",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckdYaXpGZ04wNG9mazRLdXVyMWRZOGFaVV9EQU55OE42YS1nNnV4TFY5TlJqYnpweUQ5elhFMDk3b0lxbEtuU1p6cW4yNzZOVnlHYThpTGtlN1U1RGNDTmp3YmcxYkl1U2d1Q0NsSDVlUmNTRm9IeHVnSjVoVmpldlhqS2JfaEhHZkVUbV9jQXNvdw?oc=5",
@@ -21114,7 +21126,7 @@
             "publishedAt": "2026-10-18T11:40:07.000Z"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "translatedTitle": "阿卜杜拉·本·扎耶德与科威特外交部长通电话-阿联酋闪电",
             "originalTitle": "Abdullah bin Zayed holds phone call with Kuwaiti Foreign Minister - برق الإمارات",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0RCV3BiejZRTTVxcWxWVy1BaURLTUZIcmo3QU40WGVYQjBLdGdRUUZ4RWRHcmxYRG5VSUprd2duSUZyLWxGODlBQzVSc3d5b29QZlFTN21hZlRyaVFLanpMSUdiUGhISGVfZGxYeTBkZUhUUTIyT0ZFeEZsS2E0Tk53ZG5CelhuTmJXSkNaQjBuWHlUNGZfRlNVNUx5T3NSbG5PZU9B?oc=5",
@@ -21124,18 +21136,6 @@
             ],
             "heatScore": 54,
             "publishedAt": "2026-10-18T08:34:39.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "奇瑞汽车将展示L4机器人出租车并与总部位于阿联酋的K2签署战略协议- GlobeNewswire",
-            "originalTitle": "Chery Auto to Showcase L4 Robotaxi and Sign Strategic Agreement with UAE-Based K2 - GlobeNewswire",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTXJFVEp5SHJYeVp0U0hTc0JfT3VLd2JjdGRjZTc1S0xpQ1dFR09qTEg5WnNhWXNkVGJQOGdkdnFfY0tOMDFJaktteHNWYnJmd3VMTWNobnZsbHo3aG96Si15bUQzakRMZEMza09TZ2F2TDRsdU9tazZWejUxTl9nZExHUU1TTTZHUEVUenZhTWdHV0hKbHg4WHdZMXhTSXVaVFZLclhwV1l1NDdObVp6YUl2ejNBN0dSSjZUZ1A4TXAzYXBUSXlDTUtrTFhVQk9BVWtkLUl1UzZHbGxVYnZCWmJKa1JHa2Vv?oc=5",
-            "source": "GlobeNewswire",
-            "sources": [
-              "GlobeNewswire"
-            ],
-            "heatScore": 44,
-            "publishedAt": "2026-10-17T15:36:06.000Z"
           }
         ],
         "economy": [
@@ -21148,7 +21148,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-18T17:41:50.000Z"
           },
           {
@@ -21196,7 +21196,7 @@
             "sources": [
               "Mint"
             ],
-            "heatScore": 65,
+            "heatScore": 64,
             "publishedAt": "2026-10-18T18:13:12.000Z"
           }
         ],
@@ -21242,14 +21242,14 @@
           },
           {
             "rank": 3,
-            "translatedTitle": "视频：阿联酋副总统会见沙特国防部长，讨论地区发展",
-            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments",
+            "translatedTitle": "视频：阿联酋副总统会见沙特阿拉伯国防部长，讨论地区发展- Khaleej Times",
+            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments - Khaleej Times",
             "url": "https://www.khaleejtimes.com/uae/uae-vice-president-meet-saudi-arabia-defence-minister",
             "source": "Khaleej Times",
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-18T15:33:31.000Z"
           },
           {
@@ -21309,23 +21309,11 @@
             "sources": [
               "Cargo Forwarder Global"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-18T18:26:01.000Z"
           },
           {
             "rank": 9,
-            "translatedTitle": "阿联酋总统、沙特国防部长讨论胡塞武装袭击中的地区安全问题--《以色列时报》",
-            "originalTitle": "UAE president, Saudi defense minister discuss regional security amid Houthi attacks - The Times of Israel",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2pUcEFCUGszZHRSYVVwZndReDZBNU1YNkVTdzhmcWYwRWpmZ2ZOM09sMGJmZXVmUG1BUGllZzlFRDF6LWJuQUJ5TGJpczVHRDkxeVdDNzk0YWdYSTFoa3Q2SGZWbktMVGRzZmluQ1pwa2E0MThQQ0NFLUFwcS1CUk1Ob1JRNF9QSF9Qb1pSSmFIbjhrOE14eGFnV056bDlIWlIzNFVlclo1SmVmRTRIOG9PNTJhV3llS2JDeDRkNW1HdnBuNnpF?oc=5",
-            "source": "The Times of Israel",
-            "sources": [
-              "The Times of Israel"
-            ],
-            "heatScore": 65,
-            "publishedAt": "2026-10-18T16:19:46.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "突发新闻：伊朗报复袭击卡塔尔、巴林、沙特阿拉伯、科威特和阿联酋| AH1B Flowers (3yKBVDt3Iw) - Unisba Media",
             "originalTitle": "BREAKING NEWS: Iran Hits Qatar, Bahrain, Saudi Arabia, Kuwait & UAE In Retaliation | AH1B Flowers (3yKBVDt3Iw) - Unisba Media",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UHd6cDBlNFM0ZUdfU0t2Y1Iyb0xQMmtvUEx0czNhdk9zZ080TnJRUlphMVpOUDctQk5yZDVrVW1GYldsYTVubFJ2R2IzbmJFaGpVa0FiaWdmeVBWclJrUmNKc3VwUQ?oc=5",
@@ -21335,6 +21323,18 @@
             ],
             "heatScore": 63,
             "publishedAt": "2026-10-18T18:14:02.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "国防部长在阿布扎比会见阿联酋副总统-沙特新闻社",
+            "originalTitle": "Defense Minister Meets with UAE Vice President in Abu Dhabi - وكالة الأنباء السعودية",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VRW9yNHZEMnIzTmMxQ3dFM0lWRzIyR2t5Vy13WUNBVVJ2anhKLWRRcUhoME1qZkxNV200LUhNMWlpRGJBUnRORUFR?oc=5",
+            "source": "وكالة الأنباء السعودية",
+            "sources": [
+              "وكالة الأنباء السعودية"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-18T17:35:58.000Z"
           }
         ],
         "social": [
@@ -21352,18 +21352,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "中东危机：阿联酋居民今天应该知道的10个关键发展-海湾新闻",
-            "originalTitle": "Middle East crisis: 10 key developments UAE residents should know today - Gulf News",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXpVaVdYN0JIbmd0MG9zem5fcFZ6RWcwbWZtTlZOREtqOTlEN2k4dFp3djNLckxZRFhhV1MzM21mODZGQmxqU2d0dGZGT0ZRalhCb2ZBS09oQ3BkYnZQQVNob1ZWa0VDbWVhd2NhMmhDUE1HdGpvYnUtcFdGcnV1YXNZb2NYc1pjaFQxeDQ0d1I4TGVUcVlTdE91U0xBbHEzbl85ZEtuWGpOaHlHTWtoemNsU3M?oc=5",
-            "source": "Gulf News",
-            "sources": [
-              "Gulf News"
-            ],
-            "heatScore": 74,
-            "publishedAt": "2026-10-18T05:25:00.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "阿联酋同意沙特阿拉伯在胡塞获利期间重新进入也门冲突",
             "originalTitle": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
             "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
@@ -21373,6 +21361,18 @@
             ],
             "heatScore": 72,
             "publishedAt": "2026-10-17T11:57:15.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "中东危机：阿联酋居民今天应该知道的10个关键发展-海湾新闻",
+            "originalTitle": "Middle East crisis: 10 key developments UAE residents should know today - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXpVaVdYN0JIbmd0MG9zem5fcFZ6RWcwbWZtTlZOREtqOTlEN2k4dFp3djNLckxZRFhhV1MzM21mODZGQmxqU2d0dGZGT0ZRalhCb2ZBS09oQ3BkYnZQQVNob1ZWa0VDbWVhd2NhMmhDUE1HdGpvYnUtcFdGcnV1YXNZb2NYc1pjaFQxeDQ0d1I4TGVUcVlTdE91U0xBbHEzbl85ZEtuWGpOaHlHTWtoemNsU3M?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-10-18T05:25:00.000Z"
           },
           {
             "rank": 4,
@@ -21407,7 +21407,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-10-17T11:31:37.000Z"
           },
           {
@@ -21431,11 +21431,23 @@
             "sources": [
               "lovin.co"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-10-18T07:19:59.000Z"
           },
           {
             "rank": 9,
+            "translatedTitle": "在维多利亚品尝迪拜巧克力棒和迪拜巧克力草莓",
+            "originalTitle": "Dubai chocolate bars and Dubai chocolate strawberries in Victoria - Tasting Victoria",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmF6UVJsRWxTT0lXOHE3NjNFWXlfMU4tRE44a191bS02dXFpcVNZVVJ6amc1UVY3NzJJXzVQYTBkTHlUdnZ6dE1zMXJEXzloYXZSeUkyd2hLX29VNk53UGJVSFN6NkwwSHlxMGtKZDJuX1RZVVdUdkl1VUNHYVBaMF9oY0lwc05YdmVB?oc=5",
+            "source": "Tasting Victoria",
+            "sources": [
+              "Tasting Victoria"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-18T06:17:54.000Z"
+          },
+          {
+            "rank": 10,
             "translatedTitle": "阿联酋2026年ODI三国系列赛：第2场比赛，阿富汗对阵津巴布韦的比赛预测-谁将赢得今天的AFG和ZIM之间的比赛？ - CricTracker",
             "originalTitle": "ODI Tri-Nation Series in UAE 2026: Match 2, Afghanistan vs Zimbabwe Match Prediction - Who will win today's match between AFG and ZIM? - CricTracker",
             "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPU1dkVkFFZkpDV1N0X0Yyd0hES2tmSC1ORmdhdzRWNTRTMUNhNGZYcXpvRS1GX2lYU1Y3LUdxal9qVDVDaWZOM3EwaS11YVdxNXV1RFo3V3oyV1hxZmI1Z2RUREI2NlFkRk5YaUhTbkhaUFVWZS04N2FjQS1rS0ZQSE40eFJiaFpFUGVOb3FGSXdYTVNLaFU3U181R3kxTVZyZ0Fsd1JHaUtMVlh3RnJtMjRwWkQzc0lsUEZaYm1wbFE4SU41UlJVV2RYRHcxSERBWmY3OHpZMEM5T2M2RXBETm9ZOFNhMFhyOTNjekNxSVF1UHRKdjdNLXR3WFViaVY5VE1Db3hZamZ2aC1aRjNOStIBmAJBVV95cUxPMnNRM3BzS2pVZWU5T0lrUjNkeDhTU0cyckVxTlBVYTZxNVJDMzl3MEVoWGtucmZSb0t6RUtLcVFDWTBkTHVhMUxpUHdGLUwyMk1zZVp5T1p0V1JnRFZuekpWeTZrSDR1dUpvWDg0RGN1STVYLWY2RUdXeFRzSjlGMGFCNHN4ZDBsLWQ1Xzhxd0tzekk1SjJselhvaWViNTJGY3RhOEZFVnN6aElXSzE4WmVJYzc5UFRRU3dkTkRfUDBWYjhiaEV6cHhDZ2NFVGNQOVJSNFV6V1kzbUVJRDZaSHZmdkZhNFN1Y0g0SGcyYmxmSlBIaWFrLU1mWDlkRjQtWlpTbGdsS3BtUTJZTDRQV0xHSW1va0NM?oc=5",
@@ -21445,18 +21457,6 @@
             ],
             "heatScore": 55,
             "publishedAt": "2026-10-18T09:20:00.000Z"
-          },
-          {
-            "rank": 10,
-            "translatedTitle": "阿布扎比法院因未经授权的TikTok和Snapchat视频而奖励网红20,000迪拉姆-阿联酋航空24小时| 7",
-            "originalTitle": "Abu Dhabi court awards influencer AED 20,000 over unauthorised TikTok and Snapchat video - Emirates 24|7",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd29jbkNIVFJHbk03dy1ZRV9Udm5FR3VWR1JZUVlScHc1Zzd6Q3FSVkZlZ3BTd1ROSll3c3c0Z1RFSHpIMGk1ZnBvanBGelN5OHIwR0cyNGU2Q25iNFVUcWNVVEpPRk0tak9wMllOSjkyVU9ZSU1jb25kNk9IQTlMMVV2STlWRTdoTDZqNmJremZOZ2ZRZVVkejhoc2szeWhhUUNOZWhaa2N3SU40Wk1lME9vb1Q5T0MyX3BOU2ZJQWpSQQ?oc=5",
-            "source": "Emirates 24|7",
-            "sources": [
-              "Emirates 24|7"
-            ],
-            "heatScore": 55,
-            "publishedAt": "2026-10-18T04:32:00.000Z"
           }
         ],
         "china": [
