@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T19:15:20.420Z",
+  "updatedAt": "2026-10-18T19:40:24.350Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -20751,7 +20751,7 @@
     },
     "2026-10-18": {
       "date": "2026-10-18",
-      "updatedAt": "2026-10-18T19:15:20.420Z",
+      "updatedAt": "2026-10-18T19:40:24.350Z",
       "categories": {
         "all": [
           {
@@ -20774,6 +20774,7 @@
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTVkR0RFclZsaW9GcE1PSEIxOUZkZmc3alVhdFJpNTNHTHhtUjlpY2tMNzR3d2w5NEZ6RE1rYkoza2U3M01KM1NEbDhKN1RkWENrU1huUkx0ZUlXLXJVOFlKZDRoMVlSYWE5eUVUWmxiS2RqdjBOTTczZHdnb3dPLXVMWXYxQlpXb0FSLUtBOHl5ZDNkSkt6ZkxBNTNaT2ZHWlNWUFdfRE16QXZLNFpqRE5lcXJqeUFDR05VV09LbFNyUmNIdzhGb2dkNzhDMTQ?oc=5",
             "source": "The National",
             "sources": [
+              "MyJoyOnline",
               "The National",
               "Arabian Business",
               "Gulf Today",
@@ -20783,7 +20784,7 @@
               "Nation Thailand"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-18T14:55:34.000Z"
+            "publishedAt": "2026-10-18T19:28:42.000Z"
           },
           {
             "rank": 3,
@@ -20796,7 +20797,7 @@
               "Deccan Herald",
               "marketscreener.com"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-18T19:10:48.000Z"
           },
           {
@@ -20808,7 +20809,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 87,
+            "heatScore": 86,
             "publishedAt": "2026-10-18T19:14:11.000Z"
           },
           {
@@ -20832,7 +20833,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 83,
             "publishedAt": "2026-10-18T18:42:48.000Z"
           },
           {
@@ -20844,25 +20845,13 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-18T15:53:01.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "沙特国防部长在阿布扎比与阿联酋总统讨论地区发展-阿拉伯新闻",
-            "originalTitle": "Saudi defense minister discusses regional developments with UAE president in Abu Dhabi - Arab News",
-            "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-discusses-regional-developments-with-uae-president-in-abu-dhabi-3007039",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-18T17:03:26.000Z"
-          },
-          {
-            "rank": 9,
-            "translatedTitle": "视频：阿联酋副总统会见沙特阿拉伯国防部长，讨论地区发展- Khaleej Times",
-            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments - Khaleej Times",
+            "translatedTitle": "视频：阿联酋副总统会见沙特国防部长，讨论地区发展",
+            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments",
             "url": "https://www.khaleejtimes.com/uae/uae-vice-president-meet-saudi-arabia-defence-minister",
             "source": "Khaleej Times",
             "sources": [
@@ -20872,7 +20861,7 @@
             "publishedAt": "2026-10-18T15:33:31.000Z"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "translatedTitle": "阿联酋在富裕家族办公室的全球排名中名列前茅",
             "originalTitle": "UAE tops global ranking for wealthy family offices",
             "url": "https://c.newsnow.co.uk/A/1327383175?-15565:1965",
@@ -20882,6 +20871,18 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-18T17:53:38.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "沙特国防部长在阿布扎比与阿联酋总统讨论地区发展-阿拉伯新闻",
+            "originalTitle": "Saudi defense minister discusses regional developments with UAE president in Abu Dhabi - Arab News",
+            "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-discusses-regional-developments-with-uae-president-in-abu-dhabi-3007039",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-18T17:03:26.000Z"
           }
         ],
         "domestic": [
@@ -20894,7 +20895,7 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 87,
+            "heatScore": 86,
             "publishedAt": "2026-10-18T19:14:11.000Z"
           },
           {
@@ -20918,23 +20919,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 85,
+            "heatScore": 83,
             "publishedAt": "2026-10-18T18:42:48.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "沙特国防部长在阿布扎比与阿联酋总统讨论地区发展-阿拉伯新闻",
-            "originalTitle": "Saudi defense minister discusses regional developments with UAE president in Abu Dhabi - Arab News",
-            "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-discusses-regional-developments-with-uae-president-in-abu-dhabi-3007039",
-            "source": "Arab News",
-            "sources": [
-              "Arab News"
-            ],
-            "heatScore": 83,
-            "publishedAt": "2026-10-18T17:03:26.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "阿联酋在富裕家族办公室的全球排名中名列前茅",
             "originalTitle": "UAE tops global ranking for wealthy family offices",
             "url": "https://c.newsnow.co.uk/A/1327383175?-15565:1965",
@@ -20944,6 +20933,18 @@
             ],
             "heatScore": 82,
             "publishedAt": "2026-10-18T17:53:38.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "沙特国防部长在阿布扎比与阿联酋总统讨论地区发展-阿拉伯新闻",
+            "originalTitle": "Saudi defense minister discusses regional developments with UAE president in Abu Dhabi - Arab News",
+            "url": "https://www.arabnews.com/saudi-arabia/saudi-defense-minister-discusses-regional-developments-with-uae-president-in-abu-dhabi-3007039",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-18T17:03:26.000Z"
           },
           {
             "rank": 6,
@@ -20966,23 +20967,11 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-18T14:07:10.000Z"
           },
           {
             "rank": 8,
-            "translatedTitle": "阿联酋通过英勇骑士行动3向加沙运送60卡车食品和住所援助",
-            "originalTitle": "UAE sends 60 lorries of food and shelter aid to Gaza under Operation Gallant Knight 3",
-            "url": "https://c.newsnow.co.uk/A/1327381960?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 81,
-            "publishedAt": "2026-10-18T17:25:42.000Z"
-          },
-          {
-            "rank": 9,
             "translatedTitle": "阿联酋明天天气：部分地区预计会下雨；夜间天气潮湿",
             "originalTitle": "UAE weather tomorrow: Rains expected in some areas; humid conditions by night",
             "url": "https://www.khaleejtimes.com/uae/weather/october-19-2026",
@@ -20990,20 +20979,32 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-18T13:34:05.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "阿联酋向加沙派遣五个救援车队，运送789吨货物",
-            "originalTitle": "UAE sends five aid convoys carrying 789 tonnes to Gaza",
-            "url": "https://c.newsnow.co.uk/A/1327381795?-15565:1965",
-            "source": "Gulf News",
+            "rank": 9,
+            "translatedTitle": "曼城业主在伯纳姆担任市长期间获得的5500万£住房贷款",
+            "originalTitle": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+            "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+            "source": "The Guardian",
             "sources": [
-              "Gulf News"
+              "The Guardian"
             ],
-            "heatScore": 80,
-            "publishedAt": "2026-10-18T17:21:33.000Z"
+            "heatScore": 79,
+            "publishedAt": "2026-10-18T14:41:15.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋通过英勇骑士行动3向加沙运送60卡车食品和住所援助",
+            "originalTitle": "UAE sends 60 lorries of food and shelter aid to Gaza under Operation Gallant Knight 3",
+            "url": "https://c.newsnow.co.uk/A/1327381960?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-18T17:25:42.000Z"
           }
         ],
         "diplomacy": [
@@ -21014,6 +21015,7 @@
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYTVkR0RFclZsaW9GcE1PSEIxOUZkZmc3alVhdFJpNTNHTHhtUjlpY2tMNzR3d2w5NEZ6RE1rYkoza2U3M01KM1NEbDhKN1RkWENrU1huUkx0ZUlXLXJVOFlKZDRoMVlSYWE5eUVUWmxiS2RqdjBOTTczZHdnb3dPLXVMWXYxQlpXb0FSLUtBOHl5ZDNkSkt6ZkxBNTNaT2ZHWlNWUFdfRE16QXZLNFpqRE5lcXJqeUFDR05VV09LbFNyUmNIdzhGb2dkNzhDMTQ?oc=5",
             "source": "The National",
             "sources": [
+              "MyJoyOnline",
               "The National",
               "Arabian Business",
               "Gulf Today",
@@ -21023,7 +21025,7 @@
               "Nation Thailand"
             ],
             "heatScore": 99,
-            "publishedAt": "2026-10-18T14:55:34.000Z"
+            "publishedAt": "2026-10-18T19:28:42.000Z"
           },
           {
             "rank": 2,
@@ -21036,7 +21038,7 @@
               "Deccan Herald",
               "marketscreener.com"
             ],
-            "heatScore": 91,
+            "heatScore": 90,
             "publishedAt": "2026-10-18T19:10:48.000Z"
           },
           {
@@ -21048,7 +21050,7 @@
             "sources": [
               "Middle East Online"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-18T17:17:37.000Z"
           },
           {
@@ -21060,7 +21062,7 @@
             "sources": [
               "Morocco World News"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-18T16:29:29.000Z"
           },
           {
@@ -21072,23 +21074,11 @@
             "sources": [
               "وزارة الخارجية الإماراتية"
             ],
-            "heatScore": 65,
+            "heatScore": 64,
             "publishedAt": "2026-10-18T17:24:33.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "阿联酋外交部长与同行就地区安全问题举行会谈— The National - UA.NEWS",
-            "originalTitle": "UAE foreign minister holds talks with counterparts on regional security — The National - UA.NEWS",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVBMVkh5bVB2VTNFLXI4a1FlX3dod3ZiREJvT3VPREpFVFZiZ090Szd6ck9YMWFza3JmNlpFdlY0OWJROF9zS2FYQnhRTVBMTDIwTXdHeDI2bEVraGZZOERuZHpOVmpjbTRHTjRoUnd6OUdrZ1MzZU1nWG1BNmZvLUl0QjljQ1ROS2ZkUWZkdU83b25ZZEpHVW9RRHZpZw?oc=5",
-            "source": "UA.NEWS",
-            "sources": [
-              "UA.NEWS"
-            ],
-            "heatScore": 64,
-            "publishedAt": "2026-10-18T16:56:01.000Z"
-          },
-          {
-            "rank": 7,
             "translatedTitle": "阿联酋外交部长萨法迪讨论双边关系、地区降级-约旦通讯社",
             "originalTitle": "Safadi, UAE Foreign Minister discuss bilateral ties, regional de-escalation - وكالة الانباء الاردنية",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFpmc0R2VHU5ZVc5WE9RcjBEUVVXbkJWNXVKUzkta1k4RWYwcVlkX0NYSFlVNUZ5Ul8xREt2S0dSa3NCRjAyWU9HdmJYa0x4Q0pRWWh6Y1VxZmV0bDFzUktRaUt3aHdNN2pobjRqMGVycEd0QmxxYnktMUpEOV9nMHFfYWxQeHRDOWxfTmhWR2F5dGhmTzgyRURhR1RWZ2pyUGVGZQ?oc=5",
@@ -21098,6 +21088,18 @@
             ],
             "heatScore": 63,
             "publishedAt": "2026-10-18T18:30:19.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋外交部长与同行就地区安全问题举行会谈— The National - UA.NEWS",
+            "originalTitle": "UAE foreign minister holds talks with counterparts on regional security — The National - UA.NEWS",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVBMVkh5bVB2VTNFLXI4a1FlX3dod3ZiREJvT3VPREpFVFZiZ090Szd6ck9YMWFza3JmNlpFdlY0OWJROF9zS2FYQnhRTVBMTDIwTXdHeDI2bEVraGZZOERuZHpOVmpjbTRHTjRoUnd6OUdrZ1MzZU1nWG1BNmZvLUl0QjljQ1ROS2ZkUWZkdU83b25ZZEpHVW9RRHZpZw?oc=5",
+            "source": "UA.NEWS",
+            "sources": [
+              "UA.NEWS"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-18T16:56:01.000Z"
           },
           {
             "rank": 8,
@@ -21120,7 +21122,7 @@
             "sources": [
               "برق الإمارات"
             ],
-            "heatScore": 55,
+            "heatScore": 54,
             "publishedAt": "2026-10-18T08:34:39.000Z"
           },
           {
@@ -21132,7 +21134,7 @@
             "sources": [
               "GlobeNewswire"
             ],
-            "heatScore": 45,
+            "heatScore": 44,
             "publishedAt": "2026-10-17T15:36:06.000Z"
           }
         ],
@@ -21146,7 +21148,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-18T17:41:50.000Z"
           },
           {
@@ -21158,7 +21160,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 80,
+            "heatScore": 79,
             "publishedAt": "2026-10-18T17:22:10.000Z"
           },
           {
@@ -21170,11 +21172,23 @@
             "sources": [
               "Arab News"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-10-18T10:15:31.000Z"
           },
           {
             "rank": 4,
+            "translatedTitle": "Ed通过调查委托书寻求迪拜的帮助，以调查前喀拉拉邦Cm ， KIN",
+            "originalTitle": "Ed to seek Dubai's help via letters rogatory in probe against ex-Kerala Cm, kin",
+            "url": "https://c.newsnow.co.uk/A/1327386810?-15565:1965",
+            "source": "The Economic Times",
+            "sources": [
+              "The Economic Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-18T19:19:57.000Z"
+          },
+          {
+            "rank": 5,
             "translatedTitle": "天空是极限！ Suryakumar Yadav的超豪华迪拜房地产投资：内部...",
             "originalTitle": "Sky is the limit! Suryakumar Yadav's ultra-luxury Dubai real estate investment: Inside…",
             "url": "https://c.newsnow.co.uk/A/1327384060?-15565:1965",
@@ -21182,7 +21196,7 @@
             "sources": [
               "Mint"
             ],
-            "heatScore": 66,
+            "heatScore": 65,
             "publishedAt": "2026-10-18T18:13:12.000Z"
           }
         ],
@@ -21196,7 +21210,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-18T12:10:57.000Z"
           }
         ],
@@ -21223,13 +21237,13 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 84,
+            "heatScore": 83,
             "publishedAt": "2026-10-18T15:53:01.000Z"
           },
           {
             "rank": 3,
-            "translatedTitle": "视频：阿联酋副总统会见沙特阿拉伯国防部长，讨论地区发展- Khaleej Times",
-            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments - Khaleej Times",
+            "translatedTitle": "视频：阿联酋副总统会见沙特国防部长，讨论地区发展",
+            "originalTitle": "Video: UAE VP meets Saudi Arabia defence minister, discusses regional developments",
             "url": "https://www.khaleejtimes.com/uae/uae-vice-president-meet-saudi-arabia-defence-minister",
             "source": "Khaleej Times",
             "sources": [
@@ -21247,7 +21261,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 81,
+            "heatScore": 80,
             "publishedAt": "2026-10-18T18:06:05.000Z"
           },
           {
@@ -21259,20 +21273,20 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-10-18T16:14:52.000Z"
           },
           {
             "rank": 6,
-            "translatedTitle": "阿联酋同意沙特阿拉伯在胡塞武装获利后重返也门冲突--《卫报》",
-            "originalTitle": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains - The Guardian",
+            "translatedTitle": "阿联酋同意沙特阿拉伯在胡塞获利期间重新进入也门冲突",
+            "originalTitle": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
             "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
             "source": "The Guardian",
             "sources": [
               "The Guardian"
             ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-17T14:46:00.000Z"
+            "heatScore": 72,
+            "publishedAt": "2026-10-17T11:57:15.000Z"
           },
           {
             "rank": 7,
@@ -21295,23 +21309,11 @@
             "sources": [
               "Cargo Forwarder Global"
             ],
-            "heatScore": 67,
+            "heatScore": 66,
             "publishedAt": "2026-10-18T18:26:01.000Z"
           },
           {
             "rank": 9,
-            "translatedTitle": "担心胡塞叛乱分子，阿联酋是否会重新加入也门冲突？ - Vietnam.vn",
-            "originalTitle": "Concerned about Houthi rebels, is the UAE rejoining the Yemen conflict? - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0weS1HX1R2WWxZdWlqSk9NWTRucGRLS0h1aFlYeV9DMi1JaXJzbFFwOXlyM1ZRbjZGS1NfdmJyY2RGWC1aNWpPQjQ1YzUwdGpXT1VaSmpPNThZUEo1VC15S3JRUTUyVjFHN3phVFJjb0J3RnNoTm4yQW1kcnk?oc=5",
-            "source": "Vietnam.vn",
-            "sources": [
-              "Vietnam.vn"
-            ],
-            "heatScore": 66,
-            "publishedAt": "2026-10-18T08:33:44.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "阿联酋总统、沙特国防部长讨论胡塞武装袭击中的地区安全问题--《以色列时报》",
             "originalTitle": "UAE president, Saudi defense minister discuss regional security amid Houthi attacks - The Times of Israel",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2pUcEFCUGszZHRSYVVwZndReDZBNU1YNkVTdzhmcWYwRWpmZ2ZOM09sMGJmZXVmUG1BUGllZzlFRDF6LWJuQUJ5TGJpczVHRDkxeVdDNzk0YWdYSTFoa3Q2SGZWbktMVGRzZmluQ1pwa2E0MThQQ0NFLUFwcS1CUk1Ob1JRNF9QSF9Qb1pSSmFIbjhrOE14eGFnV056bDlIWlIzNFVlclo1SmVmRTRIOG9PNTJhV3llS2JDeDRkNW1HdnBuNnpF?oc=5",
@@ -21321,23 +21323,23 @@
             ],
             "heatScore": 65,
             "publishedAt": "2026-10-18T16:19:46.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "突发新闻：伊朗报复袭击卡塔尔、巴林、沙特阿拉伯、科威特和阿联酋| AH1B Flowers (3yKBVDt3Iw) - Unisba Media",
+            "originalTitle": "BREAKING NEWS: Iran Hits Qatar, Bahrain, Saudi Arabia, Kuwait & UAE In Retaliation | AH1B Flowers (3yKBVDt3Iw) - Unisba Media",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UHd6cDBlNFM0ZUdfU0t2Y1Iyb0xQMmtvUEx0czNhdk9zZ080TnJRUlphMVpOUDctQk5yZDVrVW1GYldsYTVubFJ2R2IzbmJFaGpVa0FiaWdmeVBWclJrUmNKc3VwUQ?oc=5",
+            "source": "Unisba Media",
+            "sources": [
+              "Unisba Media"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-18T18:14:02.000Z"
           }
         ],
         "social": [
           {
             "rank": 1,
-            "translatedTitle": "阿联酋同意沙特阿拉伯在胡塞武装获利后重返也门冲突--《卫报》",
-            "originalTitle": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains - The Guardian",
-            "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
-            "source": "The Guardian",
-            "sources": [
-              "The Guardian"
-            ],
-            "heatScore": 78,
-            "publishedAt": "2026-10-17T14:46:00.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "沙特网红表示支持，聚焦外籍人士",
             "originalTitle": "Saudi influencers show support, spotlight expats",
             "url": "https://www.arabnews.com/lifestyle/saudi-influencers-show-support-spotlight-expats-3006990",
@@ -21349,7 +21351,7 @@
             "publishedAt": "2026-10-18T11:41:11.000Z"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "translatedTitle": "中东危机：阿联酋居民今天应该知道的10个关键发展-海湾新闻",
             "originalTitle": "Middle East crisis: 10 key developments UAE residents should know today - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXpVaVdYN0JIbmd0MG9zem5fcFZ6RWcwbWZtTlZOREtqOTlEN2k4dFp3djNLckxZRFhhV1MzM21mODZGQmxqU2d0dGZGT0ZRalhCb2ZBS09oQ3BkYnZQQVNob1ZWa0VDbWVhd2NhMmhDUE1HdGpvYnUtcFdGcnV1YXNZb2NYc1pjaFQxeDQ0d1I4TGVUcVlTdE91U0xBbHEzbl85ZEtuWGpOaHlHTWtoemNsU3M?oc=5",
@@ -21359,6 +21361,18 @@
             ],
             "heatScore": 74,
             "publishedAt": "2026-10-18T05:25:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋同意沙特阿拉伯在胡塞获利期间重新进入也门冲突",
+            "originalTitle": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+            "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-10-17T11:57:15.000Z"
           },
           {
             "rank": 4,
@@ -21374,18 +21388,6 @@
           },
           {
             "rank": 5,
-            "translatedTitle": "担心胡塞叛乱分子，阿联酋是否会重新加入也门冲突？ - Vietnam.vn",
-            "originalTitle": "Concerned about Houthi rebels, is the UAE rejoining the Yemen conflict? - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0weS1HX1R2WWxZdWlqSk9NWTRucGRLS0h1aFlYeV9DMi1JaXJzbFFwOXlyM1ZRbjZGS1NfdmJyY2RGWC1aNWpPQjQ1YzUwdGpXT1VaSmpPNThZUEo1VC15S3JRUTUyVjFHN3phVFJjb0J3RnNoTm4yQW1kcnk?oc=5",
-            "source": "Vietnam.vn",
-            "sources": [
-              "Vietnam.vn"
-            ],
-            "heatScore": 66,
-            "publishedAt": "2026-10-18T08:33:44.000Z"
-          },
-          {
-            "rank": 6,
             "translatedTitle": "阿联酋的Anwar Gargash敦促海湾国家公民避免社交媒体争吵- Khaleej Times",
             "originalTitle": "UAE's Anwar Gargash urges Gulf nationals to avoid social media spats - Khaleej Times",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmtPUzU1NDMtQWc4RUxoMVBvZ0w3dUE0d3QzRlR5X254RXNUeVpoODdLaXJUUV96UXFwbGw5a0dlY2QybzVXczEzaUVIR3FlV2F0WWdQRjR1YkI4eVl4dXFMZUROODBBSFhKSURXWkZhSGNfWWtPdjZvbzlmWDdjZmFUMDVjRzFfaWNna1dwNzF0c1ktbk1pTmU4VTNjcmJWZTlhM9IBrAFBVV95cUxOcGstUkE4Wm04V0tWeHEtY0JySndHeHZ1aHhTMk1JaGE0LUJYYndESTMyTWR6VFh5ckpEZUF3dWRSLXMyaGVmUFpCUG5XSGZNczREU29TTEd6SW1aVXBiRmxGTExLMUNQcnY0ck1KSExvemktTzdKN3hsTl9PVDVOMVlYd2dRV3p6aW5GbEhlbjFMM1IxNUtsWWZOVHd1blhpbmthODFVaFBXZG96?oc=5",
@@ -21397,7 +21399,7 @@
             "publishedAt": "2026-10-17T13:35:41.000Z"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "translatedTitle": "迪拜推出户外广告新规则：有什么变化？ -海湾新闻",
             "originalTitle": "Dubai launches new rules for outdoor advertising: What changes? - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQem9lMXJ5M0NBWGt4NDEtRlM3NUo4c0pacUlzQTExQjhSNFVmQ3U1QUtIQ0w4WXkxOUxmNDBmX3dsbFl5R2M1Smc1WmRoNHA2bnBlWFVKVUFBX1NLWU5TX3N4RHloMGI3Q3FrbjQ5YjQ1SGstR3pFaVRlRjJFcGtjWTdjcHFBdHVrRExpOC1sS2w2TEpQS0QtdkZ5N0ViM20ySmlQcDJ6clMzRkFiRFE?oc=5",
@@ -21409,7 +21411,7 @@
             "publishedAt": "2026-10-17T11:31:37.000Z"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "translatedTitle": "游客在迪拜机场留下携带贵重物品的行李；警方保证安全-海湾新闻",
             "originalTitle": "Tourist leaves bag with valuables at Dubai Airport; police keep it safe - Gulf News",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZElZQVp2QzFfcFJHS1dhTXU4d240d0FBYzVnOUROd3NGX2lDaUktQXZrb3FmbFVNQ3ZfejBrZWtram94UkkzTy1URVN0eENiUHhXRzdaSV9YZVVIdG15TzZRemVyZThsQ09zWlp6eDFHdGg0b3ZEeG9KTFVicHFTQ2hKNXhpNWlnX09OXzB5S0ZXVFRnZ1VvMUtSQ0lIZW80?oc=5",
@@ -21421,7 +21423,7 @@
             "publishedAt": "2026-10-17T10:56:20.000Z"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "translatedTitle": "在Flying Tesla Roadster病毒式推出后，迪拜居民率先订购该款跑车- lovin.co",
             "originalTitle": "Dubai Residents Are Among The First To Order The Flying Tesla Roadster After Its Viral Launch - lovin.co",
             "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUczd2ctQkE1VWpjWFh0YUpWSXg0cWNaYnFSd2xWZWl5ZGlQT0JWMFNNamRIMTBKRm9ZUUJDZkwtZHN5S1poOU1qVWpPRm5HV2k2WUhlVzNseTBZbVZkZ05IMWlCaTFJeUhEU0U5QVdZVm9WWW1FNGhMaVRHeWF6STFrLWtvanVOVy1yUjF5VVpiRERHVERsX25KSHlQVHlPZm8wbUQ0R3BTWHlpTDVjVEE0QThVdEFaX2JDN1Y2UTE1azNIS0NoelBR?oc=5",
@@ -21433,16 +21435,28 @@
             "publishedAt": "2026-10-18T07:19:59.000Z"
           },
           {
-            "rank": 10,
-            "translatedTitle": "在维多利亚品尝迪拜巧克力棒和迪拜巧克力草莓",
-            "originalTitle": "Dubai chocolate bars and Dubai chocolate strawberries in Victoria - Tasting Victoria",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmF6UVJsRWxTT0lXOHE3NjNFWXlfMU4tRE44a191bS02dXFpcVNZVVJ6amc1UVY3NzJJXzVQYTBkTHlUdnZ6dE1zMXJEXzloYXZSeUkyd2hLX29VNk53UGJVSFN6NkwwSHlxMGtKZDJuX1RZVVdUdkl1VUNHYVBaMF9oY0lwc05YdmVB?oc=5",
-            "source": "Tasting Victoria",
+            "rank": 9,
+            "translatedTitle": "阿联酋2026年ODI三国系列赛：第2场比赛，阿富汗对阵津巴布韦的比赛预测-谁将赢得今天的AFG和ZIM之间的比赛？ - CricTracker",
+            "originalTitle": "ODI Tri-Nation Series in UAE 2026: Match 2, Afghanistan vs Zimbabwe Match Prediction - Who will win today's match between AFG and ZIM? - CricTracker",
+            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPU1dkVkFFZkpDV1N0X0Yyd0hES2tmSC1ORmdhdzRWNTRTMUNhNGZYcXpvRS1GX2lYU1Y3LUdxal9qVDVDaWZOM3EwaS11YVdxNXV1RFo3V3oyV1hxZmI1Z2RUREI2NlFkRk5YaUhTbkhaUFVWZS04N2FjQS1rS0ZQSE40eFJiaFpFUGVOb3FGSXdYTVNLaFU3U181R3kxTVZyZ0Fsd1JHaUtMVlh3RnJtMjRwWkQzc0lsUEZaYm1wbFE4SU41UlJVV2RYRHcxSERBWmY3OHpZMEM5T2M2RXBETm9ZOFNhMFhyOTNjekNxSVF1UHRKdjdNLXR3WFViaVY5VE1Db3hZamZ2aC1aRjNOStIBmAJBVV95cUxPMnNRM3BzS2pVZWU5T0lrUjNkeDhTU0cyckVxTlBVYTZxNVJDMzl3MEVoWGtucmZSb0t6RUtLcVFDWTBkTHVhMUxpUHdGLUwyMk1zZVp5T1p0V1JnRFZuekpWeTZrSDR1dUpvWDg0RGN1STVYLWY2RUdXeFRzSjlGMGFCNHN4ZDBsLWQ1Xzhxd0tzekk1SjJselhvaWViNTJGY3RhOEZFVnN6aElXSzE4WmVJYzc5UFRRU3dkTkRfUDBWYjhiaEV6cHhDZ2NFVGNQOVJSNFV6V1kzbUVJRDZaSHZmdkZhNFN1Y0g0SGcyYmxmSlBIaWFrLU1mWDlkRjQtWlpTbGdsS3BtUTJZTDRQV0xHSW1va0NM?oc=5",
+            "source": "CricTracker",
             "sources": [
-              "Tasting Victoria"
+              "CricTracker"
             ],
-            "heatScore": 58,
-            "publishedAt": "2026-10-18T06:17:54.000Z"
+            "heatScore": 55,
+            "publishedAt": "2026-10-18T09:20:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿布扎比法院因未经授权的TikTok和Snapchat视频而奖励网红20,000迪拉姆-阿联酋航空24小时| 7",
+            "originalTitle": "Abu Dhabi court awards influencer AED 20,000 over unauthorised TikTok and Snapchat video - Emirates 24|7",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd29jbkNIVFJHbk03dy1ZRV9Udm5FR3VWR1JZUVlScHc1Zzd6Q3FSVkZlZ3BTd1ROSll3c3c0Z1RFSHpIMGk1ZnBvanBGelN5OHIwR0cyNGU2Q25iNFVUcWNVVEpPRk0tak9wMllOSjkyVU9ZSU1jb25kNk9IQTlMMVV2STlWRTdoTDZqNmJremZOZ2ZRZVVkejhoc2szeWhhUUNOZWhaa2N3SU40Wk1lME9vb1Q5T0MyX3BOU2ZJQWpSQQ?oc=5",
+            "source": "Emirates 24|7",
+            "sources": [
+              "Emirates 24|7"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-18T04:32:00.000Z"
           }
         ],
         "china": [
@@ -21455,7 +21469,7 @@
             "sources": [
               "البيان"
             ],
-            "heatScore": 59,
+            "heatScore": 58,
             "publishedAt": "2026-10-18T12:49:00.000Z"
           },
           {
