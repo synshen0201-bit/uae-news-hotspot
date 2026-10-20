@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T19:26:28.373Z",
+  "updatedAt": "2026-10-20T19:58:02.920Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -22264,7 +22264,7 @@
     },
     "2026-10-20": {
       "date": "2026-10-20",
-      "updatedAt": "2026-10-20T19:26:28.373Z",
+      "updatedAt": "2026-10-20T19:58:02.920Z",
       "categories": {
         "all": [
           {
@@ -22282,18 +22282,6 @@
           },
           {
             "rank": 2,
-            "translatedTitle": "从迪拜的崛起到IPL的繁荣： Shastri谈转型的力量",
-            "originalTitle": "From Dubai’s rise to IPL boom: Shastri on the power of transformation",
-            "url": "https://www.khaleejtimes.com/sports/cricket/from-dubais-rise-to-ipl-boom-shastri-on-the-power-of-transformation",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 88,
-            "publishedAt": "2026-10-20T19:02:39.000Z"
-          },
-          {
-            "rank": 3,
             "translatedTitle": "沙迦将修建连接清真寺和古兰经纪念碑的地下隧道",
             "originalTitle": "Sharjah to build underground tunnel linking mosque to Holy Quran monument",
             "url": "https://www.khaleejtimes.com/uae/sharjah-underground-tunnel-link-imam-ahmad-bin-hanbal-mosque-holy-quran-monument",
@@ -22305,16 +22293,28 @@
             "publishedAt": "2026-10-20T18:44:24.000Z"
           },
           {
-            "rank": 4,
-            "translatedTitle": "阿联酋总统接待未来健康峰会代表团",
-            "originalTitle": "UAE President receives Future Health Summit delegation",
-            "url": "https://c.newsnow.co.uk/A/1327578587?-15565:1965",
-            "source": "Gulf News",
+            "rank": 3,
+            "translatedTitle": "从迪拜的崛起到IPL的繁荣： Shastri谈转型的力量",
+            "originalTitle": "From Dubai’s rise to IPL boom: Shastri on the power of transformation",
+            "url": "https://www.khaleejtimes.com/sports/cricket/from-dubais-rise-to-ipl-boom-shastri-on-the-power-of-transformation",
+            "source": "Khaleej Times",
             "sources": [
-              "Gulf News"
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-10-20T19:02:39.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Yousef Al Otaiba表示，阿联酋正在与美国的技术合作一起提供动力",
+            "originalTitle": "UAE is powering along with US technology co-operation, Yousef Al Otaiba says",
+            "url": "https://c.newsnow.co.uk/A/1327581847?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
             ],
             "heatScore": 86,
-            "publishedAt": "2026-10-20T19:02:07.000Z"
+            "publishedAt": "2026-10-20T19:49:51.000Z"
           },
           {
             "rank": 5,
@@ -22332,15 +22332,15 @@
           },
           {
             "rank": 6,
-            "translatedTitle": "Mounjaro和其他减肥药将在阿联酋生产",
-            "originalTitle": "Mounjaro and other weight-loss drugs to be made in UAE",
-            "url": "https://c.newsnow.co.uk/A/1327564259?-15565:1965",
-            "source": "The National",
+            "translatedTitle": "阿联酋总统接待未来健康峰会代表团",
+            "originalTitle": "UAE President receives Future Health Summit delegation",
+            "url": "https://c.newsnow.co.uk/A/1327578587?-15565:1965",
+            "source": "Gulf News",
             "sources": [
-              "The National"
+              "Gulf News"
             ],
             "heatScore": 85,
-            "publishedAt": "2026-10-20T16:11:53.000Z"
+            "publishedAt": "2026-10-20T19:02:07.000Z"
           },
           {
             "rank": 7,
@@ -22380,32 +22380,20 @@
           },
           {
             "rank": 10,
-            "translatedTitle": "阿联酋将医疗保健统一在一个国家体系下",
-            "originalTitle": "UAE to unite healthcare under one national system",
-            "url": "https://c.newsnow.co.uk/A/1327574037?-15565:1965",
-            "source": "Gulf News",
+            "translatedTitle": "Mounjaro和其他减肥药将在阿联酋生产",
+            "originalTitle": "Mounjaro and other weight-loss drugs to be made in UAE",
+            "url": "https://c.newsnow.co.uk/A/1327564259?-15565:1965",
+            "source": "The National",
             "sources": [
-              "Gulf News"
+              "The National"
             ],
             "heatScore": 84,
-            "publishedAt": "2026-10-20T18:01:29.000Z"
+            "publishedAt": "2026-10-20T16:11:53.000Z"
           }
         ],
         "domestic": [
           {
             "rank": 1,
-            "translatedTitle": "从迪拜的崛起到IPL的繁荣： Shastri谈转型的力量",
-            "originalTitle": "From Dubai’s rise to IPL boom: Shastri on the power of transformation",
-            "url": "https://www.khaleejtimes.com/sports/cricket/from-dubais-rise-to-ipl-boom-shastri-on-the-power-of-transformation",
-            "source": "Khaleej Times",
-            "sources": [
-              "Khaleej Times"
-            ],
-            "heatScore": 88,
-            "publishedAt": "2026-10-20T19:02:39.000Z"
-          },
-          {
-            "rank": 2,
             "translatedTitle": "沙迦将修建连接清真寺和古兰经纪念碑的地下隧道",
             "originalTitle": "Sharjah to build underground tunnel linking mosque to Holy Quran monument",
             "url": "https://www.khaleejtimes.com/uae/sharjah-underground-tunnel-link-imam-ahmad-bin-hanbal-mosque-holy-quran-monument",
@@ -22417,6 +22405,18 @@
             "publishedAt": "2026-10-20T18:44:24.000Z"
           },
           {
+            "rank": 2,
+            "translatedTitle": "从迪拜的崛起到IPL的繁荣： Shastri谈转型的力量",
+            "originalTitle": "From Dubai’s rise to IPL boom: Shastri on the power of transformation",
+            "url": "https://www.khaleejtimes.com/sports/cricket/from-dubais-rise-to-ipl-boom-shastri-on-the-power-of-transformation",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-10-20T19:02:39.000Z"
+          },
+          {
             "rank": 3,
             "translatedTitle": "阿联酋总统接待未来健康峰会代表团",
             "originalTitle": "UAE President receives Future Health Summit delegation",
@@ -22425,23 +22425,11 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 86,
+            "heatScore": 85,
             "publishedAt": "2026-10-20T19:02:07.000Z"
           },
           {
             "rank": 4,
-            "translatedTitle": "Mounjaro和其他减肥药将在阿联酋生产",
-            "originalTitle": "Mounjaro and other weight-loss drugs to be made in UAE",
-            "url": "https://c.newsnow.co.uk/A/1327564259?-15565:1965",
-            "source": "The National",
-            "sources": [
-              "The National"
-            ],
-            "heatScore": 85,
-            "publishedAt": "2026-10-20T16:11:53.000Z"
-          },
-          {
-            "rank": 5,
             "translatedTitle": "随着法国与飙升的燃料价格作斗争，马克龙排队更多的海湾柴油",
             "originalTitle": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
             "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
@@ -22453,7 +22441,7 @@
             "publishedAt": "2026-10-20T16:33:43.000Z"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "translatedTitle": "谢赫·穆罕默德总统在阿布扎比未来健康峰会上会见全球健康领袖",
             "originalTitle": "President Sheikh Mohamed meets global health leaders at Abu Dhabi Future Health Summit",
             "url": "https://c.newsnow.co.uk/A/1327575238?-15565:1965",
@@ -22465,21 +22453,21 @@
             "publishedAt": "2026-10-20T18:14:16.000Z"
           },
           {
-            "rank": 7,
-            "translatedTitle": "阿联酋将医疗保健统一在一个国家体系下",
-            "originalTitle": "UAE to unite healthcare under one national system",
-            "url": "https://c.newsnow.co.uk/A/1327574037?-15565:1965",
-            "source": "Gulf News",
+            "rank": 6,
+            "translatedTitle": "Mounjaro和其他减肥药将在阿联酋生产",
+            "originalTitle": "Mounjaro and other weight-loss drugs to be made in UAE",
+            "url": "https://c.newsnow.co.uk/A/1327564259?-15565:1965",
+            "source": "The National",
             "sources": [
-              "Gulf News"
+              "The National"
             ],
             "heatScore": 84,
-            "publishedAt": "2026-10-20T18:01:29.000Z"
+            "publishedAt": "2026-10-20T16:11:53.000Z"
           },
           {
-            "rank": 8,
-            "translatedTitle": "观看：大雨袭击阿联酋部分地区，冰雹使沙漠变白",
-            "originalTitle": "Watch: Hailstorm turns desert white as heavy rains hit parts of UAE",
+            "rank": 7,
+            "translatedTitle": "阿联酋当局敦促居民谨慎行事，避免在天气不稳定的情况下访问海滩",
+            "originalTitle": "UAE authority urges residents to exercise caution, avoid beach visits amid unsettled weather",
             "url": "https://www.khaleejtimes.com/uae/watch-hailstorm-desert-white-heavy-rains-hit-parts-uae",
             "source": "Khaleej Times",
             "sources": [
@@ -22487,6 +22475,18 @@
             ],
             "heatScore": 84,
             "publishedAt": "2026-10-20T15:39:37.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋将医疗保健统一在一个国家体系下",
+            "originalTitle": "UAE to unite healthcare under one national system",
+            "url": "https://c.newsnow.co.uk/A/1327574037?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-20T18:01:29.000Z"
           },
           {
             "rank": 9,
@@ -22509,7 +22509,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 83,
+            "heatScore": 82,
             "publishedAt": "2026-10-20T14:30:02.000Z"
           }
         ],
@@ -22536,7 +22536,7 @@
             "sources": [
               "www.wam.ae"
             ],
-            "heatScore": 82,
+            "heatScore": 81,
             "publishedAt": "2026-10-20T12:27:16.000Z"
           },
           {
@@ -22548,7 +22548,7 @@
             "sources": [
               "Saudi Gazette"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-20T17:22:30.000Z"
           },
           {
@@ -22560,7 +22560,7 @@
             "sources": [
               "ARN News Centre"
             ],
-            "heatScore": 64,
+            "heatScore": 63,
             "publishedAt": "2026-10-20T14:38:00.000Z"
           },
           {
@@ -22596,7 +22596,7 @@
             "sources": [
               "News On AIR"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-20T15:49:17.000Z"
           },
           {
@@ -22608,7 +22608,7 @@
             "sources": [
               "Dubai Eye 103.8"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-20T15:36:45.000Z"
           },
           {
@@ -22620,7 +22620,7 @@
             "sources": [
               "Inshorts"
             ],
-            "heatScore": 62,
+            "heatScore": 61,
             "publishedAt": "2026-10-20T15:26:33.000Z"
           },
           {
@@ -22632,7 +22632,7 @@
             "sources": [
               "The Indian Awaaz"
             ],
-            "heatScore": 61,
+            "heatScore": 60,
             "publishedAt": "2026-10-20T14:41:00.000Z"
           }
         ],
@@ -22665,6 +22665,18 @@
         "technology": [
           {
             "rank": 1,
+            "translatedTitle": "Yousef Al Otaiba表示，阿联酋正在与美国的技术合作一起提供动力",
+            "originalTitle": "UAE is powering along with US technology co-operation, Yousef Al Otaiba says",
+            "url": "https://c.newsnow.co.uk/A/1327581847?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-20T19:49:51.000Z"
+          },
+          {
+            "rank": 2,
             "translatedTitle": "Eight Sleep技术获批在阿布扎比支持居家睡眠呼吸暂停诊断",
             "originalTitle": "Eight Sleep Technology Approved to Support At-Home Sleep Apnea Diagnosis In Abu Dhabi",
             "url": "https://c.newsnow.co.uk/A/1327562758?-15565:1965",
@@ -22736,7 +22748,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 79,
+            "heatScore": 78,
             "publishedAt": "2026-10-20T14:50:41.000Z"
           },
           {
@@ -22748,7 +22760,7 @@
             "sources": [
               "The National"
             ],
-            "heatScore": 78,
+            "heatScore": 77,
             "publishedAt": "2026-10-20T14:00:30.000Z"
           },
           {
@@ -22760,7 +22772,7 @@
             "sources": [
               "Khaleej Times"
             ],
-            "heatScore": 76,
+            "heatScore": 75,
             "publishedAt": "2026-10-20T10:29:39.000Z"
           },
           {
@@ -22797,7 +22809,7 @@
               "Zawya",
               "TradingView"
             ],
-            "heatScore": 70,
+            "heatScore": 69,
             "publishedAt": "2026-10-20T10:31:00.000Z"
           }
         ],
@@ -22811,7 +22823,7 @@
             "sources": [
               "Gulf News"
             ],
-            "heatScore": 74,
+            "heatScore": 73,
             "publishedAt": "2026-10-20T06:35:50.000Z"
           },
           {
@@ -22830,7 +22842,7 @@
             "rank": 3,
             "translatedTitle": "迪拜在WETEX 2026上展示可持续发展和创新- ARN新闻中心",
             "originalTitle": "Dubai showcases sustainability and innovation at WETEX 2026 - ARN News Centre",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1cxaWFKUDMxTjlRVnd6NHlzRHVEdEQ5d0ZBak85WnozZjVmbUhPVExZRnNIaGJyT2hrYXMtQlJFbDZhSS1SWVI0RzZsY2lCQ3dlc0lPSDhQdTJRMkVxMGpMUEhpb2twcm1DamlpSnYzUmFScjdMcVBvT2VaT0Z2NjRnVUoySmJidE04REd4UkhVQ0V0YXNTNVNYa3BVRlYwM0lIUldkSjVyQQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXpfVG53WVEzVVN4aU44Y2puLVI3RzB0dldXalNSYWJOMXRiTXpMbVVfZFhmLVZOa2F6YkpFOVV0cFpWb1pyZmNGUktjb0ZMQjFNZ2N4akgxdjB1RjV1NmFFVEN0cURDQ1VmZHE0d0s2Nmw5clpXdDhHTEx5UFJwUjFaZjlBS3BNMGdzaWQ1alNwN1Rha0p0NUtWUVZuUVJZX3g2aWd3?oc=5",
             "source": "ARN News Centre",
             "sources": [
               "ARN News Centre"
@@ -22847,7 +22859,7 @@
             "sources": [
               "Greater Kashmir"
             ],
-            "heatScore": 60,
+            "heatScore": 59,
             "publishedAt": "2026-10-20T14:04:15.000Z"
           },
           {
@@ -22859,7 +22871,7 @@
             "sources": [
               "lovin.co"
             ],
-            "heatScore": 58,
+            "heatScore": 57,
             "publishedAt": "2026-10-20T11:53:34.000Z"
           },
           {
@@ -22883,7 +22895,7 @@
             "sources": [
               "What's On"
             ],
-            "heatScore": 57,
+            "heatScore": 56,
             "publishedAt": "2026-10-20T05:21:33.000Z"
           },
           {
@@ -22895,23 +22907,11 @@
             "sources": [
               "UrduPoint"
             ],
-            "heatScore": 55,
+            "heatScore": 54,
             "publishedAt": "2026-10-20T08:24:24.000Z"
           },
           {
             "rank": 9,
-            "translatedTitle": "“我们喜欢国外的彼此” ： Mzansi对迪拜海滩遭遇的反应-简要新闻",
-            "originalTitle": "\"We like each other abroad\": Mzansi reacts to Dubai beach encounter - Briefly News",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3l0akFGQ1YwUU1jal9UcE5vVnlMNnJPYnpsSVhEV200TmY0bEZWMXJhVzk3cnJNaG1PYmpldTR5cFdkWHM2TVYxUlN0OUQ1Qy1HbTQ0c1d6S0E4RTFIcEpnMnRzck1zTHoxLXZVWlRrQm4zX1kwbWI1WUtCU2FZM2ppcVk2OFU?oc=5",
-            "source": "Briefly News",
-            "sources": [
-              "Briefly News"
-            ],
-            "heatScore": 54,
-            "publishedAt": "2026-10-20T07:41:34.000Z"
-          },
-          {
-            "rank": 10,
             "translatedTitle": "阿联酋创造的就业机会在第三季度反弹4% - ARN新闻中心",
             "originalTitle": "UAE job creation rebounds 4% in third quarter - ARN News Centre",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbFBlb1M3Ylg3d3d2bGQ3M3JEdURWOUExSldkZ3BOY2NfWFRkZldDNjNULVd5TDZNUG1CNXo1RWg2WkgtWHd6OE1uak9ncmxDd1FDMmhlcmp1eEpJWVNUaWZaX0dSUklpTk10SDdDMGIxSWpOQ3hQa3JsU2pfT2xXVVhqaEpuRXBXS0ZfOHNIRk44dw?oc=5",
@@ -22921,6 +22921,18 @@
             ],
             "heatScore": 54,
             "publishedAt": "2026-10-20T05:51:41.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "“我们喜欢国外的彼此” ： Mzansi对迪拜海滩遭遇的反应-简要新闻",
+            "originalTitle": "\"We like each other abroad\": Mzansi reacts to Dubai beach encounter - Briefly News",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3l0akFGQ1YwUU1jal9UcE5vVnlMNnJPYnpsSVhEV200TmY0bEZWMXJhVzk3cnJNaG1PYmpldTR5cFdkWHM2TVYxUlN0OUQ1Qy1HbTQ0c1d6S0E4RTFIcEpnMnRzck1zTHoxLXZVWlRrQm4zX1kwbWI1WUtCU2FZM2ppcVk2OFU?oc=5",
+            "source": "Briefly News",
+            "sources": [
+              "Briefly News"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-20T07:41:34.000Z"
           }
         ],
         "china": [
@@ -22936,6 +22948,18 @@
             ],
             "heatScore": 75,
             "publishedAt": "2026-10-20T12:19:17.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "迪拜商会与中国大湾区达成谅解--Al Khaleej报",
+            "originalTitle": "غرف دبي تبرم تفاهمين مع منطقة الخليج الكبرى في الصين - صحيفة الخليج",
+            "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxQM3NXT2RGUVU3ME1LVGE2RWJKUlZ4V082Ynd6WVdGSXJNYmRVSlJmcmFRT2NZdmlWbkswMGphbERSRGdMbGRNa3VfVTQ2TklkUUV3bHlQdlRJc1pia1FuZW4zcThZOEcwdEo0UWJEZFhLUGtlakhMb2RCYlhtYVdtRFFIYnJrclVIUHhJVGZfMkNlblhmam9mSThvVXpkbVZfLVNZWkdGTEFjRndFX2Jwd1BkQkM5cnc0WlNURlU1YWxZZWF4RXpmbTdtbnlBeUZ3MXBUa1JRWHc3aWFwbFgtb0V0WV9zeTZRU3YybzhzWmFySXhSR0dtWXFaUGpxUDZYOVUxOFdyYUdnaWJGQ18weG1xVDNNMWhwb2x6TmtZQTItaElWcHNPb01pelNtYW5uRUNlYjFjbTNNZzhlZndMNXBTWndLNEdvOUZSajJHaUk0eG5qZlZrTFZhbXpVN0Mta1F1aHpEbVU5WlFzRG9TQ2phdU9WdnlYa3pTaWlhTTVFbllSS1ZZVV9taGZoOEFnb19rN2t0N09jdjZhU2RCS2VEV1d2VTgwdFl5VXEzVEdrbENVSVdqRFVRWm8tWUg1VW9Rd1czb3lxX01MRG1QNF96LVhFc3NveVFzYV9tdnFHRzR1QlZySUNYNWFXRXFfakZBWnFrbXltYU9ydVRnZHo5U1I5TzFrRXdYTlFra1JDYXo3R3R2b2lDTmRqcHcyaWNLZU1jR3Bibk5kNF80VzdtUEx1LThRejd1VElZZk9LQVg4aHdlYVB0bzY?oc=5",
+            "source": "صحيفة الخليج",
+            "sources": [
+              "صحيفة الخليج"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-10-20T10:24:26.000Z"
           }
         ]
       }
