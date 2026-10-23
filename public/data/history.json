@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T19:45:37.578Z",
+  "updatedAt": "2026-10-23T22:40:13.219Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -25202,6 +25202,752 @@
             ],
             "heatScore": 55,
             "publishedAt": "2026-10-22T19:35:16.000Z"
+          }
+        ]
+      }
+    },
+    "2026-10-24": {
+      "date": "2026-10-24",
+      "updatedAt": "2026-10-23T22:40:13.219Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "布伦特原油在胡塞-沙特袭击、阿联酋石油泄漏事件中跃升至4月以来最高水平-塔瓦索尔新闻网",
+            "originalTitle": "Brent crude jumps to highest since April on Houthi-Saudi attacks, UAE oil spill - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "شبكة تواصل الإخبارية",
+              "Nikkei Asian Review",
+              "CNA",
+              "StreetInsider",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-23T20:01:01.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋谴责约旦教堂枪击事件- ARN新闻中心",
+            "originalTitle": "UAE condemns shooting incident at Jordan church - ARN News Centre",
+            "url": "https://c.newsnow.co.uk/A/1327886337?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Voice Of Emirates",
+              "Gulf News",
+              "ARN News Centre"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-23T19:21:57.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Theyab bin Mohamed bin Zayed率领阿联酋代表团参加在新德里举行的2026年NDTV世界峰会- www.wam.ae",
+            "originalTitle": "Theyab bin Mohamed bin Zayed leads UAE delegation at NDTV World Summit 2026 in New Delhi - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVZSdlpDeERZcVprMGZBR0JENjg3V2dKdHBVS3hrbVI2d0hzcUV4SkZBeG5MVm4zYjl4eWhDLWU0OWVYdldpc0RUOU5Zb2laUVFzdWNsMVBXeW9fYV9zSTVGV2JFNEpzMmtGUW1wRTJVSnp5RW5tRHBYU0pFcUVJRGZFbTdIamEzOFRRVFZLbFA?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae",
+              "مكتب أبوظبي الإعلامي"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-23T10:27:08.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "泽连斯基表示，乌克兰、俄罗斯和美国的谈判代表将于11月初在阿布扎比举行会议-路透社",
+            "originalTitle": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFpsT3JCZlkwblU1WFVQanptYWxJWHZTWnBkZHQyanA4bGd0ZWtyalhGYk13OVdiSmd6eDRyZHU0T1A3UXVYd21TMUpyQmFlelltOUpBVkxNVjRYaTNiWHpaYnBsT3libjhLSFZZY0J6LWpWd1JZX2RlcWtZVE9pcVhWbktFTVg5SDZQZnRzM1h6U3YxeEVwZVg5Nkg0WDUyeFJyWVItZFpEUEpkLUg5MVpXV0Q5SVdhUk1wQll3UlJjV0FH?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-23T18:26:54.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "法国，阿联酋在法国预算困难中重振阵风战机的发展-路透社",
+            "originalTitle": "France, UAE revive Rafale warplane development amid French budget woes - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHBIeDUxOEFxX0tza0M0blZ1eVVPdGk4eVFnRHBDVFhzWUhDMGpXQjB2WEh1cjkyY2pweS1VWUFpTnFmV1pKVnFDMmNSMzM1WFg0RFhUSEdTLTNrZ0doWVl4RE9ZTzNnVG5RLVJBV09ZNTIxMS15amRiTVNtbXRqWVc5cXFGelVCTVhFZjVlRF80RXV5cHdoQ3RxTnNxaWtEbXNVTnlDLVVmdW9zVmlOZkRZT2hyRm1QQld5cC0zM25aTW9hUWZGa0dXMDA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-23T17:03:44.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "ADGM对审计公司处以罚款，审计失败本金$ 88,000",
+            "originalTitle": "ADGM fines audit firm, principal $88,000 over audit failures",
+            "url": "https://www.khaleejtimes.com/business/adgm-fines-audit-firm-principal-88000-over-audit-failures",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-23T18:26:02.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋明天天气：气温降至20ºC ；某些地区可能会下雨",
+            "originalTitle": "UAE weather tomorrow: Temperatures to dip to 20ºC; rain possible in some areas",
+            "url": "https://www.khaleejtimes.com/uae/weather/uae-weather-october-24-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-23T17:38:10.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "俄罗斯和乌克兰表示计划于11月在阿联酋举行会谈-半岛电视台",
+            "originalTitle": "Russia and Ukraine say talks planned for November in UAE - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHY4ZnE4V0stMU1DV2N1TnZCWk1oeGlHUV9xZGJyY0hGbm9EMk5XSFNWSUJ6WUNHeXp6U205eGpXWU1sSEZyREV0b3VkYWRwSkI1b1lLbUM5Q1JmRXNLZ2RJSlhGdkloYVhweVdLbUo4cXhWZkxJZmlLdm5yZlB6YXhfUy1CU2FzQ1FfYXlwdWx6cWpRVDlieVNsYTA5ajDSAaQBQVVfeXFMTkxSNTJ3d3RTQmNuREgydDkyUDhaaTZrUzJWSUtkUGowanFKYVVtVkpXNnBwVGZRN195WTZiY0hGeFhhVEpobm1xamtoVWp2WmttNm1lZktLTlNxamFUZWRLZFpyVVNJY2VVWVNseVhPYXZYUjJSTFB6YkJlZUZQRFpjOFdTNWVObk1JNHByYVQ4YXNpX3diLVB2d2FMcGNibkxRc0s?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-23T19:21:51.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋谴责在约旦发生的恐怖教堂枪击事件，该事件造成数人死亡，多人受伤",
+            "originalTitle": "UAE condemns terrorist church shooting in Jordan that killed several, injured others",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemns-church-shooting-jordan-killed-several-injured",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-23T15:30:35.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋是40家科技公司的目标市场之一",
+            "originalTitle": "UAE among target markets for 40 tech companies",
+            "url": "https://c.newsnow.co.uk/A/1327892533?-15565:1965",
+            "source": "Brazil-Arab News Agency",
+            "sources": [
+              "Brazil-Arab News Agency"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-23T19:04:27.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋谴责约旦教堂枪击事件- ARN新闻中心",
+            "originalTitle": "UAE condemns shooting incident at Jordan church - ARN News Centre",
+            "url": "https://c.newsnow.co.uk/A/1327886337?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Voice Of Emirates",
+              "Gulf News",
+              "ARN News Centre"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-23T19:21:57.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "泽连斯基表示，乌克兰、俄罗斯和美国的谈判代表将于11月初在阿布扎比举行会议-路透社",
+            "originalTitle": "Zelenskiy says Ukrainian, Russian and US negotiators to meet in early November in Abu Dhabi - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFpsT3JCZlkwblU1WFVQanptYWxJWHZTWnBkZHQyanA4bGd0ZWtyalhGYk13OVdiSmd6eDRyZHU0T1A3UXVYd21TMUpyQmFlelltOUpBVkxNVjRYaTNiWHpaYnBsT3libjhLSFZZY0J6LWpWd1JZX2RlcWtZVE9pcVhWbktFTVg5SDZQZnRzM1h6U3YxeEVwZVg5Nkg0WDUyeFJyWVItZFpEUEpkLUg5MVpXV0Q5SVdhUk1wQll3UlJjV0FH?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-23T18:26:54.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "ADGM对审计公司处以罚款，审计失败本金$ 88,000",
+            "originalTitle": "ADGM fines audit firm, principal $88,000 over audit failures",
+            "url": "https://www.khaleejtimes.com/business/adgm-fines-audit-firm-principal-88000-over-audit-failures",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-23T18:26:02.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋明天天气：气温降至20ºC ；某些地区可能会下雨",
+            "originalTitle": "UAE weather tomorrow: Temperatures to dip to 20ºC; rain possible in some areas",
+            "url": "https://www.khaleejtimes.com/uae/weather/uae-weather-october-24-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-23T17:38:10.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋谴责在约旦发生的恐怖教堂枪击事件，该事件造成数人死亡，多人受伤",
+            "originalTitle": "UAE condemns terrorist church shooting in Jordan that killed several, injured others",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemns-church-shooting-jordan-killed-several-injured",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-23T15:30:35.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "“我觉得这是命中注定的” ：八岁的阿联酋杂技演员发现自己的脚在空中",
+            "originalTitle": "'I feel like it’s meant to be': Eight-year-old Emirati acrobat finds her feet in the air",
+            "url": "https://c.newsnow.co.uk/A/1327888784?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T18:08:23.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Grosvenor House Dubai评论：精致的五星级奢华和一流的服务",
+            "originalTitle": "Grosvenor House Dubai review: Refined five-star luxury and stellar service",
+            "url": "https://c.newsnow.co.uk/A/1327888314?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T18:02:15.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋宣布俄罗斯与乌克兰成功交换540名俘虏",
+            "originalTitle": "UAE announces successful exchange of 540 captives between Russia, Ukraine",
+            "url": "https://www.khaleejtimes.com/uae/uae-successful-exchange-540-captives-between-russia-ukraine",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T14:15:46.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "在阿联酋的巴基斯坦外籍人士：电子护照开始，费用从145迪拉姆起",
+            "originalTitle": "Pakistani expats in UAE: E-Passports start, fees from Dh145",
+            "url": "https://www.khaleejtimes.com/uae/pakistani-expats-in-uae-e-passports-starts-fees-from-dh145",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T14:14:32.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "迪拜警方：对不安全的人行横道处以400迪拉姆罚款",
+            "originalTitle": "Dubai Police: Dh400 fine for unsafe pedestrian crossing",
+            "url": "https://c.newsnow.co.uk/A/1327886339?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-23T17:33:57.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "Theyab bin Mohamed bin Zayed率领阿联酋代表团参加在新德里举行的2026年NDTV世界峰会- www.wam.ae",
+            "originalTitle": "Theyab bin Mohamed bin Zayed leads UAE delegation at NDTV World Summit 2026 in New Delhi - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSVZSdlpDeERZcVprMGZBR0JENjg3V2dKdHBVS3hrbVI2d0hzcUV4SkZBeG5MVm4zYjl4eWhDLWU0OWVYdldpc0RUOU5Zb2laUVFzdWNsMVBXeW9fYV9zSTVGV2JFNEpzMmtGUW1wRTJVSnp5RW5tRHBYU0pFcUVJRGZFbTdIamEzOFRRVFZLbFA?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae",
+              "مكتب أبوظبي الإعلامي"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-10-23T10:27:08.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋外交部长谴责约旦教堂袭击事件，并与Safadi通话-国家",
+            "originalTitle": "UAE Foreign Minister condemns Jordan church attack in call with Safadi - The National",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSk5xWWhPeEZKTjdOTjVfTzZBcHJ4d0pMOGdNSGw4ajFWbDh1TE5PTFhIc0NpRXdVQ3kzUGcxenloeHk2MktHZDNuRGNGVEVQN3VuR1FfUXpNTmhaNDkzMXhDcmhacjZjRURDODZOR2VCMllQTWdabUhnbFRHMnAzYnZIbFFRWDVaUWpLdWlKTzFZU0w3MXZSQmpULXRqQkZOZENCbnlQbnhlVlh4eGc5QUttVjQyWlpTa0ZkR1JNd0c?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T18:30:21.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "英国-阿联酋峰会呼吁卫生知识普及，将长寿进步转化为更健康的生活- www.wam.ae",
+            "originalTitle": "UK-UAE summit calls for health literacy to turn longevity advances into healthier lives - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHBRUElBdkVqWmd5dVY4dzlULVZlRFdSWUd2WmV0OFdIcWdweXhsUjBUWTRFZHEzSnVlc3hoWnBMa2FpNThCcm51eHh4dzBiaUhVM1A3VWtGUXp1d0ZuN3ZaSzV4RFByZ1oyQll2clJkdkREeVJJYTB3WUpSaERlSGt4a3VOLTd1YXc?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-23T11:24:38.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋驻巴黎大使馆发布安全建议，敦促市民避开人群",
+            "originalTitle": "UAE Embassy in Paris issues safety advisory, urges citizens to avoid crowds",
+            "url": "https://www.khaleejtimes.com/uae/uae-embassy-paris-safety-advisory-citizens-avoid-crowds",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-23T13:11:13.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋-印度关系： Theyab bin Mohamed bin Zayed会见印度总理莫迪-海湾新闻",
+            "originalTitle": "UAE-India ties: Theyab bin Mohamed bin Zayed meets Indian PM Modi - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVQ5NzZUY2RDWE5ncEtMTzByRV8xWEtlQi12VkRQbmRoMEFfcnVFOWl2bTlZSFlRc0RoSFMtWmhac2dTcUR0Y1luUVMyT3hFa29GZUp3OTlDZ2d1SGZPeUhFcDJaeHFEd2NiQ1gwd2xMa25hek9yUEtkS0lmWVNUWmxINE5HTEVOb0xhYWNMYW1qamZRX3VZQjVNRDBmeHJEN29hTE9GWGsyU2hjVnJILWsyb3lyZw?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-23T11:29:53.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋外交部授予卡塔尔大使馆外交部优秀奖",
+            "originalTitle": "UAE Foreign Ministry honours Qatar's embassy with Minister of Foreign Affairs Excellence Award",
+            "url": "https://c.newsnow.co.uk/A/1327900582?-15565:1965",
+            "source": "The Peninsula",
+            "sources": [
+              "The Peninsula"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-23T21:18:07.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Lana Nusseibeh...阿拉伯联合酋长国的外交在联合国受到考验-阿塔拉亚尔",
+            "originalTitle": "Lana Nusseibeh... The United Arab Emirates’ Diplomacy Put to the Test at the UN - Atalayar",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHdBWUU5OVNfdmpQWUFpMzNPTTdOUUlsTURSOHA3SDRKOElYT1FYODhzOWNibDlzQmR3UDItU0RYRWhqWk94cHk1Q2t1TFktZFUteG9VMEFjVEVpTXpQYkVLbDI2SVFJaTZ2WlFnWUtkc2hiRE4yc0drNXpuRWpCZFM3ZjVNLVAwTnZsTmpIWFBobkxOc2JKSTNZanlmZUVKVTU1MGVlZTdqejF0cWJoMnpVTDlCTkg2WGpYX291VTZuenpPM05GczlFZFFCaDFKYmdiOWFKNA?oc=5",
+            "source": "Atalayar",
+            "sources": [
+              "Atalayar"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-23T18:56:32.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "俄罗斯和阿联酋准备迎接西非最新总统--Business Insider Africa",
+            "originalTitle": "Russia and UAE prepare to welcome West Africa’s newest president - Business Insider Africa",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTZOa2lzMlM0RWZjbFFHUlpIcEFOMkc2ZERBTGp1WG1WenVJWmRYOWR6dUdOWnZqUERDa1JfR1ZqV0hZTWN4Z1N5Z1U2VnVfajhrbU9oWHN2dTFJS0MzNEJsbFRqdG5MTGhqSmtpZXVETkt0TjhMWWFwN3piMDJRSnBpUHJCa2RoWXFsRmxXYjVPQmhRZXdmcE1LX3NxenR1REZlMDRCdGlzTEVRYkNQRXRnTUdCNWFyejdIcA?oc=5",
+            "source": "Business Insider Africa",
+            "sources": [
+              "Business Insider Africa"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-23T16:59:22.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "CEPA协议：为越南商品打开通往阿联酋、中东和非洲的大门。- Vietnam.vn",
+            "originalTitle": "CEPA Agreement: Opening doors for Vietnamese goods to the UAE, the Middle East, and Africa. - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWV8tRFFtSnJ6bDlsWmdsSF9ENVphUXZLT01XbDRqYlRIbFhnelRKS1Y5Nm1VSXRSQ0plX0hDNF9JM190V2JWb0Q2emQ0MVVQSmR3S0N2anQybUI4bjV3QUZtakszWDJLLWg4dEJsaHdqbWJKOVdYTjE4VW5fS1B2SVVqNmR2RGVCSnY2WWxIb0xBTkdicTZ5SEh0WWNkUQ?oc=5",
+            "source": "Vietnam.vn",
+            "sources": [
+              "Vietnam.vn"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-23T18:20:15.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋和马来西亚讨论双边关系和地区发展-沙迦24",
+            "originalTitle": "UAE and Malaysia discuss bilateral ties and regional developments - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wQVhJS1gzdHlqaDEtS3V4NU0yMTlIcWlicU8yZkN4YlJBUUdib2VNX2ZTc1VYOXRCSlpZeEpXYU95MHpkRDVDUXlMN0NkZ05xQzNiZVpraFJzOEk?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-23T17:22:47.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋是40家科技公司的目标市场之一",
+            "originalTitle": "UAE among target markets for 40 tech companies",
+            "url": "https://c.newsnow.co.uk/A/1327892533?-15565:1965",
+            "source": "Brazil-Arab News Agency",
+            "sources": [
+              "Brazil-Arab News Agency"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-23T19:04:27.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "沙迦在UAQ漏油事件后暂时关闭Al Hamriya海滩作为预防措施",
+            "originalTitle": "Sharjah temporarily closes Al Hamriya Beach as precaution after UAQ oil spill",
+            "url": "https://www.khaleejtimes.com/uae/sharjah-al-hamriya-beach-temporarily-closed-precaution-uaq-oil-spill",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T13:26:22.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋海岸的石油泄漏促使海滩关闭，清理工作-路透社",
+            "originalTitle": "Oil spill off UAE coast prompts beach closures, cleanup effort - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDVzb2o2bVZpMzFTRjc2dENKTUhpalRtLTA2bkprdkwxdWRBdXVVU0xWTHNYcmJLeEJTeV82SXhtN24wWUstUm9QV09Qcm5OSWF3dk5BVU93RmkyeWVuVVJnYloxNTZzajBhanlNNmZvUDJaRXdWbTFia1MycXpJTUtsUDRRSFVHcUJLSmlaNUY1Tk1qXy14SFRxczBUUTVJcGlaZk5FSzRvLUlJdWtWNTJB?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-23T01:14:46.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋和希腊宣布达成127.5亿欧元的交易，计划再增加150亿欧元",
+            "originalTitle": "UAE and Greece announce €12.75bn in deals, with €15bn more planned",
+            "url": "https://c.newsnow.co.uk/A/1327894382?-15565:1965",
+            "source": "Investment Monitor",
+            "sources": [
+              "Investment Monitor"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-23T19:36:20.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "总部位于沙迦的化学家在孟买投资骗局中欺骗了1.2亿卢比",
+            "originalTitle": "Sharjah-Based Chemist Duped of Rs 1.2 Crore in Mumbai Investment Scam",
+            "url": "https://c.newsnow.co.uk/A/1327891053?-15565:1965",
+            "source": "The Times of India",
+            "sources": [
+              "The Times of India"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-23T18:42:17.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "未来之旅从现在开始： 2026年捷途全球科技体验日拉开帷幕",
+            "originalTitle": "Future travel starts now: 2026 Jetour Global Technology Experience Day kicks off",
+            "url": "https://www.khaleejtimes.com/business/tech/future-travel-starts-now-2026-jetour-global-technology-experience-day-kicks-off",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T13:58:40.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "EASE允许迪拜手机的HUAWEI NOVA 16S系列手机分期付款享受50%的折扣，最长可达36个月- Tawasol新闻网",
+            "originalTitle": "سهولة تتيح خصم 50% على هواتف Huawei nova 16s Series من Dubai Phone بالتقسيط حتى 36 شهرًا - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JR0MwMVdYQUFncGlZMUozY2ZQaWZ6dHVRQzBrMWM4RllzVmZzbkxsNE1hUjcyZ0Z0SXBiTVZNVHdyZ0JtVWlJcFlLMnhZUmFzWDBB?oc=5",
+            "source": "شبكة تواصل الإخبارية",
+            "sources": [
+              "شبكة تواصل الإخبارية",
+              "بنكي"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-10-22T19:35:16.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "布伦特原油在胡塞-沙特袭击、阿联酋石油泄漏事件中跃升至4月以来最高水平-塔瓦索尔新闻网",
+            "originalTitle": "Brent crude jumps to highest since April on Houthi-Saudi attacks, UAE oil spill - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "شبكة تواصل الإخبارية",
+              "Nikkei Asian Review",
+              "CNA",
+              "StreetInsider",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-23T20:01:01.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "法国，阿联酋在法国预算困难中重振阵风战机的发展-路透社",
+            "originalTitle": "France, UAE revive Rafale warplane development amid French budget woes - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHBIeDUxOEFxX0tza0M0blZ1eVVPdGk4eVFnRHBDVFhzWUhDMGpXQjB2WEh1cjkyY2pweS1VWUFpTnFmV1pKVnFDMmNSMzM1WFg0RFhUSEdTLTNrZ0doWVl4RE9ZTzNnVG5RLVJBV09ZNTIxMS15amRiTVNtbXRqWVc5cXFGelVCTVhFZjVlRF80RXV5cHdoQ3RxTnNxaWtEbXNVTnlDLVVmdW9zVmlOZkRZT2hyRm1QQld5cC0zM25aTW9hUWZGa0dXMDA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-23T17:03:44.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "加沙日益恶化的粮食危机是“每天的生存战争”",
+            "originalTitle": "Gaza’s worsening food crisis is ‘a war of survival every day’",
+            "url": "https://www.arabnews.com/middle-east/gazas-worsening-food-crisis-is-a-war-of-survival-every-day-3007918",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-23T18:10:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋强烈谴责约旦发生的致命教堂枪击事件-海湾新闻",
+            "originalTitle": "UAE strongly condemns deadly church shooting in Jordan - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHhUSVdfT2QyakpRaHZXQlczZlU4bmVLWHZHbGw2MmFzcXBUcWtJVm9RLU1sOTRFaWhyVUJhNjNlUVJCTkJSUWxueTRDRWJUaVFmSG9VakkyMFpBVlM5eGJNaUZMWnVPU1pmSXBMUGRGOWFwSExkR21hRTNlYy1md2ZQRDVwYVhTempCbjJtQ0UxSU05RGtYX3dVc0hNRGpZRmdsOdIBtwFBVV95cUxON09GcU0tc3ZGNVBDNEh5blczUmpNNXVYN25UcHBYMmppVWU3X0d3XzF3VFBFeTRPUHB4YnVSN1Z0YzE4RHFxdi1MMmg2Y0N6WTZMRkJmcFpfbjFfS2g2dmlNY04xa2wzX1JPRmV4TmlEOWY4ZXpCYmRZcnY1cjNCRnF3WUtCS0JYbk9FSS1XLTY2VlNfNHQtT0prX2xpX1NXVUMtempIZzN4d2RIa0p0Q0NocjdOaDg?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-10-23T16:09:40.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋称赞巴拉卡无人机空袭应对措施-核工程国际",
+            "originalTitle": "UAE praised for Barakah drone strike response - Nuclear Engineering International",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemRMNC1UeEJmS0tBWEJZd2t4bUJwelItSkkxQnZlUWdMRmJaT3V6aUtHOHVnV1hvTV9QUGJYV3ZhV1A0Rl85aWplU2hDYk9BTXNwc3ZSeXBrMlBkSnUyTDFqNkVyVDVnVkRTSnZmLTVkVVNTRnllN05MVjNNVUJlbWdpdXp0QQ?oc=5",
+            "source": "Nuclear Engineering International",
+            "sources": [
+              "Nuclear Engineering International"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-10-23T15:31:08.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "在胡塞武装袭击中， Flydubai将沙特航班取消时间延长至10月29日- Khaleej Times",
+            "originalTitle": "Flydubai extends Saudi flight cancellations to October 29 amid Houthi attacks - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmVpVkJmNTZOWlhjRk84Wk8zdC10M3U3ZzZJNjF1ajR1cXdqdTMteGQ0WkRZUTZNa0ZOMVd4WUVNaXpHTXZHakpzQ2tkekpkdDVGSlJERUxOQWhqQk5UWkUxNnoxZUdCUlZZUlJ6MDNPUDNXcmItUnRvcEdVZTFOWkpra0JONG1uRGw4QXluVnNONUhkalRYV0lBejhNc2IzT0ZJSHhTWVNVNV81ZUxMTV9PY9IBuwFBVV95cUxPRVNvNTlkc0w3eW9qYUR1dGhXaGJHNmdGbFhESkhxUzIxUFZCMzIyUlF6Y2sxM29udXpiQ2NPd3JJemx5ZUQwZmdabjdvYUxseDk5dkNIZThydV9PM0hJNmZRV0V0dHRBcUFIVlc1NWFXWEdrd18yYW5DN3ZxeW5IUU1kN2FTUzFsdlg5bEYwRzVjelBHWklFMS1vSHZFeUFHR1l1WG9KekJfT2JkdGE2MUdBR0g4REFlcGtr?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-23T10:29:55.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋确认接近石油泄漏，因为伊朗声称继续发动袭击",
+            "originalTitle": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks",
+            "url": "https://c.newsnow.co.uk/A/1327897857?-15565:1965",
+            "source": "The Maritime Executive",
+            "sources": [
+              "The Maritime Executive"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-23T20:33:24.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "UFC 333 ：亚历山大·沃尔卡诺夫斯基（ Alexander Volkanovski ）必须在阿布扎比头衔辩护中与莫夫萨尔·埃夫洛耶夫（ Movsar Ev",
+            "originalTitle": "UFC 333: Alexander Volkanovski must deal with Movsar Evloev in Abu Dhabi title defence - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6RWgycGxzQVNnUTVzZkN5Nlh2dGlwZElRc1RYRGRKU3EyV20tUW50TDRtMHZydDFPeU90RWtjOUJxUjNCYWEzNFMxRTMyV3ZyQ3k4?oc=5",
+            "source": "شبكة تواصل الإخبارية",
+            "sources": [
+              "شبكة تواصل الإخبارية"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-23T22:25:50.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "在胡塞武装持续袭击、阿联酋石油泄漏的情况下，布伦特原油价格触及五个月高位- Marine Link",
+            "originalTitle": "Brent Crude Prices Reach Five-Month High Amidst Continued Houthi Attacks, UAE Oil Spill - Marine Link",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9qa3Y3TWVVdjlGNFF3ZllOaU0xdXpRN3FhTlVGOUFQSXBSUnc5MzdtLWFjVWM2N2ZxMkp6OUtBZ2pLbTFzdnJNMFFuT3dxWmY2QmF2OVN4NmNQRms4cFk4amttY1RaaG1LbXVYdW5JUldjNmJ5LThVWEIwMHR3Q3NYQjA?oc=5",
+            "source": "Marine Link",
+            "sources": [
+              "Marine Link"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-23T16:58:09.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "一些美国外交官在胡塞武装袭击中被告知离开沙特阿拉伯",
+            "originalTitle": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+            "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-22T13:05:30.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "俄罗斯和乌克兰表示计划于11月在阿联酋举行会谈-半岛电视台",
+            "originalTitle": "Russia and Ukraine say talks planned for November in UAE - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHY4ZnE4V0stMU1DV2N1TnZCWk1oeGlHUV9xZGJyY0hGbm9EMk5XSFNWSUJ6WUNHeXp6U205eGpXWU1sSEZyREV0b3VkYWRwSkI1b1lLbUM5Q1JmRXNLZ2RJSlhGdkloYVhweVdLbUo4cXhWZkxJZmlLdm5yZlB6YXhfUy1CU2FzQ1FfYXlwdWx6cWpRVDlieVNsYTA5ajDSAaQBQVVfeXFMTkxSNTJ3d3RTQmNuREgydDkyUDhaaTZrUzJWSUtkUGowanFKYVVtVkpXNnBwVGZRN195WTZiY0hGeFhhVEpobm1xamtoVWp2WmttNm1lZktLTlNxamFUZWRLZFpyVVNJY2VVWVNseVhPYXZYUjJSTFB6YkJlZUZQRFpjOFdTNWVObk1JNHByYVQ4YXNpX3diLVB2d2FMcGNibkxRc0s?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-23T19:21:51.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "喀拉拉邦男子在阿联酋赢得200克金条，随机选择门票，与朋友分享奖品|热门新闻-印度斯坦时报",
+            "originalTitle": "Kerala man wins 200g gold bar in UAE with randomly selected ticket, to share prize with friends | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWEdOdGtYaVZzM3VEajdHMWtTRnpsS0VzRkNtMUY3YmZkSm5kSUdXVktsYlZybnN1Q2ZDMk1aR1BjUTdWbThMSmNIRDVMMUZlTkFsa18xZXQ4ZEFEQjRJaS1PTlBxbGhGUFpIQzB2ajdiYzk4Mi00RjZOLWwwQTNyLWxyMUZWS2drdVRnbmZNVGxpRHluLUFBdkphU1pxck5VMHNfWmI4Sm83RDNQYmxtaHpLLWhGVkdDZ2J4Q1M2eDRrUUFyR21aUHlLZlFncHB5cm5TeWdtcERTRWF5RlFMc3FWdUw4dnNRdTQxYzFkMzjSAfABQVVfeXFMUFhHTnRrWGlWczN1RGo3RzFrU0Z6bEtFc0ZDbTFGN2JmZEpuZElHV1ZLbGJWcm5zdUNmQzJNWkdQY1E3Vm04TEpjSEQ1TDFGZU5BbGtfMWV0OGRBREI0SWktT05QcWxoRlBaSEMwdmo3YmM5ODItNEY2Ti1sMEEzci1scjFGVktna3VUZ25mTVRsaUR5bi1BQXZKYVNacXJOVTBzX1piOEpvN0QzUGJsbWh6Sy1oRlZHQ2dieENTNng0a1FBckdtWlB5S2ZRZ3BweXJuU3lnbXBEU0VheUZRTHNxVnVMOHZzUXU0MWMxZDM4?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-23T15:28:18.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋调解释放540名俄罗斯-乌克兰俘虏- ARN新闻中心",
+            "originalTitle": "UAE mediates release of 540 Russia-Ukraine captives - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3pNU1NLSk8wbTdLb3lMbzgxdUlSTHJwN1c5TnJ4SjR4UmVheURjaFdUSDR3MTV0a3FxUTdxb2RjRjMzV2NVQ3dfb05HQ2l5blk3VGhUbGp4bk0zb0oxQy1Qb3FlTUpGbmU4ZmVNRW9kaFc2UVZTV0k0VlM5TUo4UmljNjhOamNlZ1M5MlRSNk9KcGN6?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-23T13:14:40.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "詹妮弗·洛佩兹（ Jennifer Lopez ）将登上2026年阿布扎比F1大奖赛（ Abu Dhabi F1 Grand Prix 2026 ）",
+            "originalTitle": "Jennifer Lopez to headline Abu Dhabi F1 Grand Prix 2026; details inside - Mid-Day",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbGhUWmV2cmVjN0M5WHA3dmtHZ1JBVjByQWw4Vl95dFBvalB4ZGZjNzloTzFTTTU5QzJHbjJjWncycmFrZzNwVlpaek1PcUVPRm1CVDlEVHVWVWJlejQ1UnAxdnc2TXM5eVBwMWZnVS02cnQzLUtKNGUtc2RaTV9GRU1BVnZMZmdYaVUySGk4aXVtXzJWYzZYN3diNXdUOFBOSUl6WVhSVE01LTJSWWlPNmlxNzV6M3hSTDBwZUtOazBDazhZcFHSAcsBQVVfeXFMTWpJVTR4QlJ0UEZpMFptczgxZ3QxSHAtVTlyVkltZEIyRlpsY29xd0pKNG96RFZZSlNDOFp5VFc2SjdmT2ttMjNoLVd0bGdqbnZLemdQc1otdHE1cW14SWxHU3ZfS2lmUGNiOTlLT1JaMlpxRzlMM1JjamIzSGlSdWNvcnBSQXZaNk1ZUm51T2tSUnFXVUtpVWZTWWFwSWhaLWszNGwyYlRfNTY4dFl2WWthTVM0WWpKX2FTYTZ0aXIwVC01Uk1jNDVUTnc?oc=5",
+            "source": "Mid-Day",
+            "sources": [
+              "Mid-Day"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-23T14:39:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Urfi Javed回忆起在迪拜与Sheheryar Munawar的衷心会面- Minute Mirror",
+            "originalTitle": "Urfi Javed recalls heartfelt meeting with Sheheryar Munawar in Dubai - Minute Mirror",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3VwcUw0MjNjZVRsQTBSVHVmUDZ5d0J1OVZxQjZKX2hZdjcxUHF0UXJha056UjJmclYxQlVDY0cwNG1RZFNwZVMzb092UGhEZUtQbEpMZHZfWlhYeDVFRUoxaDAySzMyNFdTRjVWbmM2R1I0cTZCX3hMcERoNWl4Mmc4WFZPdjVydzYwNTVvakFVUWdyVDNLeENrbFc0WHpIM1R5NGFyZw?oc=5",
+            "source": "Minute Mirror",
+            "sources": [
+              "Minute Mirror"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-23T12:26:36.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "这9项阿联酋新法律可能会影响您的日常生活- Time Out Dubai",
+            "originalTitle": "These 9 new UAE laws could affect your daily life - Time Out Dubai",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYZkV2Y2FIczA5NUlMNFU0MlloZ3BJVlJiNFFvLW15VWhGSWNUenh0QzJhZHNYNmdxQmRmZ2REbVBUTUVnLWEyeGw2MGNyZmg5dkRaNDZGaklFcXVySEM5OTQxT3UzdEpQN2tmSUxvRkkzWWk5SDdr?oc=5",
+            "source": "Time Out Dubai",
+            "sources": [
+              "Time Out Dubai"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-10-23T11:14:27.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Suryakumar Yadav ，妻子Devisha在迪拜Shah Rukh Khan启发的奢侈品项目购买第一套房子- NDTV利润",
+            "originalTitle": "Suryakumar Yadav, Wife Devisha Buy First Home In Dubai At Shah Rukh Khan-Inspired Luxury Project - NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjEyeG1aOWZRd0RFdUR1UlVWR2UwNG91WkRPNGVvaTAybzMweEdwTi1ZV25UM1VLNVhiZExwSzluY1p0Q3hrVG9mTXFYZG91Z1hlZ0JmS3NidzNBMjdWNEt4R08zQnRFa2Zkd05uNW9KcEFOQWpoWjJ1amg2RkZTQThRRHZyektXN2c3bDRqeHBJaU5wVmFqa3E2RE53RF85TVdxMDRpdjFxYll6R3YwdVJoV0I0Q1g3S193SkVUbVFJZm83WmZySjZ2SWFRbXdLdHgxc1JBOVpKUkxrV1VQWNIB4AFBVV95cUxPbjEyeG1aOWZRd0RFdUR1UlVWR2UwNG91WkRPNGVvaTAybzMweEdwTi1ZV25UM1VLNVhiZExwSzluY1p0Q3hrVG9mTXFYZG91Z1hlZ0JmS3NidzNBMjdWNEt4R08zQnRFa2Zkd05uNW9KcEFOQWpoWjJ1amg2RkZTQThRRHZyektXN2c3bDRqeHBJaU5wVmFqa3E2RE53RF85TVdxMDRpdjFxYll6R3YwdVJoV0I0Q1g3S193SkVUbVFJZm83WmZySjZ2SWFRbXdLdHgxc1JBOVpKUkxrV1VQWA?oc=5",
+            "source": "NDTV Profit",
+            "sources": [
+              "NDTV Profit"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-23T10:12:06.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "波希米亚和Yo Yo Honey Singh的迪拜团聚赢得了人们的心，说唱歌手分享了照片-中午",
+            "originalTitle": "Bohemia and Yo Yo Honey Singh’s Dubai reunion wins hearts, rapper shares photo - Mid-Day",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWkJOS3JMYjVkb2FKbXR6Rkh0TDNsWS1qZ19MOFRGTEMzTDh6RHRpQ3RkWDdwYUJtcmZWUGFwZWNZd3htTDBjaDhSeDY5dEtNY01KQUNNZmE1RzBNYVpsQ3RPbHdpT0Q5Zko1NkE2bS1NT25xbmhEWElDVHN3bi1FU1VkSFpCRHhERXJuMFBLS2FoTDhLRGZHZEVnYm5kS2NlTEVjVmNWS2o1MG16eDNxUk8taklZYzVQWVVLQUlHVFdGLWcwOWZEek4tMXNKVGtORmw0eGdqeEhVU25jc0HSAeMBQVVfeXFMTkRVUnpiVGs3RWJYRVNha1FnVFJSYnhWclFzS05yTTdudHh6SmNGVE5EU2FfUkQ0ZUpLeXU2QWgzcTl6UkVGc1JlSXR4bUhLUXVVelB2WjQ3Ty02SU03SUsyNjdYR0dPUVZJd0xCM3Myb2RiajdTQlVlTzVfWk9BbmF3WU0ySFNXbFNVcTJlQ3A1Yjh6elB2OEx1M1FuSzhuenFYT3BwYWZnT21iOGkxVy03LW1RQk5ZZFpyYkxtbXI3VEtOaWRXOFRBbDM2c09aT0dZTE9zZ0ZOd2dVVXNvWWRPenM?oc=5",
+            "source": "Mid-Day",
+            "sources": [
+              "Mid-Day"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-10-23T09:51:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Urfi Javed回忆起在迪拜与Sheheryar Munawar的10分钟对话- ARYnews.tv",
+            "originalTitle": "Urfi Javed recalls 10-minute conversation with Sheheryar Munawar in Dubai - ARYnews.tv",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXZYZ080WV9nTlpqOFoxUWFiXzNOVDNUNnJWT05sVE1CUW5qQ05MLVVfeHpwa0xZbmcxYWM2dFpvSlZEd0ZYRXBuUExnZUNFUjZwLWZjMFYyWE5pNm5ESjBzY0hZdUZIR3ZrVE5yTDdoOUJjUXR6Rmw5WXFNRkd1R2FtTWtmNjlzc3duV0lldm4xeHJJcnY4?oc=5",
+            "source": "ARYnews.tv",
+            "sources": [
+              "ARYnews.tv"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-10-23T09:01:36.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋彩票中24亿₹的印度赢家表示，在购买汽车、房产、黄金后， “兴奋已经消退” |热门-印度斯坦时报",
+            "originalTitle": "Indian winner of ₹240 crore in UAE lottery says ‘excitement has faded’ after buying cars, properties, gold | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRzF5MzN4T09SdDZZbnRYT1lkZTBhTXFVSmZfell1X3RFdWotVXVjTXBfOElzQklzOFIxWlIzQjNyOXFuUURnbkNZSDhCSkxLVVhFTVhQcWdJLXBNWGlWOTJqZU1PRHNMWWstLS1ER3NVNC1qcmJHUU52b0JrS2hkZmlSZTl2Nll1T2RaMGdFc01hRFdMRGlXUkZZay1fNTkwaHNaenlVVjZjUlQwMUgtNi1IbTRHbV9Lb3F4WmNPWFVFTzlsaXZQb1BMNmlrNGRXNmp3bHduc0VtVE1PdTloak4ycUx1LXVqMS1zeXZNMGs1ZE1l0gH6AUFVX3lxTE91dkxZZ2ZHbHhqdEFXR1VfOE9ST3liQ2VnekxZT3QxMHExRVdtdU5raUtvdEYybW1mejJSN1A3MjNHYzZoUHhzdThPMktaUUtmaEFRYWw1VTZ6ZGxMTzByM1RsblBoRGxkcVFpQjVUZUVzLXFwaGNkS3ZPZ3hpM0MzM3RzazhmYVVnNU1VNnkyeGdSSUZhcWZ4UmYtMXRUVFpOS2JMcDcyM1pDRHhweTYxWXhaU0ptLXE3NFlXbmJpOU5MbXl0WGtQaFFHYk5pajlnblBuTE4yZnBJT3BJdUEzTFpGdXRfd0dOcUtqaG1BdGFjemdBcVZnYnc?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-10-23T04:32:52.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "EASE允许迪拜手机的HUAWEI NOVA 16S系列手机分期付款享受50%的折扣，最长可达36个月- Tawasol新闻网",
+            "originalTitle": "سهولة تتيح خصم 50% على هواتف Huawei nova 16s Series من Dubai Phone بالتقسيط حتى 36 شهرًا - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JR0MwMVdYQUFncGlZMUozY2ZQaWZ6dHVRQzBrMWM4RllzVmZzbkxsNE1hUjcyZ0Z0SXBiTVZNVHdyZ0JtVWlJcFlLMnhZUmFzWDBB?oc=5",
+            "source": "شبكة تواصل الإخبارية",
+            "sources": [
+              "شبكة تواصل الإخبارية",
+              "بنكي"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-10-22T19:35:16.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "中国通过新规规范对外投资， 2026年12月生效- www.uaebarq.ae",
+            "originalTitle": "الصين تعتمد قواعد جديدة لتنظيم الاستثمار الخارجي تدخل حيز التنفيذ ديسمبر 2026 - www.uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOWjVkZEdhNWNJcndndzVOOGFhS2Q2RnFhOXhoUl9PVktibXZuS3ItV2FEWmZndHV5SEc5NXVlOHhwMHh5R0RJeGhXWXViME5UY2VhRFFLdmNlUlktb0RqOG9zRU9xTXFfYzA5UTdDUFljQ3RsZUkxWEhuc01GeW1xZTR3TUtWODdYMmFnTmhiVVhpVFZBQ1I1UmdfeVBSNFN4azNQNEtJbVJtY2ozS2NjZ1d5WDFJS0lrNm5LNXE5WGNSWVhzVWZsaHR2U3JDTUlfOEdOeXFYNGk4X0pQUTJlRlo3d01Yb1JyTzROOVdLNWRNeU1heDNiZ3hiYVhYSkFld0VudUxEYUdkdEtGMDFsZUtQSmpJMFhMUnVGeEdiODJmLWdMREdfcnNOazV6UkVlQkV0RHF3cXhuZkJscFhEa2tIUjVzdDV3Zk1JZDhFVkhDRTdfM1E?oc=5",
+            "source": "www.uaebarq.ae",
+            "sources": [
+              "www.uaebarq.ae"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-23T07:06:06.000Z"
           }
         ]
       }
