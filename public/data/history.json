@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T19:40:16.504Z",
+  "updatedAt": "2026-10-25T22:03:45.023Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -26726,6 +26726,773 @@
             ],
             "heatScore": 45,
             "publishedAt": "2026-10-24T13:24:09.000Z"
+          }
+        ]
+      }
+    },
+    "2026-10-26": {
+      "date": "2026-10-26",
+      "updatedAt": "2026-10-25T22:03:45.023Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "UAE and Benin Presidents witness exchange of Comprehensive Economic Partnership Agreement - www.wam.ae",
+            "originalTitle": "UAE and Benin Presidents witness exchange of Comprehensive Economic Partnership Agreement - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUpMODRKMnRpMjlyRWxuZ0tDZXRHU0hzYXloZmEyMkpTUFd6TGgzZVpPcFVkbWlGaDRsRHhncHY5elZLaEpGZGU4Y2s5TUZyaENIT2JtV2RTNkxkOXMtSi1UX2JTdG1waUIzZG5EVXFTMWx2WDhnRGNNZDFZQVpKZ09jOHh4QQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "Gulf News",
+              "www.wam.ae"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-25T14:35:58.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "UAE President and President of Benin discuss strengthening bilateral ties - www.wam.ae",
+            "originalTitle": "UAE President and President of Benin discuss strengthening bilateral ties - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGRTRHBWbVdtaTdxdmJvYmRvN3NMaDdnWWdQMld4SXV5R3VPbGRCUVh0Nl9tRGpNLXAyQV8wX2N6SmdmWnhTMzNYUWlTMjRFTUl3RXZMQlBPVEhQRTk5RVVjTlkyeTdidXk4YjBfenI2RXJNQ3UxVktpcmttcWNCQXU2MWIzUQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "برق الإمارات",
+              "www.wam.ae"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-25T14:15:43.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE strongly condemns recent Houthi attacks in Saudi Arabia - Khaleej Times",
+            "originalTitle": "UAE strongly condemns recent Houthi attacks in Saudi Arabia - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemn-houthi-attacks-saudi-arabia-oct-25-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times",
+              "Menafn"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-25T15:06:58.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "UAE and Benin presidents witness CEPA exchange ceremony - Sharjah24",
+            "originalTitle": "UAE and Benin presidents witness CEPA exchange ceremony - Sharjah24",
+            "url": "https://c.newsnow.co.uk/A/1327993800?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Sharjah24",
+              "Gulf News"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-25T14:54:03.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "UAE and Benin announce CEPA to boost bilateral trade - Khaleej Times",
+            "originalTitle": "UAE and Benin announce CEPA to boost bilateral trade - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOEdGSzRoc3NHTmpBQ2k2RDF5dWR0cU56elU4RVl2RUxxWFQ2dkNHZGdtaGN3MjRTM3hmeUUzdVRYZmRUWEhkVnVSYi1XWXlzX29jVFk1NXcxdUtYekt2RS1wMUk3OFBrN2ZfOENQQVBENHZDa0EySW5GdHdiUkdQazNxVk1MQnNHSkowSEtIRUEtSmRfTWw3emZfblfSAZwBQVVfeXFMTThHRks0aHNzR05qQUNpNkQxeXVkdHFOenpVOEVZdkVMcVhUNnZDR2RnbWhjdzI0UzN4ZnlFM3VUWGZkVFhIZFZ1UmItV1l5c19vY1RZNTV3MXVLWHpLdkUtcDFJNzhQazdmXzhDUEFQRDR2Q2tBMkluRnR3YlJHUGszcVZNTEJzR0pKMEhLSEVBLUpkX01sN3pmX25X?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times",
+              "Menafn"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-25T14:46:18.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "UAE, Pakistan, Bangladesh airlines cancel flights to Saudi Arabia amid Houthi attacks - Khaleej Times",
+            "originalTitle": "UAE, Pakistan, Bangladesh airlines cancel flights to Saudi Arabia amid Houthi attacks - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmpTbHZoZ2gyZmt5bUtfMVV3dHhVTS1GcWFjSDZ6NHNiSlBRaFFSbTUtajlwckVaV0xaNF9WaW5WYlV1dEJ5QVktaWxaOFRmS015M1J3Z3l2bURvOWh2LUJmcDFPQldSeFhyNkoxMEd5Wi1odDVieGtaQnFXWG1ZWFpuQUNKZm9yeUlsWmprZjBKZlJqc1lFbmoxa2lQSEN2U1NPTkF1QTQxOWhQTjNRMkJuSzAtazFJUS1BS1VB0gHGAUFVX3lxTFBZd1ltTVhWNHdHWEM3UHg0Y0FfM1VjS0ZOMnZfWnIzby1ELWVadlFhVFJxYTBPUHlHS3lNWS16Uk9TSEtnaHpVN3M2UnhiVFo1X0x2VHZJNmFFdENRTmg3ckd2VVdhdjVDQ2ZIOEc0OVhVMEh0UGJVaVJaMkMwNUpiRnZOcFVscmNXdFVBQ0NyOTEwelVJaFNpeWZSakRJeWpwSVNRT2l0SHZXeTBFNnIyTm1GRTBTSDVuR0pJUTdTbU0zY0hjdw?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Menafn",
+              "Khaleej Times"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-10-25T11:39:36.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "UAE's Gargash responds to Iran speaker's criticism of Lana Nusseibeh's UN bid",
+            "originalTitle": "UAE's Gargash responds to Iran speaker's criticism of Lana Nusseibeh's UN bid",
+            "url": "https://www.khaleejtimes.com/uae/gargash-respond-iran-ghalibaf-criticism-lana-nusseibeh-un-bid",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-25T18:08:03.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Abu Dhabi Crown Prince to begin official visit to Canada on Oct 26",
+            "originalTitle": "Abu Dhabi Crown Prince to begin official visit to Canada on Oct 26",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-crown-prince-official-visit-canada-oct-26",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-10-25T16:17:40.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "UAE strongly condemns Houthi Group’s attempt to target several areas in Saudi Arabia - www.wam.ae",
+            "originalTitle": "UAE strongly condemns Houthi Group’s attempt to target several areas in Saudi Arabia - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHFnZG84TjFqUFJUTU9wVmhIUUx2QzNHNWxISHFrWDB1dkZQZVZsWlZOT25yamV3SkZmTXQ2cFN0alUxdUJ1Ylhta2lFMTEwM1lZQTI1ZXNqM1ZLYzlZQmxiWWU2dHFjTGpNUWtVVG1nQzB6SVpTZnVSc3NqRjRPYk4wVVZTRGUtalhaQlpjdzNWd3F2?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-25T14:50:31.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+            "originalTitle": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+            "url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-25T19:00:10.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "UAE and Benin presidents witness CEPA exchange ceremony - Sharjah24",
+            "originalTitle": "UAE and Benin presidents witness CEPA exchange ceremony - Sharjah24",
+            "url": "https://c.newsnow.co.uk/A/1327993800?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Sharjah24",
+              "Gulf News"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-25T14:54:03.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+            "originalTitle": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+            "url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-25T19:00:10.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE officials reject Iran's criticism of UN candidate Nusseibeh",
+            "originalTitle": "UAE officials reject Iran's criticism of UN candidate Nusseibeh",
+            "url": "https://c.newsnow.co.uk/A/1328005392?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-25T18:39:34.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Dubai court orders Dh150,000 compensation for buyer",
+            "originalTitle": "Dubai court orders Dh150,000 compensation for buyer",
+            "url": "https://c.newsnow.co.uk/A/1328004373?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-25T18:17:38.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Dana White hails Abu Dhabi safety as UFC 333 breaks records",
+            "originalTitle": "Dana White hails Abu Dhabi safety as UFC 333 breaks records",
+            "url": "https://www.khaleejtimes.com/sports/dana-white-hails-abu-dhabi-safety-as-ufc-333-breaks-records",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-25T14:52:08.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Dubai unveils new strategy to ensure safe, affordable food for all residents",
+            "originalTitle": "Dubai unveils new strategy to ensure safe, affordable food for all residents",
+            "url": "https://www.khaleejtimes.com/uae/dubai-food-security-strategy-2030-safe-affordable-food",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-25T13:38:15.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "UAE weather tomorrow: Rains likely; Abu Dhabi, Dubai temperatures to hit 36ºC",
+            "originalTitle": "UAE weather tomorrow: Rains likely; Abu Dhabi, Dubai temperatures to hit 36ºC",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-26-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-25T13:22:59.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Dubai Police recover Dh1m in bank impersonation scam",
+            "originalTitle": "Dubai Police recover Dh1m in bank impersonation scam",
+            "url": "https://c.newsnow.co.uk/A/1327998767?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-25T16:25:21.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Dubai to boost local produce and reduce waste in new food security strategy",
+            "originalTitle": "Dubai to boost local produce and reduce waste in new food security strategy",
+            "url": "https://c.newsnow.co.uk/A/1327997128?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-25T15:56:49.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Dubai announces new strategy as part of plan to be a global leader in food security",
+            "originalTitle": "Dubai announces new strategy as part of plan to be a global leader in food security",
+            "url": "https://c.newsnow.co.uk/A/1327996655?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-25T15:46:44.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "UAE and Benin Presidents witness exchange of Comprehensive Economic Partnership Agreement - www.wam.ae",
+            "originalTitle": "UAE and Benin Presidents witness exchange of Comprehensive Economic Partnership Agreement - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUpMODRKMnRpMjlyRWxuZ0tDZXRHU0hzYXloZmEyMkpTUFd6TGgzZVpPcFVkbWlGaDRsRHhncHY5elZLaEpGZGU4Y2s5TUZyaENIT2JtV2RTNkxkOXMtSi1UX2JTdG1waUIzZG5EVXFTMWx2WDhnRGNNZDFZQVpKZ09jOHh4QQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "Gulf News",
+              "www.wam.ae"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-25T14:35:58.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "UAE President and President of Benin discuss strengthening bilateral ties - www.wam.ae",
+            "originalTitle": "UAE President and President of Benin discuss strengthening bilateral ties - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGRTRHBWbVdtaTdxdmJvYmRvN3NMaDdnWWdQMld4SXV5R3VPbGRCUVh0Nl9tRGpNLXAyQV8wX2N6SmdmWnhTMzNYUWlTMjRFTUl3RXZMQlBPVEhQRTk5RVVjTlkyeTdidXk4YjBfenI2RXJNQ3UxVktpcmttcWNCQXU2MWIzUQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "برق الإمارات",
+              "www.wam.ae"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-25T14:15:43.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE and Benin announce CEPA to boost bilateral trade - Khaleej Times",
+            "originalTitle": "UAE and Benin announce CEPA to boost bilateral trade - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOEdGSzRoc3NHTmpBQ2k2RDF5dWR0cU56elU4RVl2RUxxWFQ2dkNHZGdtaGN3MjRTM3hmeUUzdVRYZmRUWEhkVnVSYi1XWXlzX29jVFk1NXcxdUtYekt2RS1wMUk3OFBrN2ZfOENQQVBENHZDa0EySW5GdHdiUkdQazNxVk1MQnNHSkowSEtIRUEtSmRfTWw3emZfblfSAZwBQVVfeXFMTThHRks0aHNzR05qQUNpNkQxeXVkdHFOenpVOEVZdkVMcVhUNnZDR2RnbWhjdzI0UzN4ZnlFM3VUWGZkVFhIZFZ1UmItV1l5c19vY1RZNTV3MXVLWHpLdkUtcDFJNzhQazdmXzhDUEFQRDR2Q2tBMkluRnR3YlJHUGszcVZNTEJzR0pKMEhLSEVBLUpkX01sN3pmX25X?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times",
+              "Menafn"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-10-25T14:46:18.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Abu Dhabi Crown Prince to begin official visit to Canada on Oct 26",
+            "originalTitle": "Abu Dhabi Crown Prince to begin official visit to Canada on Oct 26",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-crown-prince-official-visit-canada-oct-26",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-10-25T16:17:40.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "UAE and Benin agree to trade deal in Abu Dhabi - The National",
+            "originalTitle": "UAE and Benin agree to trade deal in Abu Dhabi - The National",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVQwOGtlQVFYWjMzXzR5b2ptUncxbmxBNEY1TGtQdVVzcTZWb1hBLUttcm5nVmdabFJnZkM3aXg3ajRHVmZhN1lFc2tHTFZjd3V4dXFjMGY4MUN6RTdsM3VaaHBMWml3anBJLWJwLXlZdWxzZU5rQ0ZIMkVIalplZ3BXakdmSnZRY0RtTHhxOC16T3Itei1namZwQlI?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-25T15:57:19.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "UAE and Benin exchange Comprehensive Economic Partnership Agreement to boost trade and investment - Emirates 24|7",
+            "originalTitle": "UAE and Benin exchange Comprehensive Economic Partnership Agreement to boost trade and investment - Emirates 24|7",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY1NDNkExRlpPakdRVU5KSHlJdlZvNVNIMVR6S2JxcGExbFdSMGxsd3hDM04zbGdoTE40bnY4R0VkbVFtaXFUZG8wVlhQdHd3cWk4MG9Mckh6cmtPUi1MOGRUVFhuMU1ZZHdfVy1aaFdTVHJuYXU2d0M0M0JSX3lRNVhxMTVJMF9kbUx5TlVNVGVEbDUyZVIzRWpZRGVQc1pObTkxSEJ4RnpCcVRWeEJodE51a0JBby1nT0Y0NGRTX29Tbkl5N2VoNkpfUFpCUlloakpBcFQtZnFBNGlWX0loeE8xUHhVOGdBXzRnaXJYMjTSAfABQVVfeXFMTmNTQzZBMUZaT2pHUVVOSkh5SXZWbzVTSDFUekticXBhMWxXUjBsbHd4QzNOM2xnaExONG52OEdFZG1RbWlxVGRvMFZYUHR3d3FpODBvTHJIenJrT1ItTDhkVFRYbjFNWWR3X1ctWmhXU1RybmF1NndDNDNCUl95UTVYcTE1STBfZG1MeU5VTVRlRGw1MmVSM0VqWURlUHNaTm05MUhCeEZ6QnFUVnhCaHROdWtCQW8tZ09GNDRkU19vU25JeTdlaDZKX1BaQlJZaGpKQXBULWZxQTRpVl9JaHhPMVB4VThnQV80Z2lyWDI0?oc=5",
+            "source": "Emirates 24|7",
+            "sources": [
+              "Emirates 24|7",
+              "ARN News Centre"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-25T17:05:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Alberta-UAE relations taking off: Minister Schow",
+            "originalTitle": "Alberta-UAE relations taking off: Minister Schow",
+            "url": "https://c.newsnow.co.uk/A/1328005090?-15565:1965",
+            "source": "NewsNow",
+            "sources": [
+              "NewsNow"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-25T18:33:45.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "UAE, Benin Presidents Discuss Cementing Bilateral Cooperation - Fana News -",
+            "originalTitle": "UAE, Benin Presidents Discuss Cementing Bilateral Cooperation - Fana News -",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGFuYUdjWTI4S3V4UHFNZy1pR2l4V2szN1JubmptQlFwTXdlX1dXRnQ0Vi0xQk10eUNmdjBaOGY3TDd4RVN5RGdPTWZoeVNJS3pZd0t5ZkV6RkJxa1hHQ2RxelZWRk92eURnaVNkdWZwbnl6X01FYXVfLW5kMkFYM1FNRDdlU013VktSWmt1MTRZQUwwRnN6cnNZWHFyMW8?oc=5",
+            "source": "Fana News -",
+            "sources": [
+              "Fana News -"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-25T18:01:35.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "UAE and Benin sign economic partnership agreement — The National - UA.NEWS",
+            "originalTitle": "UAE and Benin sign economic partnership agreement — The National - UA.NEWS",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUo4ZVFFTUJmYUo2V1NmWmRlSi1Ha3IxN0FkSjgzY0JlODUyU1RrVXZCZHhKX0pKaUxUTnBSNndhTFJJdTNmaFF0TnNobE9NdTFNNVhQNzBpS0czNTNXalhGbnRFZ3J2QUZHXzZrOFBYU1Z0VnEwTTBUdkJtaTVTa2llNGtGYThwYkhJWXV0N1ZIbER3SnBrSzFn?oc=5",
+            "source": "UA.NEWS",
+            "sources": [
+              "UA.NEWS"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-25T16:05:01.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Talks between Saddam Haftar and Al-Zoubi fail to reach agreement as representatives from Egypt, UAE and Qatar arrive in Turkey - The Libya Observer",
+            "originalTitle": "Talks between Saddam Haftar and Al-Zoubi fail to reach agreement as representatives from Egypt, UAE and Qatar arrive in Turkey - The Libya Observer",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZaWEszanozVGVrRjh3aGJtSmpZYm10bUp6YzB6cDEzSUJ4NnZ1RnRES0Y2LTNwTGRCTkUya1NjY0c5N250M0NFMWVXSEJ6a0lmU3Eydl9qYWJzYkg3MnA4NWhNZUd1TlBIOUViU0dUU1VGTTB0SUpIR1JuMm9RYUpHOV9jYW84QkNid3VSbUQ2b3FJUTM2LWc5N185a08yMC1lRmo3bUhLdlRyTFRzODdXWDl0UmsyVkVQUERn?oc=5",
+            "source": "The Libya Observer",
+            "sources": [
+              "The Libya Observer"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-25T17:20:57.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "UAE's Gargash responds to Iran speaker's criticism of Lana Nusseibeh's UN bid",
+            "originalTitle": "UAE's Gargash responds to Iran speaker's criticism of Lana Nusseibeh's UN bid",
+            "url": "https://www.khaleejtimes.com/uae/gargash-respond-iran-ghalibaf-criticism-lana-nusseibeh-un-bid",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-10-25T18:08:03.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Dubai to close some E611 lanes, Al Maktoum airport tunnel amid autonomous taxi testing",
+            "originalTitle": "Dubai to close some E611 lanes, Al Maktoum airport tunnel amid autonomous taxi testing",
+            "url": "https://www.khaleejtimes.com/uae/transport/dubai-to-close-some-e611-lanes-al-maktoum-airport-tunnel-amid-autonomous-taxi-testing",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-10-25T15:18:57.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Final bridge of Dubai's World Trade Centre roundabout project to open on October 30",
+            "originalTitle": "Final bridge of Dubai's World Trade Centre roundabout project to open on October 30",
+            "url": "https://www.khaleejtimes.com/uae/transport/final-bridge-dubai-world-trade-centre-roundabout-project-to-open-october-30",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-10-25T06:44:44.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Selling a mortgaged property in Dubai? Rules, transfer options explained",
+            "originalTitle": "Selling a mortgaged property in Dubai? Rules, transfer options explained",
+            "url": "https://www.khaleejtimes.com/uae/legal/selling-mortgaged-property-dubai-rules-explained",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-25T06:10:48.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Oil spill off UAE coast prompts beach closures, cleanup effort - Reuters",
+            "originalTitle": "Oil spill off UAE coast prompts beach closures, cleanup effort - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDVzb2o2bVZpMzFTRjc2dENKTUhpalRtLTA2bkprdkwxdWRBdXVVU0xWTHNYcmJLeEJTeV82SXhtN24wWUstUm9QV09Qcm5OSWF3dk5BVU93RmkyeWVuVVJnYloxNTZzajBhanlNNmZvUDJaRXdWbTFia1MycXpJTUtsUDRRSFVHcUJLSmlaNUY1Tk1qXy14SFRxczBUUTVJcGlaZk5FSzRvLUlJdWtWNTJB?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-10-24T08:43:54.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "UAE oil spill: Beaches closed, smell explained, and what happens next",
+            "originalTitle": "UAE oil spill: Beaches closed, smell explained, and what happens next",
+            "url": "https://www.khaleejtimes.com/uae/oil-spill-beaches-closed-smell-explained-happens-next",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-10-25T02:00:00.000Z"
+          }
+        ],
+        "technology": [],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "UAE strongly condemns recent Houthi attacks in Saudi Arabia - Khaleej Times",
+            "originalTitle": "UAE strongly condemns recent Houthi attacks in Saudi Arabia - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemn-houthi-attacks-saudi-arabia-oct-25-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times",
+              "Menafn"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-25T15:06:58.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "UAE, Pakistan, Bangladesh airlines cancel flights to Saudi Arabia amid Houthi attacks - Khaleej Times",
+            "originalTitle": "UAE, Pakistan, Bangladesh airlines cancel flights to Saudi Arabia amid Houthi attacks - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmpTbHZoZ2gyZmt5bUtfMVV3dHhVTS1GcWFjSDZ6NHNiSlBRaFFSbTUtajlwckVaV0xaNF9WaW5WYlV1dEJ5QVktaWxaOFRmS015M1J3Z3l2bURvOWh2LUJmcDFPQldSeFhyNkoxMEd5Wi1odDVieGtaQnFXWG1ZWFpuQUNKZm9yeUlsWmprZjBKZlJqc1lFbmoxa2lQSEN2U1NPTkF1QTQxOWhQTjNRMkJuSzAtazFJUS1BS1VB0gHGAUFVX3lxTFBZd1ltTVhWNHdHWEM3UHg0Y0FfM1VjS0ZOMnZfWnIzby1ELWVadlFhVFJxYTBPUHlHS3lNWS16Uk9TSEtnaHpVN3M2UnhiVFo1X0x2VHZJNmFFdENRTmg3ckd2VVdhdjVDQ2ZIOEc0OVhVMEh0UGJVaVJaMkMwNUpiRnZOcFVscmNXdFVBQ0NyOTEwelVJaFNpeWZSakRJeWpwSVNRT2l0SHZXeTBFNnIyTm1GRTBTSDVuR0pJUTdTbU0zY0hjdw?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Menafn",
+              "Khaleej Times"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-10-25T11:39:36.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE strongly condemns Houthi Group’s attempt to target several areas in Saudi Arabia - www.wam.ae",
+            "originalTitle": "UAE strongly condemns Houthi Group’s attempt to target several areas in Saudi Arabia - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHFnZG84TjFqUFJUTU9wVmhIUUx2QzNHNWxISHFrWDB1dkZQZVZsWlZOT25yamV3SkZmTXQ2cFN0alUxdUJ1Ylhta2lFMTEwM1lZQTI1ZXNqM1ZLYzlZQmxiWWU2dHFjTGpNUWtVVG1nQzB6SVpTZnVSc3NqRjRPYk4wVVZTRGUtalhaQlpjdzNWd3F2?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-10-25T14:50:31.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "UAE condemns Houthi missile attacks targeting Saudi Arabia - Dubai Eye 103.8",
+            "originalTitle": "UAE condemns Houthi missile attacks targeting Saudi Arabia - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFdnTHBTYUpLZ2lDXzA4WHhPN1BWNk9MUmwwbUVlbDU4UldSU0pEVE9UYjhVTUhSdzBfaDVOYVJNdlBoMGp0TjdMdWxRdTM0dGZMVHpZRzZScTRQNDVZaGpHZ1VPQ3BMUUVYY0RqSkRHbmtTUEk3V054VlB3Nk02Z1pkNFZ2ZVAxQjZUUUswSG1pR3BDNDBERDhfUHMxX0hT?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8",
+              "ARN News Centre"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-10-25T20:23:11.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "UAE residents’ update: Trump rules out Iran strike; injuries reported in Houthi attack on Saudi Arabia - Gulf News",
+            "originalTitle": "UAE residents’ update: Trump rules out Iran strike; injuries reported in Houthi attack on Saudi Arabia - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3Y0YTZqRTJPS09hV0djbGh5UEg4QW5ueGNDZHNuNDJaVmxjY1Q5cGJraDl4MzNoYkZHWTBtMW9yRFRIckRpbFdIclBlNHZ1enFTLU9ERG1DOGNZQzdmMVZkeFNSMEVIRV9VQlFkb2NtZmdhMTcxcFdJZGdMeXk1RzNKcmpWSTM2WWcxOXl0dTNLcEpmSUxONDU4NmY3RVlXYTN0RVBJR05Udm5Sc3JfWGJJdndncU5FRXZ0NjQyYTFRV1hjNERyMkdZLXZzdk9mS3fSAeIBQVVfeXFMTmkxYzA1WTU0RU52X2RVSHY2Z2xUWXJ3Z1cyRU9abFVXc05ybUJQUmVBYnFQMF9TMmJwWGF3MDlBZjB1aElqT2R6VXZydW1mY3JfNHNkSmpWTzVpSm1XdE9SVjZHSllSRTVSeFBzeEs2WDBtQmFGaEh4VXFkc3BsUzRZUnhiM01oSjVWYkc5SjBsODdEWGM1QVNoTnVBUVNaNnp1SkNycnlJX2ZTakJGdnNVcmdSZG1IS0dJTm5LNy13TUwxTm5xV2JtQ01kWkhYaG9zUzJwQ1VHWW00NzZCdEt6Zw?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-25T15:58:15.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Paid parking introduced in Warsan Industrial, Dubai Islands; subscriptions available",
+            "originalTitle": "Paid parking introduced in Warsan Industrial, Dubai Islands; subscriptions available",
+            "url": "https://www.khaleejtimes.com/uae/paid-parking-warsan-industrial-dubai-islands-parkin",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-25T07:11:47.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "UAE Condemns Houthi Attack on King Fahd International Airport - Global Arab Network",
+            "originalTitle": "UAE Condemns Houthi Attack on King Fahd International Airport - Global Arab Network",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU9ZS2dMXzFfNHVpei1QSENhNU45eUVBUUxWYTBwVU14ZzR6ajc0WHZGRkdLNzQwXzlVUjMwSm5hdDFXUzBnekd6TDJBdnVvNWphdXlTQjlfLUZtY3JrYmVDZzU0RzBZZWFSMjE4TUZlU19CZG5HMkdHYk5KdGVLLXIwOW9qVDVaMkhzUTVNZzhaTGd1by10MlRMeGlYNlpMT09PS0N6cnZMeVJEalM4NA?oc=5",
+            "source": "Global Arab Network",
+            "sources": [
+              "Global Arab Network"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-25T20:01:48.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Brazil Built 70km Anti-Ship Missile on UAE Money Using ASTROS II Launcher, Then Ran Out of Cash to Finish Integration - Defense Express",
+            "originalTitle": "Brazil Built 70km Anti-Ship Missile on UAE Money Using ASTROS II Launcher, Then Ran Out of Cash to Finish Integration - Defense Express",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVm9TdllHYnN0blVpLXpXWDZKcEFvSmVValVsTTBHd0dmR1RLU2JFczEtTTctSGpJR2hQeFJoc1YwNlZzVEI1NEVYTE13aVQ1b2Z1RUkwemtJaG45dE92U1JSVzAyR09fdXpkMlZqY0NoQ29aalctbzN5OS1BR20xSU11NklUc1ZIMERPMnZjYVloU2UxMnpqQ2xJS2pMX1hTQ19JYnI5TERodHgzT1NaTTREdFBiU0thU2JrUkNNaV9mRk1SVDF3NXJGd0lRS0hqVTA5cDk1VkhFSTFsOU15cnI1TUpvbWhNMkJ4RXhCSQ?oc=5",
+            "source": "Defense Express",
+            "sources": [
+              "Defense Express"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-10-25T18:07:59.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "UAE Strongly Condemns Houthi Attempt to Target Several Regions in Saudi Arabia - وكالة الأنباء السعودية",
+            "originalTitle": "UAE Strongly Condemns Houthi Attempt to Target Several Regions in Saudi Arabia - وكالة الأنباء السعودية",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1hR3VyeUdwT1lCajNpTzRSM1dkOUR3QTd0UFJPV0Y0NnlKMHpwMVQ3SDFOUC1vN29Bc1ZiSlRUQktPSzRRNVA3MlZB?oc=5",
+            "source": "وكالة الأنباء السعودية",
+            "sources": [
+              "وكالة الأنباء السعودية"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-25T17:12:43.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "UAE condoles Philippines over military aircraft crashes victims - Sharjah24",
+            "originalTitle": "UAE condoles Philippines over military aircraft crashes victims - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xQXEtMm5QSVF4XzFRQ0lKYWs5a1NQbG9RZUlTR3A5Z3JYeG1rNU0zMmpEQkVyZnRoRjRRWHpKZ3RqdGRLaGg2bzNRTm10YkQ0SjY1YmZyTkc1dFZ3blE?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-25T14:23:50.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "UAE court convicts woman after girl left alone at beach; social media use unsupervised - Khaleej Times",
+            "originalTitle": "UAE court convicts woman after girl left alone at beach; social media use unsupervised - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/crime/uae-court-convicts-woman-girl-alone-at-beach-social-media-unsupervised",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-25T02:00:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "UAE, Benin Presidents discuss development cooperation - ARN News Centre",
+            "originalTitle": "UAE, Benin Presidents discuss development cooperation - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjRvR0VwdjdVS1ppVlVTaU1rcHo1ZU50UjhFNTlFSXB2dFlZM1dqdFVWWFlNODU5Nkt5cTRUcWFvUldLMzU4SzNRX2RncWMxeUhDN01sdWsyOTF1UktjOEhWSVcyaUNlNjk4SmRoUlh2VEllUTVkN01DTWU2cTFUMDUtU3hCNWswTUZhTTU4bzg2dlJKcVJzeTlvNmFYRndrR0xteXptU0E1Y3Y4Z1E?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-25T19:20:50.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "53 iPhones: Dubai man completes three-year Apple launch hat-trick with new Duo, from first iPhone to iPhon - The Economic Times",
+            "originalTitle": "53 iPhones: Dubai man completes three-year Apple launch hat-trick with new Duo, from first iPhone to iPhon - The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdzRmaG9vak5NRk5KU3poU09IOERKNFhlWDQtdHNRa1VmenB6U1NwUHZNTnBHb2RYRHQxZzBTdFBqRHFGWWJoN0ZzNkZXRDQ5ODZ4eUZnYTBFbDRpTHBpbkhtdjcxMlJiQUpKNXp6ZUpibldVZWZwR005dW16MDVLVkJhTkxHemJHV2hNaVlUZFdhYTBRZzU0VVJyRC05SVVWcmNnR1lYUThHZjloMmtIQ181VTd6OUdGR0FDUWx3RmplVnlJM3NIRzlQYmtETWVWOWxoM1RxdlhoemZjLXlFTmd2TVA0Ni1wT3RyTEhEWUhqNmg4c0xsVXJLaDZ6Z1RweFh3UHRiY25RVnFwS3VsbHF5TmVUd9IBmwJBVV95cUxOYlNJd3pJeUh0QzRJRnBxX3BYcm04ZldmajJpRGlnTS1mcGJzS1oySmN6Si1VMmwwRUotZXpGeVo2M2NXamdoTHlzSG56M3d2VC1tdFJmZG1aZEpWbl9vekxRb3dlRWFOandoM2N0Q2ZfRXZPMWJBbDlvMHFEZkQwMXNEN2VMWnNQZDMya1Z3OXpvMkpDR1BBYVdBSWt6MGhNOTJmdUxsTW93cUtYTWxwX0hPVVFzeFZKeUtiSjRteVFrOEhhQ3d0SUxFYk1CaW1UcUZ1Tk9fczJOVHQ5NWdhY0ZTdVdsN2VBRzBlU3NzOW1RcThVYl9ST05OeVdCcUtmendLZHpDTEFyMjRMTU1ycmNPSlRyWFItSmpV?oc=5",
+            "source": "The Economic Times",
+            "sources": [
+              "The Economic Times"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-25T11:24:54.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Sidharth Malhotra, Vijay Deverakonda and Shikhar Dhawan attend the UFC 333 in Abu Dhabi - Moneycontrol.com",
+            "originalTitle": "Sidharth Malhotra, Vijay Deverakonda and Shikhar Dhawan attend the UFC 333 in Abu Dhabi - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdklVX2dKM3ZPTV82cmxWS3NvVjJlV2lIUWxzWlJZV3hQUXZCQzBaeHVSS3dKX1VNV0NfX005YUlnaHo5bWNSUndNdWxpYnVaUWp6ZHZxTUozWTJYSkt1enVJV2dENV9tbE0xcDMtRG9yWW5SZTQtMUtNaG5vTnJ5VTQwX2pOd0V3YVVZTGRVaGdpVEgyb0U0X2E0SjJjWUdMNmR3dFdnYjVoVHpvQWVGN0VvTzFOYktsSjJzdTI0UXJDNjg2NXJFQlZ6NlZ3dVNIaWo1aFg3a2tCX0JRSFFKMnVrR2FxaG9uaVJB0gHrAUFVX3lxTE52SVVfZ0ozdk9NXzZybFZLc29WMmVXaUhRbHNaUllXeFBRdkJDMFp4dVJLd0pfVU1XQ19fTTlhSWdoejltY1JSd011bGlidVpRanpkdnFNSjNZMlhKS3V6dUlXZ0Q1X21sTTFwMy1Eb3JZblJlNC0xS01obm9OcnlVNDBfak53RXdhVVlMZFVoZ2lUSDJvRTRfYTRKMmNZR0w2ZHd0V2diNWhUem9BZUY3RW9PMU5iS2xKMnN1MjRRckM2ODY1ckVCVno2Vnd1U0hpajVoWDdra0JfQlFIUUoydWtHYXFob25pUkE?oc=5",
+            "source": "Moneycontrol.com",
+            "sources": [
+              "Moneycontrol.com"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-25T14:00:58.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Dubai awards stormwater drainage contracts worth AED3 billion - ARN News Centre",
+            "originalTitle": "Dubai awards stormwater drainage contracts worth AED3 billion - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzlfSjhpT25vWE5YcEZiamJnQW5YWU9WejdWS0FUV1poNGVKejhJeGhUSVE3MU02b1UtYzBNNVA5V0pTRlVSZEZSYXl6RVhvdjE0NDdrdER6R0lmM04wR0JLNzRITnhOaXFUSTVQenFUSUlYX0xfdWV1dy11RW4zaExrWHVCN0ZYN1BYenBRYUFDOG5rUkNJSnZLQUJxaGFzTVE?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-10-25T11:20:36.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Dubais 16-Kg Gold Jhumkas Set Two Guinness World Records, Took 5,840 Hours To Make; Check Details - Free Press Journal",
+            "originalTitle": "Dubais 16-Kg Gold Jhumkas Set Two Guinness World Records, Took 5,840 Hours To Make; Check Details - Free Press Journal",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbEpJRHZXV0xiOVAtT21kZElnMGRGMWE0SkhIenVLYjg0RWZWWnp5QlFKRTIwbFRNOXc1YWx2NWVpdmpGNmV2YmVGTEZfX1BwMXdoVy1fUVJHcUVOTTlaakp3enprdFRCWkFTSWU5MHRlZVRMXzgzbUpKdE9VTmJnRE5zLWdmUjVSdktfT3hqYXZfYVNWN1p3ZE9INWc1bXN1OWhJOWZ0WFFTQ3lERkRiUzhYN3o3STZSNzYzQzFMNE9DZWh5bWZrOHBiWjfSAdIBQVVfeXFMUGtBYmppTkhlQlhXQjhWLWVfbXZnQ2E1ZGRTeDY1ZWs5VmZHY2ZyWG5lRTFVTTJ4SGxBQXl2SFNMYjhoNmI3UklEcG5kQTFUTWtEcTZEckFUaGZsZHRIcmV6SVZDQ2JNTnRIUEw3T1k4d0ZYZVd2NDVhVFcxMUo4T3hzTDhmeFNjWGhMZzdGRWpiLVRJQ1NvYjNGV3U3QmtrZ2xTVk9BZ2FXUjFwOENrTkd5cmg4TVBXNVdmMTZpckpsX2w5ZDRCdkhLQkVhQ1JuVkxB?oc=5",
+            "source": "Free Press Journal",
+            "sources": [
+              "Free Press Journal"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-25T10:11:24.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "55 artisans, 5,840 hours and two Guinness records for Dubai's giant gold jhumkas - India Today",
+            "originalTitle": "55 artisans, 5,840 hours and two Guinness records for Dubai's giant gold jhumkas - India Today",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSWNMd1FRWVZ1dnNKM0JhZnVQTk1ZWDg2N3VIcTlobVJuQ1pOQVBrLXhZTDJNLTVRblZ1T3BCVmFhV0RZNlJGSlF0enBJY0xmN3ZYUzJXQXdmU0luZ1J2b21zVUpwcWJiWEFXMm5xYldfdUhRR1VHM1NaUlFoVTRpX3l0MGUzazczb1FiOXJvbmZ1UnRNRm9JZ3hmd1d2VldGbEV0Yi1td1JvNnYzU1F6MFRMejZoajhzSElsY1RiVFdfZjZkT0pBdEMzTDlHa0hzTVkzUHRWVWdGUdIB3wFBVV95cUxPc1pPLXJYQ2laREpWNWJjM3M0QUpNUHJhT1dvOF9QYUhwWTdOMHJCSlhQbEtKVldzcU8xRWJLdFJaVVpBRnhjbmZuTk1faG5TcGFmRHNsWG1tUGVzWUF3S2dISEkwV2NpZ0dMOWNpMjY2ZmJ3MVlsWGp5N19iRG1vVHNER3BIS0tybVUzMVRGVmxIbmxuXzlqcnFZVnU0REtVdHl3RzZrUXdQd25JV25INzd1OFJuNTFSekQ2a2ZjR0h4dFZWTVY0dTJQNEtkREEwRGxyVEl0WUhQM3lhWUkw?oc=5",
+            "source": "India Today",
+            "sources": [
+              "India Today"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-10-25T08:44:22.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Dubai man brings collection of 53 old iPhones to Apple Store while picking up 2 new foldable phones | Trending - Hindustan Times",
+            "originalTitle": "Dubai man brings collection of 53 old iPhones to Apple Store while picking up 2 new foldable phones | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSjBYNjZ0NG5XUXVWcVpHMHFFUUJDeF8xTlBXaDJPQVJ6MnN4SEc3bFBINlN6NUdYbndIMFFabUowS3hZZ1pYUUlZWUlsazNuM0pINlVfYURuSkV4Q2M0T25XeVZUa3MtMFpSUmktMHcwbzc0Tjl2Vl9kUUFxTENReU5Uc2REaHhMTDhBNmd5WnZJNWhhV0ZjaWkyeEJFXzl5QnlWdHRFSHhpQTk5d2hqWVdWZFVWMThiRGwyaFdZanB0d0dueEZMb09STG03bHJhTERqd2VpS29IUkhoN0VIMEl2Tm9aRFZ2MmZOamtvSEJHZ9IB9wFBVV95cUxQa3NMaTczLVRheHpBVnA2ajRPa09ZWkhyWTIzM0x3WjBTUXhsaGNuWmZXN0hYM2trT3JCdUZXS1BkaVFpeEZKUE80N2E4cVc5a21QbmVucGJZbGpHUmc4d0lSZXZsWUtxWjBPV1gwMFB4Qnk2SGNoVGU4NkVKQXRVc1hOYkN6c2xyVXlkdFlXWkxTSTZBcDZHQTFKT1Q1dFJvYzJTNVo5c2RMeXBqQllmNkdnUms3Mkl4cmhGNzRFdGVlM0Q1NXFJNG5PWDdvU3M1UmFBcUNMNGZfY2pOMk12Q0c4dW5QUFIxdndja1lxNnUyQkZtQ2k4?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-10-25T06:01:17.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "UAE Raises Military Alert to Maximum Over Anticipated Iranian Attacks - Bloom Pakistan",
+            "originalTitle": "UAE Raises Military Alert to Maximum Over Anticipated Iranian Attacks - Bloom Pakistan",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDbTBPNHRxamVmcldpTkNpSlZaU2xGR2NpUi1vTDNGa1BMWUpxSUJxZWVDd1MwV2dOZU1DNjZsNExwOHZtaTNKZFNNMXRQVkRRMHJXY18tdUR2MnF1TElCVFFoZmtreF82RmdwZDRyc2RLZkNzQllQQQ?oc=5",
+            "source": "Bloom Pakistan",
+            "sources": [
+              "Bloom Pakistan"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-25T08:21:38.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Dubai jeweller creates 16.5 kg gold jhumkas, breaks two Guinness World Records | Trending - Hindustan Times",
+            "originalTitle": "Dubai jeweller creates 16.5 kg gold jhumkas, breaks two Guinness World Records | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWlg5TXZEOV9pOGM0bUxiNzd1WERhaWNfbHk5VXViTXlXTkpnV2xfYXhabmxPMTF4eWhVeWExbEgtNTY4QnIwaDF4SE9IcTFwcENINkItNXJwRC15WjJjUkRyRmx1Q1h5MHhiV2R4Q2NuTmhVdV9PMXg1c1lWQ3hMakxOVGhTVTc2UEZjb01pRktTNTNKdWVCUmhsbXJkYzRvRnZiR1ZWdkJtWEZHenNUOFBuc2Q2eWQ0UmctS1BsOGhJRVNkc3BIbVplMFFEaVJOZVlERNIB2gFBVV95cUxNcEM0eUgzazdpR0hsVkFLMVd4YVI0SG85OXdPTXU5ak53bXhHYUVJdm9zaVFIOUFUc2hKTUZtSXVVakgtdXFBSko0NVJrSG1OLXFoaXcyZVJUOGhnY0R5eDhhdm4xeTNOa2FTRXdKQ0xsN0kwcDd2WXlkTDcwYXN4Sy05UkVGcWFPcUlIOFNWODY4TEhVX0d5NWNaaUl2NDNNTkdYQkJXMU1VaU1DNjlZdW53NHVPZkZjZU1HOTBJMUNjQ1ZnNEV3V1YwSWZER2tuMzJENXduZlVFQQ?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-10-25T03:23:12.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "«يانغ وانغ» الصينية تستعد لكشف سيدان فائقة الفخامة في دبي نوفمبر المقبل - البيان",
+            "originalTitle": "«يانغ وانغ» الصينية تستعد لكشف سيدان فائقة الفخامة في دبي نوفمبر المقبل - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDQ0xVU05hR3d1ZkJkWFI1dzhPZ2tMdFFITmh3NE13ZGx4eWt1bGM0Vllad1lueDh0R2x5ZnpQTUhsOGwtdGNIc3pBcm80ZDU4SXhZRTVXVXBsUl9qaE1RTnJ1RURCZGlZcHNj0gFwQVVfeXFMTUFWeFdYUEtDZ0l5RVp1OTJBTEk3bGxzWl9XOS1jQjJiMzR4SDVmc3JGbkZIUTRfNjN2SGc5MW50WXd5LXFCVlFBNF95NHQ1RGtzVzI3NFpYS0M0Y0xkRHJYdjAwZFBRVkpwbUFOX1g0dA?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-25T13:15:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "\"هواوي\" تطرح WATCH D3 في الإمارات لمراقبة ضغط الدم على مدار الساعة - أخبار عجمان",
+            "originalTitle": "\"هواوي\" تطرح WATCH D3 في الإمارات لمراقبة ضغط الدم على مدار الساعة - أخبار عجمان",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YMEY5d2RwUlpoUXZXZnY4b24yNEZUTEtZNHpHbmcyc2lRZUE2UWNyejQ3V2Ftb1owZUh5bjhoNDZVLW5JUUlFOXFRUEhjWUhfNHNrdHVmSlhsY082?oc=5",
+            "source": "أخبار عجمان",
+            "sources": [
+              "أخبار عجمان"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-25T10:15:35.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "حاكم رأس الخيمة يزور جامعة فوتشو ومعالم ثقافية وتاريخية في الصين - Sharjah24",
+            "originalTitle": "حاكم رأس الخيمة يزور جامعة فوتشو ومعالم ثقافية وتاريخية في الصين - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XNjRDNG9ycGNxTXR0WmhncEZUTWpCZ045ODVRd2JGYkVYUDZuaWZocEdkRFlhZGE3RXR6aHFXbnNCTTRibkk5bmtRekhPYVo1aW1iU1RWZkVENzg?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-10-24T14:05:22.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "بالفيديو.. حاكم رأس الخيمة يزور جامعة فوتشو ويؤكد أهمية المعرفة في تعزيز العلاقات الإماراتية الصينية - www.uaebarq.ae",
+            "originalTitle": "بالفيديو.. حاكم رأس الخيمة يزور جامعة فوتشو ويؤكد أهمية المعرفة في تعزيز العلاقات الإماراتية الصينية - www.uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQcDVmaEFWMjVYcHBZOXladUhrR21kNUpJYWlFNEowNndVaDVKTzdTYVFnVnFwaTQ2amZWOFktaHZOcl9zNHpNMzR6RlRxcEQyczBueGlMVHk3eDFDWWhoWm1zUW1yVk1iRm5yb3NXMnUySEJzVUx2Q2N5d1k4cmE2dUdRdmx2QnczMXdHdDIyc1EwdEs2NElUV01iNU01NkVYaElOMEljeEZXQ2hpT0taU0V4ZXBYZDEtOFpJWG9aZnRqTEdTZEk0cnppTVpVWHhwMzlMcE8ydzczeXdQRy1BMHN3RlRQVXZ6ZjBkcjRGMXNUYWRaTXBwTHhPTTRZU1FZT2lSV1Z2NVl4YjRjVHNTTW5IQWJHdV9JVlFKX080UGg0VWpBak5pU2RXNnhmSGI2QjEtb2RQbWhTWUc2akYzWV9OS3hsWEVHWHh2VU01XzduTV8wRWZj?oc=5",
+            "source": "www.uaebarq.ae",
+            "sources": [
+              "www.uaebarq.ae"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-10-24T13:24:09.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "هاتف جديد قابل للطي من سامسونج يخرج من الصين ويطرح في الإمارات للمرة الأولى - البيان",
+            "originalTitle": "هاتف جديد قابل للطي من سامسونج يخرج من الصين ويطرح في الإمارات للمرة الأولى - البيان",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WVFNKRWcxbTZNTWFlN1Z6MURsQkYteTUyaWZqYzYzTzZGYjdiQmlXQ3hrekZESjNLS0p4UkI4c1BQZmtkaVNpYk05VFIySnJuZ28xRDZEZDRMUXBXQ3dtOEhKNEpzQVo4UFpTSF9OR2g3b3F1VnfSAXtBVV95cUxNZVAtMEJSVWxaUTJLTTFaZ2Y5NEZBcGlkSG5xcDJRdmFBelNBeTlkaWNQZzgzdFBhQUNYODFEakFkTnZwdU1QX19lNWVzaU95cW5lMFBjSUtmYzA1RTJPZjNNTEM2a25PWEFoTWQ2Y010LUNVdmJZQlNJRjg?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 44,
+            "publishedAt": "2026-10-24T13:49:00.000Z"
           }
         ]
       }
