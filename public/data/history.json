@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T22:03:45.023Z",
+  "updatedAt": "2026-10-26T21:45:44.630Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -27493,6 +27493,720 @@
             ],
             "heatScore": 44,
             "publishedAt": "2026-10-24T13:49:00.000Z"
+          }
+        ]
+      }
+    },
+    "2026-10-27": {
+      "date": "2026-10-27",
+      "updatedAt": "2026-10-26T21:45:44.630Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "卫星图像显示，阿联酋的石油泄漏扩大，导致更多海滩关闭-路透社",
+            "originalTitle": "Oil spill off UAE widens, satellite images show, prompting more beach closures - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHhFSkdqM0dlc3lWWVViWVlQMDNlNnRVQkxSUWttcWR5R19wV3dvclAyOGtmNVFZMEI2YVVheGVlLUlJNTB3bzZGeDlqRTEtMGZiRk5ZN0x1dWs4a2VNaElUUW1Yd0lxaFRpTjhtVDdael9uaEpHa2kxTllSWVRHSjVIMUVLQmJSNUlGZDF5S0JEOXJ0Rk5GR1lFN0thcWNqSW15RmVsMUFrOUpGeE9lMm1oNVZVNFdjaVQ2VFJielNUM29rMG1BZUd3?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "The New Arab",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-26T18:02:04.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋总统、副总统祝贺巴西总统",
+            "originalTitle": "UAE President, VPs congratulate Brazilian President",
+            "url": "https://c.newsnow.co.uk/A/1328098338?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-26T20:04:25.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Sheikh Hamdan批准了到2030年迪拜人工智能园区超过1000家公司的目标",
+            "originalTitle": "Sheikh Hamdan approves Dubai AI Campus target of over 1,000 companies by 2030",
+            "url": "https://www.khaleejtimes.com/business/tech/sheikh-hamdan-approve-dubai-ai-campus-target-1000-companies-2030",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-26T15:10:24.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "迪拜推出全球首个以商会为主导的人工智能市场",
+            "originalTitle": "Dubai launches world's first chamber-led AI marketplace",
+            "url": "https://c.newsnow.co.uk/A/1328091192?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-26T18:22:57.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "CFI有史以来最高的季度交易量为$ 3.45万亿",
+            "originalTitle": "CFI records highest-ever quarterly trading volume of $3.45 trillion",
+            "url": "https://www.khaleejtimes.com/business/finance/cfi-records-highest-ever-quarterly-trading-volume-of-345-trillion",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-26T14:22:36.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "沙特阿拉伯寻求在胡塞危机中修复与阿联酋的关系-《金融时报》",
+            "originalTitle": "Saudi Arabia seeks to mend ties with UAE in Houthi crisis - Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTYzSmRkYlpyNEZIMnY3SllTbU13MW1iZUxrSk1nUFhKVmpjdGlTdkd5VlFfa2VCdGt1bVNMVGoxT2h3cE5mMnhTbGNzaDRSWmpINlBzTzdxNUNpQ09rSjRFd09wenVyX1l5cVBjdkRwczJfWHU2TE1KZXk0RUVzNlVQV24?oc=5",
+            "source": "Financial Times",
+            "sources": [
+              "Financial Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T11:10:54.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "YouTube为沙特阿拉伯、阿联酋和埃及带来视频购物体验",
+            "originalTitle": "YouTube brings in-video shopping to Saudi Arabia, UAE and Egypt",
+            "url": "https://www.arabnews.com/media/youtube-brings-in-video-shopping-to-saudi-arabia-uae-and-egypt-3008402",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T18:28:50.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "沙迦的卡尔巴海滩已完成75% ，工作将于2026年12月结束",
+            "originalTitle": "Sharjah's Kalba Beach 75% complete, work set to end by December 2026",
+            "url": "https://www.khaleejtimes.com/uae/sharjahs-kalba-beach-75-percent-complete-work-end-december-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T14:00:31.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "丘吉尔港业主、总部位于迪拜的迪拜环球港务集团旨在促进贸易航线交通",
+            "originalTitle": "Port of Churchill owners, Dubai-based DP World aim to boost trade route traffic",
+            "url": "https://c.newsnow.co.uk/A/1328098792?-15565:1965",
+            "source": "CBC.ca",
+            "sources": [
+              "CBC.ca",
+              "Toronto Star"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T20:09:46.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "伊拉克沿海船舶失火：海事机构",
+            "originalTitle": "Ship on fire off coast of Iraq: maritime agency",
+            "url": "https://www.arabnews.com/middle-east/ship-on-fire-off-coast-of-iraq-maritime-agency-3008410",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-26T18:21:59.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋总统、副总统祝贺巴西总统",
+            "originalTitle": "UAE President, VPs congratulate Brazilian President",
+            "url": "https://c.newsnow.co.uk/A/1328098338?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-10-26T20:04:25.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "CFI有史以来最高的季度交易量为$ 3.45万亿",
+            "originalTitle": "CFI records highest-ever quarterly trading volume of $3.45 trillion",
+            "url": "https://www.khaleejtimes.com/business/finance/cfi-records-highest-ever-quarterly-trading-volume-of-345-trillion",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-26T14:22:36.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "沙迦的卡尔巴海滩已完成75% ，工作将于2026年12月结束",
+            "originalTitle": "Sharjah's Kalba Beach 75% complete, work set to end by December 2026",
+            "url": "https://www.khaleejtimes.com/uae/sharjahs-kalba-beach-75-percent-complete-work-end-december-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T14:00:31.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "丘吉尔港业主、总部位于迪拜的迪拜环球港务集团旨在促进贸易航线交通",
+            "originalTitle": "Port of Churchill owners, Dubai-based DP World aim to boost trade route traffic",
+            "url": "https://c.newsnow.co.uk/A/1328098792?-15565:1965",
+            "source": "CBC.ca",
+            "sources": [
+              "CBC.ca",
+              "Toronto Star"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T20:09:46.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "伊拉克沿海船舶失火：海事机构",
+            "originalTitle": "Ship on fire off coast of Iraq: maritime agency",
+            "url": "https://www.arabnews.com/middle-east/ship-on-fire-off-coast-of-iraq-maritime-agency-3008410",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-26T18:21:59.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "约旦支持阿联酋的Lana Nusseibeh担任联合国秘书长",
+            "originalTitle": "Jordan backs UAE’s Lana Nusseibeh for UN secretary-general",
+            "url": "https://www.arabnews.com/middle-east/jordan-backs-uaes-lana-nusseibeh-for-un-secretary-general-3008380",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-26T17:47:27.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋明天的天气：可能有降雨；风会造成吹尘",
+            "originalTitle": "UAE weather tomorrow: Chance of rains; winds to cause blowing dust",
+            "url": "https://www.khaleejtimes.com/uae/weather/october-27-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-26T13:25:47.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Casa Vista Development加强了阿联酋的存在，因为40%的AQUORA Residences在揭幕前售出",
+            "originalTitle": "Casa Vista Development strengthens UAE presence as 40 per cent of AQUORA Residences sell ahead of unveiling",
+            "url": "https://www.khaleejtimes.com/business/property/casa-vista-development-strengthens-uae-presence-as-40-per-cent-of-aquora-residences-sell-ahead-of-unveiling",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-26T12:46:09.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿布扎比如何改善居民周围的环境，而不是责怪他们的饮食",
+            "originalTitle": "How Abu Dhabi is fixing residents' surroundings instead of blaming what they eat",
+            "url": "https://www.khaleejtimes.com/lifestyle/health/abu-dhabi-redesign-residents-surroundings-food-habits-health",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-10-26T11:53:18.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "CBSE 2027第10、12类的日期表：预计时间表日期，下载步骤说明",
+            "originalTitle": "CBSE 2027 date sheet for Class 10, 12: Expected timetable date, download steps explained",
+            "url": "https://www.khaleejtimes.com/uae/education/cbse-2027-date-sheet-board-exams-class-10-12-expected-timetable-date",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-26T11:27:07.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "俄罗斯、阿联酋议会发言人讨论金砖国家合作",
+            "originalTitle": "Russian, UAE parliamentary speakers discuss BRICS cooperation",
+            "url": "https://c.newsnow.co.uk/A/1328082312?-15565:1965",
+            "source": "Interfax International",
+            "sources": [
+              "Interfax International"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-10-26T16:46:48.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "迪拜将重新分配婚礼和活动中剩余的食物，以减少浪费。",
+            "originalTitle": "Dubai to redistribute surplus food from weddings and events to reduce waste - The National",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXFEb1dZR1k2T1d2dHFHdHZLTTgyOFVmZ2c2NEtFMDlyNmlkWlYzaFlSNE0tTXRfbS11ZnRFb0FXNVNxUHoyNVVreFYtdUQxY2JKUExiWXh0YzlZcVJRR1ZadzBwS2drTExJV2Nuek1NSzBOMFo2R2RVS19oZEwycW5iOXBOVjIwUEk2TVVwUm54R29rVF81bkUwQnE?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-26T14:17:56.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋在首尔举行的全球峰会上展示利用人工智能推进政府服务的经验- Big News Network.com",
+            "originalTitle": "UAE showcases experience in harnessing AI to advance government services at Global Summit in Seoul - Big News Network.com",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzk5WVhwTW1sNmhST3dUYVFNN1dvQWRBLW1MOFpIcjVlbVZHTUJQQ2JsNklRVUdZanllTzlnYkZ4SlJaLURSSEJNMm5pNFJLR0c2SklHZjNldXJmRTA1OTdubFdZajFJYWJpUktOTmJudDVkY2pOX3MyTC1KdC0xTi1taDduSTJ5cV9wTzZHY1VqM1lQV1FXUGpTeHdRWDFuVEx0NHY2WER5Y014elEyLWJNXzVXc1hUczk0SDlhLWw0aktLVjhJaTVDZWlYUk9acm5MUHRURmlMZGVy?oc=5",
+            "source": "Big News Network.com",
+            "sources": [
+              "South Korea News",
+              "Big News Network.com"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-10-26T16:47:07.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Shakhboot bin Nahyan接见乌干达外交部长-阿联酋外交部",
+            "originalTitle": "Shakhboot bin Nahyan Receives Ugandan Foreign Minister - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXg1TGtGQ3NsRHNvSDdCM3ZqSEdUaktWaGNyLWdFLUNMaXhGMVhqLXNQTm96dENuYWlkMHpJRGlhckZwVHd3RXNZV1ZHeU94TGhBR3FwbWhHb2tMOTVid2JMWHNHbkJFaHpweW1IMHJXMEM1bkNHeDVublUzSVdvZ0NtdnVwR2dWTy10NVJqUFRtWnJBcXpj?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات",
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-10-26T14:41:47.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋和法国在高级别讨论中加强战略联系-全球阿拉伯网络",
+            "originalTitle": "UAE and France Strengthen Strategic Ties in High-Level Discussions - Global Arab Network",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzV5T1o4VEhnYUZ2MGFHY2xtaXZ6c3hReHFJRWR1MGxXZkxNMTdrLS1BQ1piem1Da2dLazBLMm1zeGpTZE42YVdGTFRhV3hlRi1wTWJ6UTU5eWlmQVA2V3lXOXpZcWlLUXVzMnlaNk5KWHhUTXUzcE1sQmtZdjgyZkxjcmVFdC0yX0hRektiR0FpTFBZQ2xldWo4eG9QckdJODEySnd3dl8tMjdzbTdnaVNMZ3JTSTQ?oc=5",
+            "source": "Global Arab Network",
+            "sources": [
+              "Global Arab Network"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-10-26T17:37:30.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋在2026年世界绿色经济峰会上领导绿色经济对话- UPPERNEWS",
+            "originalTitle": "UAE Leads Green Economy Dialogue at World Green Economy Summit 2026 - UPPERNEWS",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzA3dUV1TTJyd29qaHJ1S0I1TFV3TjFOTzY2RGVDaDRCdnFLNHpqOVVKVWo3NzEyWU45ZzFJQkh1TWxyTDJicWxGS2JxMDBZUEVuZVgzWmh2cWxhSGhHUmlhd3paemo0OURORDllbkVwNVg0UUFEcmpfWlRFbUlDQUZ6U1Z1VjB0MFpEYkt6Q1VaOVA3dDJlZTM4UGw?oc=5",
+            "source": "UPPERNEWS",
+            "sources": [
+              "UPPERNEWS"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-26T20:43:54.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿卜杜拉·本·扎耶德，埃及FM讨论双边关系，区域发展-阿联酋闪电",
+            "originalTitle": "Abdullah bin Zayed, Egyptian FM discuss bilateral ties, regional developments - برق الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0hIR0FYeDVGaWRDME5OMWlYckxOMjByWF94YUpXbXBMc2NtbFZCOGVoRXRHVlJ3d1k2NkxPX1VCalBuREJxZlVodENVa0xOODdYRjhwdWFpX3NUVUs0YXNJR3BwWmZGNEQ4N2EwdFVxQWhkdG03Si1kQWhWN1FUT0d0Mm1ZMzVKcmlVQVV6Z0Z0NklfMkM3LWlaZlJKdlZudmVJSmlZY3U1eDA2NW52U3pSOA?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-26T19:05:42.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "卡塔尔和阿联酋签署空中导航协议，提高空中交通安全和效率- ILoveQatar.net",
+            "originalTitle": "Qatar and UAE sign air navigation agreement to enhance air traffic safety and efficiency - ILoveQatar.net",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeWtZZjBFc28wdFNLNTNVZEJuM09KRDhZRUV3VS12Rk9HVTZEbVhBalFIazlXWl94Wnh6ZlJqOE1JSkN5SzJ5WlNvb2g5U3IyZldOZVhuZ1pWMjNLUkk0UC1Cdi05andJSXdWVXJya0JhQy1BX2ZNX2RDdlJub0gtczR3eU0zamwzZ3drc2FINFdrRk0?oc=5",
+            "source": "ILoveQatar.net",
+            "sources": [
+              "ILoveQatar.net"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-26T18:23:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "埃及，阿联酋讨论双边关系和阿联酋联合国首席提名人-外交事务-埃及- Ahram Online",
+            "originalTitle": "Egypt, UAE discuss bilateral ties and Emirati UN chief nominee - Foreign Affairs - Egypt - Ahram Online",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckdmb1JsRlZLdGJPYWxjd2pyOFJ3TVpJMGQ5cGk5ZVctVVRIVDNNTnZwSkdvSXVtRF9sX2FFR3ZPZVBBd0pwWWw3QTkwQWctUTFEX1JvTHJMLXZKc1M2QW5EaUVxbkNERkVKa2VYdFItVmd1REtKcnZiME5DYUUtSTRmWFprUlE1ajlFSUxfQXJMUGlIZXJFQ3JtZlJIemNQb2huQ29WbHRkV0lDaE5ZbEtn?oc=5",
+            "source": "Ahram Online",
+            "sources": [
+              "Ahram Online"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-26T18:15:11.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "开放//埃及，阿联酋FM讨论双边关系，区域发展-中东通讯社- MENA",
+            "originalTitle": "OPEN// Egyptian, UAE FMs discuss bilateral ties, regional developments - وكالة أنباء الشرق الأوسط - mena",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVk1iRWt0YmItMEx4MW9jeWdqam9NYjN2ckRiNDJwS25OWjU3UEJRYVB6ZlFvcDM0Sk1zdlVrT0FMM0s3M1FqNnlCc1oyc3ltTlNLV3Bla0ZTdTE3LVdnaU9YbXQwdDRDX1JkaXJCSHotR2QwWkRoUzlwOFlIbklvRFhZNTl6c290NDNzaGhXcGNuR2RuaDJQVzBB?oc=5",
+            "source": "وكالة أنباء الشرق الأوسط - mena",
+            "sources": [
+              "وكالة أنباء الشرق الأوسط - mena"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-26T17:07:18.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "所得税部门敦促阿联酋和其他海外房产的纳税人根据FAST-DS披露外国资产",
+            "originalTitle": "Income-Tax Department nudges taxpayers with UAE and other overseas properties to disclose foreign assets under FAST-DS",
+            "url": "https://c.newsnow.co.uk/A/1328092817?-15565:1965",
+            "source": "The Economic Times",
+            "sources": [
+              "The Economic Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-26T18:44:51.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "卫星图像显示，阿联酋的石油泄漏扩大，导致更多海滩关闭-路透社",
+            "originalTitle": "Oil spill off UAE widens, satellite images show, prompting more beach closures - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHhFSkdqM0dlc3lWWVViWVlQMDNlNnRVQkxSUWttcWR5R19wV3dvclAyOGtmNVFZMEI2YVVheGVlLUlJNTB3bzZGeDlqRTEtMGZiRk5ZN0x1dWs4a2VNaElUUW1Yd0lxaFRpTjhtVDdael9uaEpHa2kxTllSWVRHSjVIMUVLQmJSNUlGZDF5S0JEOXJ0Rk5GR1lFN0thcWNqSW15RmVsMUFrOUpGeE9lMm1oNVZVNFdjaVQ2VFJielNUM29rMG1BZUd3?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "The New Arab",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-10-26T18:02:04.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Sheikh Hamdan批准了到2030年迪拜人工智能园区超过1000家公司的目标",
+            "originalTitle": "Sheikh Hamdan approves Dubai AI Campus target of over 1,000 companies by 2030",
+            "url": "https://www.khaleejtimes.com/business/tech/sheikh-hamdan-approve-dubai-ai-campus-target-1000-companies-2030",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-10-26T15:10:24.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜推出全球首个以商会为主导的人工智能市场",
+            "originalTitle": "Dubai launches world's first chamber-led AI marketplace",
+            "url": "https://c.newsnow.co.uk/A/1328091192?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-10-26T18:22:57.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋智障学生在279个机器人团队中至少占一半",
+            "originalTitle": "UAE students with intellectual disabilities make up at least half of 279 robotics teams",
+            "url": "https://www.khaleejtimes.com/uae/education/uae-2026-unified-robotics-league-students-intellectual-disabilities",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-10-26T13:27:42.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "沙特阿拉伯寻求在胡塞危机中修复与阿联酋的关系-《金融时报》",
+            "originalTitle": "Saudi Arabia seeks to mend ties with UAE in Houthi crisis - Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTYzSmRkYlpyNEZIMnY3SllTbU13MW1iZUxrSk1nUFhKVmpjdGlTdkd5VlFfa2VCdGt1bVNMVGoxT2h3cE5mMnhTbGNzaDRSWmpINlBzTzdxNUNpQ09rSjRFd09wenVyX1l5cVBjdkRwczJfWHU2TE1KZXk0RUVzNlVQV24?oc=5",
+            "source": "Financial Times",
+            "sources": [
+              "Financial Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T11:10:54.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "中东冲突：阿联酋居民今晚在伊朗会谈、沙特航班上需要了解的信息-海湾新闻",
+            "originalTitle": "Middle East conflict: What UAE residents need to know tonight on Iran talks, Saudi flights - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3ZDRGNiaGZQWmY3OUYwSk5JaThxQTN1N0ZQZUswS203eTRTZXd5YTFNaHpQVDR0MlVseWJoakdiS2JzUUY2M0tNc0tONGFnSlFwYmpRT1lsWEdFSHMzRUNXZGQwOXJqOTNLMzhGYkxtOF84XzdsQkpFUFhIM19DWTEzOFlkeVdTMUlRcGZfeE0zTkh1OTZsN25wZ2phcUhyNTVLbmJvZUl0aXNITUZsOHRueUI2Zkc0eEk1NktSQ1lhSjjSAdMBQVVfeXFMTVJoOU1sRDRqRDRxSzB5RFBnMTZ5YmtQczVwOVNWS1VMOU1VdllZUTFoRHV6eldHZUZoUmxudVlVRy1FNHd5LW01ZzJUa1ZMTDVVUEpCeVo4OU5XOEUtcmhXWXVZUTF6QnJEX1VDN1Z4Y09uQ0I3cWZ3LTdIdDRpQmVJaEVfcUp5b2tjQjZGdHBJSUdFc2V6RFFIcjI2eXdCUzVWdkJjMUdkS3NralV0RnJ2RDhCUm9SZzdkR1lYdlFfbHBKWkllOGcySGFES1kxeDhGOA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-26T14:15:57.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜的全球村将为排灯节举办600场无人机表演，为期5天的庆祝活动- Khaleej Times",
+            "originalTitle": "Dubai's Global Village to mark Diwali with 600-drone show, 5-day festivities - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/diwali-dubai-global-village-drone-show-festivities",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-10-26T09:49:04.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋邀请总理参加国防展览--Dainik Amader Barta",
+            "originalTitle": "UAE invites PM to defence exhibitions - Dainik Amader Barta",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVR0MDQ0UGN5V2NGR0xYZ1MwWFFFWHAyX2t4T3lHcGxYQUZyT2s1TWdmMmtFeUd3UUo3MjNBLXhXbDd3Sy1Rbk1BU3JuWnk5R3FpMEd3Zmppak9MUUU3dUprWHh2TVVuRlFVNVZ2RnRWck5RRGQxVDJzZEdyMU84eEtKWFNPcjQ?oc=5",
+            "source": "Dainik Amader Barta",
+            "sources": [
+              "Dainik Amader Barta",
+              "Dainik Shiksha"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-10-26T13:02:10.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "美以伊战争：阿联酋居民今天需要了解的内容（ 2026年10月26日） -海湾新闻",
+            "originalTitle": "US-Israel-Iran war: What UAE residents need to know today (Oct. 26, 2026) - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVhJRUs5Yi13QWdfUDhkaDVWZW5hSDZpaGJRRU13ZGh3UkV1U1U5RllocTZIR2RNMHYtc1hCX2RPajRjR0drRmItbmZ4cHBjYVVtTHdSeVN0TUdLdEUyWlVzT3RidXRjYUowVHd2WUxmY2JyTVJLYnJJRnMwS3AzTVYzR0w1QWpNSENCcWN4MDBNQUUySHRfNldBcjJ2R05lblFLUUlLMmXSAbgBQVVfeXFMTWh1NGpRTldkUDVPdFhfUHZ5dHUxeDg3SVRPUWRRRklPTFdNYXdkOHMxaUFIdDhjWUQxYlFDa0tzRnNoR19VMmJjQmZPRHpkd2dRcER5WlZLVDlDQjFIbVVNc200VzViajFGLWs1ZjJ2bUpVdTFWcThXS0k5eng3VFVUUnZHcmhGZjkwZzExZ0ZrSVhTeFlNUmJyN3haXzNjLXBrSktqT1pzUE9zYmhGbkppamV4M3I0TA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-26T05:52:19.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋强烈谴责对约旦的攻击性导弹袭击-也门在线",
+            "originalTitle": "UAE Strongly Condemns Aggressive Missile Attack on Jordan - Yemen Online",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91ZEJoVDNTM3BIMjBvbjhpWklOMXIzLW1MSGY4T0U3cTRMUUlwczVjdVNUbUxwN0o0eE11ZEQ0azYwQW9wQXJCLS0xVGpyQUQyenc?oc=5",
+            "source": "Yemen Online",
+            "sources": [
+              "Yemen Online"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-10-26T17:24:54.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋王储邀请总理参加在阿布扎比举办的国防展-金融快报",
+            "originalTitle": "UAE Crown Prince invites PM to defence exhibitions in Abu Dhabi - The Financial Express",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0RUYUgxWHJpd3Y0ZmRlR0g2SkFmclJuSDV2QmxkY0JDQk5uaXp5d2JvYnZXZHA1WlkteVZUNU9oTjcyZXMtZl9vZFlMYkN5ZjVTdHI4RzNLRHlsM0U5VVJMQ1lJeG9SVWJiakRxVnVsUXZJU3VDRk9GMmIwVEFtU0hIS0F4T0pWbVR0dE5VbkoxQ0g0ZE94bUFrM2VGNDlOckZGRnlvZUpUZ3RXUURVcDRycWrSAbQBQVVfeXFMTV9EVGFIMVhyaXd2NGZkZUdINkpBZnJSbkg1dkJsZGNCQ0JObml6eXdib2J2V2RwNVpZLXlWVDVPaE43MmVzLWZfb2RZTGJDeWY1U3RyOEczS0R5bDNFOVVSTENZSXhvUlViYmpEcVZ1bFF2SVN1Q0ZPRjJiMFRBbVNISEtBeE9KVm1UdHROVW5KMUNINGRPeG1BazNlRjQ5TnJGRkZ5b2VKVGd0V1FEVXA0cnFq?oc=5",
+            "source": "The Financial Express",
+            "sources": [
+              "The Financial Express"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-26T18:00:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋邀请塔里克总理参加国防展览-每日太阳报",
+            "originalTitle": "UAE invites PM Tarique to defence exhibitions - Daily Sun",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb3k3MnN0WXdDZDc0clJqMnBYbWJMRkVrTnA5Q2UtckVsV2U3czB5U0REYm1TTG9odTlUWElyX293MXNRMi1YdEF0TC1sTjJZajZRbTRkV3lkbmM2TVpzU2VXZjJfQnJNc09mT2FNdDNIVkpySkZaSTR6Z0wzQmJQUFJSV3h4Y1VWcDNfYXhuU2FTUQ?oc=5",
+            "source": "Daily Sun",
+            "sources": [
+              "Daily Sun"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-10-26T17:53:08.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜王储邀请塔里克总理参加阿联酋主要国防展览--《每日星报》",
+            "originalTitle": "Dubai crown prince invites PM Tarique to major UAE defence exhibitions - The Daily Star",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTjVXenlsSDNWaEFsMEJlRG5sUmJHd01vMUV1b0Fhb0Q3UkpMcmdKS2FDcVVWOWpyTFBNNDVTQnZqWHhTQnNKenR3ZkJYQWVpMEVFRmVoejFGNU1ZcTlTd0dvbG8zaXRmRzVvNWRnVUowTksydVZvWjVCWmFreUIzQWZ5NkFxdHk3V0l6Z1dJWFRtenl3M1BiV183ZTJlX08yTk5yN2hUOUJmbW91eThVOVNpMEhXUUZZLXVtSGQ5T1FkU2NYa29kNW1HeVlyNWNU?oc=5",
+            "source": "The Daily Star",
+            "sources": [
+              "The Daily Star"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-26T17:34:11.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋王储邀请总理参加国防博览会-《每日观察家报》",
+            "originalTitle": "UAE Crown Prince invites PM to defence expos - Daily Observer",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tX2R5OXpFcUVFV0xyU1pjWWZObUVQYnJMUzZJcjRZTVprZkhXcUZlOHZsMkZoemlGUFNCekp1QWk5YjVCelJPYURR?oc=5",
+            "source": "Daily Observer",
+            "sources": [
+              "Daily Observer"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-10-26T15:21:48.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "YouTube为沙特阿拉伯、阿联酋和埃及带来视频购物体验",
+            "originalTitle": "YouTube brings in-video shopping to Saudi Arabia, UAE and Egypt",
+            "url": "https://www.arabnews.com/media/youtube-brings-in-video-shopping-to-saudi-arabia-uae-and-egypt-3008402",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-10-26T18:28:50.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "在阿联酋30年后，印度外籍人士赢得了12.9亿₹的彩票，希望获得黄金签证并环游世界|热门-印度斯坦时报",
+            "originalTitle": "After 30 years in UAE, Indian expat wins ₹12.9 crore lottery, hopes to get Golden Visa and travel the world | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEt1TmFHUWFYaHlaVThVQzdGbUVybTJZSFRoTTFkM2N1andhZTJVektSVVI0RXBCaTJ5eC0tU0Y3YTJidUJZWVU4cDFUM0FDMDFGV2lPdXhOUk5mdlhWdFdyWm5LLVRTZVlRUUdZVVRNWlFiYWFjb1p4a2JXcmxJSlYyYmFUaEYtaVJkU1pNSzJPZ2NCQ2hEZkk0el9HZUU1Smpjc2xLbXl2dG5ETXJIckpHLVR6YzMzb3h0TWtLTnVQODdCRjJaOVNzS0dBeDV6cmhXbmUtX3FlZTktT3NZSmk2ZUZ1U2VMNUHSAeoBQVVfeXFMUFRLdU5hR1FhWGh5WlU4VUM3Rm1Fcm0yWUhUaE0xZDNjdWp3YWUyVXpLUlVSNEVwQmkyeXgtLVNGN2EyYnVCWVlVOHAxVDNBQzAxRldpT3V4TlJOZnZYVnRXclpuSy1UU2VZUVFHWVVUTVpRYmFhY29aeGtiV3JsSUpWMmJhVGhGLWlSZFNaTUsyT2djQkNoRGZJNHpfR2VFNUpqY3NsS215dnRuRE1ySHJKRy1UemMzM294dE1rS051UDg3QkYyWjlTc0tHQXg1enJoV25lLV9xZWU5LU9zWUppNmVGdVNlTDVB?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18",
+              "Hindustan Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-10-26T13:00:33.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "随着引人注目的水景逐渐形成，迪拜喷泉呈现出新的面貌-海湾新闻",
+            "originalTitle": "Dubai Fountain gets a new look as striking water features take shape - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNDd5d0JQTmNDUE9XUkVlS2xqZkFwS1BEQkFidnpPbkNmaUozSk90N3hmUDc5MWYxNkR5ZUlWNVZxMVExMmxVdUxNbzMxLW5WQmdUaG9hZkNfR1hZZGRpbUQ0T1c5LWlVaXN1d2VtNHJYZ2FtbkJua2poMGlKaThKcUZMbnhhVVFxcVJURGFjUzJPQTFjSDcxV0JzS3pmQdIBrgFBVV95cUxQcWRIVVR3aVNwOEdTcGwzTnJreERBOVc1NTVWb2ZsUkZVTTFaOU02MW1Pa0ZFdXg0aEkyQnFWekwyOXc5Zmd5aUk3eV9ySlRvRGFfa2E0S3M5azR6bmRGNC1nRjg2NFhkREtMWVdnUTlpcUVYRVl0cVlCMTM4NW12UTFEa1hmM19OdGJkZi1vSGNEX3lxWl94aHpPLTFwXzZNSVBsOU1HTFJnYVJ6U2c?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-10-26T08:15:50.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "巴拉圭感谢阿联酋的紧急人道主义响应- ARN新闻中心",
+            "originalTitle": "Paraguay thanks UAE for urgent humanitarian response - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2wzTFllSEJxaGtTZk5FX1Fza3dIY3Nvd3lJcUZSeTdoZEhwc29Va1JWX0hWMEFNcE5ES1Z4WEUzNkV4a3ROM1pPT0MxNXFWc3hOOHItOGpKTXB4U1JLa2VhZHdQMWI1NmZ6clc5bVc0eFRiTUJSekhUU0NrbjRiZmFRa3ZxaXJZaUpqNGN2VE1ZWUlSN05YLWhn?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-10-26T20:03:44.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Malaika Arora穿着罩袍参观阿布扎比清真寺，照片疯传- Tapmad",
+            "originalTitle": "Malaika Arora Visits Abu Dhabi Mosque Wearing a Burqa, Photos Go Viral - Tapmad",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzRFVFg3TFJoNnBheEdYQW91bzJMeWd0Q2Z3QklFVVdYWlZScVpTNXRfWFVEQ1dtRUVsc0RXYUd6RDJiU1ZTeHBRZW9vd3dwVW12d1c1LTBqRG1fOElsMjdYanhacDNRRUFBWXE3bVBGc1BwaXQ0WlRPUnFqZ3F6dFRwTnJvalRXWjE4ZldCWHVGd0NvbDJZblpGRTFzQjlJZDZSaGl4clRmekU?oc=5",
+            "source": "Tapmad",
+            "sources": [
+              "Tapmad"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-10-26T19:19:10.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "迪拜推出强化的Al Ruwayyah冬季露营季节- ARN新闻中心",
+            "originalTitle": "Dubai unveils enhanced Al Ruwayyah winter camping season - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmFLR2g2NkFrNGFKUHpFeGNHTDdtSkIwdjlYSzVjOUFhUllFeDdnSHVvdGNZWVc0WXpCQjZtdnRFY18tRkZGWUpWOUdaTkRFMTBIQlpZMEM5LWhMaWtGNEZ1SUgtQTE4Z1loLXl6UzNZQ2Q0aU1fSEJLcUFvSDFMb2tVVnZjNkpiLVl3b3pvQ0ZCRUhGLW9vZ2cwLW5hS2dOa0Zz?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-26T17:43:16.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋的新猎鹰包机表彰谢赫扎耶德的遗产- ARN新闻中心",
+            "originalTitle": "UAE's new falconry charter honours Sheikh Zayed's legacy - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeERNNEFteHhjWGFNM2JTVENRVHlESWMxbEV3aWNYZ3N5WGlEY0NCWlAxbGtRV2thWHl0VEozd2VoQW5saFZSbDh6MGFwODY0UDJGQkUwbE5XcXlGWDJ1ekNHVU5oRlBxSDE0bFpiTzhhZnFSb2x5XzV6VFoyTXNPcndfYTZZc0gxejNiMi1CRDdtaHAyUnBXT1dzVUM?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-26T17:08:13.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "迪拜停车场引入的车辆测试服务- ARN新闻中心",
+            "originalTitle": "Vehicle testing services introduced at Dubai parking locations - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1RjZ2Iyc3pKYUpuS2JINk1wRWo5bU1fb3dtVkZOQU5vdXRuSG9SUE9Mc2ROM3BMTmpsdEpGWUdOMUJENmQ2V2V1ZmN6cUxGQ1ZtUXNBRFV0T2c2UEV0NDFCYVlTLWd6MkdKa0JCWUdyQ19XTWRfQ1NqNnVXYVJGODBlV0JvNWFvUG1ZaGlhT2NMR2JNZ2l5amFHOUtjdXRQel9J?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-10-26T15:32:53.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "印度男子重现阿提哈德在迪拜的豪华套房，乘坐空中客车A380 222次|热门-印度斯坦时报",
+            "originalTitle": "Indian man recreates Etihad’s luxury suite in Dubai home, has flown on Airbus A380 222 times | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTTJUYmM1RlY5QmZNRlBHOHRDeDlJRVZkSU1LU3NvVkE4d05KUlVJRHpvLTNTNklmaUE4amJuNWFKSHRuZmtZVl9iVU1ZTk5PbmFMTEJQeXdpUjJNVXBGTmNNTmZjWnN2UmxFSTNOR0lER1hobGphd3lVLWFHMUs5YlJSN1d0Q3JQa3pUd3FPb2QxV2owWHhlRmJfUmgyYUNsMXN2SXAzQTE3WGNNcUJ0azVDb0M0VUhJajJlUzBMdFpNWndlaFRSQ0dYbmhqSWdPZkF1OU03em1pWkNSdFFnVlc5NGtnQ0nSAewBQVVfeXFMTkUtS0ZXbzhYUndLM1dRcEt1YVlyZER1c3lNalJYeldweDQzNWljVjRjdW9mZGtRZXEyWG1MeGVaSTZUdWNwb25QU3BNQXZsUk1JaGZLSThTYS13ZHEzOTVSOEhrdkJUaUZnMDJrVlU2VGNieWNubkFpQ1hkRWZDdzJJNWVMY3l1X3hfd0U4OEdPSlM5a3B3VmtBbm05cUN6UXo3Z0ZLVGc1aVJLME5qMjZtTzB4Zl81OXMwWGYwWEJuVjhiUXZfQXNTTkQtQmlNVWRob00zdHRrTzd0eGFmTlRZZHJOZk16N3dtRXM?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-10-26T08:50:24.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "迪拜的新停车费：司机需要了解的两个方面的收费信息-海湾业务",
+            "originalTitle": "New parking fees in Dubai: What drivers need to know about charges in two areas - Gulf Business",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUzBseDBKNXp0cTFTd0g3T3JxZVo2ZjRvc1dXUC1zenZEMW11eXB5bnZ5RUtwcE80cFQyaVZCd2VkZ005LWk2NHNHakJoWGl5TWpqSXVqYXFoMGxHeFhrT0FLMURGcFRtdjhCUjEwU0xYMU1kamRxUVU3T3VzZG0xS2FIOEwwdnZyd3o0RlZGSVdiYzNxWVFTTlMxV2xFYlRZU2ZXZlNHSUE5ZFNXbU54SGpQTUNtUDNJSFlPRkY3SWJ2aTFCczZzalFFQ2ItUWltUnRvSUtsNWg5RGM?oc=5",
+            "source": "Gulf Business",
+            "sources": [
+              "Gulf Business"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-10-26T12:03:31.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "«哈伊马角峰会-中国»..建立伙伴关系和建设未来的桥梁-哈利杰报",
+            "originalTitle": "«قمة رأس الخيمة-الصين».. بناء الشراكات ومد جسور المستقبل - صحيفة الخليج",
+            "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxQXzJGVU9TekI5NEVnLUFMV0pId3FKMTJmamEyZE0zY2JFaGVuX2EwM3kzMHVuU0NvYXgwN2JJaE5pTjEyamhLbmtOcFBtM0FkXy12bGN4c2U2TDRaXzJqQ0kzZ2Y2TlBnMzVrTnFwd1B4TldSVVR0SlRQN19HT01ic3MtTHpvcnJKRlRZZGNVWXZDM2xFNnJhZmMzaUNkQzgwZ05JaVp6WWYyaXd1aU9sWE1HV0E2NTRjWFJoMXRtMDRTNGplTlJDM3RaX3lVaUxQdGU2bDA1OFdtTmFnb29hejd3Z3ZPYnJ1LUJ2NnJDU2RZWHJmczMyWFNoaGd5QVlBTnhVWlBha0tMc0FOSmxSZzhlYmVLcHJDbzRHNlc5XzhDT1F4QnM5eUs5UG8tMzZtU01aemt3cFUtMUIyWDk3RWNyekdsX2x4czBSUllQaTQ3aUhmOHJLVUNJd0xIckp6akNrV0F2SWhjalcxZDc5a3ZObW1FQ3djWWE5X3hJLUU1aS12dkRqc1dudHVYbnFtMnFZdS1PaGltS2hUbDctX291RDdNdWlWQXJDOE5pbnF3a253YmNCYmh0V1ZIWWxDTjE2YXdNcE0zemFRSzdBZWxLZ2MyVzMyQ1dtcVM1NEVMR1pCQ0NOV1l0bjFUUjVfT2lpUUwtNWY3dWw0TGNNRHM2VS0yV0J2blhsOHVEb3ZqaHNLMWZHeWo0N0lJQWxkTVVZT0VUX3F0U3JJbk14UkJWTlV5M2R5bjhsNGpaR2lWbFE3Zzd6RjE3NA?oc=5",
+            "source": "صحيفة الخليج",
+            "sources": [
+              "صحيفة الخليج"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-10-26T20:08:39.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "中国的Yang Wang将于明年11月在迪拜推出超豪华轿车-声明",
+            "originalTitle": "«يانغ وانغ» الصينية تستعد لكشف سيدان فائقة الفخامة في دبي نوفمبر المقبل - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDQ0xVU05hR3d1ZkJkWFI1dzhPZ2tMdFFITmh3NE13ZGx4eWt1bGM0Vllad1lueDh0R2x5ZnpQTUhsOGwtdGNIc3pBcm80ZDU4SXhZRTVXVXBsUl9qaE1RTnJ1RURCZGlZcHNj0gFwQVVfeXFMTUFWeFdYUEtDZ0l5RVp1OTJBTEk3bGxzWl9XOS1jQjJiMzR4SDVmc3JGbkZIUTRfNjN2SGc5MW50WXd5LXFCVlFBNF95NHQ1RGtzVzI3NFpYS0M0Y0xkRHJYdjAwZFBRVkpwbUFOX1g0dA?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 44,
+            "publishedAt": "2026-10-25T13:15:00.000Z"
           }
         ]
       }
