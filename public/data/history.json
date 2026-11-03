@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T19:41:19.799Z",
+  "updatedAt": "2026-11-03T01:48:34.100Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -32907,6 +32907,846 @@
             ],
             "heatScore": 48,
             "publishedAt": "2026-11-01T11:35:47.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-03": {
+      "date": "2026-11-03",
+      "updatedAt": "2026-11-03T01:48:34.100Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "美国特使表示，美国将于下周在阿布扎比与乌克兰和俄罗斯进行三边会谈-路透社",
+            "originalTitle": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Fox News",
+              "TRT World",
+              "The New Arab",
+              "Jerusalem Post",
+              "Reuters",
+              "Arab News",
+              "NewsMax",
+              "Internazionale.it"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-03T01:24:28.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿拉伯联合酋长国表示，军事解决方案不会迅速摆脱与伊朗的危机|世界新闻-印度斯坦时报",
+            "originalTitle": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran | World News - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlZFWEdtS0ctLVBsVkdlbDZnamZTRXQ5UlQ5V3d1Zi1HWFduS0d2RExUclM1S1ZneVhfbEhNNmZyd3pkQ3BQWkhmdU5UQ0NneWdfYXl3UG1HNWZLWG43Y1hkdGRMU3VjYzZ5Wk9USjAtdDcxdmMzc29MWVlDNzNoLXJFWWhBc3FlcXBxNWk4YjlxVlB4VTJ2eGNPU0hiNDJabVdr?oc=5",
+            "source": "AP News",
+            "sources": [
+              "Livingston Enterprise",
+              "Goshen News",
+              "AP News",
+              "Hindustan Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-01T23:47:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋摆脱了欧佩克的配额，表示由于举办行业活动，石油出口有所增加-路透社",
+            "originalTitle": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-02T16:05:19.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "美国表示，俄罗斯-乌克兰会谈将于本月在阿布扎比举行",
+            "originalTitle": "Russia-Ukraine talks to take place in Abu Dhabi this month, US says",
+            "url": "https://c.newsnow.co.uk/A/1328730529?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-02T23:44:54.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "美国将于11月10日至11日在阿布扎比与俄罗斯、乌克兰举行三方会谈：官方",
+            "originalTitle": "US to host trilateral talks with Russia, Ukraine in Abu Dhabi on Nov 10-11: official",
+            "url": "https://c.newsnow.co.uk/A/1328735877?-15565:1965",
+            "source": "CGTN",
+            "sources": [
+              "CGTN",
+              "China Daily"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-03T01:41:45.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋医院罕见治疗后，每天癫痫发作110次的婴儿可无癫痫发作",
+            "originalTitle": "Baby with 110 seizures a day becomes seizure-free after rare treatment at UAE hospital",
+            "url": "https://www.khaleejtimes.com/uae/baby-treatment-seizure-free-kings-college-hospital-london-dubai-abs-1230",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-02T15:24:05.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "美国将于11月10日至11日在阿布扎比调解乌克兰与俄罗斯的工作级会谈：特使史蒂夫……",
+            "originalTitle": "US to mediate Ukraine-Russia working-level talks in Abu Dhabi on November 10–11: Envoy Steve…",
+            "url": "https://c.newsnow.co.uk/A/1328732474?-15565:1965",
+            "source": "AniNews.in",
+            "sources": [
+              "AniNews.in",
+              "Anadolu Agency"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-03T00:17:15.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋亿万富翁驳斥收购埃及足球俱乐部Al Zamalek的说法",
+            "originalTitle": "UAE billionaire refutes claims of buying Egypt football club Al Zamalek",
+            "url": "https://www.khaleejtimes.com/uae/khalaf-al-habtoor-deny-media-claims-egypt-football-club-al-zamalek",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-02T15:02:08.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "杰克·保罗在迪拜与法国淘汰赛艺术家塞德里克·杜姆（ Cedric Doumbe ）",
+            "originalTitle": "Jake Paul to fight French knockout artist Cedric Doumbe in Dubai",
+            "url": "https://www.khaleejtimes.com/sports/jake-paul-to-fight-french-knockout-artist-cedric-doumbe-in-dubai",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-02T14:59:56.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "失去了在阿联酋的工作？有资格获得国际劳工组织补偿的8条规则",
+            "originalTitle": "Lost your job in the UAE? 8 rules to qualify for ILOE compensation",
+            "url": "https://www.khaleejtimes.com/jobs/uae-8-rules-conditions-to-qualify-for-iloe-compensation",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-02T14:21:09.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "美国特使表示，美国将于下周在阿布扎比与乌克兰和俄罗斯进行三边会谈-路透社",
+            "originalTitle": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Fox News",
+              "TRT World",
+              "The New Arab",
+              "Jerusalem Post",
+              "Reuters",
+              "Arab News",
+              "NewsMax",
+              "Internazionale.it"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-03T01:24:28.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "美国表示，俄罗斯-乌克兰会谈将于本月在阿布扎比举行",
+            "originalTitle": "Russia-Ukraine talks to take place in Abu Dhabi this month, US says",
+            "url": "https://c.newsnow.co.uk/A/1328730529?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-02T23:44:54.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "美国将于11月10日至11日在阿布扎比与俄罗斯、乌克兰举行三方会谈：官方",
+            "originalTitle": "US to host trilateral talks with Russia, Ukraine in Abu Dhabi on Nov 10-11: official",
+            "url": "https://c.newsnow.co.uk/A/1328735877?-15565:1965",
+            "source": "CGTN",
+            "sources": [
+              "CGTN",
+              "China Daily"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-03T01:41:45.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋医院罕见治疗后，每天癫痫发作110次的婴儿可无癫痫发作",
+            "originalTitle": "Baby with 110 seizures a day becomes seizure-free after rare treatment at UAE hospital",
+            "url": "https://www.khaleejtimes.com/uae/baby-treatment-seizure-free-kings-college-hospital-london-dubai-abs-1230",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-02T15:24:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "美国将于11月10日至11日在阿布扎比调解乌克兰与俄罗斯的工作级会谈：特使史蒂夫……",
+            "originalTitle": "US to mediate Ukraine-Russia working-level talks in Abu Dhabi on November 10–11: Envoy Steve…",
+            "url": "https://c.newsnow.co.uk/A/1328732474?-15565:1965",
+            "source": "AniNews.in",
+            "sources": [
+              "AniNews.in",
+              "Anadolu Agency"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-03T00:17:15.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋亿万富翁驳斥收购埃及足球俱乐部Al Zamalek的说法",
+            "originalTitle": "UAE billionaire refutes claims of buying Egypt football club Al Zamalek",
+            "url": "https://www.khaleejtimes.com/uae/khalaf-al-habtoor-deny-media-claims-egypt-football-club-al-zamalek",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-02T15:02:08.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "杰克·保罗在迪拜与法国淘汰赛艺术家塞德里克·杜姆（ Cedric Doumbe ）",
+            "originalTitle": "Jake Paul to fight French knockout artist Cedric Doumbe in Dubai",
+            "url": "https://www.khaleejtimes.com/sports/jake-paul-to-fight-french-knockout-artist-cedric-doumbe-in-dubai",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-02T14:59:56.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "失去了在阿联酋的工作？有资格获得国际劳工组织补偿的8条规则",
+            "originalTitle": "Lost your job in the UAE? 8 rules to qualify for ILOE compensation",
+            "url": "https://www.khaleejtimes.com/jobs/uae-8-rules-conditions-to-qualify-for-iloe-compensation",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-02T14:21:09.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜居民现在可以在Al Barsha池塘公园工作，参加健康活动",
+            "originalTitle": "Dubai residents can now work, join wellness activities at Al Barsha Pond Park",
+            "url": "https://www.khaleejtimes.com/uae/dubai-residents-work-space-wellness-yoga-al-barsha-pond-park",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-02T13:37:23.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "花旗开发商通过玛莎拉蒂赠品庆祝卓越销售",
+            "originalTitle": "Citi Developers celebrates sales excellence with Maserati giveaway",
+            "url": "https://www.khaleejtimes.com/business/property/citi-developers-celebrates-sales-excellence-with-maserati-giveaway",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-02T13:31:39.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "Gargash博士说，阿联酋不想要新一轮的冲突，但“做好了最坏的准备”。",
+            "originalTitle": "UAE does not want new round of conflict but is 'braced for worst', Dr Gargash says - The National",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhQYWJienVYODhkZnFwandGVFhlc0F6dVo4VkVhcHp1ZHNPWEMyaGJPMWFmSHRMLWRUajBZYW9YNUdZTWFoT3hsNXFEUXFBZW5hZ0o3YUNEdlc3LTBhdnVETDRzSHhRVGFPVTRzQlExZ0UzdXg5M2tjQ0N4dEVBNDNCQ3c1aWtMdGZmdU4yUWdZMDNCNU9KNk41alROYWRqZUlGSXE5WTZFbXB2eHN1YXZoeGlta3ZTNEh0OUplVFRJTi1wWWd1ZVVadTJRdw?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-01T17:32:56.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋为最坏的情况做好准备，但寻求区域外交解决方案- thenationalnews.com",
+            "originalTitle": "UAE prepared for worst but seeks diplomatic solution to regional - thenationalnews.com",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTl1UUhuVkFKQUV4aDB4WjBLUU9QSEIyTllFcmhqSjNfemtncWJBeHk4UWtlc2NiNzBzU21QbkZnbUFqb3pQdkdhVlkwQjl5QzhGR2xvTE5NaU1sZE1pTkdfWVlXR1UzU1U5X1J1ZFh2WUlTUzZkVUUzQy0zZXJUVUtFOUxNY0ZUNkYtYUFPLWlKVDZvN1BVOTc5Qm9HZy1zYnF1Q3F5WXFBVTV3Q0c3b3lR?oc=5",
+            "source": "thenationalnews.com",
+            "sources": [
+              "thenationalnews.com"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-01T11:31:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋希望美伊和平取得突破，但“做好最坏准备” ： Gargash -海湾新闻",
+            "originalTitle": "UAE hopes for US-Iran peace breakthrough but ‘braced for worst’: Gargash - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYl9YUm9kc3Nvc3hrN2ozdUN2b3dvTmdrN0gtOUV0dGRHcWg3WnlVX1BiaV9Oa1BUNXkxaHpFU0NiQkFpSVJzaG82MHJDSjY5TDh0SnItV09MYmc2ZWQ1TnpPemoyMUhOY3d4UHNxN0FwZjFMN25ZSDZwb09CdHNOM1Fyd0xqc1ZxcXVlV2NvMTQzbW9DanA0NkZQRFMxNUQyeVc4U2F5X3BSd9IBugFBVV95cUxOQ2pxaldDeWRIeGNvMXlzS2E4bl85eW0yZ3ZDd0dfcVVQQXZfS1ZVUktIcEZMWlJqUmlSOWJFSDFVdEVGR0xGbkV2cW1CT3MxUkI0REowS21BYkY3RnR5bXViLWhTOXhFWjVmM2pXaWFYNDdteUhhZjBQZUFieGZFYkcwZ251cVVtQVhOUDFBTENmRXFhcmtncU1lWFAyMy0zS2pmODFLLTh6WHBsZFk2ZWNCcmhJZWJRNHc?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-01T10:44:27.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "外交部长Vikram Misri会见阿联酋部长Reem Al Hashimy ，促进双边关系- Lokmat Times",
+            "originalTitle": "Foreign Secretary Vikram Misri Meets UAE Minister Reem Al Hashimy, Boosts Bilateral Ties - Lokmat Times",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSElCeVRsQi1icEVEemVDOTNnVHlEMm5aOEtaZlJEVVU5Z3Jfa3JndGx1NmRlV1JyQWdvaTJEYXF1b2h5WVNoLXFNT3lhenJDR0VneFNwd1AtRVdFTzBLYnVEYmFSRl9pMDV5SDN3elhFVldLc0hFcDVmbUF0RzY0dng4VjRsMnBoU3AxX3NCa3RVUHlTN2dRcThRRUE5a3MzVFNBRi1teTFHRGdha2NLM25rc0VKNkZaal9mSXhRR0llT3VJcDZLbE9zVnFNelFac3JBUzNB0gHbAUFVX3lxTE5rUTZCRVp3NVFKTFhtb1pvMnlUNXBfWEphVFU2R0dZbDg0R0Y4WFZpYjNyZXo2aUxWRC1sSE1hcDZIUGNFcTV1M05QeXR2REVoVlBDR0NkbzlWV3lJRVo2cndid2xCX1o0UndJNkJhYWxieXVkOG1JMldBVVNGM2N1emhnUkhQV281UFVzUi1aM0JJNkdtUG5ZVFRGNW9zaWsxVUV4c2JfTHFiV0JUcWJyU2Y1aFBKU0JoQW1RMVNiZFNlUDBDTllMN2piTjFpYXREQmJLRG1pZVdvMA?oc=5",
+            "source": "Lokmat Times",
+            "sources": [
+              "Lokmat Times",
+              "ANI News"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-02T00:50:33.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Exito Media Concepts宣布第51届阿联酋数字化转型峰会- Newspatrolling.com",
+            "originalTitle": "Exito Media Concepts Announces the 51st Edition of the Digital Transformation Summit UAE - Newspatrolling.com",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSENCc19NLXpjOVNtcWdzY0NyWk5SYjJ0bktaNDFvb0NUamdJZGl5WVNuV3cweFVjcE1ucGUxaDRkYUVqSXFOZzBmQmxMS2NQbzB0TnpCWFc4TlF6TE03cjhlcWVPYlRIR1dwLUx5UTlFZTBUY1FRUFpKSmhEZURFeXNTTmNfSk44VEJDbzlsVWhKdGdKQnlHLXhscWk5cjlrc21lVlhVTGxOR3VSUE04TkdISzZ5bTg?oc=5",
+            "source": "Newspatrolling.com",
+            "sources": [
+              "Newspatrolling.com"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-02T12:11:52.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋呼吁用水来推动和平与共同繁荣，并敦促在开罗水周上进行投资和采取行动--阿联酋外交部",
+            "originalTitle": "UAE Calls for Water to Drive Peace and Shared Prosperity, and Urges Investment and Action at Cairo Water Week - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nZHZTM25rRXVteXdpcGVWVlhiWHg3Wk9ZeGRpY2Fnd1lIT19zNTBMcTVkeW5IbmFKWVprSnBZX2VpQ1pDUTl6b3dtUzY1MjFMT2Q2cHJyT3MwTjlxRDRDbC1zSXVRWTJxODNUSERxY1BCQkJ0V0szUkoyUQ?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 51,
+            "publishedAt": "2026-11-02T10:47:33.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "美伊会谈：阿联酋“做好应对最坏情况的准备” ，寄希望于外交-《南华早报》",
+            "originalTitle": "US-Iran talks: UAE ‘braced for the worst’, hoping for diplomacy - South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU04zRGw5TlhCTi1hNlNzS0dScjJfaUQ5dVh3d1phdVRzM0RjN05HT3Z0OXQzU0o5WUNtUE9kNUlMWnhWQXlIVU96SFVzdkJmRnBQUDJadWZDX2s4a283S19QYlZIRkg0S282UlZFLXBTYVBUYWM2MHFaWTBUMms4NlBrNFNzdkZPa2tEeE1xbVZvUERUTGhVWVZvRHRHN1E4X2RLVmFtejdVRzDSAasBQVVfeXFMTU1ndThGMmV4dXRZSTdFdDd6U2hWNVRBQkNpZUlseURnR0I0VVQ4VlpRMXNaMG1qYTd4eWZLNWpQSHRRMzZZWUo3MENmNFBxNmtuT0dlVm9jcnkySHotQWFpcjROV0I0S3I2QXlMR29fSjByWDJKX2xlQXFTd3g3M2RhaUVVRi1oSFQ5RTZJaXpDSEcwMmY1QlVOVE9vMmdmZTQycEZISWRHb3g0?oc=5",
+            "source": "South China Morning Post",
+            "sources": [
+              "South China Morning Post"
+            ],
+            "heatScore": 48,
+            "publishedAt": "2026-11-01T11:35:47.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋在海湾动乱中寻求与伊朗的外交突破--《耶路撒冷邮报》",
+            "originalTitle": "UAE seeks diplomatic breakthrough with Iran amid Gulf unrest - The Jerusalem Post",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GejF4UVRsQy0zaXpneHF1QjcxelJyWm0wM0JTZHlJWmhKVS1SYkRkY2FJellFMVlHWVJjMERjYlJXSGhFazVBV2R1S0ZvRzRNdmNrSktiQ1A1cFBv?oc=5",
+            "source": "The Jerusalem Post",
+            "sources": [
+              "The Jerusalem Post"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-11-01T15:14:29.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "随着美伊战争威胁加剧，阿联酋希望取得外交突破- HESPRESS ENGLISH -摩洛哥新闻",
+            "originalTitle": "UAE hopes for diplomatic breakthrough as US-Iran war threats intensify - HESPRESS English - Morocco News",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1FoSk1COHVwWC13eU5MTmdaZHRvVmdkTDl0bklUTXc3cXJfdVNoak5Gb3ZadFp5MmJCNWM5MWRvQ3RRTk8wUU1pZU9hXzlnREZYZVVJckdjWXFqOFJpVzM3TThwQjJpUnAxa3h5aDRPcmdXVE1rN2NpR1FXUlJINlRmU2FnY29BX2RzRjByVTR4dk4xM01zUV9TUkpiQTJJa2RkRXFPUVQ2dw?oc=5",
+            "source": "HESPRESS English - Morocco News",
+            "sources": [
+              "HESPRESS English - Morocco News"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-01T12:37:20.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "巴林呼吁对伊朗开放区域安全框架，阿联酋希望取得外交突破- ASHARQ AL-AWSAT English",
+            "originalTitle": "Bahrain Calls for Regional Security Framework Open to Iran, UAE Hopes for Diplomatic Breakthrough - ASHARQ AL-AWSAT English",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmlsWTlPVFV5WHpJaUNRQzh0WTNSUzZfSGJVRU05cFJfeXZLcC12VTM3ZXp2NkdhR1M3V2wzZ1lWaEVBWTB5dW9NckE3V1FXbXJpNkRMblprbktzZXZZUmxULXlqdXpaQ1pCVHVNYy1EYXhZOGZ0TVk1bTlCdmxIeXJpS0lUdTNIOEMzV2RmbE5JWWVoQVFQYTUzLS1Fc2xNNmEwVm0wS0tVMUJfMVpDS2NSUng3TnlDa09xeHNkRmdUNmM?oc=5",
+            "source": "ASHARQ AL-AWSAT English",
+            "sources": [
+              "ASHARQ AL-AWSAT English"
+            ],
+            "heatScore": 44,
+            "publishedAt": "2026-11-01T19:10:10.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋摆脱了欧佩克的配额，表示由于举办行业活动，石油出口有所增加-路透社",
+            "originalTitle": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-02T16:05:19.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "“想象一下第一次尝试就赢了” ： 3名阿联酋外籍人士、阿曼商人赢得了Big Ticket金条",
+            "originalTitle": "'Imagine winning on first try': 3 UAE expats, Oman businessman win Big Ticket gold bars",
+            "url": "https://www.khaleejtimes.com/uae/big-ticket-final-weekly-e-draw-winners-gold-bars",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-02T13:58:10.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Papa Johns和PJP Investments Group将中东特许经营合作伙伴关系延长至2036年",
+            "originalTitle": "Papa Johns and PJP Investments Group extend Middle East franchise partnership through 2036",
+            "url": "https://www.khaleejtimes.com/business/papa-johns-and-pjp-investments-group-extend-middle-east-franchise-partnership-through-2036",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-02T12:13:28.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Animoca Brands获阿布扎比批准管理投资基金",
+            "originalTitle": "Animoca Brands Wins Abu Dhabi Approval to Manage Investment Funds",
+            "url": "https://c.newsnow.co.uk/A/1328725514?-15565:1965",
+            "source": "CoinMarketCap Alexandria",
+            "sources": [
+              "CoinMarketCap Alexandria"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-02T22:10:38.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋海岸的石油泄漏如何影响海水淡化厂？",
+            "originalTitle": "How could the oil spill off the UAE coast affect desalination plants?",
+            "url": "https://c.newsnow.co.uk/A/1328723485?-15565:1965",
+            "source": "Gulf Times",
+            "sources": [
+              "Gulf Times"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-02T21:40:19.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "随着Sam Altman前往阿联酋，阿布扎比的ADNOC ， G42签约与OpenAI达成协议-路透社",
+            "originalTitle": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-02T06:40:00.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿拉伯联合酋长国表示，军事解决方案不会迅速摆脱与伊朗的危机|世界新闻-印度斯坦时报",
+            "originalTitle": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran | World News - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlZFWEdtS0ctLVBsVkdlbDZnamZTRXQ5UlQ5V3d1Zi1HWFduS0d2RExUclM1S1ZneVhfbEhNNmZyd3pkQ3BQWkhmdU5UQ0NneWdfYXl3UG1HNWZLWG43Y1hkdGRMU3VjYzZ5Wk9USjAtdDcxdmMzc29MWVlDNzNoLXJFWWhBc3FlcXBxNWk4YjlxVlB4VTJ2eGNPU0hiNDJabVdr?oc=5",
+            "source": "AP News",
+            "sources": [
+              "Livingston Enterprise",
+              "Goshen News",
+              "AP News",
+              "Hindustan Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-01T23:47:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "欧洲需要国家天然气储备来抵御能源冲击， RWE首席执行官警告",
+            "originalTitle": "Europe needs national gas reserves to withstand energy shocks, RWE chief warns",
+            "url": "https://www.khaleejtimes.com/uae/europe-needs-national-gas-reserves-to-withstand-energy-shocks-rwe-chief",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-02T14:06:30.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "“世界信赖它” ： Emaar将Dubai-it奖评为卓越房地产奖",
+            "originalTitle": "'The world trusts it': Emaar bags Dubai-it award for real estate excellence",
+            "url": "https://www.khaleejtimes.com/uae/emaar-wins-dubai-it-award-real-estate-excellence",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-02T13:05:25.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "部长说，阿联酋将彻底改革能源基础设施，在冲突后建设备用能力",
+            "originalTitle": "UAE to overhaul energy infrastructure, build spare capacity after conflict, minister says",
+            "url": "https://www.khaleejtimes.com/business/energy/uae-overhaul-infrastructure-build-spare-capacity-us-iran-conflict",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-02T12:59:46.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "美国/以色列-伊朗战争：阿联酋居民今晚需要了解的最新事态发展， 11月2日-海湾新闻",
+            "originalTitle": "US/Israel-Iran war: Latest developments UAE residents need to know this evening, November 2 - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbzlEQkRleTdVVUdSUWRDdXRsZHhwZXoyY09ObGo1Qkh6VUpUZXNPamtyNmNmaElRSVRDREFuVFFobzB1dzFFRXNFemNnaGhLbXp1VDkwRlBOanBjcklpTmtZOWc2SUtZd2V3QjhtQW9SaHoybU5LbXVtd1ZlMDhJRlBjNmRmWGJ2RWhLd1ZfY0pvRzNKWTVCMks2X2M0N0dXOFRvLU9FMElSQWU4RVEzUlZlUU1tc0N4N2xqSi1rZVctc0hhZ3JtNzNEZUbSAd8BQVVfeXFMUDQzajJ5M1dRbUtnNjhEQm9TeUtsaWZHN1AxbXdXTDJnTm9QOHE2NUFpY1p4dHhnRmw0bktMMVN6X0puTjBlcksybXJmd3hJbEpXdTlEZFJmYXEtYl91c1RYY3hfalhPT0JzUl9PbzB6N2NCdDJkR29SYzR4SFhZejJLMDhNM1VPWmw4dTFXdHltTUFrTkhjRTVPdmxRZFVDY0pXOWxmMjl6T1p3VTRySVlDNER1cldEWVZCZEk3SUhCejZZVkN3S3hiUkd6QWd6SEpud2RucXd4WmRXaTNrUQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-02T14:43:06.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "能源部长表示，阿联酋将投资新的出口路线，为伊朗战争做准备",
+            "originalTitle": "UAE to invest in new export routes to prepare for Iran war, energy minister says",
+            "url": "https://www.khaleejtimes.com/uae/uae-invest-new-export-routes-prepare-iran-war-energy-minister",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-02T12:00:27.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "2026年阿联酋国旗日庆祝之地：无人机表演、国旗花园和上午11点升旗-海湾新闻",
+            "originalTitle": "Where to celebrate UAE Flag Day 2026: Drone show, Flag Garden and the 11am flag-raising - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYy1pNFpMdlFHYmZILWdCVWZXUldQclhmNVNBSktlMXdzdllyNVlFRW1HS0pRcURYZlFZaFJ5T3Z4cmlhSHktUkNCTHdKSkF0MUdzVnl4clM3NVVNdkFFZkRiZkVmREEtNXdPcTJFZlgxZEVDT0hNYW1EOWlXa2phdXRKMm41cjFKYXRybWh4ZElVRTNyTEY5RTRTOVp5MDNldzlDYjNfdHppT0J5VTFOOEhUdW1ySXc3MUY2aDhuQ0dBSFFVczNn0gHXAUFVX3lxTE9ESzVibUlQdXg0RmZBZzgySlVKZkk2Y1IwdEpjeU5TU3FOU214S3lnY3M5d2RKeTc4Z3UwMGc2SXZTX0F2cXpMdUVvVXZoMm5fUmpMU3pSTUQ0NjR5bHFWV2hLa0h1cFdIbDk3bEhZVWhwakkxOHNfR201T3VrVUlOLS1SM3BlcnBXc2FNeHFlaEoxYkVvXzNfUmoyREEyMEJhVElSNHFJUGMzYkZFLUpiT0h2czVtSEtjLUFVM3V2bjVXM3BROV80RGpkTm9KVVc2ODlmLTRR?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-02T11:12:14.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "韩华资产管理在阿布扎比上市韩国国防、制造业ETF -首尔经济日报",
+            "originalTitle": "Hanwha Asset Management Lists Korea Defense, Manufacturing ETFs in Abu Dhabi - Seoul Economic Daily",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0JQdnNkUzdKY2w1Q2hsMmptbVlFdjV0SXBoZU9uMkJySmI4ZmswWWFSRk5kUU5xa1pmelItMG1zaE8xZ2tKOF9UNGxwYnpGWk82MHBlVXJJeGlQRGZFQkZLak9STEM5MEFZSUxEaFJEbXpPVUFtaFFBa2hEVElmYXEtVGpTbWt6SXdDRTFOam9HeTZJcEE4cm5ZNWtxR1lj?oc=5",
+            "source": "Seoul Economic Daily",
+            "sources": [
+              "Seoul Economic Daily"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-03T00:00:42.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "德国国防部长对计划在阿布扎比举行的三方会谈表示怀疑- UNITED24媒体",
+            "originalTitle": "German Defense Minister Expresses Doubts About Planned Trilateral Talks in Abu Dhabi - UNITED24 Media",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0FTSzlnSE1uS3BGaElVUXNqMVJ6NldVaEdQNkc2N1BKZ3oyamJWN2JMeTZyTE1jbzVVektaaVM1VDhPanllalRzeHUzRV94NTE3RVMtRTNsRTdsZnZmSjVfdXFZZkQ1Wl9ySVdvTXBHQ0JYcGVxZXdiRUgzeUozaDhfUmI1TVF1aldFTHNfMWlfbDhaSFhRSThSTEJmRnRobzlHTlM3LU1UN2FWZS02WmdoMHE1dFlrUXdDUXhNZw?oc=5",
+            "source": "UNITED24 Media",
+            "sources": [
+              "UNITED24 Media"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-02T21:03:43.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋通过新航线、船舶和仓储制定能源防御计划--Baird Maritime",
+            "originalTitle": "UAE lays out energy defence plan with new routes, ships, and storage - Baird Maritime",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR2E5N1kxcmpPdzRlbFBwTjRaRjRRblZBLU01LV9TaVAyX0lCMGtvZUF4MEVmRVJ0QVNuYUVHemZvMWlfWTBPWDFZLUstQ0RWSWEyWWZyRmhaNGFIOWtsVmN2MUgyUzlFaERVWEw5WUs5MDgtTlYwTEVQTTdoQ1pLRzB1UXVEanh5TnpGMHU3a0tQTFNaZFhkcUdTUmdZeFNqMGVKSHcwYUNmX01Pb1NhRjFZdGFHazdaMjhCWGNpcUTSAcABQVVfeXFMT0dhOTdZMXJqT3c0ZWxQcE40WkY0UW5WQS1NNS1fU2lQMl9JQjBrb2VBeDBFZkVSdEFTbmFFR3pmbzFpX1kwT1gxWS1LLUNEVklhMllmckZoWjRhSDlrbFZjdjFIMlM5RWhEVVhMOVlLOTA4LU5WMExFUE03aENaS0cwdVF1RGp4eU56RjB1N2tLUExTWmRYZHFHU1JnWXhTajBlSkh3MGFDZl9NT29TYUYxWXRhR2s3WjI4QlhjaXFE?oc=5",
+            "source": "Baird Maritime",
+            "sources": [
+              "Baird Maritime"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-02T18:32:08.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "恐怖主义担忧引发阿布扎比锦标赛外流-雅虎体育",
+            "originalTitle": "Terrorism Worries Spark Exodus from Abu Dhabi Championship - Yahoo Sports",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUlzRGREaGtLNmVzMTFMUkh2SEtVbjRFalFxb3cxTGhPYlVVTXFBa0dLWHc1QUNoVXlvcndrUzFHZ1ZaY2VwSGluMDNUQ0RSZ0l4c0o0RmZ5TjFoWURnUDhWWXJENVFlSjZzRE4zTkRabHM1MmprNEFxQ0lrMmhTNktucUlGMjZFcWQ4?oc=5",
+            "source": "Yahoo Sports",
+            "sources": [
+              "Yahoo Sports"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-02T18:57:56.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿布扎比私立学校收紧网络安全规则：互联网监控、事件日志和对教师社交媒体的新限制-阿联酋航空24 | 7",
+            "originalTitle": "Abu Dhabi private schools tighten cybersecurity rules: Internet monitoring, incident logs and new limits on teachers’ social media - Emirates 24|7",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOUZWTW9rbjAwUkFkZTBSSGJXNU50aTBDQlZ1bXNpXzNBckc4T0ttMXhYTXo3X18yeWxnTkRHYXBWajlKdHVCRTB5N3UwSWpuZ05jeFBibFVSMjNpTXVUQVUxYzJqeDBfd19JWE5wdl95YlllbkNJRmpZUFZXMnk5LTRWS3VaTVlmWkZ2c1MxRjVaMjFhd3pNaVl3b3ltMjFTTjNISFBCXy1abGZhQnhMYWpJczAtSmpZbXBfV0ltMDdYOXJnVXNEeVZHTFJwRG1sVENtT3VzTXhzREQ3S0s3VlR0b0JSaGJGdlF4d0djZnJOYVBmRXh30gGSAkFVX3lxTE1MaG8xa3ZYSU42RE8xbEhaS1NRN2dNVnRkOWhueFk2QXdHYXdsckxLWGtBSjN6UDdmZGhYUmlzMHh0eU5qRzMxZEVOSDhQMWxMdlpwTkJuQXVWaWNRWUlTcG9yT1lxejB3NmQtSXRyTDlnbkVRYjJ3bG00U0tGYTJNdjU0dmlFU2xZYmlvZUpuUVpyTndkZGpUdE1ic1hseU5DVWlZalRVOUxMTGNaRE45TlpzYUZhRUJmRXFBSV9QZ1hhRVVVN1FFT0dwREZDWFBiTWpITnVqODdHV2hvdm1TeElvQjFycTlJMkdJc181aDJKTkN5Y09nRDhkV1NEOW9NUHFwZmF1TU5wbjgxZXFWekE?oc=5",
+            "source": "Emirates 24|7",
+            "sources": [
+              "Emirates 24|7"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-03T00:11:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "ADIPEC在阿布扎比开设创纪录的版本- ARN新闻中心",
+            "originalTitle": "ADIPEC opens record-breaking edition in Abu Dhabi - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOODZRLUt5dnYwNl84NE9hMGpfSEphekxPZmQxVVNHU2dmN3lTbGxUeHEwNWNvWkhJckM1WVhMVkhyT3BFWGlrWjcwWTRfVS03WTk5OWo5NHJPZC1ibjUxeG9OSnJBTVhabmViWWUzTGVwTWtCaGkyVWlqQ3JuNXd3Tmp6ZnZaaWlPaUZ1NzJaTXpkMWV5WWQzTFpENVc?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-02T21:28:47.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋将于周二庆祝国旗日--迪拜之眼103.8",
+            "originalTitle": "UAE to celebrate Flag Day on Tuesday - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZER4XzNyaUxkREk5UlFkbFRqSjkteERBcHhPazFDZU9SMF9lVkJIc3hLY01SejFucVVQU0tIUXdPSjRYc1hCSERYODU2YWZ6N0RTY0pxYWgyYzFJZkd0RWxaZWdRUkhMNHNYVFRfbWJSSk53MDkzR0NYYUhzakJKU3N6WQ?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-02T14:49:15.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "OpenAI阿布扎比交易让人工智能在许可和投资方面发挥作用- The Next Web",
+            "originalTitle": "OpenAI Abu Dhabi deals put AI to work on permits and investments - The Next Web",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFZuQWZLWmw4OFV2WFBRRnpIRUJwcE1fWDJscVVoSUdsU0lFYzVuYlhYRVl3RlJuQVRPNG9yR1czblVSUGh1TkJHMHBFZktZcy1HTGtaUzEwcXhud01LdE5qMzVHd1Z1bW1jZmJrZ3kxOFBqejBSYnJYYmtSYnV1ZWtRVUNwemdZTnVUa1hCZjc?oc=5",
+            "source": "The Next Web",
+            "sources": [
+              "The Next Web"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-02T13:47:16.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Honey Singh缩短了迪拜之旅，在侄子去世后赶往Jalandhar -中午",
+            "originalTitle": "Honey Singh cuts short Dubai trip, rushes to Jalandhar after nephew's death - Mid-Day",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ0llaFZaU1ZiejV2cDZ5TnZTWHQzeDJMTGVpN0s5MHFTR19iU1V0VkxsblI2LWNra3I5WGZKQlRtSXhZVXZlSkFjVXZ4ZFcwWUl1bTNnMG5jbEFjV0tkbHJ6OTJnWGxBa0d3Xy1meXlQRk9ibjJ2VWg4S3ZoYkZFNE84QUNRSXdvQXZhQVpkcU1oVTN0M0FPUWRxdGx1WHVNNzFFZFBsUHEzZUdTV05zX2ZpTmlSbHYzQjRvNi1Lel8wcjR6cUpoVGpGSV94THlmeHBhMVJWbUFZZ9IB3wFBVV95cUxOSUtOdjFxR0RyRzZQSHJ5dndIR3VDV1FMVFNHNVhmQ0tpaGZzZlBoNVVJakpVNEZiQXJDSmNzRHZVeXduRWN2dWowS2NMMm5uak1sUTJfRGU5eWlRcnJmb0NrRDlZVTNBNkllWncxNWVidGk4eU1zYTYxRUo0eG95VFQ2N09mMGx5cVRXRzc0elhLQkRVa1hsNDVzU3FMSUE0b2d1M3Qxc0xrQlFZcmVkTzZZTDVTS2ctYlpMSkswblNCZ29SaV9xOHlzQ1hXTnVOS2hxeHh4QzBLYnNMd0tF?oc=5",
+            "source": "Mid-Day",
+            "sources": [
+              "Mid-Day"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-02T17:59:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "迪拜推出在线旅游签证申请服务- Bloom Pakistan",
+            "originalTitle": "Dubai Launches Online Tourist Visa Application Service - Bloom Pakistan",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NY3FpWmRPZ3ZneHJaNk91YTQ5RGRrSURONko2QlpaM3AtRGlBRzV5MjlncUthamM0MkxwOXdGMnpYdF9sWFVDRGE0YlJSZm1md3B4S0FJdWtrT2ZmVGhEZ1ZDY1p5MFZRTmVkSDRYd2dXdUw4OWh4LWZTT3I?oc=5",
+            "source": "Bloom Pakistan",
+            "sources": [
+              "Bloom Pakistan"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-02T16:56:45.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "在Misri会见阿联酋高级官员之际，印度和阿联酋希望扩大投资和战略关系--《论坛报》",
+            "originalTitle": "India, UAE look to expand investment, strategic ties as Misri meets top Emirati officials - The Tribune",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVJtMlpNLWpOenJUQVd0aEhyLVdTVFgzZ05FMXRTWnZkVy1KQ2xDM1FlSW45NFhLV3BWS0hlY0pOcmF5Sl8zOUo0Qkp0Yk5nbUZCUkFwSm5tWGRuM1VOVE1CYmJ0LUlFR09VT1hCX3cwcFpreHRVYnlwUUpnTWFIZENqRFY2RENKbkZsTTFXR0kwTHF1OVIyX1prSVFUWGZTNE84ZGRTZGxQVHJTMENrYnBibnhXdW4tbEVqS1Z5dEJxeThnUTZMcWxJa9IBywFBVV95cUxNUVJtMlpNLWpOenJUQVd0aEhyLVdTVFgzZ05FMXRTWnZkVy1KQ2xDM1FlSW45NFhLV3BWS0hlY0pOcmF5Sl8zOUo0Qkp0Yk5nbUZCUkFwSm5tWGRuM1VOVE1CYmJ0LUlFR09VT1hCX3cwcFpreHRVYnlwUUpnTWFIZENqRFY2RENKbkZsTTFXR0kwTHF1OVIyX1prSVFUWGZTNE84ZGRTZGxQVHJTMENrYnBibnhXdW4tbEVqS1Z5dEJxeThnUTZMcWxJaw?oc=5",
+            "source": "The Tribune",
+            "sources": [
+              "The Tribune"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-02T13:46:18.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜无障碍俱乐部：针对该国回头客的新会员计划须知- IndulgExpress",
+            "originalTitle": "Dubai Access Club: What to know about the new membership programme for repeat visitors in the country - IndulgExpress",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbmRyWUwtdllwTHZOUFJqR3Z1SWxSMzNDTzRVTThMV3pfbC1SOWxBSk5ULTZRNG5YOFp0alNPNFlndHdZY2R0cFB1ZjdPa0dYS0Y5VXJOeHc0Q1Z5UWpYZzFidTVtNHhjT3F0ZWhRV1A2cW1kV3JXbC1Rci1JandoUml3VXBqSTE2VmhwdHlxRU9Ub29fTmdVMVMxaDQ0ZWY2UzBMSlRkbHFVN1huVndNQlQ3OTVTSnhnblpoazVWaGgxeWtZTlNIcUFHbHZfNXVfU1ZvWXF3RmJNMDlJRFVENFphNNIB8AFBVV95cUxQQlRadGF0YWZyWWRVaERuTGlhWWV6TmVzVVBDVVJYejBnOXZDZG9RVDhZWmtiSDM3TXBaWk43Q182Rk9JUG5veEJhMHl2OWoyMG8tbzVhZ0pteHlWdklOMmpOVk81ZzIyZ0E4dlhFSlVnbzJQV2RYeGFCT2s3VkRHU2N2aTA1bHVTQUNMZnBuNnBpcWlFTm1sRDBvMUo5MDJ5MTFaZ2tzaXZRMy1zQmdrbzNzR3ljMmFtUlBETkxGRUVPa0ZLVUZZMlB3ckk2QTdHTnd5V3I4TVVuS3QwLWFpSUpJZVBNSzNla2hMcXdFUTI?oc=5",
+            "source": "IndulgExpress",
+            "sources": [
+              "IndulgExpress"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-02T12:51:37.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "迪拜正在推出仅限受邀游客的俱乐部。以下是我们所知道的- Esquire India",
+            "originalTitle": "Dubai Is Launching an Invitation-Only Club for Tourists. Here’s What We Know - Esquire India",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQUxkY1JnLXNnRU1VaC02bkpnbTVSeDNqVzZMcmtrajBpUndFOVBpWWVENmhLZHJSQldfWDBiQnhGbkVpYWs2R1NrRWUtaFVObEtKSUtObHFha3hrQ1FxQWl0VU1NZVpkS0owV09YWTBIUmhHdThER0hGTk5PWjk1bzdpclhvTHJ0WkpMQUNqVk90RUc0cjZXajRZMzNwR0RNZUVSaUN4dGRPTFliQTBxalIya0EzWERfUnZqUExlY9IBzAFBVV95cUxNN1NKeFNhWm4zQS1QcmxzYi1kODA1RHF6QUtsd3pJN2Y4cGtUYTdNN1dCUkRRZWRleUJ1VDdqbWdaa1ozX1M3RjNGOE5ETVFRaklDUmtDbFNDZTlWODJUYkFYVTNrd3F0ZVU0Ukdxc1RCRXFpYk1DWjV0YkVWMGxmVURrc3VJREE4WGdBR2YyYnlzZlZFeDRWNnNRN1RDUG1xNUZPVWhLZWdJYUs5UGM5LUhfd3J0Y3JFalBtd2hFZUFDallub1RmamV3a08?oc=5",
+            "source": "Esquire India",
+            "sources": [
+              "Esquire India"
+            ],
+            "heatScore": 51,
+            "publishedAt": "2026-11-02T11:14:18.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "美国将于11月10日至11日在阿布扎比与俄罗斯、乌克兰举行三方会谈：官方",
+            "originalTitle": "US to host trilateral talks with Russia, Ukraine in Abu Dhabi on Nov 10-11: official",
+            "url": "https://c.newsnow.co.uk/A/1328735877?-15565:1965",
+            "source": "CGTN",
+            "sources": [
+              "CGTN",
+              "China Daily"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-03T01:41:45.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋驻北京大使馆-会见中国共产党-阿联酋外交部广东省委副书记王卫冲先生",
+            "originalTitle": "السفارة الإماراتية فى بكين-اجتماع مع السيد وانغ ويتشونغ- نائب أمين لجنة مقاطعة قوانغدونغ للحزب الشيوعي الصيني - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNzBFRDVVNVpTeDJUWUFQWW90aVNLb09KX0stNmVsWnk5WERtaGhMNWxaOWRITUNrY3NjQU9LemxKVXlOREltYkQwTTZfVWpaZXNHbVhEbnZRbHV1cmJZR3doVC02eVkxWFNheUlzTV82YWFPNEpZRlJUX1dQSVVhQkZsQWUzNmdobHMzT3Z2RnRxVnE3T1FWbXJnS3AwNE4ySWFoNlBEVWQ5Nk1qYWl2T3lZQm1KNlBrTHJlMjZmb2ZkM2Z0a1BtZWRjcTVHeTJQb25qZk4xSnNjM2RyQ1hORHN1QQ?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-03T00:12:03.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜环球港务集团今日开通中国与非洲之间的新航线--阿联酋",
+            "originalTitle": "«دي بي ورلد» تطلق خطاً ملاحياً جديداً بين الصين وإفريقيا - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90OVV5YUh5ZU9LSTVNZmFUSmxZTmo3RWpSSW1oa2o1OGFtcFpEZ3lnX0l4RlRIbXphS2lpelZfaFFjRFV2TUc5TzdyaS0xblhRUXRTYnNMY29mc0N3VTc0VER3d3l6eEdhT1ZFZnZ5N0REUdIBjAFBVV95cUxQUTRWT0VsQnFHYzhUNGtqODF4NkxGUHAyRjV3M3FWQWs1LUhMU1hKRVo1a1VWVU1zaGVLRDJxbHNoRHRoWTktTFVNZTNQWlN0WE0xcU1LMUZYSl9hYkZzX1FYS3EyN0t2US1jNUpDOTgtR21pNFVvOFA3SEktU1QtRGpmZF9Nc3owWG9kYw?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-03T00:04:45.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "“海湾青年杯” ：埃及以四方席卷中国......阿联酋在决赛中相遇-中东",
+            "originalTitle": "«كأس الخليج للناشئين»: مصر تكتسح الصين برباعية... وتلتقي الإمارات في النهائي - الشرق الأوسط",
+            "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxPSEVMY1lDdGV4SkVtNUkyNG9ST1BpbHZaMDF3Z25rY21IbEpyWmFibFdlTVhvVWUwcjlMYkdQSXJpVHJ0eHRCLWhrdHVSVDh5LXZicnFfb2Qya2x3OEpQNHVEQkJKSHA4LTFrcF94MGthZXN5UnlyOGFyN2w4dGJlTHJUU2U2R2pQWElLejQ2bXE3ZUlyTEtZQUYxb20tT2ZzMnI2UzlsaTRJOTdpUExTMDZfVnVPN3R5MnZDMVhYZlZEN095ejhMYkE1Wl9Fd290aGNob1FMcmJOQy1BN0Vpd3ZyZ19BSjIyOC14SVBodTg1aWlKQm1NWHJCazRiaGc2TlBOT3RKS2l5SEV0MkxaUGFuNlBUY2tPNlBOVVZwYk8xSVlPMTg0RXNrQkhMczMxVWQ5NURUaXF1UUJLdkJYMk9oNDRIZTNoM20xNzFFOWYxRHo0T0xLbUhFaFBXcU5sblFEUEhBelpMTDlSQTJJb09NT2ZRVFBiTmwxQjRfWEJZakNXbEdfUDRXNC0xdTIxRDcyU1d4alJaU08xbXJLWE53MUY5cHQ5aEJuRDlySTU0akowdWNBdGxuQ2lEeGh4cElGS2xmT3habE5kTHBBLWhNYU1wbWFCcTVVcjl5dUFYWi1tRk9PU0g1ZWNmSEdiaWsxckdxZVJBUXh5ZnhlY1NaYVJFV2ZpYjdWZ3BnYS04d09fcksxVDhIOWdkU2E3SmhIMmt3a3pqbUNlSmpKREktajJzVEJSVkR1Y096WUtZY0gxOGszNlZGUE9oWWRCbGFMdU5WVklQU1k3Y3dSM2xuVVZVdFNHVy1GTUw0QlFCTEc3U2JCLVR6RXVLbjB1cDNNSll2Um5idlFHd0prUFp3VDBDblA3Wk02V0xCSExIdmtMbWVoWVg5N3A5bkFiYmtpRFM2bTZhZw?oc=5",
+            "source": "الشرق الأوسط",
+            "sources": [
+              "الشرق الأوسط"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-02T19:03:52.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "纳斯达克迪拜欢迎中国银行迪拜分行20亿元人民币债券在证券交易所首次上市-迪拜政府媒体办公室",
+            "originalTitle": "ناسداك دبي ترحّب بإدراج سندات بقيمة 2 مليار يوان صيني من بنك الصين فرع دبي، في أول إدراج لسندات \"يولان\" في البورصة - Government of Dubai Media Office",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMGZMNGdwMVFFLXNKVmNrZEpoX1d5UkZzRDNWakdHTWdzUUdvbWdKdUdQalA3aGF6SUI4UXFRd2pNRFVVb0tZVjMycnBCNm0tejQ2Smc1T203b3dhZG1OTXVLckNwbTd2TnpVZVptNVJNM2ItQjYtcDdhaThpN2FZdjNjNUhhUjhlbGdIZDJFZXlCRzZSb2pqRzFQZHNFa3p0?oc=5",
+            "source": "Government of Dubai Media Office",
+            "sources": [
+              "Government of Dubai Media Office"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-02T08:53:55.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "迪拜环球港务集团推出“中国-非洲链接” ，将中国与非洲连接起来- XTB.com",
+            "originalTitle": "موانئ دبي العالمية تطلق خط «China Africa Link» لربط الصين بأفريقيا - XTB.com",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHVCTmdsSGtxTkN6d0dOXzdTcVNpZG5TeXl1bnMzeTM3R3V4cTNhR0ZWQmxPdGVsNXNRb2REUkFmZUN6VG9BVkd5dEhmdkk4MEtoTW95aE02OGxHWTVqSUlLTHVMa1hKR2dqN3hkY29LZ0JoNUpJODF5T085Mk1QU1doUE5BajVPb2w4WDRwTmF2ZlE?oc=5",
+            "source": "XTB.com",
+            "sources": [
+              "XTB.com"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-02T14:04:02.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "妇女联盟扩大阿联酋女企业家在中国苏州的投资伙伴关系-声明",
+            "originalTitle": "الاتحاد النسائي يوسع آفاق الشراكات الاستثمارية لرائدات الأعمال الإماراتيات في \"سوتشو\" الصينية - البيان",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBydVNHSFpmVEhvUEREUGJaNTV2b1dZbk1rcUpwMDFLWmxJdVFZSndCS2JndHFNcFJDUFllUHhELVRqU1E2OVZ2UEJ3RGFudkJuQUJ2RDdhMHRONHJFZmc?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-02T11:59:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "«迪拜环球港务集团»在«中国-非洲»走廊开设新航线- Al Bayan",
+            "originalTitle": "«موانئ دبي العالمية» تطلق خطاً ملاحياً جديداً على ممر «الصين - أفريقيا» - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5takw3QXhSNmE5NHNQN0o1clRuakJBa2gzNWw4ZkpPRS1uWG1xaURvZHR1ZTcyS1Mwc0dsWVhmckZFN21GUkpHUHdwSnVoZlh2ZlAteFNZWW45V0I3S21fUjk2NjJFYkFVNmsw?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-02T07:51:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜港开通连接中国和非洲的新航线- Tawasol新闻网",
+            "originalTitle": "\"موانئ دبي\" تطلق خطاً ملاحياً جديداً يربط الصين بأفريقيا - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6dTlrYTE4bkhtMGVCWmg3VjV5VDY4TFBobkVnZS1CNFowSUtwQU9hbE9fNGF3bEp5dDBmT2hiU2RELU83WktNOWx3enVTR2FaQU13?oc=5",
+            "source": "شبكة تواصل الإخبارية",
+            "sources": [
+              "شبكة تواصل الإخبارية"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-02T12:55:42.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "北京峰会：中国国家主席和阿曼苏丹要求华盛顿与德黑兰进行对话，并确保霍尔木兹-阿联酋之声",
+            "originalTitle": "قمة بكين: الرئيس الصيني وسلطان عمان يطالبان بالحوار بين واشنطن وطهران وتأمين هرمز - صوت الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPUGtXa3F0ZDd2a29iajE1WXBybEc2NFY5Q2xQRVVrVTZNdW9aNXdIZ1o4RHJTbndKanBRR19ybFY5Uy1Xa3B3Q2pmOXo5QW9PODdjUTdRODA5Ylh5T29zd1Z0RE1qU2t3UTZsZVhGZTRzei1vai11MjFtTXozRFR4Y2pjMktIcXROcnE5dDZ1U2NJX216d0tiX0ZUTEdaQXJ1MEhuMUVfZWotN2pPLTRydG9oMm5xNlBOZTFWMVBBUzZIOTZKdFphUjhhNjF5eTFvSWtIcjJRTG53YzY0YWY1OUZyclVITVpxY0VuSlNtcFJLZmpkQ3VUaFh2eDA1VURWQVo2b1UzRzloOWl0X0ZERktYdmhjd1ZRUnNrT1F4amNpdS1DU0ZVZUM1b01EZE83eDdpRlZEUWh5WEFGaVVDM1NyMGd4M1RERDRxalFDTjBMN1ZSdkRyYlhsYTZzeEw2MmZXUEFUc1ZDN3c?oc=5",
+            "source": "صوت الإمارات",
+            "sources": [
+              "صوت الإمارات"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-02T11:55:44.000Z"
           }
         ]
       }
