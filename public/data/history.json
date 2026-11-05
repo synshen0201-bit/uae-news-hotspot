@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T22:53:29.810Z",
+  "updatedAt": "2026-11-05T23:47:57.809Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -35210,6 +35210,708 @@
             ],
             "heatScore": 42,
             "publishedAt": "2026-11-03T21:38:26.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-06": {
+      "date": "2026-11-06",
+      "updatedAt": "2026-11-05T23:47:57.809Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋国防部将于12月在利瓦举办“联盟要塞11” --阿联酋闪电",
+            "originalTitle": "Ministry of Defence to stage ‘Union Fortress 11’ in Liwa in December - برق الإمارات",
+            "url": "https://www.khaleejtimes.com/uae/union-fortress-11-to-be-held-in-liwa-in-december-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "برق الإمارات",
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-05T17:31:28.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "伊朗外长与阿联酋外长讨论地区发展-中东之眼",
+            "originalTitle": "Iran's foreign minister discusses regional developments with UAE counterpart - Middle East Eye",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEg0NU9OdkRLWjhsZ2ZwZnRsck5fczlZYmNvM3VFUHl1SXlRblF4b082QTZ5bzRMZFNjOTRHR3c1bU94Nk5TVWNFTF9oZ3o1VndLYUNELTBuRDZnUU84RVJpc0p1eEszUU1kd0swTGRfTmZFbGFnLXo2V2UxTTZpc05ianc2NEhaMmJqenZMOG5kY0RtRzUzODJRRzFQWTNZT1Z2LTBYb0ZSaDFKTk90dXFPcGhSNk9xbUQ1QkNLM1Bpelhic2c?oc=5",
+            "source": "Middle East Eye",
+            "sources": [
+              "Middle East Eye",
+              "The Times of Israel",
+              "Devdiscourse"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-05T20:46:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "为阿联酋的Riyan Malhan打造历史悠久的青年奥运会金牌",
+            "originalTitle": "Historic Youth Olympics gold for UAE's Riyan Malhan",
+            "url": "https://www.khaleejtimes.com/sports/historic-youth-olympics-gold-for-uaes-riyan-malhan",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-11-05T20:29:39.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "乔治·斯科特（ George Scott ）称赞谢赫·穆罕默德（ Sheikh Mohammed ）对全球赛",
+            "originalTitle": "George Scott lauds Sheikh Mohammed's influence on global horse racing",
+            "url": "https://www.khaleejtimes.com/sports/horse-racing/george-scott-lauds-sheikh-mohammeds-influence-on-global-horse-racing",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-05T18:51:06.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜媒体委员会访问韩国，与SM Entertainment等公司签署谅解备忘录",
+            "originalTitle": "Dubai Media Council visits South Korea, signs MoUs with SM Entertainment, others",
+            "url": "https://www.khaleejtimes.com/uae/dubai-media-council-visits-south-korea-signs-mous-with-sm-entertainment-others",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-05T18:34:23.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "多发性硬化症患者在开创性阿联酋治疗后找到缓解",
+            "originalTitle": "MS patient finds relief after pioneering UAE treatment",
+            "url": "https://c.newsnow.co.uk/A/1329027491?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-05T18:00:48.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "为什么仅靠人工智能无法改变阿联酋的能源行业",
+            "originalTitle": "Why AI alone cannot transform the UAE's energy industry",
+            "url": "https://c.newsnow.co.uk/A/1329037377?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-05T20:03:18.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋谴责约旦恐怖袭击，向遇害军官家属表示哀悼",
+            "originalTitle": "UAE condemns terrorist attack in Jordan, offers condolences to slain officer's family",
+            "url": "https://www.khaleejtimes.com/uae/condemns-deadly-jordan-attack-condolences-to-slain-officer-family",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-05T16:57:18.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜：随着Parkin扩展服务， Al Furjan开始收费停车",
+            "originalTitle": "Dubai: Paid parking begins in Al Furjan as Parkin expands services",
+            "url": "https://www.khaleejtimes.com/uae/dubai-paid-parking-al-furjan-parkin-provides-services",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-05T16:29:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Ras Al Khaimah道路试行无人驾驶汽车",
+            "originalTitle": "Driverless cars set for Ras Al Khaimah road trials",
+            "url": "https://c.newsnow.co.uk/A/1329032312?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-05T18:52:02.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "为阿联酋的Riyan Malhan打造历史悠久的青年奥运会金牌",
+            "originalTitle": "Historic Youth Olympics gold for UAE's Riyan Malhan",
+            "url": "https://www.khaleejtimes.com/sports/historic-youth-olympics-gold-for-uaes-riyan-malhan",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-11-05T20:29:39.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "乔治·斯科特（ George Scott ）称赞谢赫·穆罕默德（ Sheikh Mohammed ）对全球赛",
+            "originalTitle": "George Scott lauds Sheikh Mohammed's influence on global horse racing",
+            "url": "https://www.khaleejtimes.com/sports/horse-racing/george-scott-lauds-sheikh-mohammeds-influence-on-global-horse-racing",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-05T18:51:06.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜媒体委员会访问韩国，与SM Entertainment等公司签署谅解备忘录",
+            "originalTitle": "Dubai Media Council visits South Korea, signs MoUs with SM Entertainment, others",
+            "url": "https://www.khaleejtimes.com/uae/dubai-media-council-visits-south-korea-signs-mous-with-sm-entertainment-others",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-05T18:34:23.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "多发性硬化症患者在开创性阿联酋治疗后找到缓解",
+            "originalTitle": "MS patient finds relief after pioneering UAE treatment",
+            "url": "https://c.newsnow.co.uk/A/1329027491?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-05T18:00:48.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋谴责约旦恐怖袭击，向遇害军官家属表示哀悼",
+            "originalTitle": "UAE condemns terrorist attack in Jordan, offers condolences to slain officer's family",
+            "url": "https://www.khaleejtimes.com/uae/condemns-deadly-jordan-attack-condolences-to-slain-officer-family",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-05T16:57:18.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "迪拜：随着Parkin扩展服务， Al Furjan开始收费停车",
+            "originalTitle": "Dubai: Paid parking begins in Al Furjan as Parkin expands services",
+            "url": "https://www.khaleejtimes.com/uae/dubai-paid-parking-al-furjan-parkin-provides-services",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-05T16:29:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Ras Al Khaimah道路试行无人驾驶汽车",
+            "originalTitle": "Driverless cars set for Ras Al Khaimah road trials",
+            "url": "https://c.newsnow.co.uk/A/1329032312?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-05T18:52:02.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "从信件到手机封面：邮票如何传达阿联酋的故事和遗产",
+            "originalTitle": "From letters to phone covers: How postage stamps carry UAE’s story, heritage",
+            "url": "https://www.khaleejtimes.com/uae/uae-postage-stamps-history-heritage-phone-cover-stickers",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-05T15:22:52.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋纪念向加沙提供援助的英勇骑士行动3周年",
+            "originalTitle": "UAE marks three years of Operation Gallant Knight 3 delivering aid to Gaza",
+            "url": "https://c.newsnow.co.uk/A/1329025410?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-05T17:36:08.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "2026年沙迦书展：认识一位领导有着163年历史的家庭出版社的女士",
+            "originalTitle": "Sharjah Book Fair 2026: Meet woman who leads 163-year-old family publishing house",
+            "url": "https://www.khaleejtimes.com/uae/sharjah-book-fair-2026-woman-leads-163-year-old-family-publishing-house-lebanon",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-05T14:07:17.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "伊朗外长与阿联酋外长讨论地区发展-中东之眼",
+            "originalTitle": "Iran's foreign minister discusses regional developments with UAE counterpart - Middle East Eye",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEg0NU9OdkRLWjhsZ2ZwZnRsck5fczlZYmNvM3VFUHl1SXlRblF4b082QTZ5bzRMZFNjOTRHR3c1bU94Nk5TVWNFTF9oZ3o1VndLYUNELTBuRDZnUU84RVJpc0p1eEszUU1kd0swTGRfTmZFbGFnLXo2V2UxTTZpc05ianc2NEhaMmJqenZMOG5kY0RtRzUzODJRRzFQWTNZT1Z2LTBYb0ZSaDFKTk90dXFPcGhSNk9xbUQ1QkNLM1Bpelhic2c?oc=5",
+            "source": "Middle East Eye",
+            "sources": [
+              "Middle East Eye",
+              "The Times of Israel",
+              "Devdiscourse"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-05T20:46:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋总理兼外交部长举行通话-法纳新闻-",
+            "originalTitle": "Prime Minister and Minister of Foreign Affairs, UAE Foreign Minister Hold Phone Call - Fana News -",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRk1VeXU3QVEyR1I1OTd4TnBfTlVMYWFiY3lNVTEtM2xRRjF2bWhBZC1pT2pnV3FrTWJGY1lESldCZlRlSE9GR280V0w0MXdjTDV3aHpWOEhxRm5pZVk4ME9sZFh6QTdubjZQRVd0aXJDUGpYRzFVcHUzY2xYZnJuZ0tVU2JZRjF0Q0hUVFdPMWZ6d1RoRlNCVGZ1c3VYWVc4bWdCb0E5RktjanZ0aVppNktBWjBGazNNQlBLYmRR?oc=5",
+            "source": "Fana News -",
+            "sources": [
+              "Fana News -",
+              "The Peninsula"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-05T20:09:14.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "美国/以色列-伊朗战争：阿联酋居民今天（ 11月5日）需要了解的信息-海湾新闻",
+            "originalTitle": "US/Israel-Iran war: What UAE residents need to know today (Nov. 5) - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVpBYnBzOXlnYzBzSlAtUXl0dzNNTHJsN1YtX2ctUmxYUFFqUjEyUC1Db3JvcTRTMW45T2JmWHcyNlZneW9YZFczVm54M1dQbmc0Q1hzcWlHVmVuLWNmQlBiRjB1SW9PeXZEanBwdGxqSDlNYXpBODdiMTBmZS1LYmxlY0h6dWNJcjd4R1JkeTdwdC0wRkg3dzA4SUtVWmPSAa8BQVVfeXFMTjBjamJzbDE5UEVJYUpsSDJuS3ZscnNHT1N4VW5MMDFWZW9DN3RJT1dMVklVVG1aNHBxZi1xRXBJMWZOaTNOUmNBVklHb1R0QXNXTkFZdzh1bVNqaXhCcXF1SEh0M2o3NDg4YWhaS0ZHSXkxS01RRjk2dV9TRkhEaU1YQldFMUtOMlRFZndiY3NMUE5DMnNObC1fSnBsdGQxN2kzTGUydkZ2OGRCVzl6MA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-11-05T06:15:28.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Fobi AI与总部位于阿联酋的Silkbridge Ventures签署分销协议，以加速国际商业扩张- TradingView",
+            "originalTitle": "Fobi AI Signs Distribution Agreement with UAE Based Silkbridge Ventures to Accelerate International Commercial Expansion - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNEF1T2RUQmNteEZ0MjhVckF3YmdzY1dqOFc4VG5peXp4bEVWaGxocWZ3Y184ci1wT1Z5b2J4ODZxQlc3WXJQM0N0bGNGbDBCT2JJVTV5YmlLcHpudmNfSl9BbEsyOHBORUtuOFJyTjJwdzFLaUk0ZEpZU0xSSl9ORlBSYmdTVndZS0FyeGpYNWJwWHZZRzNXMDZObFI1MzdzX3phWlZsZ3BvUmd1WkJNSjU4ZzdVZjQ1T3o1TlVuR3o5amdnZkU1eUVMa09PblNUc3pac2FJaTE1RmN0Tm1Ecl9LNUZFX0hwY1ZVaTNOMzlZdUpIOXNHbzRZZlRtT28wZHpGZHJUZ0dlVmR6Zy1FZkFpekxUYU1jMjFDMjhnS0ctdw?oc=5",
+            "source": "TradingView",
+            "sources": [
+              "TradingView"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-05T13:00:04.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "外交部长Tkatchenko会见阿联酋国家部长-邮政信使",
+            "originalTitle": "Foreign Minister Tkatchenko meets Minister of the state of UAE - Post Courier",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDNuektYdi1SZ1p2SUgxT0NSeEpUWGVTNUxkcmRrMmtDZjVGeC04eVloUHllR05JWkw0Sy1GbG1fVC1NMUViR2xJOGdZcTBuWjZIQUhLUkh4S3IxVjNVYkRlTlRWMGdQc1BMQUFRdXo5ZXlCSFp4ZFk5QWwyaFFETG1VNmsxMVFtc2FFRkhLcXBBUDY5aUNpUy13?oc=5",
+            "source": "Post Courier",
+            "sources": [
+              "Post Courier"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-05T17:02:33.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋邀请Salam参加世界政府首脑会议- Daily Beirut",
+            "originalTitle": "UAE Invitation for Salam to Participate in the World Governments Summit - Daily Beirut",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaW1fU3ZvdTJvOGFkTkg5cVF3emdEVmZXeTZzc2FYclk3QUtoV1V1a25iajRlcUU0ZlVMQklJQW51NWFBU0NWNDcxQjNhT1UtU09Pb0YxalB2TE5uN25Zb09SY3laa1hLTGNQYXJFSXE3SGdydmVqcFlxbFozYVpnLWlPU0tLTGtiYUtfbG9UenB1NVZFUEhWX1pCVE9GckE?oc=5",
+            "source": "Daily Beirut",
+            "sources": [
+              "Daily Beirut"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-05T14:37:16.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋驻突尼斯大使馆--突尼斯外交部长辞去阿联酋驻突尼斯大使职务",
+            "originalTitle": "UAE Embassy in Tunis-The Tunisia Foreign Minister resived the Ambassador of the UAE - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcmlmRDl6THVtTEQtS0lETWdRSWdsX2VHN243bkx5YllIQXdpWEVtbkRTN0ZlX2hhRnJMall5V0Zsa0VlZW5waDBEQm16V2pjcVdWRng1ZTNYeU91a3YwMmhwMXNZZDZGS2N5d0hkdG1WeWcxZElzMW1vZjF6NlVOSnd0cHJXSnp1NVpHU1J3Y3U3dVVjS2htbHA2cjMzc0VWajZieTR3WVhDT0RJWnhuU3h3X1BUV2FKZUYw?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-04T11:49:12.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "巴勒斯坦外交部长与阿联酋外交部阿拉伯大使的会晤",
+            "originalTitle": "Meeting of the Palestinian Foreign Minister with Arab Ambassadors - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzdHYlJqY3Q0T01BOTZuNnc3cUtqNUk2SHYzbTdrU0F4SC1qODB2MHI2Z0J4RGhDSEtOZEZPLXVKQ1Q3OUp1TTdZaUpCNEY0bkNFcTUydndkaU1zMEJpTnpkMUVDcWRPajZkV243V0VRa0llT0NSWmNvVjlWZDNOd2YwNzhtczNt?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 43,
+            "publishedAt": "2026-11-04T19:41:51.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋驻印尼大使与阿联酋外交部驻雅加达法律事务协调部长讨论加强双边合作的方法",
+            "originalTitle": "UAE Ambassador to Indonesia Discusses Ways to Enhance Bilateral Cooperation with the Coordinating Minister of Legal Affairs in Jakarta - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3FkeUxxV2hUZFMydnJnaUFZY1ZXcWZWd2FxdlJEeDMtdGpvdF9mWmdya09YQy1VQmcwSDJtbG1kcHVlSFdSeWlyenZHcFZ1QnlncksyT2hJUUNFQy0xMk5XY2RsQkFhVW11d1ZwTmlhTHhab2Qxb1VHSlNUaVUyS3BheFo?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 43,
+            "publishedAt": "2026-11-04T03:49:06.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋驻堪培拉大使馆-阿联酋，澳大利亚成立商业理事会以深化双边贸易，投资-阿联酋外交部",
+            "originalTitle": "UAE Embassy in Canberra-UAE, Australia launch business council to deepen bilateral trade, investment - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHVkbHVsazd3UXo2Q0QzODNPVEs1NVpjQ291OGt4QzhrN1V6bFREaUtwMXBUeC1ia2o4S0dKQ3VKcUkyVTRLVE93R1J0Z1RHSU9nTGZOY0lHRXl2OGRMWTF2RXJYa2t2bUoxNFh0T1ZwN1Y1X2JGMGdwelQzcDVDYTlKMkxFTFh4QTlzdVIxaWh2YnZJSlRHMUh5U0JoYnBsakNNeW1ndHp0VWo5YVJsQXo4aVdhbHM3WEJlUXhzYmNQOFZXVUVES25ESGNtcU0?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-04T05:55:10.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "加尔加什赞扬对阿联酋外交官的承认",
+            "originalTitle": "Gargash praises recognition of Emirati diplomat",
+            "url": "https://c.newsnow.co.uk/A/1329019452?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-05T16:39:39.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "随着投资者评估美国中期影响和伊朗对峙，迪拜领先海湾地区收益-路透社",
+            "originalTitle": "Dubai leads Gulf gains as investors assess US midterm fallout and Iran standoff - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUV8xbDhnd1V0ZnB1RFl2T2JlRmx2TGg3ZVliNTJJeXZvdFJEME9rb2FpQ2lfN3dheTQ2VEhjeEJXNVFxMk5UMHoxbWVhSWFqbDJtTlJzMlNwOXNtS1FGc1dOazEyZ29tOVZ0cXMtRHRRMGVJMWUwOEJlRm9jNFRRMmNLN0dwcFlkR1p2YnhmT1FoanVqeHMyeld1MlZJZXN4WURscHIyWVNnNmhpOGlJMEJ0SzE1aFk?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-04T13:35:20.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "为什么仅靠人工智能无法改变阿联酋的能源行业",
+            "originalTitle": "Why AI alone cannot transform the UAE's energy industry",
+            "url": "https://c.newsnow.co.uk/A/1329037377?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-05T20:03:18.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋国防部将于12月在利瓦举办“联盟要塞11” --阿联酋闪电",
+            "originalTitle": "Ministry of Defence to stage ‘Union Fortress 11’ in Liwa in December - برق الإمارات",
+            "url": "https://www.khaleejtimes.com/uae/union-fortress-11-to-be-held-in-liwa-in-december-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "برق الإمارات",
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-05T17:31:28.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "梅拉尼娅·特朗普敦促与乌克兰、俄罗斯官员“人道而非战争”",
+            "originalTitle": "Melania Trump urges ‘humanity over war’ with Ukraine, Russia officials",
+            "url": "https://www.arabnews.com/world/melania-trump-urges-humanity-over-war-with-ukraine-russia-officials-3010047",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-05T18:47:02.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋将于12月在利瓦市举行联盟要塞11号阅兵式- www.thenationalnews.com",
+            "originalTitle": "UAE to hold Union Fortress 11 military parade in Liwa City in December - www.thenationalnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajRra2xFcVZDRTRoTlhYTkZWTUFnaTJaSzY3YVhNcjdLQTF5MGRfV0QxaWZ4ckRqZUp2MUZhODU0cXVHMF83TkRGeXVPWkxzWHdQc1FyNi1PeV95REtXWW9hMF95QmNFSHNXUGljN3pkSGxrRHhUZE92eXVvQ01sZjRzM0xvN0Fha1lBU1Z6VjRrSUsxUnpROV9JeDFwbVhXTG5zNnVwVFZFT1dXVEFsTzJfM0s1OGV6S2c1WHQxZHk?oc=5",
+            "source": "www.thenationalnews.com",
+            "sources": [
+              "www.thenationalnews.com"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-05T17:17:21.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋国防部12月在利瓦组织联盟要塞11 - Khaleej Times",
+            "originalTitle": "UAE Ministry of Defence organises Union Fortress 11 in Liwa in December - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkR4NXJSamw2MloxSVBXU05PQWxxVmg3NXhEWXlEMEZLb2lMSTlyakQ4UTlHdjZwTmlMSm1XZ1Z0UGVGTXh1Mmc3QlZUNjIwSFRPbXhNX3JDMFYtNGMtR21maU1HZHZNTUpxSE1NNGkzMkZwNmdYVlQzY3NRcFpoN05PQ1prR1ZzVEgwbUd1b9IBlwFBVV95cUxPU3lrZC0tY3ljU0VnNmJWU0dyVzQtVDRrbTB6MV9qX2FyLV9PNWpPNkJMZlUzNVlsNDlTTW1tMUtYWGRManZOQVBuWk14LUdzNDJuNXljcFVac0JxWndScHhMZUptUjFoanVsMG9ncWlGTVE4N3JXbjlGOHZ6SFp0Z2NKNDlyNzNSOUphS3ZTcnAxb3FtOVZj?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-05T16:00:31.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "美国/以色列-伊朗对峙：阿联酋居民今晚应该知道的事情， 11月5日-海湾新闻",
+            "originalTitle": "US/Israel-Iran standoff: What UAE residents should know this evening, November 5 - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTENoZ2taT3p0Yng1VFhPc1BzSkxkM0pfTnBtUF90RkY2R2ctVUZpb0doYk0tV0xMMkExZ2tuTDJNQ01ub0hWbC0xNVhONUxsazNxeVBXbW1MUkVCeFVwaDk4Zi1JbXNLdU5xZlFVYTFwN3lveGQ0X1pQc0JLVzRBdFdkdXlmRHF6TGFZeHQ2US1VQ0w4b3ppN29ocGtwbXlaTC0yQnYtTlU1dnFJSFdv0gHCAUFVX3lxTE15Vi03b0Q4bFduM1dkWXJtMy1jVFdsdlk4MW12cHFiVXA3d0Fxc3IxaEl0VXFjQ240cjR4ZVlabnJmbU1VM21VRXUxdV9fSVZrYTZmMGRfajZtT0ZQWjdMN0c2clg5SVhtZlpCYUVlVXVxdWtMRG9RcHRhWTVmeGFFWmdUOF9TRWVuMzVqNWdJQVRWdHFmVEp4X2s1SlNLWXVITUFSdmhhUlZRbXpVa2tCRWo2c01vOWFCcE5BdEtSdnBR?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-05T14:33:58.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "LIWA准备举办阿联酋军事能力的主要展示会--迪拜之眼103.8",
+            "originalTitle": "Liwa gears up to host major showcase of UAE military capabilities - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFg4THpWM0p2Rl95anY0akI2Z01OTG50TFh6NHFpU3M4NDJLV1pfaEFnUVpEYWwwSjlqR2FITGVGZlR1bXRHaHJnWmJRZ3otdlZxMzhMWlo1NkZ2ZExuRXRaa3hqT1JLV2E0Z0RoNDZpRmZvWjM1ekFSNWloNVZJNDdwR3gtSW00WjY1OUVjMk5LeTVmODRpM3Y4RDUtX3lMdHp5VWY0UHZyUQ?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-05T22:52:43.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "无人机袭击阿联酋核电站后油价触及两周高位- EnergyNow.com",
+            "originalTitle": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-05T16:41:47.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋谴责安曼恐怖袭击事件，并重申对约旦的声援",
+            "originalTitle": "The UAE condemns the terrorist attack in Amman and affirms its solidarity with Jordan",
+            "url": "https://c.newsnow.co.uk/A/1329033737?-15565:1965",
+            "source": "Voice Of Emirates",
+            "sources": [
+              "Voice Of Emirates"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-05T19:10:54.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "“我们全年打得最好的球场” ： Aaron Rai在阿布扎比冠军防守之前称赞Yas Links -海湾新闻",
+            "originalTitle": "‘Best-conditioned course we play all year’: Aaron Rai hails Yas Links ahead of Abu Dhabi title defence - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb2NuOFJSR2NZaWVTeC1UaF83STdFM1RYM29YX0N2UmcwRGZ4azI2TlhaOENNZWJBOEZDTnVOWHpvVldMaVgxdktwYXp1ZzJmYXNCU0pnOFFMV0FzRGx2bUg2TzBhUnh5LUhEbWNBeUJVbVFOUXg2cmtLLU5uZk9md1FPQnhoNTZkQXpoM3U3QUR5QmxyaUdwdzVTWnc5bE8tWGdLVDUwZ0E4bExOZWo2ek5yZGZWVllMejhDaml6QnFUbXBlTzNCb1c1bXpZUDQ2bE1mctIB5AFBVV95cUxObjhQYlplbDdhY0NQdjlmTDZveHNzX1c0VnFWZHctS1E0aFhxS2lzclE3VkZRbThvXzRvSUY4R0puUGphdmZEZ0RLdnNVUUY0MDBUN21CZnc1VzJSRHo5TEZTX1RWRGdyWVBmQjFVUkJhcWR5VjJiNHdEbmJtakVLQjd0cjVXOV9oeklLSnNWdnlTaXZiY2tLTlZxMm1NekhiRU4tUmE2Smw3azA1dzZob0UwS1g5cFZpT0VybjZmVnJ1T1FkWDdQYlozOTRxek1EQUtRWVUxQlVTVnU0WEdMNVpTV2c?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-04T12:39:58.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Daily_Brief ：包括怀孕少女在内的四名家庭成员在#索马里#邦特兰的#阿联酋无人机袭击中丧生：报告-亚的斯亚贝巴标准",
+            "originalTitle": "Daily_Brief: Four family members, including pregnant teenager, killed in #UAE drone strike in #Somalia’s #Puntland: Report - Addis Standard",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93MmJzSXJJWl9XT0VGMjBOeFREUUdJZ1pRNG14LWRPR1k3TTUwYlA3bks1ZVJqVU5PUUpCWTFKbGhldnZVRnJDaG9zbWdTT2NWZ3c?oc=5",
+            "source": "Addis Standard",
+            "sources": [
+              "Addis Standard"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-05T13:57:33.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "迪拜内容创作者计划通过数字故事展示迪拜的旅游景点- www.wam.ae",
+            "originalTitle": "Dubai Content Creators Programme showcases Dubai’s tourist attractions through digital storytelling - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajdNM1lMeVB6MnBwNnVLR1VpTEx3WUhGR2l1UTZDSU1SaDR2aU9BaHBNQVVHZHpDdTNJejFSX190U01BMzRKQUdQaENYY0YtVTJZb01JQkJoOFJTMFVoUG5RQnF2R19XOTFJZU9IMGxodl9FQmRpQTJjY3F4WDNnRHFTSEF3TjY0a1dGbmtuaUdycU9mNlZMYUJKQQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-05T11:21:15.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "印度拳击手在激烈的迪拜对峙中击败巴基斯坦对手;视频病毒式传播-论坛报",
+            "originalTitle": "Indian boxer slaps Pakistani rival during fiery Dubai face-off; video goes viral - The Tribune",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXg2cnZxNUg4THVFZ2pUdFJaclQ2cllGY0EydmlMa1dsS21xZ0FpOXVqd0ZmVGtzbVhCUFF6YzFBcGlXeG83eXY5OHh3QkI3WF9LR2o1YW1SZ1AzUjVRNHhmQVM5QXlIbUJreFNnejBXcEdUTkl1bERJakdGZ2JKcUJzaG5zQXFFUERlRFhmazZhTmFaWGg4M2FiVGJCb3NHQm41SGNWT09pQ29HVXRTLTVEZUxRUjhzQktQWmVmSWfSAcQBQVVfeXFMTV84MTc3M2VKSFN2ZVZ6blptWWRVQlRxWkVyZFA5S3l4VlVXTU5WdHI5MHdVUktxTFprSkM1UjFYbFR4d3dyZndJS0VoeHZkNHhzbVFfTTl5SS1hV0pYOHl3Q0hTXzlLQXhLcERqWkptZXVYUnhUdFhGRnhKRFU4aW54VmxMU3NVOVRyaU5Pblo3dDBtb3RuSHdIdDgxVExwT2Z3UFRxbWs0TG55aUpYNDRIQWpVVmNqaFl3cFU0S1lBV2lHVw?oc=5",
+            "source": "The Tribune",
+            "sources": [
+              "The Tribune",
+              "Moneycontrol.com"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-05T08:45:31.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋、帕劳总统重申对可持续发展的承诺- ARN新闻中心",
+            "originalTitle": "UAE, Palau Presidents reaffirm commitment to sustainable development - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSEczV0RlQTZsbHd6VGpQbHBsVVlHQ2lDZnAtcm80cEI5eE1ENXBTZl83blVGNTJ6Y2dRdmUxSndZaHlrUHVmUXlRWU4xMGxTOE42U3J3dTNYcmlkWjN4eThCU3VLWWpVNkZOXzkxOFNJSkNRN21fLUhsWXdiUVpKSWZ0UVdBemVtRXJRT19qRmNaUXY0Ym8wY3RfdnlSSmhDTUZFeFJQREJMMGlLa3c?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-05T19:06:57.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Francesco Laporta在阿布扎比占据主导地位- ARN新闻中心",
+            "originalTitle": "Francesco Laporta dominates day one in Abu Dhabi - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDI3TDI5RVRtUmFnOGtCcVdqd0lQMlhXdXY2SzdtS2d6cmFyUGhaeGdJUDNYblpHSnhSS3p5QU9vRlU3TDBscEhGS3FrZE10bDlsNF9CaU53N1plREZUUXhjc0N6YWVRelNmVm90XzlNcmM2S3ZHMWlfcERjQzVtUHJpZ0RpdXY0OElrSlhhZXJyWE9KRTB4SQ?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-05T15:28:16.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "观看病毒视频：印度拳击手在迪拜对决期间拍打巴基斯坦对手Rahim Pardesi –相机每秒捕捉-周日卫报",
+            "originalTitle": "Watch Viral Video: Indian Boxer Slaps Pakistani Opponent Rahim Pardesi During Dubai Face-Off – Cameras Capture Every Second - The Sunday Guardian",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORk8tbnRGWDU4cUV0RjQ3c3RNbmtqNDBDdVZVVEJ4QVF2LUsta0dDaEdFWmVUUlJNUG4zbzNTSUg2MTlhNkZFYzBLeGhNSldaLTdLb2NVbTNJRUFYdG83b2ljLXdDdXFZY1VWTU40N2VjTFgydk9Rekkxcll1WGlqM1U5eVFZekQtbHk4eFZOaGRET3ZEQU1sd3FTdUlJNjlxb3pLME5UWmxKOUdBbnFFUWhORHo2S1NPNWZseTBzdjlKVXdoRkgxUlplQmVXOG5qQWtNWmJLZHlDWktEMlNtVXBhcWVmZGRMSTUxS05tN3Nfb1lxcEVEb0t1WF_SAYICQVVfeXFMTWpnS2FDVEdWYVNjM1E5c2JnLVVHcnpVMXR6bktLQ3djLUQtWnZJT2kwVktieDdaZXBnNjNocGYtYUg5UkNVQ0gtUkNWaWhDUS10WHRJNTNWQ2lyeGNzdjhoUWtlZ1FIbzB1bkVKaFFkT2U2MjlIWkRVenI2SmFNUEhlTUJUSTNxT1pwdEgwN202STBORXV4aVZJV3dIbmF0eGp6MUF0WExianpFZFdaUUtITmkxNm1xdUlyR2c2WFg1bVpnZ0E4M0ludEMybTd2MzFUWldQYUUwVFVDQVlrZnlicl82WHlRak1RWjUybGo1N3VlVWNFdFhYUENJVUp5UzZn?oc=5",
+            "source": "The Sunday Guardian",
+            "sources": [
+              "The Sunday Guardian"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-04T07:51:39.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "F1明星可能会因卡塔尔和阿布扎比的决定而牺牲总冠军- GPFans",
+            "originalTitle": "F1 star could sacrifice championship win with Qatar and Abu Dhabi decision - GPFans",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG9CWHVaSXc2Sl9DNmQzMlZRZ3JadnpLeDhZbkZoVE5tXzZObm9uTTVYbEZDbXg0NkhfLXpVREtkRzBBeXNRUnFYWlQ4TTBCaE04MDRxUlFSYUdCa2FqTmlfbTc0eXBZZVBiRDdiMlptd2dqaXd4TWcwcjlsWFZwb1Z0V2ZaU09WTGotY1JyTWRaenVHQWtVY1hmUjEyb0ZYNDVpZDIxekFaQXd6VENMOVJxcENpRUNEVmJmSHVQUQ?oc=5",
+            "source": "GPFans",
+            "sources": [
+              "GPFans"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-05T16:28:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "7家著名的阿布扎比餐厅，您需要*至少*尝试一次- Time Out Abu Dhabi",
+            "originalTitle": "7 famous Abu Dhabi restaurants you need to try at *least* once - Time Out Abu Dhabi",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZC1KcFRCOVJMX25oOWxYenA1bkVGNU9aQjZaQWlpb3FQZDhLdUc0NnJUSUVuOVFKc2s4azNfUU43R1ZPSGs0a1RTZ0gtOGk4akh6VHVFRzVEWk9OX18xZlI4ZGg1X3dybk9zcE1EekM4ZWRjbVd3OW15N2pzSWszNDdn?oc=5",
+            "source": "Time Out Abu Dhabi",
+            "sources": [
+              "Time Out Abu Dhabi"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-05T12:05:20.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "美国财政部支持$ 2000万阿联酋赠款，以支持帕西格河恢复项目-菲律宾通讯社",
+            "originalTitle": "DOF backs $20-M UAE grant to support Pasig River Restoration Project - Philippine News Agency",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWdoYXpxcnlzeUVZdF9fNW9zQmFsZm1PbDQ0b3hSQURIRTdwRFJXeWRxNERLdzVreTVBOTJIelFCYThEMXNuZkxFWjJyWTI2NVBxYkNzdm9OUlpBcllPV0wxME5LR050X05kckQzc1NRMWJNQ2tIWnplZzVaVUJWS20zLVB5Uk4zZ3UtMWI0SkNPdTA1bm1HRnhNRVJqZEk?oc=5",
+            "source": "Philippine News Agency",
+            "sources": [
+              "Philippine News Agency"
+            ],
+            "heatScore": 50,
+            "publishedAt": "2026-11-05T05:06:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "印度拳击手在迪拜击败巴基斯坦对手；观看视频-印度快报",
+            "originalTitle": "Indian boxer-influencer slaps Pakistani opponent at Dubai; watch video - The Indian Express",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazU5djE3XzQ2ZmNzQ01Vczgta2lMUGRMWkwtTG5DQXlWTXd0cjlZaEk1dzNQQW9hRlVGQ0x4WlE4TmNlMEtmZ1lac29MRWk0V0NKUGQ0NWQyTkg3UGt5aktDdFVUck8tY0NkOFJ0QUZvYUNkUFhtc01aa3pjMkx4X3gzN0xneklBbTBjYnE4RzR4aDNkSkxFOGpZbWlwTUpnUHB6ck85SEhEeENHMm9JM19sR1dkWFp2NnpzSDFOMjFiWG82blBlWExIRW9PQWvSAdYBQVVfeXFMT05odmprem9wbkFHck9URmJqLUpzZG16NmpWOWR3VGhoaE84cm1jc1hPOUhiUjVQX0Z5RzJKT3doREpwUXFiZ3VzTnBJOWtsYWUtdFNSb1VjM1RydXBobEhDQXVFUlF2UjN5SVF1RmN2RThuclFtWjNmWVBSalY4NlNSTkFvZmt4ZGdXalhla3Q2cGdqMmc2dUdhLVp3Y0wxaGJvRXdBQXQ4VHlla0EyeHJ0bGNNWmxqU29iaDBNQS1LbHBhU25yZVJVdjdDSVVxaEVUSHFVUQ?oc=5",
+            "source": "The Indian Express",
+            "sources": [
+              "The Indian Express"
+            ],
+            "heatScore": 48,
+            "publishedAt": "2026-11-04T03:23:08.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "迪拜准备举办FIBA 3x3世界巡回赛首秀- FIBA",
+            "originalTitle": "Dubai ready to host FIBA 3x3 World Tour debut - FIBA",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlBaWFU2MEFpeTBXams2dVNISHZBUUV2MDE2NWRsblUzdkRZRUVjS2NDY1hQNW9KUjE0ZXBxXzFpUlZ6Zm40UG9zaDdrTTY5bUl6emJzWnJ1eUNMeGF1SlpVM1pDd21WMUl2TVkwSlZTaTNlRm5nZXhPeWtEQm1pS2RWQzYyakRi?oc=5",
+            "source": "FIBA",
+            "sources": [
+              "FIBA"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-11-05T00:35:55.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "GT LINES加强阿联酋-中国伙伴关系，支持全球供应链",
+            "originalTitle": "GT lines strengthens UAE-China partnership to support global supply chains",
+            "url": "https://c.newsnow.co.uk/A/1329021871?-15565:1965",
+            "source": "NewsNow",
+            "sources": [
+              "NewsNow"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-05T17:02:44.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋和中国讨论加强领事合作和简化旅行手续-沙迦24",
+            "originalTitle": "الإمارات والصين تبحثان تعزيز التعاون القنصلي وتسهيل إجراءات السفر - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHRGJ6ZzdIUUlrRXFyVVFGOWlyME43Yk1FX09lNk5wb1VMTElDYWxqam95dWhqYmZyLV9lY0pINTJhOHdKaE1FN0puLXFaNXlqcXRIMV9XV1NlTGhu?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-05T13:48:56.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋-中国驻阿布扎比领事磋商- elmawkefalarabi.com",
+            "originalTitle": "مشاورات قنصلية بين الإمارات والصين في أبوظبي - elmawkefalarabi.com",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUjEzU3hRaDVHWTFDWGM4WktpWVdfdjJmTmhaQkgxR05tNHlHa01kNEgxRVhFb04yTjdjN3ZndzJpTjA0TkxKbXhMMzRDUnNuMmJUZEZFRVV2dU5CY0FLa0hwd1B1Zm1J?oc=5",
+            "source": "elmawkefalarabi.com",
+            "sources": [
+              "elmawkefalarabi.com"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-05T12:12:12.000Z"
           }
         ]
       }
