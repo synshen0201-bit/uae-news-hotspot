@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T23:49:47.442Z",
+  "updatedAt": "2026-11-07T20:39:32.292Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -36646,6 +36646,730 @@
             ],
             "heatScore": 47,
             "publishedAt": "2026-11-06T00:05:00.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-08": {
+      "date": "2026-11-08",
+      "updatedAt": "2026-11-07T20:39:32.292Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "超过55,000名居民聚集在迪拜的Zabeel公园，参加“阿联酋爱叙利亚”活动",
+            "originalTitle": "Over 55,000 residents gather at Dubai's Zabeel Park for Emirates Loves Syria event",
+            "url": "https://www.khaleejtimes.com/uae/55000-residents-gather-dubai-zabeel-park-emirates-loves-syria",
+            "source": "Khaleej Times",
+            "sources": [
+              "Gulf News",
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-07T18:21:54.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "ADNOC Gas与SNOC签署协议，推进阿联酋天然气网络整合-迪拜之眼103.8",
+            "originalTitle": "ADNOC Gas, SNOC sign agreement to advance UAE gas network integration - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeDlEd2p5U2FaYW5uZWhNVllFZTFmSFZkWFU0ODZXYkYtS0pkaDB0OVp1aEpIWUFtVGNmeDNGc1N0cVpUWDFOb3BTSG5JMTlFbG9YaVZTTk1fX3AzZzA5M0V4NjV3TG9OZ2I3VFFxa2l4MWNiYlJJbEZQb2VTRGJpQnRxZklObV9COFk0?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "Dubai Eye 103.8",
+              "www.wam.ae",
+              "TradingView"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-06T19:52:33.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋谴责波兰枪击事件，对受害者家属表示同情",
+            "originalTitle": "UAE condemns Poland shooting, expresses sympathy with families of victims",
+            "url": "https://www.khaleejtimes.com/uae/condemns-poland-deadly-shooting-krakow",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-11-07T19:24:42.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "观看：哈利法塔灯火通明，祝愿居民和游客“排灯节快乐”",
+            "originalTitle": "Watch: Burj Khalifa lights up to wish residents, visitors 'Happy Diwali'",
+            "url": "https://www.khaleejtimes.com/uae/burj-khalifa-happy-diwali-message-2026-show",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-07T19:22:13.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "沙拉总统在“阿联酋热爱叙利亚”活动上重申叙利亚与阿联酋的牢固关系",
+            "originalTitle": "President al-Sharaa reaffirms strong Syria-UAE ties at ‘UAE Loves Syria’ event",
+            "url": "https://c.newsnow.co.uk/A/1329197438?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-07T19:32:18.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋彩票公布每周幸运日抽奖结果，一名获奖者获奖10万迪拉姆",
+            "originalTitle": "UAE Lottery announces weekly Lucky Day Draw results, one winner bags Dh100,000",
+            "url": "https://www.khaleejtimes.com/uae/uae-lottery-weekly-lucky-day-draw-results-261107",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-07T18:01:59.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋谴责在波兰克拉科夫发生的致命枪击事件",
+            "originalTitle": "UAE condemns deadly shooting in Poland's Krakow",
+            "url": "https://c.newsnow.co.uk/A/1329196081?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-07T19:02:17.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "观看：阿联酋总统在家中拜访阿联酋家庭",
+            "originalTitle": "Watch: UAE President visits an Emirati family at home",
+            "url": "https://c.newsnow.co.uk/A/1329195547?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-07T18:52:15.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "成千上万的叙利亚人参加在迪拜举行的“阿联酋爱叙利亚”活动",
+            "originalTitle": "Thousands of Syrians attend “UAE Loves Syria” event in Dubai",
+            "url": "https://c.newsnow.co.uk/A/1329195534?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-07T18:51:48.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "观看：谢赫·穆罕默德（ Sheikh Mohammed ）在迪拜咖啡馆为食客带来惊喜",
+            "originalTitle": "Watch: Sheikh Mohammed surprises diners at Dubai café",
+            "url": "https://c.newsnow.co.uk/A/1329194264?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-07T18:21:54.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "超过55,000名居民聚集在迪拜的Zabeel公园，参加“阿联酋爱叙利亚”活动",
+            "originalTitle": "Over 55,000 residents gather at Dubai's Zabeel Park for Emirates Loves Syria event",
+            "url": "https://www.khaleejtimes.com/uae/55000-residents-gather-dubai-zabeel-park-emirates-loves-syria",
+            "source": "Khaleej Times",
+            "sources": [
+              "Gulf News",
+              "Khaleej Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-07T18:21:54.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋谴责波兰枪击事件，对受害者家属表示同情",
+            "originalTitle": "UAE condemns Poland shooting, expresses sympathy with families of victims",
+            "url": "https://www.khaleejtimes.com/uae/condemns-poland-deadly-shooting-krakow",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-11-07T19:24:42.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "观看：哈利法塔灯火通明，祝愿居民和游客“排灯节快乐”",
+            "originalTitle": "Watch: Burj Khalifa lights up to wish residents, visitors 'Happy Diwali'",
+            "url": "https://www.khaleejtimes.com/uae/burj-khalifa-happy-diwali-message-2026-show",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-07T19:22:13.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "沙拉总统在“阿联酋热爱叙利亚”活动上重申叙利亚与阿联酋的牢固关系",
+            "originalTitle": "President al-Sharaa reaffirms strong Syria-UAE ties at ‘UAE Loves Syria’ event",
+            "url": "https://c.newsnow.co.uk/A/1329197438?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-07T19:32:18.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋彩票公布每周幸运日抽奖结果，一名获奖者获奖10万迪拉姆",
+            "originalTitle": "UAE Lottery announces weekly Lucky Day Draw results, one winner bags Dh100,000",
+            "url": "https://www.khaleejtimes.com/uae/uae-lottery-weekly-lucky-day-draw-results-261107",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-07T18:01:59.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋谴责在波兰克拉科夫发生的致命枪击事件",
+            "originalTitle": "UAE condemns deadly shooting in Poland's Krakow",
+            "url": "https://c.newsnow.co.uk/A/1329196081?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-07T19:02:17.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "观看：阿联酋总统在家中拜访阿联酋家庭",
+            "originalTitle": "Watch: UAE President visits an Emirati family at home",
+            "url": "https://c.newsnow.co.uk/A/1329195547?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-07T18:52:15.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "成千上万的叙利亚人参加在迪拜举行的“阿联酋爱叙利亚”活动",
+            "originalTitle": "Thousands of Syrians attend “UAE Loves Syria” event in Dubai",
+            "url": "https://c.newsnow.co.uk/A/1329195534?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-07T18:51:48.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "观看：谢赫·穆罕默德（ Sheikh Mohammed ）在迪拜咖啡馆为食客带来惊喜",
+            "originalTitle": "Watch: Sheikh Mohammed surprises diners at Dubai café",
+            "url": "https://c.newsnow.co.uk/A/1329194264?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-07T18:21:54.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "观看：迪拜统治者出现在面包店，餐馆说“骄傲，难忘的时刻”",
+            "originalTitle": "Watch: Dubai Ruler spotted at bakery, eatery says 'proud, memorable moment'",
+            "url": "https://www.khaleejtimes.com/uae/dubai-ruler-sheikh-mohammed-spotted-at-bakery-cherryhouse",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-07T15:35:58.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "ADNOC Gas与SNOC签署协议，推进阿联酋天然气网络整合-迪拜之眼103.8",
+            "originalTitle": "ADNOC Gas, SNOC sign agreement to advance UAE gas network integration - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeDlEd2p5U2FaYW5uZWhNVllFZTFmSFZkWFU0ODZXYkYtS0pkaDB0OVp1aEpIWUFtVGNmeDNGc1N0cVpUWDFOb3BTSG5JMTlFbG9YaVZTTk1fX3AzZzA5M0V4NjV3TG9OZ2I3VFFxa2l4MWNiYlJJbEZQb2VTRGJpQnRxZklObV9COFk0?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "Dubai Eye 103.8",
+              "www.wam.ae",
+              "TradingView"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-06T19:52:33.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Avloq报告发现，海湾合作委员会投资者更青睐人工智能辅助财富建议，而不是完全自动化",
+            "originalTitle": "GCC investors favour AI-assisted wealth advice over full automation, Avloq report finds",
+            "url": "https://www.arabnews.com/finance/gcc-investors-favour-ai-assisted-wealth-advice-over-full-automation-avloq-report-finds-3009784",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-07T18:37:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋大使Al Nuaimi在新德里大使馆庆祝印度首次排灯节",
+            "originalTitle": "UAE Ambassador Al Nuaimi celebrates first Diwali in India at New Delhi embassy",
+            "url": "https://www.khaleejtimes.com/world/asia/uae-ambassador-al-nuaimi-celebrates-first-diwali-in-india-at-new-delhi-embassy",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-07T12:00:25.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "俄罗斯对阿联酋，伊朗在特朗普威胁下加强外交：我们所知道的-半岛电视台",
+            "originalTitle": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGpDdXFxU0JuY1VWRTZudTNoY2NFeGNqVE1UOUMzTkRBR0kwQU5taFgyclAtdFBnMHMyQUcyNzVVY0ZaX0xXb1N6eFN0NjFLVENzVG5YODNPenJUQVlXSWVuR1JXTVdMV2Y4dUM1eVc4Y0NsWkVQYmZNV1hRYm9UOVlvZm9mV1FiQjJIb2xVYXVDWmRQaUNPbTI0RTNldmpxQlNGN2VLS295Y3NINWxr0gG0AUFVX3lxTE1jLTJmLXJ2d0hSLUZMTzhRdnRaSWFoRmNybWtjWHEzdjFWNE0zb1F2NlE3dmY1WTZVZGlBYUZkNmdFSVZBU1FwdG9lNEpfRExJR0ZBYUY4bjNKQm43VGdRTlI3UGt5c1U1NURpdUZoUjRGT0ZnUEFoZWZCbXBtZmxTSkVYUFBQX0s1LXB1LUpaRGtac1NSR3A3MVpBTkpXMExsOG92cGowdWJVcjhIT1dfMzVJTA?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-06T13:00:58.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "外交部在城市判决后向阿联酋大使建议“采取的路线”",
+            "originalTitle": "Foreign Office advised ambassador to UAE about 'line to take' after City verdict",
+            "url": "https://c.newsnow.co.uk/A/1329193903?-15565:1965",
+            "source": "ITV",
+            "sources": [
+              "ITV"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-07T18:13:37.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿卜杜拉·本·扎耶德祝贺委内瑞拉调频电台，讨论双边合作--阿联酋外交部",
+            "originalTitle": "Abdullah bin Zayed congratulates Venezuelan FM, discusses bilateral cooperation - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9URFZNcGxTOEd5bHJtU3FzOWp4ZjRQM3l5TDJWRndnX1BfVEE1Z0Vsb0JMOXB1U0tVaXBPd1AzYnFqS3kwcFhhRHRrbm41R2J3emx6S1VjMjV1SUJGVFV0aGk4RDR5cTRPbFNIZXV2eXk4QQ?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-07T19:56:08.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿卜杜拉·本·扎耶德接见坦桑尼亚外交部长，讨论双边关系-阿联酋闪电",
+            "originalTitle": "Abdullah bin Zayed receives Tanzanian Foreign Minister, discusses bilateral ties - برق الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjFFc1ltS2Q5bWJZaG1OWmVJQVhKck5ZazVzWGluNFdCSk1KVTVPaDF0QzQxdFZ2WXZlOXdLOXRySl8yX3Nwc1o3R0lrNGFJb1lQWmRHZ1l5MlFua0h4aE9GbThtb0V4U2NWT3A1aVFwRndWTnJYRzA1bFprNWNwWFFwN0N6VkE3VFJGNXBUWHB1dzRVNVVodlY5YzRUbkZDT2pOQWNBcFhOaEE2ZmRJMVVlV1FscFA3?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-07T18:00:47.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "迪拜将在2026年世界警察峰会上接待220位全球领导人-海湾新闻",
+            "originalTitle": "Dubai to host 220 global leaders at World Police Summit 2026 - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVliYVFtNE1OMlk5Z3c0SldCWi1BQnczME5uVWRQSTMwZlRrRURBMkxBQjN4X3ZqZnJndGRyWkhUb196R0taZlY4MmdIZjRRWE5SWFhvb1A3QUIzNFlPOWlDRWdjaU1Gd1ZBYXVmblA3dEZWeWRRLWFPYXJ2Z2NhWklqZnFvSlBFTDZNUTk5MzBLcEpzdGN4Vm5vbjdlYXFuZ290aVdsNDcxTk1j0gG_AUFVX3lxTE12ZkF6NTRreGlQVElnS2tmdGRTMXN5ZHFoWHZQWElmdmtQU1kzeFhLWkdMMjBTV0hlVVRCelRST3dyWW1mZEVFLWxOZnFiMm9fYTgyTDZ6bmg1SjRZc0VuUEdkV2lNQ21yZmJqMFFiMm9JbnhGRlBFTW9Jc1lwYTZTQ1lHUy1KLTl6ejcxZnd5WTJiWlg2dDVpUjBBWHQ2VjU3STJveE1zcVQ0eEVWa1VOWkFSbE1GOVFsVGJYRlVN?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-06T17:22:37.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "俄罗斯提名代表团参加阿布扎比会谈",
+            "originalTitle": "Russia names its delegation for Abu Dhabi talks",
+            "url": "https://c.newsnow.co.uk/A/1329182382?-15565:1965",
+            "source": "TRT World",
+            "sources": [
+              "TRT World"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-07T14:13:58.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋和英国外长讨论地区和双边关系-法纳新闻-",
+            "originalTitle": "UAE and UK Foreign Ministers Discuss Region and Bilateral Ties - Fana News -",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkY1emxwZUNYdkVQSWh6Y0MtZDctRmlGVXdHZG5xM3pab0MxLWhtNV94Ujc4TFVXMjNoMkZxSUM5UWhFNUF3VDI2X1JqcXRBY2tTSk1PUHNjS0prRjJBSjJreF9McU94V2RqeVpEYzJDVVIwa3FQVGMxU290SlI1eTRsMzNxYXdpS005OVBnNjdDc3BrNWZzR1BDZTMwUjRIUVE?oc=5",
+            "source": "Fana News -",
+            "sources": [
+              "Fana News -"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-07T09:11:25.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "Gargash说，在大规模婚礼后，加沙仍然是“阿联酋人道主义捐赠的核心”",
+            "originalTitle": "Gargash says Gaza remains 'at heart of UAE's humanitarian giving' after mass wedding",
+            "url": "https://www.khaleejtimes.com/uae/gargash-gaza-heart-of-uae-giving-mass-wedding",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-07T09:40:29.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Qfc欢迎总部位于阿联酋的投资公司Shorooq来到卡塔尔",
+            "originalTitle": "Qfc welcomes UAE-based investment firm Shorooq to Qatar",
+            "url": "https://c.newsnow.co.uk/A/1329191221?-15565:1965",
+            "source": "Gulf Times",
+            "sources": [
+              "Gulf Times"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-07T17:18:04.000Z"
+          }
+        ],
+        "technology": [],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "中东战争：阿联酋居民今天需要知道的5件事（ 2026年11月7日） -海湾新闻",
+            "originalTitle": "Middle East war: 5 things UAE residents need to know today (Nov 7, 2026) - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalFKOUFkajdiSVVkbmxhSkh0ZDhGX3hadGhXVWRKdGxiUUhPZG1CX3lLbkxCWFliRXBHeUJPNWo4UVg0RlB3Y1V6UnNaczI5VmE3Wk5NMUlCWFdZZ3hBTC01enFkVDVsaVFvU0wwMktpeGRLa2NVQ19qWTFpMDM0UlZNdzVsV19xZmJXSW9NUlo1d3BkOC13NHdON1lHTWZKeHNBZnN5RlVxOUHSAbsBQVVfeXFMUHhXNlYxeXdkOEtKaHJIMnJaRVlLVnJ1S3FxbEhYdXVrVlN0MU1iYlN6Q2NqeFV0MUF5bTdmaEhIX3lkczZaNDVRTGZqWE9vdm9uZFlqTi1Wd243X004YW1oS3dDYVJKVEFFRTJPOUt6VUpUS3BOZXBfMm5mUmNVTmx0ZWtkMWNvMXJRVXNVYnpCVHNGT0N4U19aeUpNSDBSSl8zd1d5Q1NTdlV3RmZrcWZORnU4NlBfLTFCaw?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-07T13:42:25.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋谴责埃及在打击非法黄金开采期间发生的致命武装袭击",
+            "originalTitle": "UAE condemns deadly armed attack in Egypt during crackdown on illegal gold mining",
+            "url": "https://www.khaleejtimes.com/uae/condemns-deadly-armed-attack-southern-egypt-crackdown-illegal-gold-mining",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-07T12:32:59.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋医生警告减肥刺拳会使患者损失肌肉，而不仅仅是公斤",
+            "originalTitle": "UAE doctors warn weight-loss jabs can cost patients muscle, not just kilos",
+            "url": "https://www.khaleejtimes.com/lifestyle/health/uae-doctors-say-weight-loss-injections-muscle-not-just-fat",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-07T07:00:23.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋加强在军事医学领域的全球领导地位：前线英雄办公室- Big News Network.com",
+            "originalTitle": "UAE reinforces global leadership in military medicine: Frontline Heroes Office - Big News Network.com",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVpxRDV3Z1ZuT0J5YUFYNGkyeFJ6TXZrQWhyUlpnYnVZVUtDSUVuWHg2VWVZM2RkNVQ2SU81b3VUbzhJYWllRlhhNTJOU3d0YXVZTFNhSUtxNUM5RkZaVUxvcFlHM2tOYU1hdG0yYnhCZDBoQkt4eHBaVVREZkRqVFJFdVNvUjQ1Q0JiWmh3di10cmFVaHdBZFh2VWlqYmxzTmlac3FSTDA5UWcyajZsTA?oc=5",
+            "source": "Menafn",
+            "sources": [
+              "Menafn",
+              "Big News Network.com"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-07T07:31:43.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿布扎比将主办第46届世界军事医学大会，聚焦全球专业知识与合作-海湾新闻",
+            "originalTitle": "Abu Dhabi to host 46th World Congress on Military Medicine, spotlighting global expertise and cooperation - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNczJKSXJCQTB5WC0tcVFmZ0VEazJoVmVERXFkWE5ud20xRzczZ0hnQ1FHczc0Sk9sNXo5MUQwblFLVWpQaEY0M0VrWlRvQkNXeHVfeU5xQ24zVVFXcTJZbDZBWVBCZ0o0LTJfem5NbUFEeXFBVnpicEJvbERoMllfNUQtbDVZUWpSUWVyNlZlbWh3WjFWY3JiQUc5aGdSMnhtQnBibUdsZGZWVWdELWc1RV82ekZ6UmNzSXVWb2luSS1zbGJ5WndBZkdSMWc4djUycmh5aERxTlQ3NGp5eE42bmFBeWMzZ9IB-AFBVV95cUxNaG5YellqdDlsNnNidmFfaW9VcUduS25fOGVyczdnbDRBU3k1WExnNTFZWjRocXlfaVFNZ2VuaDk0Y0lFRm1CTXJkWGxXZzNjYnZCS3hQQVhocjljNll3WElpM25uaW96T1RFV0VmNmZUWE52aHlpNzRyR0poNFVLLS04VDRtN0R6VjMwakhxejF0TFNERlhYMHlvOG1kV1REY19DTktFMkhVejJMbVpJM2pqNEV3b1pLUjRheHB0aS1HMUJJQlBnVUdXMllKRlJsRTFaTXp3SkJiZmZOUTRhMmY3ZkxCOUI0RXBoMm1uQlY4NXY1RWpKTA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-06T10:43:33.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "《世界报》：对摩洛哥-阿联酋-利比亚轴心的恐惧驱使阿尔及利亚重返尼日尔-摩洛哥世界新闻",
+            "originalTitle": "Le Monde: Fear of a Morocco-UAE-Libya Axis Drives Algeria’s Return to Niger - Morocco World News",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeU9aY0hfWDZjbmNCYXlrMlhEekN5MGEzNnVFSlBTcTF5cU8ySURFM2JQSFJJSDNLQ19RRXdKYkh6Q2VSM1ZsNkhuS1lab1EySzJ1S3ZvOU52VWJJcXdiSEZ5cGRTYTdGVWJwdzBfQ3UwRXphM1gxMEFTa2hOUTlQNE8xcWVSN09PajZidWpLblZpRW9mTDlaeUZMamNaeUpud3RLVnZ3cHBNVDhmdTR6U3MtSUw1dzdoSXVCQ0dpVQ?oc=5",
+            "source": "Morocco World News",
+            "sources": [
+              "Morocco World News"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-07T17:58:27.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "在阿布扎比会谈之前，俄罗斯袭击了基辅的能源基础设施，北桥-自由欧洲电台/自由电台",
+            "originalTitle": "Russia Strikes Kyiv's Energy Infrastructure, Northern Bridge Ahead Of Abu Dhabi Talks - Radio Free Europe/Radio Liberty",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGhpODFUUTZ6Y2pxR2V6eUhSYnVwbk1ZZ1F0QXFBS0JWNGtuTDdqWHR5Y19jMl9zN3J5Wm90TU56ZVk1aUtxTXEtVzBOdTZvSmlVcnItX3l2ZVdfci1GS001Z3VvdEdrcUdwenBld0trSS1kZGV2Zmp4RXRsM2NKRi1xWnU0bUVZYVHSAYwBQVVfeXFMT3BhUVgtU243STlPN0gzTVhROU1KcEtxSEVHQTBSY0p3dzcyWVRWZ1VqeFpUaWdrZlN5WnY5czlOZ0tMeWxYR05ab0ttMUhNb1ZaMmVhSWg1em84NXo0Y2pxbDRjT0lmeU5xcGh5Z2R1Qko4UExiUWV0YWJQdXhsUWwwV2RsZ3lsS0Zwam8?oc=5",
+            "source": "Radio Free Europe/Radio Liberty",
+            "sources": [
+              "Radio Free Europe/Radio Liberty"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-07T10:10:07.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋确认完成世界军事医学大会-迪拜之眼103.8的准备工作",
+            "originalTitle": "UAE confirms preparations complete for World Congress of Military Medicine - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTNpMGl4dk5CWGVMOV9aX05NUkNVLTlMem1VbHVONjhkQkRwTWVIeWMxYnVTMDI5Q0tjRmFsSy0yaWRHSkd6bW5za29zS1J3bVQtTGFjYVlXT1V1M1BmMldDQlFDWmxFMGhPSm93bEhPWm9EWGp4bW00MUtTTFM2ZzJOdzE0akttYTBsd0RFTFhjek1rUmZ6NjdremxCeloxQVJmLUxLOUhKamZqUVlOMGdGVnA?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-07T12:35:33.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "排灯节快乐！谢赫·穆罕默德在迪拜为无人机表演、音乐和庆祝活动做准备时分享特别信息- Travels Dubai",
+            "originalTitle": "Happy Diwali! Sheikh Mohammed shares special message as Dubai gears up for drone shows, music and festivities - Travels Dubai",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0oyNHJ2NWFqbWFGTV90UjV2NXRrQjE1YVplMjdoNDdsMjl6V2VZbUM5Q2piSy00SjJLZmV4Q0dNdVI4LV8wcC1jaWxOcFJYanNISUlkekdNSm1QUEktdDhhMXR0ZWhjelNZaG5yTU1YamRxV29KbjExa0tDUW1xNTJxdmgtWUNEdHl5OFJsak9DRDhTcThVQnJpbk5sOHp0VkhJY2U2Z3BVVTJmSUhIRURDY2N5cU5vQko0RWZYb283cUVMNVRxaGFGMkQwQ3M?oc=5",
+            "source": "Travels Dubai",
+            "sources": [
+              "Travels Dubai"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-07T11:43:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "俄罗斯在美国调解的阿布扎比和平谈判之前袭击基辅- www.nationpathindia.com",
+            "originalTitle": "Russia Strikes Kyiv Ahead of US-Mediated Abu Dhabi Peace Talks - www.nationpathindia.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXBWWFFEZk16RzdOYXJOVHlpT3dHbmZmQS00c3lmOGhadUNWZEhpLXFyMzNLUGdvSGtBbFVyZ3BIaG5Eb3ZSbDlqRjcxdkNOVGhDalNiWlRzQ3pvSS1NSkpnS0NUaERXR0tKWFc0bE1TUE1NenFrVFJyYlRxekhYQVdmZlZaNzJmVkJZ?oc=5",
+            "source": "www.nationpathindia.com",
+            "sources": [
+              "www.nationpathindia.com"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-07T11:13:36.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "周末摘要：新的阿联酋交通规则、2500万迪拉姆大奖、家中的A380套房等-海湾新闻",
+            "originalTitle": "Weekend digest: New UAE traffic rules, Dh25 million Big Ticket win, an A380 suite at home and more - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZFhqU2JrazBKbE9fZkRkVU9DZ2dQWFRublo5ZXVZVkpjSXlYVGxDZzNHNUFRTEdURG9wQUIwWkJ6QUtZU1Q1WW5oU0NlYVQwMVdjT2JwWTEtUF9rNDktUFpZSTNkcEpTWlcwVVN3bTl3M05LNmVJWjhrcDVkR1NjMnFCX3dkc0hiUDZkMHVSbG0xOHlveDFPdjgwdnpPX0RETXFuamhVYzc1blJabWFtWVM1R2NET2oxa0EtaW1HLWx3LWZ6MzVod05McEvSAdwBQVVfeXFMTUJJWjFCU2lLeks4enB5WE5NOHVHQ0F1aUQzX2d3c2NpdXU4dHpWdVd1MzJuaWV1QnhpdVFLaFNYYWZuLVowUjJvdWJleEk5N2pfdjBpekMwbjlhaF9LSmpvSng1YXJPanZveU1ZU21mejFxbWV3LWFZU0d0eXNERnpQU2t6Ykl3aWFyYi0zOUxUdllnbTZPdlVwWUJRaWFzQnhJZWgxOGJzTW03eUM1RldXZERwZ2g4Vm5Nc2tNMzVWaGUyREsycl9SZFp3S0lvblk3WWk1bVVDMDB0Sg?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-07T09:02:20.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋女商人向所有女性员工赠送iPhone Duos ；家政人员泪流满面-海湾新闻",
+            "originalTitle": "UAE Businesswoman gifts iPhone Duos to all female employees; housekeeping staffer breaks down in tears - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenFWMno2bUI0TlV4eDdoakFBMXFYT09La1pfSktBYzVHOG1pSWZoUlJkbXd4dVNRLVJtVFNaUEozZ2ZacVctRnVtTHZNTlpObkh0RnNTUzVMd0JoOGVwQXF0T2tWRmQtcDdnbmFVQlh1WTlxRDJJMzNSSnB5aV9kRnk1LV95UDIybm1HT3dhUlUtRzc0VXlvdFNiVW1faEFxYXdIYndKWnpLSldaTjRmdE9ROEFHMXdtRUlGcTZoOHFZSlHSAdMBQVVfeXFMUHdMdjJ5emM2U2UzZFFXSUJQR0FHckQ0a0N0bEJvYXJtLW5zNlBnSFNjNGlwUlNUWG0wbFk5ZWtBOHlETlZFQ2VDYm5OVzU5cndKc094UTNsdndFY1g5LWxlZGtwbE5tTk9ZT0ZPZER5YjlZSXhTTUc3cFBKdXdJUjJyU0lsQWlpamlOcEEtZmt5VDlGWmJBeXh4bjV5d0lMMWVnUEZqa3g1STkwc1QyLV9sMGR4RXRKTng2M3FXT1RGbEdXNzZHSTNENkVBYmhUWExUMA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-07T08:38:46.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "“阿联酋是我的第一个家” ：迪拜少年Riyan Malhan在历史悠久的青年奥运金牌和排灯节上难忘-海湾新闻",
+            "originalTitle": "‘UAE is my first home’: Dubai teenager Riyan Malhan on historic Youth Olympic gold and a Diwali to remember - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWFOZ3NtMjRUa2tTN1pWMm03NUJHU3lzNEZ6Sk9WaVU5V0QzcGt2T0l3ODU4TkRzdXBhbnZ5QjBKMXpxd2tldDJFVDNfa25FWm5ZQkl6YlE1Wm1VWVoxVmZOOFZpcGVndU9BeFJVT1pBeHVrcFJrNE1tcm01YWlyN3pEUE1XU2lMWHhWV2N1OVFPQ2M1YVV4ZVFocGpmcVpPVXZZWFh3WnBhcGxjdXc0QTZnU0R4TXlXdWhqdng0b2MyY2VOSjJPWEJHUzVFOGxtQXlrX3dodU5adUnSAesBQVVfeXFMTUN3MXRia3dhdzBYNC1teWZBWVZveVR4TEJsZ3ZLOURpNW5GbkFGM0NySi1sakFQVmhZYVVPNm5nSmNCR2NCTkEzYXJiZkNwMklIRGpNLWNxNXlDQ3lyYzZsQWRsMTRkTlhJWlk1bFBvNFZNaGFWaGhIWW40cE5nME9FaUVlM1dXenNZQTNmZVFPN2duenNGMWNTUmRERGF6R2xobWJlazY2WERoLU8tRUp5ZTd0ck9aU0Q5ak9PQ29mRDljR3BkLS13NUlSOGEtMDQ2MFV3bUJOZWNOMF9tOXd4U1IyRHJVdzFuOA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-07T09:04:37.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋强烈谴责波兰克拉科夫枪击事件- ARN新闻中心",
+            "originalTitle": "UAE strongly condemns shooting incident in Poland's Krakow - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOG1WZDhJcnhrbkVSY1lXOTItdUxFMC1UeDVFbU10b2g0cVpLU0xtcVZDb0NrMnp0STJhWGo1Y1dYUnhoN3VNVFNVazMxU0hJb1BxVFgtMkNvU0UzR2pELU9EUFVqTFB0dGQ1VEZZYUcycTJsVzJSSUZHNHllXzRqTlc0eURyTHlIcGxNYVpKbnA0TGZtQ0NLVE9kRkc?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-07T18:02:41.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "观看视频：阿联酋女商人向女员工赠送全新iPhone Duo ，现实生活中的“梦想成真” ，因为情绪反应让员工流泪，病毒视频浏览量超过200万次-《星期日卫报》",
+            "originalTitle": "WATCH VIDEO: UAE Businesswoman Gifts Brand-New iPhone Duo’s to Female Employees, Real-Life ‘Dreams Do Come True’ as Emotional Reactions Leave Staff in Tears, Viral Video Crosses 2 Million Views - The Sunday Guardian",
+            "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaFdXSkR4MlZZdG9KQmp4MjdmVTc1Y3FTdUJzYUxsSU5sS1JuYlJLa2xMLUpFVms4OGpvWkNyY0ExSXBBQzlVNExPcDlQNXZvejhxZ1F0WXpoQzFyUEdNNG8yRjgwWE1ncHRHUnBXTVZvSmJ4Y2JhRDFUTGRRc1VDcHc5UUhCd1VsZzVXUkptYzFBMWgyX01abWRPT2xlZ1ZmR05seWRMR1pYQ2U2cjFrVDMwNWtfdmV0anlXQ28tRTFndEJkNkZEaWQxVERDNWpsd0tSQTdYZTZYMmNEbXA2UmQzUlNxSHlDWVhnUDlpOFllU0x1WDl3cVA4b2VYbjV1a1hBeXFIUGZVNTJTZVNzTDhNZ2dFVWs4a2JreWViOW9jaTNpN29sTF82Zm9PNEt5ZEtxOEpleXV4TFloclBsbk81R2gwbW9lQjladHpUOGxSd9IB1wJBVV95cUxNejJMLUlmdXBKNWVZamFUcUdnTGV3ZjNBNk1hMVAyMXFuV003WHdpb005djh2b1pjTnZ5NWprVldMT3JsaHR3TGVmUWJuYmRkWlZxSDQ3UkdBSHE4TzdUNG5ocmZZRFpqQjZxM29EYWNuRTJET1hNQzFWcmZ1eVo1WnpjdVBLZVo5b2c5WkJYS2duQmdtMHJkRGlsZjN5Q29QNDFZc3VSeVFnYUptLXNpaHNLSTBJZm1pa1ktZHVKVHpGemd0RnB5NlpnRjVzbUxNOHVKajJ6amlGbEJ1X1ZuLVFQMm1jc3gwTTZiZ2VXY2FBdmdsTmZFN29BSG54eDE1UTlWNkVKcHVLS2VqMGh6TnV6Mm9IaDNXUjlUaHNiN2tIRG9OM01rYWV5S3hHekxKRWRoQ3J5OTRyMk1SNDlaYUVSby1xd2ljS1ktNVUxZDVpTmxPZWRr?oc=5",
+            "source": "The Sunday Guardian",
+            "sources": [
+              "The Sunday Guardian"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-06T20:33:00.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋的童年回忆激发了迪拜学生丰富多彩的病毒式艺术作品-海湾新闻",
+            "originalTitle": "UAE childhood memories inspire Dubai student's colourful viral artwork - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWNkdHNKRnMxVERNNl8xd2YxRGdUcHQ0cWFsZDl1OV9NbXZDTkx1WV9mS1NITnVKZU93dzR1bS1GaWN3OG1faVNJb3VraHJueDE4SE9OampJUGVDcnRqN3l2WkhzNXdkbHotY3BQQ0tad3M2NktzM3BsSjNPWlNJYXhJYVAzMDlocEs0UUdydHRRWk8wOEpFVmxLbFlRTmtSRDAweG1zVmc1TWdCRmJvejlB0gHCAUFVX3lxTFBoclNKX0h2NW5hQ2VMVlZaaUhFbkRWeEotR1VzTHJ6LWh3TGZteDQ4dENoSnR6V0tBdXhpeWNhbURHUFJoZWcyd2h1bVhFdGR6WTZvcnJGLXpFVHEtUDM3VDVDTGZ5YjQ3c3RoQ0FPamxjaE5CRlh0OU01TzdENUN6MVN0VmRsNktMSi0tOE9scjRZdEpPTnlUdWNUZWlkNTl2SnFJYkx3UENDOEE5QjB2TVhRcGlfaVVzcGRTVmFUSzV3?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-06T10:16:07.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "俄罗斯在阿布扎比会谈前几天夜间袭击基辅- Politico",
+            "originalTitle": "Russia hits Kyiv in overnight attack days before Abu Dhabi talks - Politico",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWpGcGNKTlgzQzQyUTBodEgyUE5QRk9nMExaTkJMaHpxTjY5dG9Ec29pVjRfWVRZTFR0Ymcyb1Bqcl9Ic29EMkNnclJJOGdON3FlQ0ZIeWhMWTJDa1pubFBfanFSMUlrb0s3NklXaFZJeHYxaWhIUzd2RzVwSkFmblAtakUxTk9IRUdhQVdfcWEtci05TlhBQnVNZHZxX3FpcWlkQVRlX18?oc=5",
+            "source": "Politico",
+            "sources": [
+              "Politico"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-07T11:28:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋女性向所有女性员工赠送iPhone ，视频风靡全球|点击了解更多| Inshorts - Inshorts",
+            "originalTitle": "UAE woman gifts iPhones to all female employees, video goes viral | Tap to know more | Inshorts - Inshorts",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTZkS1NfVEZScVl4alQ3M2ZzckItWmVPNUJvOGpkUVJRbHQ4dkZNV0pSODBwRVY4eXhCNi02SlFwSW5oczhfZkRZZk1pTHZNVW9QcW80NTN3cTB0ekdlOWFUX09zMHhNMVZjWGItdmZLQVpfV2M1RXY5ZGlRaTgySjJzU3FQQnd3UFdNem43T0lZYnNvUG5JT3ByV0VJTUVlM1JHbU5HYjR5ZEZnSDJpRzN30gGyAUFVX3lxTE9pNmRLU19URlJxWXhqVDczZnNyQi1aZU81Qm84amRRUlFsdDh2Rk1XSlI4MHBFVjh5eEI2LTZKUXBJbmhzOF9mRFlmTWlMdk1Vb1BxbzQ1M3dxMHR6R2U5YVRfT3MweE0xVmNYYi12ZktBWl9XYzVFdjlkaVFpODJKMnNTcVBCd3dQV016bjdPSVlic29QbklPcHJXRUlNRWUzUkdtTkdiNHlkRmdIMmlHM3c?oc=5",
+            "source": "Inshorts",
+            "sources": [
+              "Inshorts"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-07T10:10:19.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋赞助加沙250对巴勒斯坦夫妇举行群众婚礼- TVC新闻",
+            "originalTitle": "UAE Sponsors Mass Wedding For 250 Palestinian Couples In Gaza - TVC News",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkM0WmhNTWI5U0tieHg2Y3ZNOEJMOUY3dy1qSEY5LVhvMzhoclVUZnZ5WTNlOEdheFQxWHBOM0FzNVI1b085eG5CZDVaSmFXSE5vU0xQZEtLQ0hCcE0yTnJXbjNaMWVvSUM2NExjeGk2Ti1tbnhhNXlmdGlPMHJrTDRVVXM0R0pJc3NhT1l3?oc=5",
+            "source": "TVC News",
+            "sources": [
+              "TVC News"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-07T08:52:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Marvelous Macarons为病毒式迪拜杯吸引了人群，关闭了奥本的商店- Sun Journal",
+            "originalTitle": "Marvelous Macarons, which drew crowds for viral Dubai cup, closes store in Auburn - Sun Journal",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3FrSFhaeXMxV1psUWNKVjlEaEt3RGtkNmVNalpXUTFyc1NXMHl6T2hlMWIzcE4ya2pReTBGU3NROVhvUnFZOTdOVXY3NXlPYzNGRjNERjVvQndPanZHaTJfNmZUUTFISVY2REFzbEJoSzZRQWh5NVBtMWljZXpVcWdaRG1fZjg?oc=5",
+            "source": "Sun Journal",
+            "sources": [
+              "Sun Journal"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-07T02:31:04.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋参加北京世界媒体峰会--Al Bayan",
+            "originalTitle": "الإمارات تشارك في قمة بكين العالمية للإعلام - البيان",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FZzJUdGVOSkZpUXFKWS03STJ1WlBtakg3NDVnWXl4YjJWNDhFSnJzdURiTXVHdUpvWXJBelVBR1QyQTdUTUlCYjlpaTJPZ082?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-07T14:51:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "中国发射携带4颗卫星进入轨道的太空火箭- www.uaebarq.ae",
+            "originalTitle": "الصين تطلق صاروخاً فضائياً يحمل 4 أقمار صناعية إلى المدار - www.uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPS3g2NFJRTVBtdU5iaTZZcFc5TzNuZGVjS3pmVzJxUWQwcERNYW9PZ1Q3elczOUZ3RlluN1VxWnVNRXIwSGlxSldMRVZ2X1hYY3k0amZKYjBTTGY3UzNmeEtCUzhkakNEd0NzVVhkYWdxN1Q0Sk1NMXNMUlVNcVhwYkU4Um1wckdXdS1BMFNtZTJjc3NnY3BxX1VjVGVXbFRkSHBqMnFwUENfZlNuY1FTZmFDZ3VUUzJ5MUtuWGZSR2prcHJlRGlpNUsxWjNvdmJndTltT3dhdV9vUTlJUU1WXzBpQU11bUVkbk9ON1RqeENRNWxSZWJTNHJCaXZuVTRCN3o2WlNfd0VoYUtrT0xGVDFZcnBXaGZtMDZNWXRVcVBZcGowUXJMRXI5RlJlYTZ5eENDNXdlMlplTWVxcmNkdnBJY2ZhYmxHSDdyTkpOXzkzN1F1Q01yOQ?oc=5",
+            "source": "www.uaebarq.ae",
+            "sources": [
+              "www.uaebarq.ae"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-07T08:47:28.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "中国成功将4颗卫星送入轨道-沙迦24",
+            "originalTitle": "الصين تطلق 4 أقمار صناعية إلى المدار بنجاح - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uSXgxRHpjc3pwWFo1R0VZTlNkcVRtUGgxWTB2T2twVWk2MmVDcFdlQ25XanFtbEY3ZVBYdC03b0s4QWhOeS1Za3ZRNms4YzBMZ1Ntc0tES0pqN1Ns?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-07T09:06:40.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "中国媒体：迪拜是创造机会和进入全球市场的目的地- Al Bayan",
+            "originalTitle": "الإعلام الصيني: دبي وجهة لصناعة الفرص والانطلاق إلى الأسواق العالمية - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iRzRycmFkR2gyUnE5endMR1dnWXg4bldudGwzYkxkWU5fSzh6Zjc1NXBnc180c2VEMTRlWV9CSGZJYlBfOThoMDVnUWIzeHdKNC1BUWtCeTUzWUo2X3Y4dU1JWmY3djd1YnJ3?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-06T09:20:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋和中国在阿布扎比举行第三轮领事磋商--阿联酋外交部",
+            "originalTitle": "UAE and China hold third round of consular consultations in Abu Dhabi - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2JHSWNHU2tjNWpFQ0tlcXpaQ1UxWVZtWV9sY29oTWt4RXQ4STVXb1NMUy1PYVF2Njg5RTdjbU1rNEVlRnY3bDRIa2Y0UWFBN3B1OUxqbDRRalZ2SWdnd0ZMREtRS3ZwUUxkal9YQXFaZkx1SGlfcnNkdm0zOENmZk9ZaGg3RmNoMXJV?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-05T23:01:20.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "华为XMEG使用全国摄影师的镜头记录阿联酋的美丽和遗产- Al Khaleej报纸",
+            "originalTitle": "هواوي إكس ميج توثّق جمال الإمارات وتراثها بعدسات المصورين في مختلف أنحاء الدولة - صحيفة الخليج",
+            "url": "https://news.google.com/rss/articles/CBMixwVBVV95cUxOeEpNSEhOV2FVeUM5c0dhMXVQUjlnQU5JUzlITUZjNGdqdEVWMFRockhPYmVZR3NWdjYwUHA0RmQya05CQWVUbE9QVElIS1UtM0FPN2kxbWNSU2FQaUg3V0dudDR5VzlvdlAxQloxM0Zic3N3R2ZKTkF0QXpmUWpZcnI4VHBIM0ltUzJ1cUhRcmVpclk1XzRuRFdSZmtOdm1UTndXTXhhSHZaX0VCXzA3enZaWHZrdEJjUTcyUjZaZnZpOVZHLXpVV1JjVmJlaFY2MVBIeUNTU09WMXNyT016VzZ3SXo2QUZhdGZIUWlHQzBqREpFOWw1RVVjZXlyczFDUmdnakVoUm1VZWpKdTVtS0laaTBDaVgwVG1ScGllM3JGRmRtV2RwZG14OWV4TzBoV1JkclFlcjRvclp1V2tjMUY0VXRFeHVoTUxBTnphdkh0aTl1Vk0tWkxfaXRIODN1aGJyRG9QQWhZWUF1bDFMQ0d3M3NRR3lXVVVrX25QVGV1QnBtMWc1RFlVeTdYRUhhWjNhVUxHa3dWTndGbExOdXR0ZV8xTWlvSGVvZGR5YVI1N1dKak5HZXg0bU50YXF0TEhNeHc3TlYxcnRObEo3cWZBSFJyQ0RPX3kweHRLZmJCSWtVbW1YRTRTSktrbFNvZ1VkODRVT250aUxGTE0xWTgxdjRLS0t1ZV9hckU2NmdTSW1HMGd2dWV3UjVlZ0FTQVlFUXlJOTRzT0sxZEVtWkN4OFZma0duS2ktRWZWT2lYOXMyWTFjNy1CbXRCeVRWc09jM1RvZmxkNkxCZDNGMWFRUHVna3ZMV1JnQ2lDUlVCUlR3NUZ3TWI2RGxncjVHcldqV19kdWZuQWxwcUM5NkRncEJHVFh2QURhOGUzbWxLVW1XMm91MVBEMGtOLU43SG5mSTNIbEFGWmhFcHhocFNId3JuRnM?oc=5",
+            "source": "صحيفة الخليج",
+            "sources": [
+              "صحيفة الخليج"
+            ],
+            "heatScore": 43,
+            "publishedAt": "2026-11-06T09:04:17.000Z"
           }
         ]
       }
