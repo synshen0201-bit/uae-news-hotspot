@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T20:39:32.292Z",
+  "updatedAt": "2026-11-08T21:38:40.860Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -37370,6 +37370,691 @@
             ],
             "heatScore": 43,
             "publishedAt": "2026-11-06T09:04:17.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-09": {
+      "date": "2026-11-09",
+      "updatedAt": "2026-11-08T21:38:40.860Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "欧洲将派代表参加在阿布扎比举行的由美国调解的乌克兰会谈：法国",
+            "originalTitle": "Europe will be represented at US-mediated Ukraine talks in Abu Dhabi: France",
+            "url": "https://www.arabnews.com/world/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france-3010510",
+            "source": "Arab News",
+            "sources": [
+              "Syrian Arab News Agency",
+              "UAWire",
+              "Arab News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-08T20:42:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋就火车相撞事件向埃及表示哀悼，火车相撞造成7人死亡， 100多人受伤",
+            "originalTitle": "UAE offers condolences to Egypt over train collision which killed 7, injured over 100",
+            "url": "https://www.khaleejtimes.com/uae/condolences-egypt-train-collision-killed-injured-several",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-08T19:19:21.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋表示声援埃及",
+            "originalTitle": "UAE expresses solidarity with Egypt",
+            "url": "https://c.newsnow.co.uk/A/1329253425?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-08T20:30:12.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "法国外交部长表示，欧洲人将参加在阿布扎比举行的乌克兰会谈-路透社",
+            "originalTitle": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-08T12:07:25.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜推出首款可携带多达11吨垃圾的全电动垃圾车",
+            "originalTitle": "Dubai rolls out first fully electric garbage truck that can carry up to 11 tonnes of waste",
+            "url": "https://www.khaleejtimes.com/uae/environment/dubai-electric-garbage-truck-carry-11-tonnes-store-19-cubic-metres-waste",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-08T14:21:46.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "观看病毒视频：哈利法塔用印地语和英语特别的排灯节问候和节日祝愿照亮迪拜天际线，让印度人在世界各地感到高兴-《星期日卫报》",
+            "originalTitle": "WATCH VIRAL VIDEO: Burj Khalifa Illuminates Dubai Skyline With Special Diwali Greetings & Festive Wishes in Hindi and English, Leaving Indians Across the World Delighted - The Sunday Guardian",
+            "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZXEwRG5zczFhQ3FJTlByU1VBYjJQWWgzMl9yMUxNQ3lTRkRxRXcwMi10ek1ERzdELTlyRC1DZjNnbG0zM2FjZEphZTE5SVh6R2RzajA2b0wxZmFJYk9jZGFyZnlyM3k5SV80OFkxSVJzalEzWGNUYjNCQmlwOFNiSTVrNlJZQTlVcl96T2pDelNGSnRaNGNQT0RjUHpOU2lpc3EwM3M4Y01CU2lhanJhRWdJWWF3X1JaeVp1YnVzdDF5eURIbU5RX1N3S3YyYnJ4MGhqaXNBeXBadHZGVUktYmJoQlpubmtYRnFKQ1RqbS1GSDVuU1lpTlpvVXlvWWFPamM0VTVFWlgxOXQ1QU9CSFBfNkZEcl83blBvWGZLb1JnVml1d2xjNU9rQ0ZPYzVvbDlqYdIBugJBVV95cUxOY2Z0b19WUkR2NFBSQUdVckFJbEVIbTN6MWJuaEkxVk90QmdrZzNrTGFsajNzc0k4U0NsWjhjLUR4VEphYmtxTE5UZl9za3czM2VIRkpjS1VLOUZrcDI4Zlc4NmFiNEpfa2ZNQ29wSUVQaGc3b0NoQnFlOG1mRXVteWJDVUVZSWZhQ0RpajB3ZmItUmdaWGR0RmdoclJRcVdWTlRBUTJSX2RmMXFhdFlSSjRfVFdsSl9HcVJjb3VzbF9XWUdSM0ROTjZGU3RoeDQwS1pyVlhhMzJFMjlKVjdLU1Zic1dmVGtOREtPSUo3amwyNE1hMmhPbGNIOVk5VjBjbXVfRjJmUk1mbVBtZGtMTTEtSDBMM2k1cktoTjRvODB0Si1MdE8xMW1nNUZTcW11cl94ZDV2Ump3UQ?oc=5",
+            "source": "The Sunday Guardian",
+            "sources": [
+              "The Sunday Guardian"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-08T17:19:51.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "叙利亚总统向阿联酋叙利亚社区发表讲话",
+            "originalTitle": "Syrian President addresses to Syrian community in UAE",
+            "url": "https://c.newsnow.co.uk/A/1329247335?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-08T18:15:07.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋推出国家反兴奋剂平台，以管理运动员的治疗豁免",
+            "originalTitle": "UAE launches National Anti-Doping Platform to manage therapeutic exemptions for athletes",
+            "url": "https://www.khaleejtimes.com/uae/national-antidoping-platform-therapeutic-exemptions-athletes",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-08T14:08:24.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "“没有人问起我们” ： 12小时内7万个加沙帐篷被淹",
+            "originalTitle": "‘No one asks about us’: 70,000 Gaza tents flooded in 12 hours",
+            "url": "https://www.arabnews.com/middle-east/no-one-asks-about-us-70000-gaza-tents-flooded-in-12-hours-3010550",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-08T18:12:21.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "海湾合作委员会铁路项目已完成近56% ；运营目标为2030年12月",
+            "originalTitle": "GCC railway project nearly 56% complete; operations targeted for December 2030",
+            "url": "https://www.khaleejtimes.com/uae/gcc-railway-project-nearly-56-complete-operations-targeted-for-december-2030",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-08T13:28:01.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "欧洲将派代表参加在阿布扎比举行的由美国调解的乌克兰会谈：法国",
+            "originalTitle": "Europe will be represented at US-mediated Ukraine talks in Abu Dhabi: France",
+            "url": "https://www.arabnews.com/world/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france-3010510",
+            "source": "Arab News",
+            "sources": [
+              "Syrian Arab News Agency",
+              "UAWire",
+              "Arab News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-08T20:42:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋就火车相撞事件向埃及表示哀悼，火车相撞造成7人死亡， 100多人受伤",
+            "originalTitle": "UAE offers condolences to Egypt over train collision which killed 7, injured over 100",
+            "url": "https://www.khaleejtimes.com/uae/condolences-egypt-train-collision-killed-injured-several",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-08T19:19:21.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋表示声援埃及",
+            "originalTitle": "UAE expresses solidarity with Egypt",
+            "url": "https://c.newsnow.co.uk/A/1329253425?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-08T20:30:12.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "迪拜推出首款可携带多达11吨垃圾的全电动垃圾车",
+            "originalTitle": "Dubai rolls out first fully electric garbage truck that can carry up to 11 tonnes of waste",
+            "url": "https://www.khaleejtimes.com/uae/environment/dubai-electric-garbage-truck-carry-11-tonnes-store-19-cubic-metres-waste",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-08T14:21:46.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "叙利亚总统向阿联酋叙利亚社区发表讲话",
+            "originalTitle": "Syrian President addresses to Syrian community in UAE",
+            "url": "https://c.newsnow.co.uk/A/1329247335?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-08T18:15:07.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋推出国家反兴奋剂平台，以管理运动员的治疗豁免",
+            "originalTitle": "UAE launches National Anti-Doping Platform to manage therapeutic exemptions for athletes",
+            "url": "https://www.khaleejtimes.com/uae/national-antidoping-platform-therapeutic-exemptions-athletes",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-08T14:08:24.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "“没有人问起我们” ： 12小时内7万个加沙帐篷被淹",
+            "originalTitle": "‘No one asks about us’: 70,000 Gaza tents flooded in 12 hours",
+            "url": "https://www.arabnews.com/middle-east/no-one-asks-about-us-70000-gaza-tents-flooded-in-12-hours-3010550",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-08T18:12:21.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "迪拜排灯节：黄金牧场主和全球庆祝活动标志着印度的灯光节-海湾新闻",
+            "originalTitle": "Dubai-it Diwali: Gold rangoli and global festivities mark Indian festival of lights - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0pEck1IODZIbjlPM0pkQmI3bjEyN2YxUU9GVGw0RFhRdDZsZ05TR2ZXTkh1SEtWcUVOUXhwTWF1cmFjSEVNSnlWN2tONFZKQnJSeWJQcDJsU0lvWmtGMUdqV0JjWWVzRnVudjhuVzV0THpaM2dsVWtXc2t3ZG5PMlJGX01wWXF0bFVack1uYTlGdk1PNXhpUmNhdWh0NXJhSGFSQmM3OVM2M0FIVDdKdnItTlQ4bjN1dUU40gHLAUFVX3lxTE1jMG8zZTVhWEc5N21FY1RfMGFEVG1CTFZ6Tk40NXpvdDR4RDI3eDNMS18zQW0wM2pmTFVSc2c0N0dhSW1LeEJacXZfMmpHTFJJZU9DNl94dG9nX3ZMTldPRndWNHVuLUhMWUV1RVFldm8xNmEwdzlBS3ZwelluZnRSdFhnbk1DLUoydF8tc3ZZLUxxcm1NaTUycTBwRmlqN3ZoWTNkZ2ZIcVJhS3dST0s1YzFoNEVQYTU1SXQwT1lfanpNbElMRnhVUG9r?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-08T16:43:44.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋明天天气：多云天气，沙迦低至23ºC",
+            "originalTitle": "UAE weather tomorrow: Cloudy conditions, low of 23ºC in Sharjah",
+            "url": "https://www.khaleejtimes.com/uae/weather/november-9-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-08T13:18:38.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "成千上万的人参加免费活动，迪拜Hatta站立式桨板轰动一时",
+            "originalTitle": "Dubai Stand Up Paddle in Hatta makes a splash as thousands participate in free event",
+            "url": "https://www.khaleejtimes.com/uae/dubai-stand-up-paddle-hatta-free-event-thousands-participate",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-08T10:42:32.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "法国外交部长表示，欧洲人将参加在阿布扎比举行的乌克兰会谈-路透社",
+            "originalTitle": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-08T12:07:25.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "海湾合作委员会铁路项目已完成近56% ；运营目标为2030年12月",
+            "originalTitle": "GCC railway project nearly 56% complete; operations targeted for December 2030",
+            "url": "https://www.khaleejtimes.com/uae/gcc-railway-project-nearly-56-complete-operations-targeted-for-december-2030",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-08T13:28:01.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋： ADNOC天然气公司与沙迦国家石油公司签署战略合作协议，推进阿联酋天然气网络整合- megaproject.com",
+            "originalTitle": "UAE: ADNOC Gas and Sharjah National Oil Corporation sign strategic collaboration agreement to advance UAE gas network integration - megaproject.com",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbFg5VnJYT3RFNllWOV9tOGpSeGZ6dDJxLUFWSWdpRTh4ejJPdzM0U01DSzQ2NHhGdVhYVXlOaUhqcHIwWmNlTmhSVXRMTUU2emc3YkVmOXNQdXE2ZThGNl9sVnh2ZHpEZnRLMTd5Qm5SbVJ3dzBWUTQwOGpKQk9qOUt5cWhnMkRIdGpGZVkyamEtV2d1aGl2ek55RWJjYkhtcU0xUkNSTWlfQy1zQ3Z5b1B2YlU4RFRMX0tMMmlXYWZPSzlQd1VsY3JZX3NXRC1jUVdMWTJ1NzdvXzBGWHJCVGwtS3FtQ2k4VnJhOWRDdEN6dTM2dVNFbVdsSQ?oc=5",
+            "source": "megaproject.com",
+            "sources": [
+              "megaproject.com"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-08T21:20:41.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "卡塔尔，阿联酋签署航空运输协议批准书交换记录-卡塔尔半岛",
+            "originalTitle": "Qatar, UAE sign record of exchange of instruments of ratification for air transport agreement - The Peninsula Qatar",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOHVPcEFHaHI0ZXdTdGNCYk9oOUlJaTUxN29wT21aQ0FJbmdxQkhVN2RVaXVsQkt1RkJhMjQ1dF83QUNRWG9IS2JoemtRbWhQa1o1Wms0UXJFSV90VlhSVE13UDEtVHByZm04VXpza3R3Rk1JUW1qZXVZb2N1MmZ0cnU5Q3YxbERDdEFrQnVrSWJndVppa25tT2ZXbWt4aUlqb01FcHBQdVdHRkhqMldaRTVvM3hRWTVfNUk4ODdtbG1WTWd3NTdkdXZ0aXp0aDQweElZWHhHTGE?oc=5",
+            "source": "The Peninsula Qatar",
+            "sources": [
+              "The Peninsula Qatar"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-08T18:02:33.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "哥伦比亚将从与阿联酋的贸易协议中获益- ColombiaOne.com",
+            "originalTitle": "What Colombia Stands to Gain From Its Trade Deal With the UAE - ColombiaOne.com",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwbktrb0FUbGpsYk9iYmxqTFRxX3BUaS1UNElrNXBjMnIxbEREbGRfR2o2c0Vrakp4SFdXakdTNEdLTjBmOHZYT09FaHNaZlVzeTA1Y0lNU25DVDRPVzlmcXJnaXo2aEVwMHQw?oc=5",
+            "source": "ColombiaOne.com",
+            "sources": [
+              "ColombiaOne.com"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-08T12:31:00.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "巴罗特宣布法国参加在阿布扎比举行的三方会谈",
+            "originalTitle": "Barrot announces France's participation in trilateral talks in Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1329240391?-15565:1965",
+            "source": "Ukrinform",
+            "sources": [
+              "Ukrinform"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-08T15:53:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "俄罗斯外交部长授予阿联酋大使友谊勋章-阿联酋外交部",
+            "originalTitle": "Russian Foreign Minister Awards UAE Ambassador the Order of Friendship - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3YtRnU0dHJ0SUY3MnpOdHRYT245QndDTVZxa3dXMjMyS2djdV9Uc3V6S1kwOTVGdWctTW1HZE9NXzhuaHhWbEVESG4yX21rYWhhNHo0Mmw3Y0g2Q0gxZ1ViSXUxSmY3cjJ2SHZzU3RYeGdNWUdQeTV3SEtQU0NBM1dYWDhnYUhh?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-11-08T01:29:48.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "埃及外长与沙特、阿联酋、科威特外长讨论“降级” --中东之眼",
+            "originalTitle": "Egypt's foreign minister discusses 'de-escalation' with Saudi, UAE, Kuwaiti counterparts - Middle East Eye",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUmRuY1dadEJ1MGp2c0hrcHE4blNzS21tYi1yMHpoMFdhQjlQUlRjZXl6ODdXaC1WOFJuYXZKUmNYaHV3X01LaGlGcUJSeS12WVRDNWgzS0Z1WGJ5VGEtUlRnOHFxWmIyY29kdGpQai1vZHJrendtb2o0T0YtUXZLUmtjbHRpMFhBNXJqSnc2RUoxai1PcVBmNjA3ZV9OUGlWakRZQ1JQSGtURTVvaW9OQzliRV84UEFsTk00cHdZbw?oc=5",
+            "source": "Middle East Eye",
+            "sources": [
+              "Middle East Eye"
+            ],
+            "heatScore": 44,
+            "publishedAt": "2026-11-07T06:18:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿卜杜拉·本·扎耶德祝贺委内瑞拉调频电台，讨论双边合作--阿联酋外交部",
+            "originalTitle": "Abdullah bin Zayed congratulates Venezuelan FM, discusses bilateral cooperation - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9URFZNcGxTOEd5bHJtU3FzOWp4ZjRQM3l5TDJWRndnX1BfVEE1Z0Vsb0JMOXB1U0tVaXBPd1AzYnFqS3kwcFhhRHRrbm41R2J3emx6S1VjMjV1SUJGVFV0aGk4RDR5cTRPbFNIZXV2eXk4QQ?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-07T19:56:08.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿卜杜拉·本·扎耶德接见坦桑尼亚外交部长，讨论双边关系-阿联酋闪电",
+            "originalTitle": "Abdullah bin Zayed receives Tanzanian Foreign Minister, discusses bilateral ties - برق الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjFFc1ltS2Q5bWJZaG1OWmVJQVhKck5ZazVzWGluNFdCSk1KVTVPaDF0QzQxdFZ2WXZlOXdLOXRySl8yX3Nwc1o3R0lrNGFJb1lQWmRHZ1l5MlFua0h4aE9GbThtb0V4U2NWT3A1aVFwRndWTnJYRzA1bFprNWNwWFFwN0N6VkE3VFJGNXBUWHB1dzRVNVVodlY5YzRUbkZDT2pOQWNBcFhOaEE2ZmRJMVVlV1FscFA3?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-07T18:00:47.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋非石油对外贸易在9个月内接近3万亿迪拉姆，尽管面临挑战，但仍创纪录",
+            "originalTitle": "UAE non-oil foreign trade nears Dh3 trillion in 9 months, hits record despite challenges",
+            "url": "https://www.khaleejtimes.com/uae/uae-foreign-trade-nears-dh3-trillion-in-9-months-of-2026-in-a-first-despite-challenges",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-08T12:00:13.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋在阿曼海货船起火后救出22名船员",
+            "originalTitle": "UAE rescues 22 crew members after cargo ship catches fire in Oman Sea",
+            "url": "https://www.khaleejtimes.com/uae/uae-rescues-22-crew-members-after-cargo-ship-catches-fire-in-oman-sea",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-08T03:01:39.000Z"
+          }
+        ],
+        "technology": [],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "美国/以色列-伊朗战争：阿联酋居民今晚应该知道的事情， 11月8日-海湾新闻",
+            "originalTitle": "US/Israel-Iran war: What UAE residents should know this evening, November 8 - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUVZMGU2QjlHNmNIT2R1WDlxWjgxYXlGNGI5VWNJYzlvUzRLYWo5OGs1NHpaczB0THpacmxMM3h5NjRva19tWnBGZmxEZGc1MGZIZEJLdFA1eHV4OHpnS1lnVnVEV0YzRF9sQ3lOOWN5MktmOHo5eEtfeXRnQURfSFRwNGotMUdGZ05vWGdwMDd5NmhEU3NSeHJRZERvcHNHamdwTmU2bFI0NXJNcXlWRV9SQWJrSDTSAcoBQVVfeXFMT1ZJNlVPOWNTQmJGTFBsc1B0M1NzZzQ4eXBub2dhNV8yYWY4a0JfRU9hZWhEMm50RTJRTWlrSlFrRF85QlpuSllMMUZhWTYxVTBILWJCemlwbVE4dkZITkw1aXZHRXBkY2FlQVdPOHhTOXVvZzZwZU4wMV9nRHhFc1dzWnVXajdoUlVBNE5nODl1X2hUcHlKNGdYbG5TS1dfTUREOHlLQzdpOVg0S3JORzdRQ2pFaUNQdEtqb3dNTVdrY2JpZnQ3SFdNdw?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-08T14:55:13.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "伊朗战争最新消息：阿联酋从阿曼湾燃烧的货船上救出22名船员",
+            "originalTitle": "Iran war latest: UAE rescues 22 crew members from burning cargo ship in Gulf of Oman - The National",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFpIT1RkWTNZSXVhbzNJWHpVSGVFa3hDal9pbVpJZUlnY0p4VS1lWHdycmlXNzlKU3JNNEIxNWRfd1ZQY2tWNUN0SUg1UlRWNFdaUFE3SnJuLXFHMklwWjAtQ1pxQk1rYkhfQjRaNnNodWNlSHhkQzE4RXJiRnJ1T0l6UmhMNEJoU1pCOG5uV0dQN2s?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-08T07:51:52.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Riyan Malhan带领阿联酋的羽毛球明星实现奥运梦想",
+            "originalTitle": "Riyan Malhan leads UAE's badminton stars towards Olympic dreams",
+            "url": "https://www.khaleejtimes.com/sports/riyan-malhan-leads-uaes-badminton-stars-towards-olympic-dreams",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-08T06:53:42.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "在迪拜庆祝排灯节？去哪里和禁止什么-海湾新闻",
+            "originalTitle": "Celebrating Diwali in Dubai? Where to go and what's banned - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVERjbzdQUmlIeU9PY3ZRbnVZY0t5Vm9sajB2Y3ZkV2lMMG8xaW9DcWhNV1g2SjRGUUlmaS1yNUhWVWVkWDJiQkZacS1NRkxicG9hbnc0QUF6WmV1THpLZWl4UEFyOGNzdWxtNW1iYUQ5YlQ4Qmo2Q2JZZ1g1ajl2QUtXeklwRU5MeWxJRU9UbVRzVXBoUzRveGxIcllQNUNQdzlrclNJQlhlOGhCem9rRzNOUFZjUE0?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-08T07:16:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿布扎比民防局在美国EMS World Clinical Challenge 2026中获得第一名-阿布扎比媒体办公室",
+            "originalTitle": "Abu Dhabi Civil Defence Authority wins 1st place at EMS World Clinical Challenge 2026 in US - مكتب أبوظبي الإعلامي",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZl9LcVBQX0xKV0Zyb0RxeU9lQkx5eEhTRGYtMExnbzZTU3ZnRnU4RmlGd1hfS2dmcGU0ajFoOXhtdXZRMWQzSzl4Z1prVkRxMlE5SW04anRYSG1NWEtYTUFaUDBRMjdaODk5RzNSdHRSZzZUUjRMdUlPenBKajdtMDdpbTlYeU9ZSHR3Y0dmR1pOOXYzZFc2NnJjVElVdTYxb2l5VGJESWNLYkxGb2paN2dIWW5CRHFLYlg0dzhOcjdsVU15TkM4OHQ4Z0pXVnFaU2hB?oc=5",
+            "source": "مكتب أبوظبي الإعلامي",
+            "sources": [
+              "مكتب أبوظبي الإعلامي"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-08T15:59:19.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "无人机袭击阿联酋核电站后油价触及两周高位- EnergyNow.com",
+            "originalTitle": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 48,
+            "publishedAt": "2026-11-07T13:54:23.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "俄罗斯派高级外交官和军事官员参加即将在阿布扎比举行的和平谈判--《基辅独立报》",
+            "originalTitle": "Russia to send senior diplomats, military officials to upcoming peace talks in Abu Dhabi - The Kyiv Independent",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYklzM1ZybXBtdG0wMy1kT2ppSjF4RDFVS1lTVWtmdE5GOFVFb0pJRkp6aHd5cnZWVHJqWk5kV0VJZmREblozVTM0YzRwb1FWd0Q1RXVTcVpWODlSVkhZdDBYLXRSNzJhanowdmcxZ1RQUnNLcHU2dl95OUZnOUV4RkZ0Uy15emFlTkN1V1V1U0dMdFpNMllOWU5mcDBQUnQ0MGg3LW80TXdFcHhQYWo3NTZ0NW1JQlk?oc=5",
+            "source": "The Kyiv Independent",
+            "sources": [
+              "The Kyiv Independent"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-11-07T21:58:58.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋确认完成世界军事医学大会-迪拜之眼103.8的准备工作",
+            "originalTitle": "UAE confirms preparations complete for World Congress of Military Medicine - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTNpMGl4dk5CWGVMOV9aX05NUkNVLTlMem1VbHVONjhkQkRwTWVIeWMxYnVTMDI5Q0tjRmFsSy0yaWRHSkd6bW5za29zS1J3bVQtTGFjYVlXT1V1M1BmMldDQlFDWmxFMGhPSm93bEhPWm9EWGp4bW00MUtTTFM2ZzJOdzE0akttYTBsd0RFTFhjek1rUmZ6NjdremxCeloxQVJmLUxLOUhKamZqUVlOMGdGVnA?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 44,
+            "publishedAt": "2026-11-07T23:06:57.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "普京派梅丁斯基、里亚布科夫和军事情报局长前往阿布扎比--乌克兰新声音",
+            "originalTitle": "Putin sends Medinsky, Ryabkov and military intelligence chief to Abu Dhabi - The New Voice of Ukraine",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDd3SnA2UG9XclVDVWhJMV9COHFJTFNKcm5TQkRHb3RNSFduOGhoVVk1M0xzMGFqM1BjS0FFZFE2RFN2Yk04YW1lTl9LVHY2b0Z5MVQ1dW5nblByXzdtQnhoOTBLdzB1djQzSnFWYW5SdGM0dUluQ1ZNVDNheGRJUy0ybDB4d2xKRHVkTnR1ZDZnemJycFl0VHlJVXVraUdPa2NfZlhtanhrNTVMQXpaUE1YektXTDTSAawBQVVfeXFMUHRVM1FRa3JCYU4zSG81YjVZWC10UW5nQzNpUjI3OWVYd0k5c2lrM3FZX1RMTEFITWtqazZKSTdPVV9Md0hfR2lqSkRDWGZLWDR2alVHbnNDWE5FTi1CVmpDeHRhZjl5eWYtUzY2MFNFTk5nN1BXdG5YaElwSWJBeHVHdUdfaFR3SndVSWRNazVpbkpDSkpMMUNmUGowYVFhbmhreHNQNnMtb1liVg?oc=5",
+            "source": "The New Voice of Ukraine",
+            "sources": [
+              "The New Voice of Ukraine"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-07T18:51:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "排灯节快乐！谢赫·穆罕默德在迪拜为无人机表演、音乐和庆祝活动做准备时分享特别信息- Travels Dubai",
+            "originalTitle": "Happy Diwali! Sheikh Mohammed shares special message as Dubai gears up for drone shows, music and festivities - Travels Dubai",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0oyNHJ2NWFqbWFGTV90UjV2NXRrQjE1YVplMjdoNDdsMjl6V2VZbUM5Q2piSy00SjJLZmV4Q0dNdVI4LV8wcC1jaWxOcFJYanNISUlkekdNSm1QUEktdDhhMXR0ZWhjelNZaG5yTU1YamRxV29KbjExa0tDUW1xNTJxdmgtWUNEdHl5OFJsak9DRDhTcThVQnJpbk5sOHp0VkhJY2U2Z3BVVTJmSUhIRURDY2N5cU5vQko0RWZYb283cUVMNVRxaGFGMkQwQ3M?oc=5",
+            "source": "Travels Dubai",
+            "sources": [
+              "Travels Dubai"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-07T11:43:00.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "观看病毒视频：哈利法塔用印地语和英语特别的排灯节问候和节日祝愿照亮迪拜天际线，让印度人在世界各地感到高兴-《星期日卫报》",
+            "originalTitle": "WATCH VIRAL VIDEO: Burj Khalifa Illuminates Dubai Skyline With Special Diwali Greetings & Festive Wishes in Hindi and English, Leaving Indians Across the World Delighted - The Sunday Guardian",
+            "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZXEwRG5zczFhQ3FJTlByU1VBYjJQWWgzMl9yMUxNQ3lTRkRxRXcwMi10ek1ERzdELTlyRC1DZjNnbG0zM2FjZEphZTE5SVh6R2RzajA2b0wxZmFJYk9jZGFyZnlyM3k5SV80OFkxSVJzalEzWGNUYjNCQmlwOFNiSTVrNlJZQTlVcl96T2pDelNGSnRaNGNQT0RjUHpOU2lpc3EwM3M4Y01CU2lhanJhRWdJWWF3X1JaeVp1YnVzdDF5eURIbU5RX1N3S3YyYnJ4MGhqaXNBeXBadHZGVUktYmJoQlpubmtYRnFKQ1RqbS1GSDVuU1lpTlpvVXlvWWFPamM0VTVFWlgxOXQ1QU9CSFBfNkZEcl83blBvWGZLb1JnVml1d2xjNU9rQ0ZPYzVvbDlqYdIBugJBVV95cUxOY2Z0b19WUkR2NFBSQUdVckFJbEVIbTN6MWJuaEkxVk90QmdrZzNrTGFsajNzc0k4U0NsWjhjLUR4VEphYmtxTE5UZl9za3czM2VIRkpjS1VLOUZrcDI4Zlc4NmFiNEpfa2ZNQ29wSUVQaGc3b0NoQnFlOG1mRXVteWJDVUVZSWZhQ0RpajB3ZmItUmdaWGR0RmdoclJRcVdWTlRBUTJSX2RmMXFhdFlSSjRfVFdsSl9HcVJjb3VzbF9XWUdSM0ROTjZGU3RoeDQwS1pyVlhhMzJFMjlKVjdLU1Zic1dmVGtOREtPSUo3amwyNE1hMmhPbGNIOVk5VjBjbXVfRjJmUk1mbVBtZGtMTTEtSDBMM2k1cktoTjRvODB0Si1MdE8xMW1nNUZTcW11cl94ZDV2Ump3UQ?oc=5",
+            "source": "The Sunday Guardian",
+            "sources": [
+              "The Sunday Guardian"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-08T17:19:51.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "迪拜风格的扭曲给热巧克力带来颓废的升级-品尝台",
+            "originalTitle": "A Dubai-Style Twist Gives Hot Chocolate A Decadent Upgrade - Tasting Table",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXg0Q3Roa2dFTVAyRG1sZTJQeFRocE1OYUxFRVNvUGFLUHlXVGROM0F6NURZOENHZGM0YkpocVdBYTZvQ0dfQmplYXFmRXY0M2lUbUdkQU1VQm5vUHgxdXVXcmpOVDRfZFhMbTVEdEp5S2RNc1N3WFlKdk9FSEFjUU9HZw?oc=5",
+            "source": "Tasting Table",
+            "sources": [
+              "Tasting Table"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-08T15:30:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "观看：搁浅的鹈鹕在繁忙的迪拜公路上伸出援手-海湾新闻",
+            "originalTitle": "Watch: Stranded pelican gets a helping hand on busy Dubai road - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWm94VVY4Q1QwYVh6amc0SEQ1SHl1bHRjYkN3cGVuMWh2U0RPTF8tS2ZqamJIbXNMNVhmRVN4Y2E3dFprMFpyakpiWENhbWVZNy1kWHhyQjNWRzJSenZ5VVlNSlBTcGFDMzI2dFQzUVpFS2lTMEJSWGNTZUlER05oZE9nckUyU2FwbFNiWkFMbzNOd29zVzNPV2x4akhoM0E0dVE?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-07T17:38:34.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋女商人向所有女员工赠送iPhone Duos ；家政人员泪流满面-海湾新闻",
+            "originalTitle": "UAE businesswoman gifts iPhone Duos to all female employees; housekeeping staffer breaks down in tears - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenFWMno2bUI0TlV4eDdoakFBMXFYT09La1pfSktBYzVHOG1pSWZoUlJkbXd4dVNRLVJtVFNaUEozZ2ZacVctRnVtTHZNTlpObkh0RnNTUzVMd0JoOGVwQXF0T2tWRmQtcDdnbmFVQlh1WTlxRDJJMzNSSnB5aV9kRnk1LV95UDIybm1HT3dhUlUtRzc0VXlvdFNiVW1faEFxYXdIYndKWnpLSldaTjRmdE9ROEFHMXdtRUlGcTZoOHFZSlHSAdMBQVVfeXFMUHdMdjJ5emM2U2UzZFFXSUJQR0FHckQ0a0N0bEJvYXJtLW5zNlBnSFNjNGlwUlNUWG0wbFk5ZWtBOHlETlZFQ2VDYm5OVzU5cndKc094UTNsdndFY1g5LWxlZGtwbE5tTk9ZT0ZPZER5YjlZSXhTTUc3cFBKdXdJUjJyU0lsQWlpamlOcEEtZmt5VDlGWmJBeXh4bjV5d0lMMWVnUEZqa3g1STkwc1QyLV9sMGR4RXRKTng2M3FXT1RGbEdXNzZHSTNENkVBYmhUWExUMA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-07T08:38:46.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Jon Rahm在首次亮相时赢得阿布扎比锦标赛- ARN新闻中心",
+            "originalTitle": "Jon Rahm wins Abu Dhabi Championship on debut - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFlUZFJsaEZjLUx5X3dvRkwxM1A0SlVGeFBHV0x4RERTN1VFcDMtUWd5LWZTd3FsRUVmT1EyWUtIVnpEMmtDck12anJ5RzRVWkJjUUxBODdoV3B6emNJOFUwYnlmejl1dVJhX0EyX24tNFZlREkyZVRLbWJUeVNBd3Zuelk0UzJfWGpFajlvdk0?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-08T12:56:40.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "周末摘要：新的阿联酋交通规则、2500万迪拉姆大奖、家中的A380套房等-海湾新闻",
+            "originalTitle": "Weekend digest: New UAE traffic rules, Dh25 million Big Ticket win, an A380 suite at home and more - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZFhqU2JrazBKbE9fZkRkVU9DZ2dQWFRublo5ZXVZVkpjSXlYVGxDZzNHNUFRTEdURG9wQUIwWkJ6QUtZU1Q1WW5oU0NlYVQwMVdjT2JwWTEtUF9rNDktUFpZSTNkcEpTWlcwVVN3bTl3M05LNmVJWjhrcDVkR1NjMnFCX3dkc0hiUDZkMHVSbG0xOHlveDFPdjgwdnpPX0RETXFuamhVYzc1blJabWFtWVM1R2NET2oxa0EtaW1HLWx3LWZ6MzVod05McEvSAdwBQVVfeXFMTUJJWjFCU2lLeks4enB5WE5NOHVHQ0F1aUQzX2d3c2NpdXU4dHpWdVd1MzJuaWV1QnhpdVFLaFNYYWZuLVowUjJvdWJleEk5N2pfdjBpekMwbjlhaF9LSmpvSng1YXJPanZveU1ZU21mejFxbWV3LWFZU0d0eXNERnpQU2t6Ykl3aWFyYi0zOUxUdllnbTZPdlVwWUJRaWFzQnhJZWgxOGJzTW03eUM1RldXZERwZ2g4Vm5Nc2tNMzVWaGUyREsycl9SZFp3S0lvblk3WWk1bVVDMDB0Sg?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-07T09:02:20.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "哈利法塔（ Burj Khalifa ）用印地语、英语的排灯节信息点亮迪拜天际线|热门-印度斯坦时报",
+            "originalTitle": "Burj Khalifa lights up Dubai skyline with Diwali message in Hindi, English | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0lJV2hLX0M3MnhKV0NyZHMwNVJvNU1HVUlwRHRJQnozZlcwSW9EZzllbzNnenU0Zi1GNkIySEdrbjN3ckNhTkFuTWt1QkFJaHJJZTJLVUdUQlpRTlN0UERnbjNveHNnNzFmNF9CNTliYW5NMWNKR0lHdmJYdEhMd3NiWTcwWVJwal94MGJObXRCNDc3b29rZzlqVXNSczVic0hGV2l6b1gxWlV4VVRXc0hFakpMUzViYklXMHZtVXF6eXZMVFk3cGpEWl9Nb1nSAdQBQVVfeXFMTW9VN2FLRjRPR1FHVnFfekpaMVFac3VPV0Jwc0F3Vm16akE1azlZN3ZHcHYyR1lqZDFDTkRDRnJPa3V0V0poSFZVZndTWjR6eUZnay1rRjE1YVREd3VpQ1ZWd2FiU0ljT3p6UjFCeEFkTTAtc0pPOXNocUd1cFUwMG1odk5sQl9KZ0RPSjRYV3lfUk5DektkSkttRWhOODJmTGxKd0pXWlVBd1Y4ZFdCN1ZOYmlTbTkzMVRJV1NDTWFKWTBLOHRxazQ1SDRhYk1xRWdjYlA?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-08T12:10:08.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "TikTok在部分市场推出独立的TikTok Shop应用程序-阿联酋Lightning",
+            "originalTitle": "TikTok launches standalone TikTok Shop app in select markets - برق الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb25ZTmlpcE92RXBDWnY5QUdjeERLWXQ1amF4a1ExWHlfOVVWelZxaFVWY0dqY1VRZmwzMHRablNQdC05WnkyUzFwVk5BdmlxQkRjRHc0NmExY1RrX09xdHBhb3VWSUFuRjk1VzFmbF84d0tVX0p6VW1wNkI1dlJhMkhQTTVpUTN1cGkzRkUzRUVMd0gyVy1MaUVHaDl6MVk?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-08T10:20:11.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜至阿布扎比1小时：探索新阿提哈德铁路- NDTV",
+            "originalTitle": "Dubai To Abu Dhabi In 1 Hour: A Look Inside The New Etihad Rail - NDTV",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnVFNFF0dzZaQTZMYUxJdU1QdzNWVnhzNEdaTnA2eURzZlZtY285VXJQNEFJWEEzWXpaaXdvNm5uQ1lXeGRMd2JhSU5wejVIYzl2dG5jNy1ZYy1DdmJiRTVRX09JcXR5TGNMdVY0SjBHY2NDeHhXMEZyc0M5N0RaZXBLd1J4ZEhMQ1BJYkQwOExwUUs0OWhHbW8yVXBHM2lkVVBxZVVDTV9OdmstdjNUZtIBuAFBVV95cUxPX3NwQXdiWmt1VDVzamJpZ0NvVTJQM3M0RlVNWkpTVWdXZkwwNjVCTW5RallNemMtQXdfY0xCckR3SF9VSEFnal9RS3Q4bXFkRjlkeDNoWkhZUkprdUJQU1NEQktERHJGbUlya3Y5OUpZSllNN25sVTBhbUJja3RNZWk5d2tack1PMU9JclZaN1VjaURackRRV2sxMUtzN1JpZ0RGS1lIVDJyRkJ3b2thRl8xQkFoNC1X?oc=5",
+            "source": "NDTV",
+            "sources": [
+              "NDTV"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-08T05:40:19.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋在货船上发生火灾后营救了22名阿拉伯人-印度时报",
+            "originalTitle": "UAE rescues 22 Arab nationals after fire breaks out aboard cargo ship - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSWxIelhadFM3QjhsMXd1ZzhjMERmTVliSko2MlhvWGdXWWp3em16MGNfSXpPc1pNVGZHcmVjREJTdkd6UXRocEl6SXBXeHY4ejFXaHBqLVRvaDM3OGxtaGRDQ0dMaFBfX3VZbTdRNXlMVzYzZGNmWUlKZUE0ZVVzdnQ3d0ZVd3FuS2NJRkFSekFtSU9iSUU3ejZGcXcwMUVXSk41Z1pxdGtvUEN6czBLUTkxUTNycFlwN25EVFlKNWdHSl8tTEhfb3k4Unl2Q19uemlfc1dUb3RwUHQ3ejB3OWs1c9IB6AFBVV95cUxNNFFvbTRIbHBPSEJYa25JcjJuTjBRX3JaYTk5ckoycWhIcG9oV0xWaEZZNFZIZUxLdElCdzFCSHpOeFhDYjQwNHJFMDVtc1NDcXlfV3BWOE0zTUh0YzUxUm5acWwwd21YWTR2TEkyLTcxRzM1TUZTMW54Z25UeGxiVjZUck5hd1o5Z2F2WDJSUXZzckllY3Z0LWFQSkloY3RqamY2WWZZemVXT0pMOGRtUDlzT3lmUzlpa3pESlp6eHoyaU9vYzR5OTdZbkVPYWFfVFhUdEhKa3Q0SDdPSUc0XzFxTXFQQUI0?oc=5",
+            "source": "The Times of India",
+            "sources": [
+              "The Times of India"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-08T04:01:00.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿布扎比关闭10公里沙漠高速公路，让比亚迪电动超级跑车突破时速500公里的障碍|热门新闻-印度斯坦时报",
+            "originalTitle": "Abu Dhabi closes 10-km desert highway stretch for BYD’s electric hypercar to break 500 kmph barrier | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEM5Zl9wMkVQRmhzZi1aLWRmUVNuOWplY19zQlAzZkdDUFJuWjFCdUFYTGZfVWRJdVEwRjNwUFRFczk0dXdaaDJkaG54QmNmZFFnZldNdjNzSDlPTURZd2ZSYjJkV2VFZUM0QW1mN2ltcHlDX1ZWRjNISXEwMmkySE1LTVUwVEhUU0JMS0lyYk5xbFdtSm1ycUFJN1Z1MUwtd3ltYUtBQ0dRT29XNXRwYldUQ21FcTczOUtEWURhdkI0YzdTRDNSX245TnhSNFhKU2djdDhRUWVJVHZxNzFPSFM5X1d6b2tnUWZTd0hGOGlZUdIB9wFBVV95cUxOSmNpRXg0eENpMFp6Um8yRmktYktxa2kySnBrc0xYMldXQXpYWjZDUkRVNU1XU2ZXZG0yTkwyQk1pYWlLNlFXSkhqSWtlSDJySzFDUmVvWXE0ZGQ1Wkl4Tmh0RV9Ld2NuZ2RjYzhLOW0yRzRqYUo4R09abi1DQktkZ2hRN0VOeTdocktod0VYMEMwVDFRa3Njb2pQOGZhZnloWTVneGsxblpXaEw2bmtHTVNVZDdBZUNsZlZ3TmM3ZDhoWWZjeEdIdlVqWTd4MW5ENU1iOTBGY2pUWXlHYmpDck5nbUR0YTVfTnRCR0FlY1dSR2plNEJR?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 51,
+            "publishedAt": "2026-11-08T03:06:05.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "中国发射携带4颗卫星进入轨道的太空火箭- www.uaebarq.ae",
+            "originalTitle": "الصين تطلق صاروخاً فضائياً يحمل 4 أقمار صناعية إلى المدار - www.uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPS3g2NFJRTVBtdU5iaTZZcFc5TzNuZGVjS3pmVzJxUWQwcERNYW9PZ1Q3elczOUZ3RlluN1VxWnVNRXIwSGlxSldMRVZ2X1hYY3k0amZKYjBTTGY3UzNmeEtCUzhkakNEd0NzVVhkYWdxN1Q0Sk1NMXNMUlVNcVhwYkU4Um1wckdXdS1BMFNtZTJjc3NnY3BxX1VjVGVXbFRkSHBqMnFwUENfZlNuY1FTZmFDZ3VUUzJ5MUtuWGZSR2prcHJlRGlpNUsxWjNvdmJndTltT3dhdV9vUTlJUU1WXzBpQU11bUVkbk9ON1RqeENRNWxSZWJTNHJCaXZuVTRCN3o2WlNfd0VoYUtrT0xGVDFZcnBXaGZtMDZNWXRVcVBZcGowUXJMRXI5RlJlYTZ5eENDNXdlMlplTWVxcmNkdnBJY2ZhYmxHSDdyTkpOXzkzN1F1Q01yOQ?oc=5",
+            "source": "www.uaebarq.ae",
+            "sources": [
+              "www.uaebarq.ae"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-11-07T08:47:28.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋参加北京世界媒体峰会--Al Bayan",
+            "originalTitle": "الإمارات تشارك في قمة بكين العالمية للإعلام - البيان",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FZzJUdGVOSkZpUXFKWS03STJ1WlBtakg3NDVnWXl4YjJWNDhFSnJzdURiTXVHdUpvWXJBelVBR1QyQTdUTUlCYjlpaTJPZ082?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-11-07T14:51:00.000Z"
           }
         ]
       }
