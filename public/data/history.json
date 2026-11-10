@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T21:38:40.860Z",
+  "updatedAt": "2026-11-10T01:52:06.152Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -38055,6 +38055,755 @@
             ],
             "heatScore": 46,
             "publishedAt": "2026-11-07T14:51:00.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-10": {
+      "date": "2026-11-10",
+      "updatedAt": "2026-11-10T01:52:06.152Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿布扎比会谈必须表明俄罗斯是否“真正准备好”进行谈判：德国调频- アラブニュース",
+            "originalTitle": "Abu Dhabi talks must show if Russia ‘genuinely prepared’ to negotiate: German FM - アラブニュース",
+            "url": "https://www.arabnews.com/world/abu-dhabi-talks-must-show-if-russia-genuinely-prepared-to-negotiate-german-fm-3010785",
+            "source": "Arab News",
+            "sources": [
+              "Macau Business",
+              "アラブニュース",
+              "Arab News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-09T21:58:52.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "“不让步” ：对在阿布扎比举行的俄美乌克兰会谈有何期待-半岛电视台",
+            "originalTitle": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGpMMy0ySU5GNjNUWDlJazZZR0VvcndtSnN2X0pCYUJjNXhxTkp0NVRrUlhITnNUbmZaVE91SGgteF9yd0lVdFgtRXFtdUE5NTlqbnZhY250dHFRbmt3MDhHbjZiVEFkcXFndHVRZk9kMGN0NldtT3NVcjQ4VEY2RGZkRElzNkR0R0hDVUUycW4zUW5IbGZZQ1hJTXdQUnppRXJaNmhRV1VsWERlX3NCVdIBtgFBVV95cUxOeTV3SnkxbDBiQnRKT2Zyd1lwOFpDcE5OdWJuczR1eUsyTjdEU1l6cnFzc3FDUXVkZktUS0FKeXJiU0xFVk8xRUVaUzJWR2xSbWJOeEJFUFphbGh1SVl5SkNhZW0wcjJlVTIwc2MwTU5kdjdJcWlkWTVmRU1GUzc5VkY1UFMya0pkQ0xVbDJGN3U0TkFDQkRjM1h3MWdyZXNkUDR0SFNNcl96Y2VReUJBQkgxYVJTdw?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "France 24",
+              "Al Jazeera"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-09T21:46:26.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "泽伦斯基说，乌克兰战场的成功加强了基辅在谈判中的地位",
+            "originalTitle": "Zelensky says Ukrainian battlefield successes strengthen Kyiv’s position in talks",
+            "url": "https://www.arabnews.com/world/zelensky-says-ukrainian-battlefield-successes-strengthen-kyivs-position-in-talks-3010824",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-09T23:48:49.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋贷款转账：转换银行能为您节省资金吗？",
+            "originalTitle": "UAE loan transfers: Can switching banks save you money?",
+            "url": "https://c.newsnow.co.uk/A/1329359135?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-10T00:44:20.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "特朗普特使旨在说服俄罗斯将欧洲纳入结束与乌克兰战争的谈判",
+            "originalTitle": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
+            "url": "https://www.arabnews.com/world/trump-envoys-aim-to-persuade-russia-to-include-europe-in-negotiations-on-ending-war-with-ukraine-3010817",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-09T21:56:17.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "特朗普最新的加沙和平努力正在考验以色列在后内塔尼亚胡时代的替代方案",
+            "originalTitle": "How Trump’s latest Gaza peace push is testing Israel’s post-Netanyahu alternative",
+            "url": "https://www.arabnews.com/middle-east/how-trumps-latest-gaza-peace-push-is-testing-israels-post-netanyahu-alternative-3010697",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-09T21:45:08.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "每天70万次网络攻击：阿联酋如何在地区紧张局势中保持航班和物资流动",
+            "originalTitle": "700,000 cyberattacks a day: How UAE kept flights, supplies moving amid regional tensions",
+            "url": "https://www.khaleejtimes.com/uae/700000-cyberattacks-a-day-flights-supplies-keep-moving-regional-tensions",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-09T17:42:33.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋城市Khor Fakkan在检测到石油泄漏后关闭海滩-路透社",
+            "originalTitle": "UAE city of Khor Fakkan shuts beach after detecting oil spill - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUhkQjhSb001ck9XMTZnQWN6amV0UGxsUE1tZVRsMG5jQ1g4UFUwWnJ4Y0JYRnhkUEd4ZExPUWxBeXZabFg5N0sxMm1ibm9lNDFjN3puNHVkb3hkczA0TVE3dVZ4SjEwd0cwNTJ0c0RCTVRlN3BvSzI2R0FzTVgtUXI2ZTRwZGlxRnJHaEtheWdMMkJLZkd1UWt2V0lNdzJQYzNTR080cnNOQTdYOVRtY05B?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-09T13:41:43.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "武装部队获表彰：阿联酋在地区紧张局势中拦截了3,617起空中威胁",
+            "originalTitle": "Armed Forces honoured: UAE reveals 3,617 aerial threats intercepted amid regional tensions",
+            "url": "https://www.khaleejtimes.com/uae/uae-honour-armed-forces-3617-aerial-threats-intercepted",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-09T17:16:24.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "对法国超市冰柜的网络攻击具有地缘政治背景",
+            "originalTitle": "Cyber-attack on French supermarket freezers has geopolitical context",
+            "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-09T19:40:45.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "“不让步” ：对在阿布扎比举行的俄美乌克兰会谈有何期待-半岛电视台",
+            "originalTitle": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGpMMy0ySU5GNjNUWDlJazZZR0VvcndtSnN2X0pCYUJjNXhxTkp0NVRrUlhITnNUbmZaVE91SGgteF9yd0lVdFgtRXFtdUE5NTlqbnZhY250dHFRbmt3MDhHbjZiVEFkcXFndHVRZk9kMGN0NldtT3NVcjQ4VEY2RGZkRElzNkR0R0hDVUUycW4zUW5IbGZZQ1hJTXdQUnppRXJaNmhRV1VsWERlX3NCVdIBtgFBVV95cUxOeTV3SnkxbDBiQnRKT2Zyd1lwOFpDcE5OdWJuczR1eUsyTjdEU1l6cnFzc3FDUXVkZktUS0FKeXJiU0xFVk8xRUVaUzJWR2xSbWJOeEJFUFphbGh1SVl5SkNhZW0wcjJlVTIwc2MwTU5kdjdJcWlkWTVmRU1GUzc5VkY1UFMya0pkQ0xVbDJGN3U0TkFDQkRjM1h3MWdyZXNkUDR0SFNNcl96Y2VReUJBQkgxYVJTdw?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "France 24",
+              "Al Jazeera"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-09T21:46:26.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "根据新的交通法，阿联酋将推迟对每位居民的许可车辆数量的限制",
+            "originalTitle": "UAE to postpone limit on number of licensed vehicles per resident under new traffic law",
+            "url": "https://www.khaleejtimes.com/uae/transport/uae-to-postpone-limit-on-number-of-licensed-vehicles-per-resident-under-new-traffic-law",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-09T15:51:18.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿布扎比宣布从11月16日起在穆萨法设立新的付费停车区",
+            "originalTitle": "Abu Dhabi announces new paid parking zones in Musaffah from November 16",
+            "url": "https://www.khaleejtimes.com/uae/transport/abu-dhabi-paid-parking-zone-m10-m17-musaffah-nov-16-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-09T15:57:47.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "随着政府推动更快的增长，阿联酋正在进行4万亿迪拉姆的项目",
+            "originalTitle": "Dh4 trillion in UAE projects underway as government pushes for faster growth",
+            "url": "https://www.khaleejtimes.com/uae/government-annual-meetings-2026-dh4-trillion-projects-underway",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-09T15:16:22.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Arwa的青年奥运会奖牌将阿联酋女子运动置于聚光灯下",
+            "originalTitle": "Arwa's Youth Olympics medal puts Emirati women's sport in the spotlight",
+            "url": "https://www.khaleejtimes.com/sports/arwas-youth-olympics-medal-puts-emirati-womens-sport-in-the-spotlight",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-09T14:28:10.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "巴基斯坦、印度、埃及外籍人士通过Big Ticket赢得总计25万迪拉姆的Big Spin大奖",
+            "originalTitle": "Pakistani, Indian, Egyptian expats win Dh250,000 total in Big Spin prizes by Big Ticket",
+            "url": "https://www.khaleejtimes.com/uae/pakistani-indian-egyptian-expats-win-dh250000-spin-big-ticket",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-09T14:55:27.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "近1万面阿联酋国旗在朱美拉海滩为迪拜统治者拍摄巨幅肖像",
+            "originalTitle": "Nearly 10,000 UAE flags form giant portrait of Dubai Ruler at Jumeirah Beach",
+            "url": "https://www.khaleejtimes.com/uae/nearly-10000-flags-portrait-dubai-ruler-sheikh-mohammed",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-09T14:20:19.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "连接迪拜购物中心地铁站和可口可乐竞技场的新人行天桥",
+            "originalTitle": "New pedestrian bridge to connect Dubai Mall Metro Station to Coca-Cola Arena",
+            "url": "https://www.khaleejtimes.com/uae/transport/pedestrian-bridge-dubai-mall-metro-station-coca-cola-arena",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-09T13:54:27.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "每天多达1,500本书：沙迦书展匆忙发货",
+            "originalTitle": "Up to 1,500 books a day: Inside Sharjah book fair’s shipping rush",
+            "url": "https://www.khaleejtimes.com/uae/sharjah-book-fair-daily-shipping",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-09T13:43:50.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋明天天气：某些地区预计会下雨；气温将下降",
+            "originalTitle": "UAE weather tomorrow: Rains expected in some areas; temperatures to dip",
+            "url": "https://www.khaleejtimes.com/uae/weather/november-10-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-09T13:32:41.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿布扎比会谈必须表明俄罗斯是否“真正准备好”进行谈判：德国调频- アラブニュース",
+            "originalTitle": "Abu Dhabi talks must show if Russia ‘genuinely prepared’ to negotiate: German FM - アラブニュース",
+            "url": "https://www.arabnews.com/world/abu-dhabi-talks-must-show-if-russia-genuinely-prepared-to-negotiate-german-fm-3010785",
+            "source": "Arab News",
+            "sources": [
+              "Macau Business",
+              "アラブニュース",
+              "Arab News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-09T21:58:52.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "泽伦斯基说，乌克兰战场的成功加强了基辅在谈判中的地位",
+            "originalTitle": "Zelensky says Ukrainian battlefield successes strengthen Kyiv’s position in talks",
+            "url": "https://www.arabnews.com/world/zelensky-says-ukrainian-battlefield-successes-strengthen-kyivs-position-in-talks-3010824",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-09T23:48:49.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "特朗普最新的加沙和平努力正在考验以色列在后内塔尼亚胡时代的替代方案",
+            "originalTitle": "How Trump’s latest Gaza peace push is testing Israel’s post-Netanyahu alternative",
+            "url": "https://www.arabnews.com/middle-east/how-trumps-latest-gaza-peace-push-is-testing-israels-post-netanyahu-alternative-3010697",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-09T21:45:08.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "柔术传奇人物Renzo Gracie收购UJITSU股权，加入成为全球形象大使",
+            "originalTitle": "Jiu-jitsu legend Renzo Gracie takes equity stake in UJITSU, joins as global ambassador",
+            "url": "https://www.khaleejtimes.com/lifestyle/jiu-jitsu-legend-renzo-gracie-takes-equity-stake-in-ujitsu-joins-as-global-ambassador",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-09T11:46:17.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "泽伦斯基在阿布扎比会谈俄罗斯-乌克兰战争与和平努力之前致电莫迪",
+            "originalTitle": "Zelensky calls Modi before Abu Dhabi talks on Russia-Ukraine war and peace efforts",
+            "url": "https://c.newsnow.co.uk/A/1329356932?-15565:1965",
+            "source": "The Telegraph, Calcutta",
+            "sources": [
+              "The Telegraph, Calcutta"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-09T23:58:05.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "在阿布扎比的会谈中，甚至不会讨论乌克兰的停火–纽约时报",
+            "originalTitle": "A ceasefire in Ukraine will not even be discussed at the talks in Abu Dhabi – NYT",
+            "url": "https://c.newsnow.co.uk/A/1329353860?-15565:1965",
+            "source": "UNN.ua",
+            "sources": [
+              "UNN.ua"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-09T22:56:03.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "泽伦斯基确认在阿布扎比与俄罗斯会谈之前与欧盟进行协调",
+            "originalTitle": "Zelensky confirms coordination with the European Union ahead of Abu Dhabi talks with Russia",
+            "url": "https://c.newsnow.co.uk/A/1329349310?-15565:1965",
+            "source": "Voice Of Emirates",
+            "sources": [
+              "Voice Of Emirates"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-09T21:41:26.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "俄罗斯、乌克兰和美国将于11月10日在阿布扎比举行和平谈判，这是他们自……以来的首次三方会议",
+            "originalTitle": "Russia, Ukraine, and the U.S. to hold peace talks in Abu Dhabi on November 10 — their first trilateral meeting since…",
+            "url": "https://c.newsnow.co.uk/A/1329347312?-15565:1965",
+            "source": "Meduza",
+            "sources": [
+              "Meduza"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-09T21:13:10.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "来自AED1的阿联酋黄金投资： Etisalat资金和OGold宣布新的数字服务- Arabian Business",
+            "originalTitle": "UAE gold investment from AED1: Etisalat money and OGold announce new digital service - Arabian Business",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HOENCLTdmOE50c1I1T0gwVFJPT0pwaHpIX2dLR0pjLXcyOHBuZ3A5X1pHVmI2RWl6SGgxUjZCWWFkOVJNRTJBUktYQW93cXJ4OGhEYWpBV2JlQU9QU29HLWlpYkNrZjZqU1dYMWZpOUV4RG1HWGh5Ng?oc=5",
+            "source": "Arabian Business",
+            "sources": [
+              "Arabian Business"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-09T20:15:16.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋参加在阿塞拜疆举行的亚洲相互协作与信任措施会议（ CICA ）第七届峰会-阿联酋外交部",
+            "originalTitle": "The United Arab Emirates Participated in the 7th Summit of the Conference on Interaction and Confidence-Building Measures in Asia (CICA), held in Azerbaijan - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1drOWVTVlRpQTRYcWdoc0hXNDhIdXhGeThlckE2cDNveU9tQXZnRnVuZzhpbjkzSjF3Z29ZcDl1dXI3YjFVME81b25VRjh5UXZsOGVyeDl6RkswQ1JtRXJSMDQ4M18wOVRVQm80V3g5bTROVmdHcGU1eUY2bHoxb3Nndw?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-09T02:03:45.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋贷款转账：转换银行能为您节省资金吗？",
+            "originalTitle": "UAE loan transfers: Can switching banks save you money?",
+            "url": "https://c.newsnow.co.uk/A/1329359135?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-10T00:44:20.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋城市Khor Fakkan在检测到石油泄漏后关闭海滩-路透社",
+            "originalTitle": "UAE city of Khor Fakkan shuts beach after detecting oil spill - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUhkQjhSb001ck9XMTZnQWN6amV0UGxsUE1tZVRsMG5jQ1g4UFUwWnJ4Y0JYRnhkUEd4ZExPUWxBeXZabFg5N0sxMm1ibm9lNDFjN3puNHVkb3hkczA0TVE3dVZ4SjEwd0cwNTJ0c0RCTVRlN3BvSzI2R0FzTVgtUXI2ZTRwZGlxRnJHaEtheWdMMkJLZkd1UWt2V0lNdzJQYzNTR080cnNOQTdYOVRtY05B?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-09T13:41:43.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Khor Fakkan在检测到浮油后暂时关闭Al Lulu 'iya海滩",
+            "originalTitle": "Khor Fakkan temporarily closes Al Lulu’iya Beach after oil slicks detected",
+            "url": "https://www.khaleejtimes.com/uae/environment/khor-fakkan-temporarily-closes-al-luluiya-beach-after-oil-slicks-detected",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-09T13:22:09.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "迪拜机场首席执行官表示，护照可能在五年内变得多余",
+            "originalTitle": "Passports could be redundant in five years, says Dubai Airports CEO",
+            "url": "https://www.khaleejtimes.com/business/passports-could-be-redundant-in-five-years-says-dubai-airports-ceo",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-09T11:57:37.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "[独家] KNOC和GS Energy将投资2.72亿美元扩建阿联酋油田设施",
+            "originalTitle": "[Exclusive] KNOC and GS Energy to invest $272 million to expand UAE oil field facilities",
+            "url": "https://c.newsnow.co.uk/A/1329361161?-15565:1965",
+            "source": "Asia Today",
+            "sources": [
+              "Asia Today"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-10T01:36:04.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "商界领袖关注阿联酋对中小企业和其他企业的投资",
+            "originalTitle": "Business leaders eye UAE investment in SMEs, others",
+            "url": "https://c.newsnow.co.uk/A/1329359490?-15565:1965",
+            "source": "The Punch",
+            "sources": [
+              "The Punch"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-10T00:54:17.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "学生教书， AI小子考试",
+            "originalTitle": "The student teaches. The AI kid takes the exam",
+            "url": "https://www.khaleejtimes.com/uae/education/the-student-teaches-the-ai-kid-takes-the-exam",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-09T12:05:38.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "特朗普特使旨在说服俄罗斯将欧洲纳入结束与乌克兰战争的谈判",
+            "originalTitle": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
+            "url": "https://www.arabnews.com/world/trump-envoys-aim-to-persuade-russia-to-include-europe-in-negotiations-on-ending-war-with-ukraine-3010817",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-09T21:56:17.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "每天70万次网络攻击：阿联酋如何在地区紧张局势中保持航班和物资流动",
+            "originalTitle": "700,000 cyberattacks a day: How UAE kept flights, supplies moving amid regional tensions",
+            "url": "https://www.khaleejtimes.com/uae/700000-cyberattacks-a-day-flights-supplies-keep-moving-regional-tensions",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-09T17:42:33.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "武装部队获表彰：阿联酋在地区紧张局势中拦截了3,617起空中威胁",
+            "originalTitle": "Armed Forces honoured: UAE reveals 3,617 aerial threats intercepted amid regional tensions",
+            "url": "https://www.khaleejtimes.com/uae/uae-honour-armed-forces-3617-aerial-threats-intercepted",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-09T17:16:24.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "对法国超市冰柜的网络攻击具有地缘政治背景",
+            "originalTitle": "Cyber-attack on French supermarket freezers has geopolitical context",
+            "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-09T19:40:45.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋的Gargash警告区域长期不确定性，称美伊解决方案似乎很困难-路透社",
+            "originalTitle": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlI2UXNzNl84Z1ByMV9Ybm5YNjMtZkdPcDhsZ2plZk9udWViZDZ4eTRVQVNXN2x6U2hENlkxbXJ2SXVvVU0tVWFkZGlSLXBDcnBZM1pzLVBNMzA5bjdZOHlFSXd6ZzhsWWZvV3JWWXlTME1tMnJ5Q0RoWHk1ZmJzbzk5cjZFaDI4NXpTOGRaVDBTNGNxcnRZYjF0X2NzY3EwaEJZcVhMaHRRMXREdXBkeXh6OGRCdU9aaWRJdS1zNzBQSUJCZEE?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-09T07:01:00.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋称其拦截伊朗导弹，富查伊拉油区在无人机袭击后遭遇火灾- EnergyNow.com",
+            "originalTitle": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-09T22:38:10.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋黑翼导弹投入生产-航空周刊",
+            "originalTitle": "United Arab Emirates’ Dark Wing Missile Enters Production - Aviation Week",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRU1ZX1hqbzF4ZjZDeDl1QTVqQVFNeGZnZ25vTTYySWZFaVM5bTZWU1dxekRabnJscHBNVVFWLS1RT1FyS2R4SGxLUHk5cnVIem9CLUpIOVdLMUpSWXBwbHhfSGdlaUZmMmJnNTlEY05Tejdxbm8waUs4WTFYSWJlbDZtZ1p3VUs5d0NQWV9rR2UtaTFvVE1Hc0tBN0x5dlNnTnVwcTU3N0ZKMjFDYUs0V2tqUQ?oc=5",
+            "source": "Aviation Week",
+            "sources": [
+              "Aviation Week"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-09T20:09:55.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "国防部承认杜拜航空乘客是敌对事件的受害者-以色列时报",
+            "originalTitle": "Defense Ministry recognizes flydubai passengers as victims of hostile incident - The Times of Israel",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2FpVDFlRXg1U0FvQ2RZcWxvM2dUR3FZcE41NFFjSG16R0FiUGNyYnpUNl8tVjcwbmE0UWxZSlFWWVhIUjVkZWVLRGVSTWhxWnF2VVE1bGlfQUgyMExaU0dySzRscDFWWGlIcmlpOFBHNDBFT25tRmpiajhFejZZeWt1X01RdVBLMGo1bHhqREhvMUMzNDNZT1prcnhTODhRTGFvelNuV0YzMkVpV0HSAbMBQVVfeXFMTXFPRHotTVNYdklXMlVOdHhRTmhUVGNGanVERm11aXJZMnRUZTFyMzl4MzJRUl9PN0VRRUlRTjZ5Um00T3RUNF9OREZ1TkpqRl9YMzRFX0FUOHFEbUxZNVVvWDhTNHB6ZElaVWk0X3p3OE5XamlSTU5oTFlwdHpJbGI2X2tESUhCN2hqTjZsbEJZR2t4cGRlaGJWQUdWdHB4bHhYb3h6MWtYRDQyRE42MkpsNGM?oc=5",
+            "source": "The Times of Israel",
+            "sources": [
+              "The Times of Israel"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-09T17:17:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "无人机袭击阿联酋核电站后油价触及两周高位- EnergyNow.com",
+            "originalTitle": "Oil Touches Two-Week High After Drone Attack on UAE Nuclear Power Plant - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFR4cExqSkJkMUFiVmlJTTFvN3lQeUZKT1ZYRWlGTldSQ19Zc3pjU2pSeXZUZGQwb3JfaFZyWXFteU03aTRtaUY5aVhkLXBiTXdLMU9EaWpZU1Z4ekRLck1QTVRvdE95Ml9ramNEVTlWUW9MVEFtR3BTakRCRzlEd2tRNXJ1LVJtSnBHT05oSUdWeVpuYm1aSFJrc2JTZTJaSUUtcQ?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-09T16:52:12.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "德克萨斯州警卫队，州网络领导人加强与阿拉伯联合酋长国的伙伴关系- Army.mil",
+            "originalTitle": "Texas Guard, state cyber leaders strengthen partnership with United Arab Emirates - Army.mil",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3BleTFCS1FHdjRqRUUxdGdLUkJHcllIRFJ5dGtJSlFSc1FEb2RKb0Zhbk5OVGdUSUQzWjBXM05zbl8tMTJZanBaZkQ3d0VyWGtVNHF4WTRMMVhwSTI1ZmJiQmozQ0Z6ZzNrUVNhMnNDcEJNejVBRmp4UkVVbERRSExTQzYtbWNwRTJSUHJHOTdnbkUzUHBVbVNwZ0dkM29JY01lTDl1WDlSMHFPNmVMMzNDdW1zbXPSAbwBQVVfeXFMTlZBaWdOVUY4MTltMlRCYnZSdFNnRWY4V1pmX0g3dVUySVlBdjdPcXBUUnpKZV9xclNIYi1iWkZxX0gwQW5vbS13NnJ2X0kzSU4tSkd0RWF4YmdWNjUyZUxTTHlKT0dpWkRNd0Q4aldaSXpJZFpTM2VSR1BiU2Nua2ZReS1RNzl2MV92cU9KWmxsQ0x3LUxpb3pBQzY0SHJneVA3LUlETjhzTldTeVJjaXRaX1lMTG5XOGhEd2k?oc=5",
+            "source": "Army.mil",
+            "sources": [
+              "Army.mil"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-09T16:15:39.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "在迪拜观看排灯节烟花？你看到几小时后街道的样子了吗？ -海湾新闻",
+            "originalTitle": "Watched Diwali fireworks in Dubai? Did you see how the streets looked hours later? - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2p6X0FFcnFvZFJkMldQd190dld4emJ1SjYwaWZxOVpCVkQxZGVOMEo0V0gwekF4QWhQMlczZ2hlWEVIYVE0SmR6cVZET2U0WnpMaERXTXoyZFV1VU5Qbkl2aDNhcFZaZVVyZkc0aHBIdGhzQ1ByQ1F6dlFFTXRmb1RFcjBwblFPVU1vU21yQW51VHhManhuNU5MOHdLVmVpY2ZfNEgwQUlNVmtvQVVVdTl1OGU3cmJ60gHIAUFVX3lxTFBQMWlHc1RMcWRpWWp3Q0tYM01oUVpnM1VxdDZHcXNkYnp3ZTRWblFpTE84UVNoaUpBbWktbFBvdWNTalZkZHVVT2xoelphdUdON3BqZi0zeTc0SFB3YTNTM0tqZzk5WjlPTk1qYnh3YXg4WW5DUGVabWc0WjZxdEkyeVYxZTNVZzFNcl8zcHRWRmRBRUgyMHNDT2RQMnRIX2lrSWw3a0FVMFBzS0UtaUpid2xYekVfMEdiUkxIUVZiWGtPVzl2aXZ2?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-09T16:27:16.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋外籍人士入狱，因儿童的Snapchat病毒视频而被驱逐出境-海湾新闻",
+            "originalTitle": "UAE expat gets jail, deportation over child's viral Snapchat video - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0xxQUVsTGJqVXF6bEJJaW1oeUZTcVQ3ck1ySnhveVFzbzZialluSk95X3hmNGlPZ2hJTWpHWF9VWUZrWlNDc3VseG1NeW5DdHBPRUlucEtIMXpaZDVRUVRtLXhJWTVNTnNsXzd6V0g3cDVPMElRUUx0WkdyWnJIcHQ5dE9RaHNFMnJ6TV9VVlR4aTlmSnUzVUxGNXNZVWxOb2dJ0gGzAUFVX3lxTE9oWWwza2ViV2JfRzRETkYtRVJQTHBFMXZOOVczVmhDc19iMmszYUZhbHVHOGVFVXpaMDJjMDJ1UG1sbFgwT29jODd2bU4yV0t1MDVNSGJ5X19NbHc3RDBPNFltMnBKb1BfR3NpZGI3OUp4ME5oVjhza2plWFNtbTdVdUJUMmhnOGZXelVkSXFlelFlNjctdXp2XzMteEI5NkV3VUZSUXktMGN4U3ZKUXFYZ1NJ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-09T04:23:24.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜揭示在德拉市中心用6.5公斤珠宝制成的巨型金色兰戈利；互联网只说“- News18",
+            "originalTitle": "Dubai Reveals Giant Golden Rangoli Made With 6.5 Kg Of Jewellery At City Centre Deira; Internet Says 'Only - News18",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdEdZbHBEMWJCWWl6SXFES2NSY0JUTTJpTnAxSmxFNVN4WmRObVFRRTZ2bWRyZDJlYS1acDlhZWV4c1M0Q0RuNVozRGl4YzZZTjRYQk1lYklCRkwxQ3BaQXdGWVpJa25oR1ZtNk5nVTFTaER6M3ZuQmxDTnE4eEZ0MFQ3ejFwR2ZRMmNtQThIR1kxOEZiYnpXZmVFUkFmYVk2Y1d1dnBkUkMxcU5TS0RaV2c0aEZhVDY2UjFjdmRzQ0pONGNDZW9KVWw0WUR4VThiTUh3RUhtUENVZXViWFlqR1I2Q0ZCVnFpVGxjUFZ3RDQxdkXSAfgBQVVfeXFMTm5HamZXU1JqNTBxU3N1NXV3cnVPVllrMV80M0hXbDd5RldLVW9PMkZBX0JQUHJzWDJyQ0RUbjBNcXZULTNfNjFHZVpKN0V3TnQ1YjlVUnNtRFd5TDdNZlJPeUVweHMyUXVXNXNETV9hcjJZVWlWNldhbHRIUldRcmVMMUVaUjJoUGJBckkySENXQmFCSmFsT3g5ekNhREo1ajI3QkpIb1ZVbzJmak9jenAzSG5xNk9mbERSY3FhMWc5N0w3M3ZmMXVvWHk0QlE4U25RZHFiTVRsWkMzbDFheUZXNUtmeGp4MjNOekc0Wk1rY2FDTGt2MFE?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18",
+              "Hindustan Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-09T11:33:13.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "观看病毒视频：哈利法塔用印地语和英语特别的排灯节问候和节日祝愿照亮迪拜天际线，让印度人在世界各地感到高兴-《星期日卫报》",
+            "originalTitle": "WATCH VIRAL VIDEO: Burj Khalifa Illuminates Dubai Skyline With Special Diwali Greetings & Festive Wishes in Hindi and English, Leaving Indians Across the World Delighted - The Sunday Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOY2Z0b19WUkR2NFBSQUdVckFJbEVIbTN6MWJuaEkxVk90QmdrZzNrTGFsajNzc0k4U0NsWjhjLUR4VEphYmtxTE5UZl9za3czM2VIRkpjS1VLOUZrcDI4Zlc4NmFiNEpfa2ZNQ29wSUVQaGc3b0NoQnFlOG1mRXVteWJDVUVZSWZhQ0RpajB3ZmItUmdaWGR0RmdoclJRcVdWTlRBUTJSX2RmMXFhdFlSSjRfVFdsSl9HcVJjb3VzbF9XWUdSM0ROTjZGU3RoeDQwS1pyVlhhMzJFMjlKVjdLU1Zic1dmVGtOREtPSUo3amwyNE1hMmhPbGNIOVk5VjBjbXVfRjJmUk1mbVBtZGtMTTEtSDBMM2k1cktoTjRvODB0Si1MdE8xMW1nNUZTcW11cl94ZDV2Ump3UdIBugJBVV95cUxOY2Z0b19WUkR2NFBSQUdVckFJbEVIbTN6MWJuaEkxVk90QmdrZzNrTGFsajNzc0k4U0NsWjhjLUR4VEphYmtxTE5UZl9za3czM2VIRkpjS1VLOUZrcDI4Zlc4NmFiNEpfa2ZNQ29wSUVQaGc3b0NoQnFlOG1mRXVteWJDVUVZSWZhQ0RpajB3ZmItUmdaWGR0RmdoclJRcVdWTlRBUTJSX2RmMXFhdFlSSjRfVFdsSl9HcVJjb3VzbF9XWUdSM0ROTjZGU3RoeDQwS1pyVlhhMzJFMjlKVjdLU1Zic1dmVGtOREtPSUo3amwyNE1hMmhPbGNIOVk5VjBjbXVfRjJmUk1mbVBtZGtMTTEtSDBMM2k1cktoTjRvODB0Si1MdE8xMW1nNUZTcW11cl94ZDV2Ump3UQ?oc=5",
+            "source": "The Sunday Guardian",
+            "sources": [
+              "The Sunday Guardian"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-08T17:19:52.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋推迟对居民的车辆许可限制- ARN新闻中心",
+            "originalTitle": "UAE postpones vehicle licensing limit for residents - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1NGcURWT0dSTEs0bTRkTVhQYm9ueGNCN2JfUFVDUDBDZkJzanJnZE5iZDhzbHk1LUVDVWJTY1BTSl9vRHNjWTQ2Wm9CaU82bHBjMWgxSHg0c3ZMVjF5U0ZMaHFkU0Fvd1RNcEJLcFZEZkowQUhuVzhYX1EwRTVISnRGdVZSb2luVlA3dFFhdk5wQ0FjU1hKTTkyMHN0eTVwdzRiTkItZmRoazBs?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-09T16:03:20.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋参加在阿塞拜疆举行的亚洲相互协作与信任措施会议（ CICA ）第七届峰会-阿联酋外交部",
+            "originalTitle": "The United Arab Emirates Participated in the 7th Summit of the Conference on Interaction and Confidence-Building Measures in Asia (CICA), held in Azerbaijan - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR1drOWVTVlRpQTRYcWdoc0hXNDhIdXhGeThlckE2cDNveU9tQXZnRnVuZzhpbjkzSjF3Z29ZcDl1dXI3YjFVME81b25VRjh5UXZsOGVyeDl6RkswQ1JtRXJSMDQ4M18wOVRVQm80V3g5bTROVmdHcGU1eUY2bHoxb3Nndw?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-09T02:03:45.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "6.5公斤珠宝， 16小时工作：排灯节上的杜拜金色兰戈利（ Dubais Golden Rangoli ）风靡一时-《论坛报》",
+            "originalTitle": "6.5 kg of jewellery, 16 hours of work: Dubais Golden Rangoli on Diwali goes viral - The Tribune",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRFVoRV8zVXIzRmdHZ1JUalVDdWZycFZFeE1yRmllZWVtektKcjZxTWhrTjhYRDlPTHpyUmV5MkRZUGx1WUZXQTBrWEdJT1RDamZsR0Q5dDI5T0ZqOXZZQlRvVThfU0ttM2NfSlQ0X3dFdVBObVNGT0V5TXlTQkx3Y0hvam5saG03UlRQZHgtVUJJd0pIOWxCaVk5OVI2M0xXRjJNMUViSFFlcXJEaGd0cTdNa2RSamw0UFEtSTFnUE7SAcQBQVVfeXFMTy1saXZ5QjlFRS1YYWR2VC1YT2RWNDl0QlNlV2dQVFd0Zm43RnM5bTByeW1xZHhhX1VPMk41TXhweEtVNkZlZkh3cTZHS0pZWlFBd3VVTFVoYVZFNVJPeWFJOW5qdHJhWlZPUU5UUXVoeVNkTHZTNDUxdTJBYm4tSDl4TWdTS2haazdXSnliZV93RjhlMnlQV0QyN2VCTGhOdW9VQ0t3bU10SEJhNFlmd0lDV092V3AwQUphWmlqX3cwV29OZw?oc=5",
+            "source": "The Tribune",
+            "sources": [
+              "The Tribune"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-09T06:35:16.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋为运动员推出国家反兴奋剂平台- ARN新闻中心",
+            "originalTitle": "UAE launches national anti-doping platform for athletes - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlFBUnNqaUU1QWtYblFMbnpRajJmbE5MSlNKSzktZ0p5Z0xnOTloVkUtU2FDUjh6eEpFbjFhd1c3WVhoX19qczBLWkU5czFNNUs1cFRwdW9yM19RMFRxTEgxanBSTVhNYk8zUXhIWk12dVB2NTZMYU9IN3FnWHlHVUZ5ZnIyWWo2eWFIZGFxaW9oZUxWZjhJZVhyd0JzUQ?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 49,
+            "publishedAt": "2026-11-09T06:41:58.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "22年后的迪拜🌃宇航员唐·佩蒂特（ Don Pettit ）分享了阿联酋迪拜的照片，这些照片是在三个不同年份（ 2025年、2012年和2003年）从国际空间站拍摄的。(📸: Pettit/Instagram) - Facebook",
+            "originalTitle": "DUBAI AFTER 22 YEARS 🌃 Astronaut Don Pettit shared photos of Dubai, UAE, taken from the International Space Station in three different years: 2025, 2012, and 2003. (📸: Pettit/Instagram) - Facebook",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVzVxVmFXczFNQVRXNkdVY0VUNmt5WE5qSGdmWk5tdUhyYkVmX19nekNxaVNDR1hlaWFhS0RmZVVFSm9iLWVyb1RzWXRfNW5vaF9McFY1NzkyamRiTGc0ZWU4WUdqWXFFR3pRSFFRMzhRVzlVMXlVX2pEM2doai1wRUhidzR2cm5UQnI2QVB2MEdIZzRHRzZtckx1TUJKS2JJdU83anZ5OXQ5WklzdmpGOWNkdFZwM1dQU0FYR1lsVnotRldKMm51UU1ETjloUlpiYzU2RzdUWQ?oc=5",
+            "source": "Facebook",
+            "sources": [
+              "Facebook"
+            ],
+            "heatScore": 49,
+            "publishedAt": "2026-11-09T04:56:09.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "缅甸妇女在迪拜工作承诺后被贩运到伊拉克并受到虐待；家人请求帮助- The Star",
+            "originalTitle": "Myanmar woman trafficked to Iraq and abused after Dubai job promise; family pleads for help - The Star",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV0JXeTgtbjVnUHp1SHdCVGdJNUJaWjNFQUFlRFJrMjdkT0xGNGE5NGhaTDkxWFNEZVEyY3p1TXAxS2J6OW1JQ05UQkdraTV4STdfMmtrS1ZoeFg1a2IwVVp2Vkg1OWdMVURKaDBoUkRmQXplMzZKWTlNZk5TN3EtUFp4VXBjVVd4a0E5OFBRZmcwTExnZFlLLXVtRnoxS3gzRm5lWTljTzBfcWhzYUtnRVJoMi1GZWMxNk9fa3AtWUFOcHJwREU5MzZUbWh0SzEwODh2YWE5eGJfcktoNnU2LWlaZ1lOLWR3?oc=5",
+            "source": "The Star",
+            "sources": [
+              "The Star"
+            ],
+            "heatScore": 48,
+            "publishedAt": "2026-11-09T07:19:00.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "俄罗斯、乌克兰代表团抵达阿布扎比进行会谈：消息来源",
+            "originalTitle": "Russian, Ukrainian delegations arrive in Abu Dhabi for talks: sources",
+            "url": "https://c.newsnow.co.uk/A/1329359514?-15565:1965",
+            "source": "China Daily",
+            "sources": [
+              "China Daily"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-10T00:54:53.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "美国计划从努尔汗空军基地发动伊朗罢工？俄罗斯、中国、阿联酋军用飞机在巴基斯坦降落| Ex - News18",
+            "originalTitle": "US Planning Iran Strike From Nur Khan Air Base? Russian, Chinese, UAE Military Planes Land In Pakistan | Ex - News18",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS1lUOFhESkYtY21zVEVRYzNvbktXaThUMmlBb2FNY2pPN1BaY3BZVUZqMXplN25VMEZmS21ZWGZlTjZCWG5LbFR0VnRDTERHT1dvczlwOHJrbC1md09odnVFcjFKX1UtTFBsZWFiRXlHZk1FcEhZZlZaTFhxLXJ6YU5od1NNb2I4N2hydU5IMFhsNDJ0TzdzM2dyQXhlcS0yUmJuOHVuSTVCSkR5eHBmbXB3WG5aalJkSEJYWFppQmhmRlFCZmkzLWxtS1ZWMHdyMGczeU1uZ1BzRzE2SlVrYUtJWGRyN1NqQTRRVWwwVdIB9AFBVV95cUxNT2NzMkwtSE5yWndDVjJzMG04UmlXWGtWM1lCTG5vS056VGg4Nm5RUnZNV3NTWFFEMGZ3aGFTQ2FQdXVPNU1sOGdsYzVqTlJNOHFkYm9VVXB4TEVpRmR5Ynd5Uzg5RUdPMzc1QURSQldVaDhCX053Z2xrOWNCSThobXYtVHFUVTlLMTRKNGlZYTQ5cElvM05hOFZMVEhEWC1la2JTSUVObXRhR3VjcEtQeXkyWi14dm1hMmJEc2hLZEdsR09iMzVDVXp5UVdWZ2tBdW9qbmtIX1FwV2tnSEN5OEVxaHhoLXY5R2NjYmRwT1Y0RlMy?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-09T17:00:11.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "中国成功向太空发射新型互联网卫星-沙迦24",
+            "originalTitle": "الصين تطلق مجموعة جديدة من أقمار الإنترنت إلى الفضاء بنجاح - Sharjah24",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkVDZZZHRyMThXbUdPRk04UFp5YU9OWUo1X3ItWmp0SFk4YjJvZ1k4R0E5TUNrTWhQeEJrR3otZE41Y0xJc2t4by1OUEpqV3BxWU1Da2NQTHp3MlNV?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-09T09:17:40.000Z"
           }
         ]
       }
