@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T23:36:17.619Z",
+  "updatedAt": "2026-11-12T20:48:26.109Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -40270,6 +40270,756 @@
             ],
             "heatScore": 45,
             "publishedAt": "2026-11-10T11:08:00.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-13": {
+      "date": "2026-11-13",
+      "updatedAt": "2026-11-12T20:48:26.109Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋内政部：富查伊拉发生交通事故，造成14人死亡，30人受伤",
+            "originalTitle": "14 dead, 30 injured in Fujairah traffic accident: UAE Interior Ministry",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "The Peninsula",
+              "Al Jazeera",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T19:12:53.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "油轮在阿联酋拉斯海马附近搁浅，所有船员均安然无恙——路透社",
+            "originalTitle": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDlHRUduYXpITEh6ZXlxdm9Zc3hiVXlhZXhzbzUySkFvNkMyQ1pFYWlxbnZKUmR4T0tieF9rZHhWYnFzUXI2a0J4M2VOLUZPcGt3ckxrUzNrSFFfeXpXNDJjRzVIS2p6OWI5d1BhMHVzVVY4TktOaWJQYTJpenFZOXpISzBiUDZ5ZG5vVGE2U0U5RnFjQmlaRmNnUDk0YV9DRnl6UVRkOEtGR1RJdUF2VmxNRmVpN1lDeXRINVdYQ0xabGJkMTMwazNR?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T16:45:39.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "拉斯海马和沙迦在受损油轮漏油后重新开放海滩",
+            "originalTitle": "Ras Al-Khaimah and Sharjah reopen beaches after oil spill from damaged tanker",
+            "url": "https://www.arabnews.com/middle-east/ras-al-khaimah-and-sharjah-reopen-beaches-after-oil-spill-from-damaged-tanker-3011373",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T20:27:35.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋发生23辆车连环相撞事故，卡车失控致14人死亡",
+            "originalTitle": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+            "url": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC",
+              "BBC News"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-12T17:09:29.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "DP世界巡回锦标赛：罗里·麦克罗伊“势头良好”，有望追平迪拜争霸赛的胜利纪录 - Sky Sports",
+            "originalTitle": "DP World Tour Championship: Rory McIlroy 'trending well' in pursuit of record-equalling Race to Dubai victory - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQblNIYmxDV1B4d3ZuTVNVcDJOaDhjbHR2MGpad0ZyanhUX0xnZ3NfX05CVXU1QlZpcFF5SEEyZWV3N0xwcmowWF9EWW4xdUZTc290bFd5aXpPOXZWRElJcEZzcGswTWp5TklMcDNTNnpuMWliWE1UekpJbWRMUjdvVjFQVHI3dVEwelJTbDMzUnhvcmFUY191R3NUZEFHaDFKU09VejN3VHVaTGdPSXVpU2gxNzJSYlE4N3RtcE9MNzE4bXNIQ3V3REpWaUhldzg4YkFGbWNxSW1wQmQ4Q05GU3NIRjlidw?oc=5",
+            "source": "Sky Sports",
+            "sources": [
+              "Sky Sports"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-12T14:56:39.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "烟花将于11月13日和14日在谢赫·扎耶德节期间照亮阿布扎比的天空",
+            "originalTitle": "Fireworks to light up Abu Dhabi skies at Sheikh Zayed Festival on November 13, 14",
+            "url": "https://www.khaleejtimes.com/uae/fireworks-sheikh-zayed-festival-abu-dhabi",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-12T17:44:26.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋总统在阿布扎比会见巴林王储",
+            "originalTitle": "UAE President meets Bahrain Crown Prince in Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1329651705?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-12T19:30:28.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋人被任命为国际军事医学委员会主席",
+            "originalTitle": "Emirati appointed head of International Committee of Military Medicine",
+            "url": "https://www.khaleejtimes.com/uae/emirati-major-general-president-international-committee-of-military-medicine",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-12T16:25:17.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "富查伊拉王储出席车祸遇难者葬礼",
+            "originalTitle": "Fujairah Crown Prince attends crash victim's funeral",
+            "url": "https://c.newsnow.co.uk/A/1329649367?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-12T19:00:05.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "富查伊拉发生涉及18辆汽车和5辆卡车的事故，造成14人死亡，30人受伤",
+            "originalTitle": "Fourteen dead, 30 injured in Fujairah accident involving 18 vehicles, 5 trucks",
+            "url": "https://www.khaleejtimes.com/uae/fourteen-dead-30-injured-in-fujairah-accident-involving-18-vehicles-5-trucks",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-12T14:35:28.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋内政部：富查伊拉发生交通事故，造成14人死亡，30人受伤",
+            "originalTitle": "14 dead, 30 injured in Fujairah traffic accident: UAE Interior Ministry",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "The Peninsula",
+              "Al Jazeera",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T19:12:53.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋发生23辆车连环相撞事故，卡车失控致14人死亡",
+            "originalTitle": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+            "url": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss",
+            "source": "BBC News",
+            "sources": [
+              "BBC",
+              "BBC News"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-12T17:09:29.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "烟花将于11月13日和14日在谢赫·扎耶德节期间照亮阿布扎比的天空",
+            "originalTitle": "Fireworks to light up Abu Dhabi skies at Sheikh Zayed Festival on November 13, 14",
+            "url": "https://www.khaleejtimes.com/uae/fireworks-sheikh-zayed-festival-abu-dhabi",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-12T17:44:26.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋总统在阿布扎比会见巴林王储",
+            "originalTitle": "UAE President meets Bahrain Crown Prince in Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1329651705?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-12T19:30:28.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "富查伊拉发生涉及18辆汽车和5辆卡车的事故，造成14人死亡，30人受伤",
+            "originalTitle": "Fourteen dead, 30 injured in Fujairah accident involving 18 vehicles, 5 trucks",
+            "url": "https://www.khaleejtimes.com/uae/fourteen-dead-30-injured-in-fujairah-accident-involving-18-vehicles-5-trucks",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-12T14:35:28.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "谢赫·穆罕默德颁布关于迪拜市政府的新法律，以提高生活质量",
+            "originalTitle": "Sheikh Mohammed issues new law on Dubai Municipality for enhancing quality of life",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-mohammed-issues-new-law-dubai-municipality",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-12T06:22:02.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿布扎比跻身世界十大海事城市之列",
+            "originalTitle": "Abu Dhabi breaks into world's top 15 maritime cities",
+            "url": "https://c.newsnow.co.uk/A/1329642865?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-12T17:49:21.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋明日天气：预计多云，有沙尘风",
+            "originalTitle": "UAE weather tomorrow: Cloudy conditions, dusty winds expected",
+            "url": "https://www.khaleejtimes.com/uae/weather/november-13-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-12T13:22:24.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋的人工智能天气预报项目为来自15个国家的官员提供培训",
+            "originalTitle": "UAE’s AI weather forecasting programme trains officials from 15 countries",
+            "url": "https://www.khaleejtimes.com/uae/ai-weather-forecasting-programme-training-officials-15-countries",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-12T12:45:52.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "海事机构称，一艘船只在阿联酋拉斯海姆海域被撞后起火",
+            "originalTitle": "Vessel on fire after being struck off UAE’s Ras Al-Khaimah, maritime agencies say",
+            "url": "https://www.arabnews.com/middle-east/vessel-on-fire-after-being-struck-off-uaes-ras-al-khaimah-maritime-agencies-say-3011490",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-12T15:38:12.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "富查伊拉王储出席车祸遇难者葬礼",
+            "originalTitle": "Fujairah Crown Prince attends crash victim's funeral",
+            "url": "https://c.newsnow.co.uk/A/1329649367?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-12T19:00:05.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋与香港的双边贸易额每年增长8.2% - 《海湾时报》",
+            "originalTitle": "UAE-Hong Kong bilateral trade grows at 8.2% every year - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFM2N1VxRmc5VG5TMnUtSGxEME9ocGhBOFFxZ1hOcDN4R25Nb0NDOW55UDhMeFhvdU9jZ0JRU0UtRm9YbzFEdi01SGxRUS14SDdfbnFZVzZmRnltODJNQlBzWlo0b0VZMC00NWo4WDM1TTlSZkhHMlJVNV9QTXFYSjh3WUY4TEdOcTNqdFdpdkNUUDh20gGcAUFVX3lxTE9oYXpJNnRpN3lhRTB3TF9TS0RzQnZ6cG5pT0UwWFhmbXRlVlRJejFSemVlZW5YS0ZsNHJqdnZuVVp0a3RpaEtoWjF2NF9UWDdoYnc3dzhrcHpGM2ZCTmRYSDZxd0xVX1B0a2RtVVp3OVFTRXFEcnZzbk5LLWlFQWJMUVNCX2VjbnYwMVNJMUZmMm9SUGkyTkFQVjZrOQ?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-12T11:05:59.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋向土耳其COP31气候峰会派出高级别代表团 - 《国家报》",
+            "originalTitle": "UAE sends high-level delegation to Cop31 climate summit in Turkey - The National",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcklKUEo0akJqckwyczhTZ1liU3Z6WkFPQTVTXzA3MTV2dE13VWp3UnVlNDJRaktqVEozNVROVmk2UTBRaG5TUE0tdUtnZi1wN3ZkbEVUYXo4RFh6MjVXc015YjNDdFFFLVltWnd1Y3JqRzRBb1otZjI5LWVXd3NjMzhKV3Z6NXpMT1BLcUV5RUxORDZIVFJsUmhQajZoZENGcnlBYWpEU3otek9USFF0azFLLVIwWUFBeVE?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-11T17:20:59.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿布扎比会谈的成果与遗憾",
+            "originalTitle": "What the Abu Dhabi Talks Did—and Didn’t—Achieve",
+            "url": "https://c.newsnow.co.uk/A/1329654756?-15565:1965",
+            "source": "NewsNow",
+            "sources": [
+              "NewsNow"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-12T20:11:28.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜将于11月26日主办关于社会影响、人工智能和家庭福祉的阿联酋峰会 - 《菲律宾时报》",
+            "originalTitle": "Dubai to host UAE summit on social impact, AI and family wellbeing on November 26 - The Filipino Times",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXy01SWJfZlRMb1VsSEYwSENJaHRfeDlvSTJKUjBGcVc4enBQMkVYdUIxLUtjQmNQdk90YllvM00xUDE1cHFEVnJ2X3ozNjJ6Z1dqY3RiVkd0ekttQ242bThKU1dDNHliQ3FlX055cVduN0o1dnpsUlNsTXFjaTBmRENQdjc0N18taTRkNDQ2Q0hxdklSTnZGM19ONGJJOTg3NGJRblIzNmdzVDFDS3pZVnR1bElMSzFnRnZBamxQd2VrRFlQZUFxTE1R?oc=5",
+            "source": "The Filipino Times",
+            "sources": [
+              "The Filipino Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-12T11:47:15.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "哈伊马角酋长代表阿联酋总统率领阿联酋代表团出席在土耳其安塔利亚举行的COP31领导人峰会 - www.wam.ae",
+            "originalTitle": "On behalf of UAE President, Ras Al Khaimah Ruler heads UAE delegation at COP31 Leaders’ Summit in Antalya, Türkiye - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3hRQV9EdXZST0w5cjdoZjdMb19DdGptZ21RZ0xObjlOUE5YX1BaNmFPaDA4R05NQ1BVTG1tT0VGYmczbmlqYy14N1FIYlVFZGtSRDA4bURDczdOcDMwQjZFRW9LLU1wM21HbjRPUERMMVdRYVgyUTcyN01WdURoaFdIS3ljbUE2MmdaX0VEbw?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-11T16:37:04.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿布扎比的俄乌会谈以达成囚犯交换协议告终 - 半岛电视台",
+            "originalTitle": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnNsTUpRMnM5N216eFlUcGxFb1R2TmQxRHdmc3dFNU5CWVVoRURqOG1NVkNaMldVTGd4NnB6ZGphVHJySFFLMEZBMjhycEdDUmhlbnR3X1U1em9UWnRtb0tYOF9VeVBmeVBINGs4ZjI3V2QtTmRGR1UzTU4zY09FTC1Ua2pnTWhFdU1TVFladmg1ZHU4N1lNRkcxMzAtZVhJVVc3bE5LWWEzcUtDLVlUOVpB0gG3AUFVX3lxTE9KU3pMWG9GeVJzOVZzSUVtTUJjS3VId1N2VDVpX1JpTzhRRnFxSFpMMmprc0hsak14aWM4MXluSnJOdVRGSlFSZW9mRWxaS3FuajA2R3ZjdHdRak5JVU1oQzh4RmJydlRJa1o0MUFIUDV2NnNfaXpvMkFuNG01aVd6ZF9STTdGbDRVMkVvQ3p6N1lBTEkxblpZMXpheVNuTzZfMG1fWGJPYVhXT3RMMlVadmRQVWZMQQ?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-11T13:19:56.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "美国提议重新划定顿涅茨克和卢甘斯克边界，在阿布扎比会谈上引发争议",
+            "originalTitle": "US proposal to redraw Donetsk and Luhansk boundaries sparks disputes at Abu Dhabi talks",
+            "url": "https://c.newsnow.co.uk/A/1329649765?-15565:1965",
+            "source": "UAWire",
+            "sources": [
+              "UAWire"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-12T19:04:40.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "为什么阿布扎比谈判在暂停九个月后又重新启动？华盛顿需要在新的……之前取得进展。",
+            "originalTitle": "Why do Abu Dhabi talks resume after nine-month pause? Washington needs progress before new…",
+            "url": "https://c.newsnow.co.uk/A/1329646771?-15565:1965",
+            "source": "Euromaidan Press",
+            "sources": [
+              "Euromaidan Press"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-12T18:28:37.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "印度与阿联酋讨论加强双边合作与战略伙伴关系 - 缅甸国际电视台",
+            "originalTitle": "India -UAE discuss strengthening bilateral cooperation & strategic partnership - Myanmar International TV",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX19fdVJMbmNGSm96YmM1WEpsQ1lCZzhJb0ZTU2pJdTh3aVRHemtfcUh4RUgyT0Z2UTBrZl8wMWMyWk9NYnNObnpyVjQ2cElaZDViQmZuYVppV1V4aUxjQzRrb2JFSTFXME9ld3p2TW0zY1VnZDlpci1JcjBwaVpFTmlMdkpvck52aHZ6WlpaNkJOZ0pVLWR2TEhaZHNhV0NvWW9CempjclJObEU?oc=5",
+            "source": "Myanmar International TV",
+            "sources": [
+              "Myanmar International TV"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-11T03:50:39.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "油轮在阿联酋拉斯海马附近搁浅，所有船员均安然无恙——路透社",
+            "originalTitle": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDlHRUduYXpITEh6ZXlxdm9Zc3hiVXlhZXhzbzUySkFvNkMyQ1pFYWlxbnZKUmR4T0tieF9rZHhWYnFzUXI2a0J4M2VOLUZPcGt3ckxrUzNrSFFfeXpXNDJjRzVIS2p6OWI5d1BhMHVzVVY4TktOaWJQYTJpenFZOXpISzBiUDZ5ZG5vVGE2U0U5RnFjQmlaRmNnUDk0YV9DRnl6UVRkOEtGR1RJdUF2VmxNRmVpN1lDeXRINVdYQ0xabGJkMTMwazNR?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T16:45:39.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "拉斯海马和沙迦在受损油轮漏油后重新开放海滩",
+            "originalTitle": "Ras Al-Khaimah and Sharjah reopen beaches after oil spill from damaged tanker",
+            "url": "https://www.arabnews.com/middle-east/ras-al-khaimah-and-sharjah-reopen-beaches-after-oil-spill-from-damaged-tanker-3011373",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T20:27:35.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Anthropic IPO：这对人工智能股和更广泛的市场可能意味着什么",
+            "originalTitle": "Anthropic IPO: What it could mean for AI stocks and the wider market",
+            "url": "https://www.khaleejtimes.com/business/tech/anthropic-ipo-what-it-clcould-mean-for-ai-stocks-and-the-wider-market",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-12T11:59:42.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿布扎比逮捕了8名涉嫌在酒店入口处斗殴的人；并抓获了另外2名拍摄者",
+            "originalTitle": "Abu Dhabi arrests 8 involved in brawl at hotel entrance; nabs 2 others for filming",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-hotel-fight-brawl-8-arrested-2-nabbed-filming",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-12T11:56:53.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "沙迦在因漏油而临时关闭后重新开放海滩",
+            "originalTitle": "Sharjah reopens beaches after temporary closure due to oil spill",
+            "url": "https://www.khaleejtimes.com/uae/sharjah-reopens-beaches-after-temporary-closure-due-to-oil-spill",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-12T09:34:47.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "帮助寄养家庭和受伤的猫咪：6家非营利组织获选获得760万迪拉姆的资助",
+            "originalTitle": "Helping foster families, injured cats: 6 non-profits selected for Dh7.6 million fund",
+            "url": "https://www.khaleejtimes.com/uae/non-profits-selected-dh76-million-fund",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-12T09:39:51.000Z"
+          }
+        ],
+        "technology": [],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋人被任命为国际军事医学委员会主席",
+            "originalTitle": "Emirati appointed head of International Committee of Military Medicine",
+            "url": "https://www.khaleejtimes.com/uae/emirati-major-general-president-international-committee-of-military-medicine",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-12T16:25:17.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "海湾航运再遭袭击，阿联酋附近油轮起火",
+            "originalTitle": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
+            "url": "https://c.newsnow.co.uk/A/1329651848?-15565:1965",
+            "source": "gCaptain",
+            "sources": [
+              "gCaptain"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-12T19:32:52.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿布扎比军事医学大会：新技术帮助患者避免截肢 - 《海湾时报》",
+            "originalTitle": "Military Medicine Congress in Abu Dhabi: New techniques help patients avoid amputation - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWGNhWEdxNEZXa2pIOGZYbUF4dnpERWFQQVhIdDFpbUdyZzRaRFlmUDR0VkVZN3dfLUh2M0wzdmNJRkZFLVdCSXh2S3FTNE15VGFETlVNOFlZMndSZzhiQkdtMXBzSEt2ZDNFU1g4bHVNTHIxX3BtRmlsTW9Wd0pqZ1ZPWFI4SmhvQ094NnFmcDlFSlFqTjVjUUtuWHlJWi1fdkd1YUY4XzhLTldxVmVuTVc3THExc1dKM3AycUpiV1cwN0RTdWJiM3RTdDhZNnIzZTNtYnQxTjZVM2NDWlkxN1luc1ZGYWPSAe8BQVVfeXFMUGo1TFAycUtHUUNFcjAxakFtVndVeTJ4dDdWcGNTWjFhZFV5THY1REQ4NGhpUUFpdlBJdTQwNWhwZWgweDBHZlp4SzYzRHNHQnpfYjdCTFdlVWZFY0tLend4azB6cmNobFFWT3F0cDFxWEk1SlVqcTZvUkFacTBNOGN0TnN2UFJnT1c2Zi1jVTBXLUpyNGxEUG84SldPbWduYUp6TkJPelprTHVET05jU3VxTVNqeTFtQkN1dEE0bWdtU0RaVnZxSkZuX1ZDa29HZTI2dHMzM3pPTmlYVU1ka2N5em94TjRXcFNXQ1A5Z1k?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-12T16:55:02.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋部长在全球军事医学大会上强调卫生安全是国家韧性的关键——《海湾新闻》",
+            "originalTitle": "UAE Minister highlights health security as key to national resilience at Global Military Medicine Congress - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeFpEUWVBZy1rczMxbWppM0wzejhKanVDVzJHa0RPbVZ6RzBXT0FUaTNfZG1FWUd6RFRxV1dJR2Ixelpfekg3eTF0WVQ5a0JtUENMa3FSTDA2b0pPeEpmWC1qT0J3RGtVWDNORzBBZFhUMzB3ckpuM2dlNmNkbExmdlBYTV9qVzI2YURZY1FzeGh6QkU2NmN1SWpma3FqcG1yd0lKUUZXOXNUMmVtMlk2NVppUTNmaV9aOUJoX1FuOGdGRDZzdEx0SHZ3RDMxNm84dS1XVER1ZVVfOGNONVQtZGF6TTVuazh50gH7AUFVX3lxTFBMN3hFcTBtS1R0Z2lKaEZUN0NFenpsdkNEUHNSWE5PTG15YVNEcld3c084QzJvUjRPYkcwSEpLNVhyZlBzejVibGplX3lXMk9mUzk3UFBiVVlYSFBQa1pVNkFXSVFyTWF4d2hjV1hVZ1JOVkJaLWIzWXVSbDQxUktXNXlkT1N2STNUb2JGN1hTTDBOUXI4eEEyOTBFT0ZXWTVjWmFTYTNXX2ZzbFhhaFQ3MTlnQ1RIejFuUFl0SXkzbFA3UTIxX0FFaEw1NVBHN2VRak0wYjljWDdfU0c5MmFJMUIxY2ZWRkMzRzR2WUYwV2JsY2dGVkZ2MWY4?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-12T15:02:39.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "美国-以色列-伊朗战争：阿联酋居民今晚（11月12日）需要了解的信息 - 《海湾新闻》",
+            "originalTitle": "US-Israel-Iran war: What UAE residents need to know this evening, November 12 - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRVlBR0VNbHNiQ1hPV1MxaG1tb3dadEhkODR4ZVQxWFB1azhJOVdYLTF0bk1FaUZHVlpGaHdqSTRZVVBZeEUzd3hXNzIwdnN2Z21CV1VISERiSmlzOGhzdHZSYWpoaXI5R2RTVXNhVzI1dUoxbnJpbEtjY0pGXy1NeUZxbmRSWkFJTEpvVDZFTktBSTlydXJGdVdkaTd4cjFDVXlNdFZLbmNYbjYxSDgzcExaVEdHSWtndWNDb3JNbmdrd9IB1AFBVV95cUxNdUlnMFUyS21WWEdOdXVidkZVZ2czYlRjWUxHQTVuSmdqNDVudnp2Z2VDdUtMR0JBVjJKSjRwVW93TGc2dEozcHVFMkZ5YlpYYnlSYkkyYXFhUEdQb1VpTGVsdzBvSUtYRzJKQnk0U3ZOc0xpNHpGTWNFZWhuaDJwWmtSaktKRjdGMklHa19sUlJaQnVCXzF1aW41b2g5aWNRb3dOZERpdWVCbHg0Yk9iNVZEZkZkTW1QelZ6cVBBbE1UNGQzOW90dUNJSUtkUlB2Q0NjMQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-12T14:41:40.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿布扎比在世界军事医学大会上展示智能、一体化的医疗应急响应系统 - 《海湾新闻》",
+            "originalTitle": "Abu Dhabi showcases intelligent, integrated medical emergency response system at World Congress of Military Medicine - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMGhYTDNHOUlZQVlrNXVsR1hVMkhfOVBkU2ZXOE0weU40cUxNZkNIaUxVQW5yYlI2UGloY1ZJNWJXaG5kLW9iX3pHR2ZEM0ZwSjF1bE5FTzhnTkJ0bkgxdXFJWnR3azNiVFlCX3VKRGNHaUZsUV9KU0QyRnBoREJfNW13VlNvZEFNYTdOT01HN3ZrbWxxNm9DdnNoMDEwTUxkaVpqMWZva1JCcE9XempYblZSRnJHTVRnN0xCQlhDMVFmeV9CQy1YVktVOUlnbGNkd2xrTDV1TjlWNF9nZGxCVDlzSUl2Mk9sekVBSGpjZEJ3THRJ0gGHAkFVX3lxTE55YkV6VmpLdFo1ZFV1LWVCYmRNWG9IaVFfdzJ3NGxQeHVrSmNRUHdnVi0waWJoZ3cxRExZa1BiMjFSR0tqOHdpcXpkdnRNNGNTd1ZDdUgtVWEwMHB1ei04SjFvcUllbWRMNll2Q2dKOEozWk1ZU2ZXTDJtckd3ZUhLZm41OFd2dFhvVC14OHVWZ2RxeTVMeU9pX09tSUtJTFVlYmdiaW10dzluTlFadzh5ZHYyeVdheHMyM3dnVGU3OHdDZUd2SGV3N2RsUGMwalB1SFRJOVZtRVdncWJFQkRJMlhjaEVYaWxnajIxdEhhTVFmdXE0VFphTU1VWklCUTA2blVWejNV?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-12T10:20:13.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿布扎比召开第46届国际军事医学大会（ICMM），展示全球创新和合作伙伴关系 - 《海湾新闻》",
+            "originalTitle": "Abu Dhabi opens 46th ICMM World Congress of Military Medicine, showcasing global innovations and partnerships - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkpjc29sTy1VSG1oeGR6R1pnSW1pLVlELUwzOEh6S09zSzVSajd2X1lTWlVxU2Z1MWFhWWpjZ19kVVlyLVJIeXJmbzNHZWtYN1lILThiQU05cFBfR3lzaldLa1o3WHN4SnZ3RVYzX0NLR0ZpaXVZSHhTSGtnYnQzdXdZM0Y4Vi12RWpkWDNJZGc4QmhrTmhjN1JtUU13SmNzRFJwS1ZJTFN2TC1GV2ZBRWE3dm9YaUlFOWpTdDNEOTVWdW1OeFpjUE5BUmhaeDdLdHpBUnkybGo2bzdZZ0RhV1FTalpfLTFDRzdJ0gH-AUFVX3lxTE9RVUp5dVB2cjdDNzk5SE5xOWdhWFIzdFpvd0NwZnowVU1hRTFzd1JlNXNOcFFMLUpZUTNrVHdVQWd0R0F2ay1VNEd0c2I3NnVjODZJajhmYlI0OFA1LUU3YWJBb1l0bjEzR2IwcE83T0o5aG5OZlRVOU84RlZYc2ZrUWpBR1dvaG5zSHUwXzBmRjJjTnNxdTdvcV83Y2Y4V3RwTlNsck9GM3B6SlF0cTR4VC1hTktka2syUzM3dVFlLW9TeTV4YmFvdjF6bzVOQXN3UUFuVndsOHFMaTh2VnB4Qk1LSFE5a01MaTNVREtXOGtqTWlucGtGYkxDV3VB?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-12T08:18:38.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Military Order和Dubai Future在巴林夺冠归来 - Godolphin",
+            "originalTitle": "Military Order & Dubai Future back Trophy hunting in Bahrain - Godolphin",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalFmSy1tVWhHRXhDbGZxcjhYTEF1TUF5ZHlBWHc1enRpRTROSEgyOVZjZE54ckJ3aDR4N3E5cGZHUVlkTk12dVQwUFBGVFVQWEJLd2ZTd3ZTcENpZ1NEQUVZaUJNSERpVzBpRzhVYmFxMmdhMW9sOUhUTEhjS2lGWnJYb0J1M3Y3dGg1Y1VYWWtEdUk?oc=5",
+            "source": "Godolphin",
+            "sources": [
+              "Godolphin"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-12T11:25:03.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "推进军事医学：阿布扎比全球大会探讨人工智能的整合与国家备战——《海湾新闻》",
+            "originalTitle": "Advancing military medicine: Global congress in Abu Dhabi explores AI integration and national readiness - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbEFNRUN4QUJzUEdSLXRhMHVKZTdhZ0dDc3E3VndPYnV6Q0ttRmQ1SDBXVjZYOTF5S015MDZCQ2VMTjdNRzBhYXlqemEzTEhmaVVsTGlBTDNkSG1Vbk1hZ3ZwUFRwMFdtb1pKSDJxNWUzV3VFbU9COEt3UlVzdVpnVGJUeVdTaWM3cXZ6d0NBYkkySUVrM3VHTzhxMXdBakhpUDVOaDNVZjdhTDFXZlBrQzhSSnlBR0tOOW9xbW1IYVo1bjdPT1A3aUJoS2hRa0trTHFBNTdtenI5cmRtM2pSVExCZGHSAfcBQVVfeXFMTkl3aGpORTNEODhYTnFRSVdiN2NZSWc4VV82MEtxUS1PTXBaTl90NnFMMEhuSTlaNVRLRGRrdnJ0YUVnOEJMbFdDU1B3VzVmMEYyT3FsTTdYUThKcF84S0Y5bnpZV2JWNTd2ZWVLRTZYczVUSS1CMmhRWE5Sc0FqQ1A2XzJ2TzhGSFktUV8wRVk0TkM3VlBtSk43ZkJhQW9GZkdMQ3FnRE83U1g2UjUtTFlCd2cxZkFSVlF5S0FZZFRJRFNqYmctWktnSjhuaFk5dlB3aFFpVmpsUUsxUGV5RlR1UmxRV3EtQkY5cE1TaGZVZkVzTFdBUQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-12T06:24:11.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "西亚卜·本·穆罕默德·本·扎耶德宣布第46届国际军事医学大会（ICMM）开幕——2026年阿布扎比 - www.wam.ae",
+            "originalTitle": "Theyab bin Mohamed bin Zayed inaugurates 46th ICMM World Congress of Military Medicine – Abu Dhabi 2026 - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYS1HZkQwVnlncGlkTVlRTGFzVXFwMk83clpiN0ZMdmhFY29ZOGFMcmNrUDRVQmdkeHJJNDFLRzctSzNqLVNLOE9aUlhkcW5sNG50ZS04c0pvM2cwUENWeWFlSmVONXhIUWRCSTJYam4wSWNDNUJaVV90OHcxV2ZzNEV1YXF3Vklma0hkLXVyNHBfUQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-11T16:54:56.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "油轮在阿联酋拉斯海马附近搁浅，所有船员均安然无恙——路透社",
+            "originalTitle": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDlHRUduYXpITEh6ZXlxdm9Zc3hiVXlhZXhzbzUySkFvNkMyQ1pFYWlxbnZKUmR4T0tieF9rZHhWYnFzUXI2a0J4M2VOLUZPcGt3ckxrUzNrSFFfeXpXNDJjRzVIS2p6OWI5d1BhMHVzVVY4TktOaWJQYTJpenFZOXpISzBiUDZ5ZG5vVGE2U0U5RnFjQmlaRmNnUDk0YV9DRnl6UVRkOEtGR1RJdUF2VmxNRmVpN1lDeXRINVdYQ0xabGJkMTMwazNR?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T16:45:39.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "拉斯海马和沙迦在受损油轮漏油后重新开放海滩",
+            "originalTitle": "Ras Al-Khaimah and Sharjah reopen beaches after oil spill from damaged tanker",
+            "url": "https://www.arabnews.com/middle-east/ras-al-khaimah-and-sharjah-reopen-beaches-after-oil-spill-from-damaged-tanker-3011373",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-12T20:27:35.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "DP世界巡回锦标赛：罗里·麦克罗伊“势头良好”，有望追平迪拜争霸赛的胜利纪录 - Sky Sports",
+            "originalTitle": "DP World Tour Championship: Rory McIlroy 'trending well' in pursuit of record-equalling Race to Dubai victory - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQblNIYmxDV1B4d3ZuTVNVcDJOaDhjbHR2MGpad0ZyanhUX0xnZ3NfX05CVXU1QlZpcFF5SEEyZWV3N0xwcmowWF9EWW4xdUZTc290bFd5aXpPOXZWRElJcEZzcGswTWp5TklMcDNTNnpuMWliWE1UekpJbWRMUjdvVjFQVHI3dVEwelJTbDMzUnhvcmFUY191R3NUZEFHaDFKU09VejN3VHVaTGdPSXVpU2gxNzJSYlE4N3RtcE9MNzE4bXNIQ3V3REpWaUhldzg4YkFGbWNxSW1wQmQ4Q05GU3NIRjlidw?oc=5",
+            "source": "Sky Sports",
+            "sources": [
+              "Sky Sports"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-12T14:56:39.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿布扎比警方确认在努尔马戈梅多夫与德瓦利什维利的酒店斗殴事件后逮捕了10人，其中包括两名拍摄者——《印度时报》",
+            "originalTitle": "Abu Dhabi Police confirm 10 arrests after Nurmagomedov-Dvalishvili hotel brawl, including two who filmed - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeVR1S0hMcXVPXzFIdHdNRjgxNFRXbG95YUl2N1lXQmJQSkRseUg1UjloWkdzUFNoVkVGWlNWbUZINVRVOWI3YWlMeGYzYVZqTXVnQUY2YmFESkV2NDBPZ0xGWllmV2NnRUs0Ql9xQWRXZXZyRm9IeEw2OGFGYkZVYmR0MFJXMmdGalJrMlB0dlFHbXB2NXdZLUdQTkoyZHZNOEZERFJ3Q1F4VFdMbGZRcDlOell3eXUwWGE0SlpMbw?oc=5",
+            "source": "Mashable India",
+            "sources": [
+              "Mashable India",
+              "The Times of India"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-12T19:31:56.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "谢赫·穆罕默德颁布关于迪拜市政府的新法律，以提高生活质量",
+            "originalTitle": "Sheikh Mohammed issues new law on Dubai Municipality for enhancing quality of life",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-mohammed-issues-new-law-dubai-municipality",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-12T06:22:02.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "海湾航运再遭袭击，阿联酋附近油轮起火",
+            "originalTitle": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
+            "url": "https://c.newsnow.co.uk/A/1329651848?-15565:1965",
+            "source": "gCaptain",
+            "sources": [
+              "gCaptain"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-12T19:32:52.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "迪拜仍是领先的航运城市 - ARN新闻中心",
+            "originalTitle": "Dubai retains position as leading maritime city - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWExcV93SUNpNW8tc3g2TFlNVVVPVlpXMk14cWxBQW5IMThReGhRbEdQUDNVbEFlZEU2VWlLVTVDcTRnQldqdVVrZE1VQzJ0OEMtdXJadGF2S3dKOVFhUGlvN2dQNU9UUUhyU2JJY2I0Q3ZEb2ZUSV85V19SNlY4SzB2RHliZDVRcnhLdXN2Z2ota1JxOWlrMDJ3?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-12T19:44:24.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "MMA明星梅拉布·德瓦利什维利和乌斯曼·努尔马戈梅多夫在阿布扎比酒店大打出手，视频爆红 | 观看视频 | Inshorts - Inshorts",
+            "originalTitle": "MMA stars Merab Dvalishvili, Usman Nurmagomedov brawl at Abu Dhabi hotel, video goes viral | To watch the video | Inshorts - Inshorts",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWRWaTFTRFV3V2c0bjBtSm5uTkdPcDBBWGdyTng5VkpKakFjZjdXUndLQUdRemU2QXVYLXF4a1pydFJmdk9lWWZTTF9GT0F4MXM2dGpFXy01cWtlR1dLUVBKNTNKQkYyUTZRNFktOW9MbjcyUEIxdTVJaDhLelcwWEN5WDQxM3hiQWU5b0x6dXJfdEFLeTVDTkdKSUNueVNzV194Y05vZ0JhMl9IZGcwTnoyNWN5U09Td29pS2FLNDJfS2xrSzItNHhRYkxjQdIB0wFBVV95cUxQdmNWMm5WbjNXYTZQVGV5THVtQ1pua18yZ2I4NUw2UlVUMDBac0cyV2hCVU9URkt6cU9OYXkxY1h6d3J3Nnl5ZGVQdFF2a0ptUzFydWRRVHI0SXFFTEhuTnN5NUNwYVNSa0g4M29hV19VZkhMeUp6cFlQclM5VXQ5NjVMdHZ1dUpLUnkyb09Od0dwX19zV20tanpQZGFiVlMzMWd6NUNTVDR5SXFTSWtXN3p6bm1BbVlkY1NlZ1FOS19kMWs3LXpEY2NWTXZndHljaERn?oc=5",
+            "source": "Inshorts",
+            "sources": [
+              "Inshorts",
+              "ESPN"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-12T16:57:02.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋展示人工智能工具，在患者与医生见面之前先与患者进行面谈",
+            "originalTitle": "UAE showcases AI tool that interviews patients before they meet doctors",
+            "url": "https://www.khaleejtimes.com/lifestyle/health/uae-showcase-ai-tool-interviews-patients-before-meeting-doctors",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-12T11:48:14.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "迪拜游戏测试之夜为本土游戏人才提供支持 - ARN新闻中心",
+            "originalTitle": "Dubai Playtest Night supports homegrown gaming talent - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDl4NGhmR3d0eVFHUmlHbnJNcjV0Yko2VWE1dGZNZ3AySXJ3VDhPM1ZHREppZWI2cW5jeWxoVmZTck9vSGtZTHNOcXpxY252MFZCaEJNam9ZU0RoZTQzb2p4Y1dlZVQ5aG5HaEZHblhsamxBRjhRaTRCSHhyb0dkLTgzWURBc1hrbFZjdUdwMk96Nmp6blBTTC1tWERWU25LWk0yTA?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-12T18:33:41.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋与香港的双边贸易额每年增长8.2% - 《海湾时报》",
+            "originalTitle": "UAE-Hong Kong bilateral trade grows at 8.2% every year - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUFM2N1VxRmc5VG5TMnUtSGxEME9ocGhBOFFxZ1hOcDN4R25Nb0NDOW55UDhMeFhvdU9jZ0JRU0UtRm9YbzFEdi01SGxRUS14SDdfbnFZVzZmRnltODJNQlBzWlo0b0VZMC00NWo4WDM1TTlSZkhHMlJVNV9QTXFYSjh3WUY4TEdOcTNqdFdpdkNUUDh20gGcAUFVX3lxTE9oYXpJNnRpN3lhRTB3TF9TS0RzQnZ6cG5pT0UwWFhmbXRlVlRJejFSemVlZW5YS0ZsNHJqdnZuVVp0a3RpaEtoWjF2NF9UWDdoYnc3dzhrcHpGM2ZCTmRYSDZxd0xVX1B0a2RtVVp3OVFTRXFEcnZzbk5LLWlFQWJMUVNCX2VjbnYwMVNJMUZmMm9SUGkyTkFQVjZrOQ?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-12T11:05:59.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋在中国战略思维中的地位 - 卡塔尔新闻",
+            "originalTitle": "الإمارات في التفكير الاستراتيجي الصيني - أخبار قطر",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MUW9BZTNEM2wxdG55bGVVSUkyMi04OGZFUFJ5MFd0UERvT3B3MGJrN1pzVnJpRGZ4SjExTUt5SkR6T2xsSUVQamdMaTZ5eU9uNWo5WndWZWh4QVFhd21xLVR4WldmT0lWbGtmZ1hR?oc=5",
+            "source": "أخبار قطر",
+            "sources": [
+              "أخبار قطر",
+              "العين الإخبارية"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-12T07:30:19.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "华为庆祝 XMAGE 大奖创立 10 周年，从巴黎到阿联酋 - Arabhardware",
+            "originalTitle": "هواوي تحتفل بمرور 10 أعوام على جوائز XMAGE من باريس إلى الإمارات - Arabhardware",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CSmhWT2dxZnppaVllTG1wZDJKLWo3eXB5ZVNvZnlnZmxySWltUGhBaDJZMll6R1hUbEpUWUZxNlFST1R6cXZYVWU2dWJfbDJoeGhsRmVYaE9DVktNVzM3LUJPWjdqVXpRU0dUbjg1aERLalRO?oc=5",
+            "source": "Arabhardware",
+            "sources": [
+              "Arabhardware"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-12T10:19:10.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋-中国智慧交通中心成立 - 《海湾新闻报》",
+            "originalTitle": "إطلاق المركز الإماراتي الصيني للنقل الذكي - البيان",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XVlZWcXRGMTViLU1WYVZvbVFERHVjajZ6U2hQeHVfaXRkdGM1Q2loS2FHUGZjOFlpVmZXYVo0QVRoRlJCbnBkaDNyYnFSSVNJQ2NBampZMkg?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-11T14:28:00.000Z"
           }
         ]
       }
