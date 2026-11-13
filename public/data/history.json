@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T20:48:26.109Z",
+  "updatedAt": "2026-11-13T22:22:14.612Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -41020,6 +41020,699 @@
             ],
             "heatScore": 45,
             "publishedAt": "2026-11-11T14:28:00.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-14": {
+      "date": "2026-11-14",
+      "updatedAt": "2026-11-13T22:22:14.612Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "沙伊巴尼探讨与阿联酋、埃及、伊拉克和巴林同行之间的双边关系 - 叙利亚通讯社",
+            "originalTitle": "Al-Shaibani explores bilateral ties with UAE, Egyptian, Iraqi and Bahraini counterparts - سانا",
+            "url": "https://c.newsnow.co.uk/A/1329758070?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency",
+              "سانا"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-13T21:13:04.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋确认富查伊拉交通事故受害者的身份；10名阿联酋人和4名印度人死亡",
+            "originalTitle": "UAE verifies identities of Fujairah traffic accident victims; 10 Emiratis, 4 Indians dead",
+            "url": "https://www.khaleejtimes.com/uae/uae-fujairah-traffic-accident-victims-10-emiratis-4-indians",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-11-13T22:03:14.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "尼泊尔内政部长苏丹·古隆（Sudan Gurung）启程前往阿联酋出席世界警察峰会 - OnlineKhabar英文新闻",
+            "originalTitle": "Home Minister Sudan Gurung leaves for UAE to attend World Police Summit - OnlineKhabar English News",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcV9Eek45TmdhMFVpaE00eXBpbUJ4ZTdyVzR3ejcxY3M5VzRvZnNrUU1VUDhjSXVlUUZpQzk2V3hnbndnajVieUVJNTZlN2VCcXhKdDQ2N3AyWDBoUGtZMHBFdFFPMDROekVqbERLZ2U1ZFdLRVZvM1pTSFZQYlNNZHdnNjVzWUdVbDFBbGhpZHZ0OTlOQnZNUmUtVFFyZ0N0SGNKeV9rQTRPekU?oc=5",
+            "source": "Nepalnews.com",
+            "sources": [
+              "Nepalnews.com",
+              "Khabarhub",
+              "OnlineKhabar English News"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-11-13T16:01:37.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "美国航班停飞：阿联酋航班是否受到影响？",
+            "originalTitle": "US grounds departures: Are UAE flights affected?",
+            "url": "https://c.newsnow.co.uk/A/1329760458?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-13T21:53:34.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿布扎比：纳哈扬·本·穆巴拉克·阿勒纳哈扬酋长出席世界军事医学大会 - 《海湾新闻》",
+            "originalTitle": "Abu Dhabi: Sheikh Nahyan bin Mubarak Al Nahyan visits World Congress of Military Medicine - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUkzRzcyTE1KUHNwLUhzLTFhTmJIeHFyQ0YzQ0wyY3l3WEFNazdpTHhRdDlHdlc2U09BLTByaWxEeXFWd2EzcW04QW5RUkVycXl5QnR2Vy1EOVVYWTdVUHNYemhnVnBfLVdsVldDSFpxc3oxRTN0eW5KTTVnSHhwOXBvMXB4MEd2d0tBYkhFRWpYTTgxLWg4clAxanBTMnkzZXkteVRQMkRyUFlkUl9ZczRfbjFGZVk2UEpNem9Qdm1CNlFyTE5VZDU5SEo3YUJk0gHjAUFVX3lxTE93OEF2eHROUEF1b0F6UU1PX2xUZFhLWTBtV3pQcXpUOEhvMkQ3WENUZDdhRUdpMkJ4amZBRTR2aTQyREZSMUsybDJOaDFqek9xMVZPMEpLclFIekY2Z01iQzFxck42VllRTE1kTVI4UGJKNEdmNnpueldLUVE0WTJhTXpLeUxucjk1U08yZjhHMFNjWmgzc1FRRDJMd3IxTktSaHBnMWlqUTBNTDVSay1rMTZhLVZ0cmdlYWdwWXlPd3FIbXhMdFdzQ1JXZHFuRjZFRVFNV0Rxc1JQMFc4Z21aUTY4?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News",
+              "Sharjah24"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-13T12:44:43.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "日本在阿联酋军事医学大会上探索为受伤士兵提供人造血液——《海湾时报》",
+            "originalTitle": "Japan explores artificial blood for wounded soldiers at UAE military medicine congress - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/japan-artificial-blood-soldiers-uae-military-medicine-congress",
+            "source": "Khaleej Times",
+            "sources": [
+              "Menafn",
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-13T09:30:03.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "第1天，阿布扎比精彩体验：汉堡和萌宠",
+            "originalTitle": "Day 1, Taste of Abu Dhabi highlights: burgers & babies",
+            "url": "https://c.newsnow.co.uk/A/1329757065?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-13T20:58:56.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "周五礼拜后为富查伊拉坠机事故遇难者举行葬礼祈祷",
+            "originalTitle": "Funeral prayers held for Fujairah crash victims after Friday prayer",
+            "url": "https://www.khaleejtimes.com/uae/funeral-prayers-for-fujairah-crash-victims-after-friday-prayer",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-13T16:23:30.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "根据一项新举措，1万名阿联酋人将接受培训，将创意转化为真正的企业",
+            "originalTitle": "10,000 Emiratis will get training to turn ideas into real businesses under new initiative",
+            "url": "https://www.khaleejtimes.com/uae/10000-emiratis-entrepreneurship-training",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-13T16:09:25.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋明日天气：部分多云；风速可达45公里/小时",
+            "originalTitle": "UAE weather tomorrow: Partly cloudy conditions; wind to reach up to 45kmph",
+            "url": "https://www.khaleejtimes.com/uae/weather/november-14-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-13T15:57:31.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "沙伊巴尼探讨与阿联酋、埃及、伊拉克和巴林同行之间的双边关系 - 叙利亚通讯社",
+            "originalTitle": "Al-Shaibani explores bilateral ties with UAE, Egyptian, Iraqi and Bahraini counterparts - سانا",
+            "url": "https://c.newsnow.co.uk/A/1329758070?-15565:1965",
+            "source": "Syrian Arab News Agency",
+            "sources": [
+              "Syrian Arab News Agency",
+              "سانا"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-13T21:13:04.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋确认富查伊拉交通事故受害者的身份；10名阿联酋人和4名印度人死亡",
+            "originalTitle": "UAE verifies identities of Fujairah traffic accident victims; 10 Emiratis, 4 Indians dead",
+            "url": "https://www.khaleejtimes.com/uae/uae-fujairah-traffic-accident-victims-10-emiratis-4-indians",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 89,
+            "publishedAt": "2026-11-13T22:03:14.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "美国航班停飞：阿联酋航班是否受到影响？",
+            "originalTitle": "US grounds departures: Are UAE flights affected?",
+            "url": "https://c.newsnow.co.uk/A/1329760458?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-13T21:53:34.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "第1天，阿布扎比精彩体验：汉堡和萌宠",
+            "originalTitle": "Day 1, Taste of Abu Dhabi highlights: burgers & babies",
+            "url": "https://c.newsnow.co.uk/A/1329757065?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-13T20:58:56.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "周五礼拜后为富查伊拉坠机事故遇难者举行葬礼祈祷",
+            "originalTitle": "Funeral prayers held for Fujairah crash victims after Friday prayer",
+            "url": "https://www.khaleejtimes.com/uae/funeral-prayers-for-fujairah-crash-victims-after-friday-prayer",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-13T16:23:30.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "根据一项新举措，1万名阿联酋人将接受培训，将创意转化为真正的企业",
+            "originalTitle": "10,000 Emiratis will get training to turn ideas into real businesses under new initiative",
+            "url": "https://www.khaleejtimes.com/uae/10000-emiratis-entrepreneurship-training",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-13T16:09:25.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋明日天气：部分多云；风速可达45公里/小时",
+            "originalTitle": "UAE weather tomorrow: Partly cloudy conditions; wind to reach up to 45kmph",
+            "url": "https://www.khaleejtimes.com/uae/weather/november-14-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-13T15:57:31.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋调查富查伊拉交通事故，详细说明谢赫·哈利法路的两起撞车事故",
+            "originalTitle": "UAE probes Fujairah traffic accident, details 2 crashes on Sheikh Khalifa Road",
+            "url": "https://www.khaleejtimes.com/uae/uae-launches-probe-into-fujairah-crash-truck-driver-put-in-custody-at-hospital",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-13T15:10:19.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "从心脏手术到女子拳击：阿联酋母亲向杰克·保罗发出呼吁",
+            "originalTitle": "From heart surgery to women's boxing: UAE mother's appeal to Jake Paul",
+            "url": "https://www.khaleejtimes.com/sports/from-heart-surgery-to-womens-boxing-uae-mothers-appeal-to-jake-paul",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-13T13:37:48.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋宣布私营部门员工享受2天国庆假期",
+            "originalTitle": "UAE announces 2-day National Day break for private sector employees",
+            "url": "https://www.khaleejtimes.com/uae/uae-2-day-national-day-break-private-sector-employees-eid-al-etihad",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-13T13:18:25.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "尼泊尔内政部长苏丹·古隆（Sudan Gurung）启程前往阿联酋出席世界警察峰会 - OnlineKhabar英文新闻",
+            "originalTitle": "Home Minister Sudan Gurung leaves for UAE to attend World Police Summit - OnlineKhabar English News",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcV9Eek45TmdhMFVpaE00eXBpbUJ4ZTdyVzR3ejcxY3M5VzRvZnNrUU1VUDhjSXVlUUZpQzk2V3hnbndnajVieUVJNTZlN2VCcXhKdDQ2N3AyWDBoUGtZMHBFdFFPMDROekVqbERLZ2U1ZFdLRVZvM1pTSFZQYlNNZHdnNjVzWUdVbDFBbGhpZHZ0OTlOQnZNUmUtVFFyZ0N0SGNKeV9rQTRPekU?oc=5",
+            "source": "Nepalnews.com",
+            "sources": [
+              "Nepalnews.com",
+              "Khabarhub",
+              "OnlineKhabar English News"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-11-13T16:01:37.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "富查伊拉王储探望车祸遇难者家属",
+            "originalTitle": "Fujairah Crown Prince visits crash victims' families",
+            "url": "https://c.newsnow.co.uk/A/1329748354?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-13T18:46:31.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Mubadala Bio与Baynouna Gene Solutions合作，以扩大在阿联酋获得本地生产的先进分子诊断产品的渠道 - www.wam.ae",
+            "originalTitle": "Mubadala Bio, Baynouna Gene Solutions partner to expand access to locally manufactured advanced molecular diagnostics in UAE - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQVZzNWd5UnVrOGpTU00zZXVPZlZFM1l5R1RKQkhmNXd4bjBWR3BtNVZnNDRMcE9sb0hsNHM1dWlCd0NlX04wb1lyZjJDSkFpdHZLRUpqNjVXT2g1czZhVE5mRHduazF2d0RTMmV6THFWTkJwOXJNeHc0NDJNOTdINlNaMlhpX2k2X0E?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-13T11:03:57.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋参加第 31 届印度工业联合会合作伙伴峰会 - 阿联酋之声",
+            "originalTitle": "The UAE participates in the 31st edition of the Confederation of Indian Industries Partnership Summit - صوت الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSG91SWFjYTFMdHNCTDFxZlQ1dWxvckRRM3dKTWxPWjJiTjg4MG45VkhVdm84MG9sZ0llLXZjNWNVdnZzOEh0R3FVSFdnM0NsOGFUS2thS3JoUGNQcWlWUEU1MkptM1FxUGdra0tROEdJaGotNUdXVmpvajQ3YUJ2RWZQLWYwazZkd1JrNDZ5LWNPa3ZaeXlGRHFIMEhnckQtYTI4UEpxVlR2WkVlMXFIWkdUZENwX0xkdFdlaHBGUjExQXFESWRubXBCX2JnZ0kyV2NVTmUwaXFfUklyVmpoLXRfclZuLVF2N210SzZKZUpaOFZibFhHT3ZKaHlIa0I3NVJNLQ?oc=5",
+            "source": "صوت الإمارات",
+            "sources": [
+              "صوت الإمارات"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-13T10:54:30.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋在印度CII峰会上探讨人工智能、物流和贸易关系 - 《海湾今日报》",
+            "originalTitle": "UAE explores AI, logistics and trade ties at CII Summit in India - Gulf Today",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTJMdGFWWFp4UHhWMmdMSlo1VHZPbDJWZGhQcDl5LUFoM3F0T2laRkJac2tKZXhoYy1QbVV6YXNwd0Z2aklZa3NfQmZmdUJzOVhpRUdJQUtYSkREYzlGdkhDazJZa1hPdDRXNWFSZGs5dHFzYS1SMU9yQjY1dnNXUkMtVUp4OWJ6Y3dvTGRCQ3FlMlVEYnF4Ukx0bFQ1bG12eTRiN0FESVBJNU94?oc=5",
+            "source": "Gulf Today",
+            "sources": [
+              "Gulf Today"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-13T10:49:15.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "2026 年拉斯海马投资与商业峰会圆满落幕 - 阿联酋新闻社",
+            "originalTitle": "Ras Al Khaimah Investment and Business Summit 2026 concludes - برق الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlhWVm5lZTFtQ0ptUXl3NHlxYl9qd3lINXdqWlFxLXluVWFoYnB2MEYtRWRZdUdTVTRZcVZXSTRWZkVxdDFGT0ZGeXdFc1lCcWJDNTVXZnh6Ti1xRmgzeDE2eFgyeTRSLUk2WlpuVEJvQUprem5lTlpYZGNNM2RVTWZoenpLY21GWTNmZjBTU2Z1UlJOYnlkV2VvR0RDNmc?oc=5",
+            "source": "برق الإمارات",
+            "sources": [
+              "برق الإمارات"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-13T10:01:37.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "外交部长前往阿联酋参加萨巴尼亚斯论坛 - 今日埃及",
+            "originalTitle": "Foreign Minister travels to UAE to participate in Sir Bani Yas Forum - Egypt Today",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHRvbVdlVzMyVHktRXVEOURGMldNZFhRYUZLMDZqdWJsWTFsRENkNjFpamQ2VW54WjFUVENsQVpITmpHaFFVYWZrRi1YUmEzOXZYRkZqRGhwZFEzY21wRjRIM2ZkeGpOendBanRfUUJPeHQ1TjF3N1QwSWFTWF9TV3Iwdm5Pbk9oZUpvbTJnQ0xnekpiRzB0cmNEOTZfdVBDODdBZg?oc=5",
+            "source": "Egypt Today",
+            "sources": [
+              "Egypt Today"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-11-12T09:30:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "迪拜将于11月26日主办关于社会影响、人工智能和家庭福祉的阿联酋峰会 - 《菲律宾时报》",
+            "originalTitle": "Dubai to host UAE summit on social impact, AI and family wellbeing on November 26 - The Filipino Times",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXy01SWJfZlRMb1VsSEYwSENJaHRfeDlvSTJKUjBGcVc4enBQMkVYdUIxLUtjQmNQdk90YllvM00xUDE1cHFEVnJ2X3ozNjJ6Z1dqY3RiVkd0ekttQ242bThKU1dDNHliQ3FlX055cVduN0o1dnpsUlNsTXFjaTBmRENQdjc0N18taTRkNDQ2Q0hxdklSTnZGM19ONGJJOTg3NGJRblIzNmdzVDFDS3pZVnR1bElMSzFnRnZBamxQd2VrRFlQZUFxTE1R?oc=5",
+            "source": "The Filipino Times",
+            "sources": [
+              "The Filipino Times"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-12T11:43:18.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋阿布扎比国家石油公司（Adnoc）称路透社的报道“不准确”，呼吁进行负责任的报道",
+            "originalTitle": "UAE's Adnoc says Reuters story 'inaccurate,' calls for responsible reporting",
+            "url": "https://www.khaleejtimes.com/uae/adnoc-reuters-report-false-inaccurate-november-13-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-13T13:29:10.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿布扎比酒店斗殴事件：8人被判处6个月监禁；2人被处以5万迪拉姆罚款",
+            "originalTitle": "Abu Dhabi hotel brawl: Eight sentenced to 6 months in jail; 2 fined Dh50,000",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-hotel-brawl-eight-sentenced-to-6-months-in-jail-2-fined-dh50000",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-13T11:18:42.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "油轮在阿联酋拉斯海玛附近搁浅，所有船员均安然无恙——路透社",
+            "originalTitle": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDlHRUduYXpITEh6ZXlxdm9Zc3hiVXlhZXhzbzUySkFvNkMyQ1pFYWlxbnZKUmR4T0tieF9rZHhWYnFzUXI2a0J4M2VOLUZPcGt3ckxrUzNrSFFfeXpXNDJjRzVIS2p6OWI5d1BhMHVzVVY4TktOaWJQYTJpenFZOXpISzBiUDZ5ZG5vVGE2U0U5RnFjQmlaRmNnUDk0YV9DRnl6UVRkOEtGR1RJdUF2VmxNRmVpN1lDeXRINVdYQ0xabGJkMTMwazNR?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-11-12T16:45:39.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "埃及与阿联酋的银行业关系受到美国制裁威胁的考验",
+            "originalTitle": "Egypt-UAE Banking Ties Tested by US Sanctions Threat",
+            "url": "https://c.newsnow.co.uk/A/1329759918?-15565:1965",
+            "source": "Global Finance Magazine",
+            "sources": [
+              "Global Finance Magazine"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-13T21:43:55.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿布扎比第一银行股价上涨，提振海湾市场——路透社",
+            "originalTitle": "Abu Dhabi boosts Gulf markets as FAB shares advance - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGNWY3AteW02UnJ1U3diVGdQLTFOUlJCU1M0UWZhQUdCbzhicnpLWXNpeWhHT1J0NkZWYzRzVm1nMUcxV2Q5MXJGOXNMTm4tT3FHM3F4d0s5VWU3UzZ0ZW1nb1YtTzh4SEIwQXExSU5DX0V3dHNvbWlvMGZKVlppZ0tib2xkOWpoWHljSXVVRnh1b2VneEd0NHhnbVNvQy1QV1pwOEVTTG9OempFYmc?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-12T13:17:46.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "Edge 加强量子技术能力，投资澳大利亚的 Q-CTRL",
+            "originalTitle": "Edge strengthens quantum technology capabilities, invests in Australia-based Q-CTRL",
+            "url": "https://www.khaleejtimes.com/uae/edge-strengthens-quantum-technology-capabilities-invests-in-australia-based-q-ctrl",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-13T14:11:32.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿布扎比：纳哈扬·本·穆巴拉克·阿勒纳哈扬酋长出席世界军事医学大会 - 《海湾新闻》",
+            "originalTitle": "Abu Dhabi: Sheikh Nahyan bin Mubarak Al Nahyan visits World Congress of Military Medicine - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUkzRzcyTE1KUHNwLUhzLTFhTmJIeHFyQ0YzQ0wyY3l3WEFNazdpTHhRdDlHdlc2U09BLTByaWxEeXFWd2EzcW04QW5RUkVycXl5QnR2Vy1EOVVYWTdVUHNYemhnVnBfLVdsVldDSFpxc3oxRTN0eW5KTTVnSHhwOXBvMXB4MEd2d0tBYkhFRWpYTTgxLWg4clAxanBTMnkzZXkteVRQMkRyUFlkUl9ZczRfbjFGZVk2UEpNem9Qdm1CNlFyTE5VZDU5SEo3YUJk0gHjAUFVX3lxTE93OEF2eHROUEF1b0F6UU1PX2xUZFhLWTBtV3pQcXpUOEhvMkQ3WENUZDdhRUdpMkJ4amZBRTR2aTQyREZSMUsybDJOaDFqek9xMVZPMEpLclFIekY2Z01iQzFxck42VllRTE1kTVI4UGJKNEdmNnpueldLUVE0WTJhTXpLeUxucjk1U08yZjhHMFNjWmgzc1FRRDJMd3IxTktSaHBnMWlqUTBNTDVSay1rMTZhLVZ0cmdlYWdwWXlPd3FIbXhMdFdzQ1JXZHFuRjZFRVFNV0Rxc1JQMFc4Z21aUTY4?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News",
+              "Sharjah24"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-13T12:44:43.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "日本在阿联酋军事医学大会上探索为受伤士兵提供人造血液——《海湾时报》",
+            "originalTitle": "Japan explores artificial blood for wounded soldiers at UAE military medicine congress - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/japan-artificial-blood-soldiers-uae-military-medicine-congress",
+            "source": "Khaleej Times",
+            "sources": [
+              "Menafn",
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-13T09:30:03.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "第46届国际军事医学委员会世界军事医学大会于阿布扎比圆满落幕，2028年大会将在卢旺达举行 - www.wam.ae",
+            "originalTitle": "46th ICMM World Congress of Military Medicine 2026 concludes in Abu Dhabi, Rwanda to host 2028 edition - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQTNXU1g4Uk9IcU1tZWZTWURzT2FzSlJRUU1tek1rR3NaazAxZzE2MkM5aF9XaVpUWnQ4eUcyaXg1RXlvRUllLVRKaHpvQ2pfQkRUWHVqbkYxT3lwSTBoWW1UMGtOdTB2aXhoVm1YUTItMzExMVFtRl9vTUlRTVFidEgxUWdsTmsxYmxPZm9B?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-13T13:13:47.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "“机器永不停歇”：阿布扎比在战时仍致力于实现其文化抱负",
+            "originalTitle": "‘The machine doesn’t stop’: Abu Dhabi’s wartime plan for keeping its cultural ambition alive",
+            "url": "https://c.newsnow.co.uk/A/1329761455?-15565:1965",
+            "source": "Semafor",
+            "sources": [
+              "Semafor"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-13T22:08:09.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "芬兰退出北约，部队撤出波罗的海国家：《图片报》披露俄罗斯在阿布扎比会谈中的要求",
+            "originalTitle": "Finland Leaving NATO, Troops Pulling Out of Baltics: Bild Reveals Russia’s Demands in Abu Dhabi Talks",
+            "url": "https://c.newsnow.co.uk/A/1329756657?-15565:1965",
+            "source": "Militarnyi",
+            "sources": [
+              "Militarnyi"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-13T20:52:02.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿布扎比造船厂和阿联酋作为国防出口国 - 海军技术",
+            "originalTitle": "Abu Dhabi Shipbuilding and the UAE as a defence exporter - Naval Technology",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkNkZUhRM3Aza2lXd1BzSkk3eEJfX0plWmxwVUIxWnp4T1RJdGRYSGh0RHJYYmZ0WVZxUmt5WUlnZnd0M2xKZmN4SWI4dEUyUzZCelZSMzJlZUM0ZGgwYW5JczVUVURabEtUcjZ1Rm5UNG5oOUZLMTNodm81ZUNLY3ZGa0pxenEyaTVVTmZHdmlzX0hYMFdmQw?oc=5",
+            "source": "Naval Technology",
+            "sources": [
+              "Naval Technology"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-13T15:48:52.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "报告称，尽管出台了新法规，但从战区走私的金条仍进入了阿联酋",
+            "originalTitle": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
+            "url": "https://c.newsnow.co.uk/A/1329745687?-15565:1965",
+            "source": "MailOnline",
+            "sources": [
+              "MailOnline"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-13T18:11:57.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿布扎比军事医学大会：新技术帮助患者避免截肢 - 《海湾时报》",
+            "originalTitle": "Military Medicine Congress in Abu Dhabi: New techniques help patients avoid amputation - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWGNhWEdxNEZXa2pIOGZYbUF4dnpERWFQQVhIdDFpbUdyZzRaRFlmUDR0VkVZN3dfLUh2M0wzdmNJRkZFLVdCSXh2S3FTNE15VGFETlVNOFlZMndSZzhiQkdtMXBzSEt2ZDNFU1g4bHVNTHIxX3BtRmlsTW9Wd0pqZ1ZPWFI4SmhvQ094NnFmcDlFSlFqTjVjUUtuWHlJWi1fdkd1YUY4XzhLTldxVmVuTVc3THExc1dKM3AycUpiV1cwN0RTdWJiM3RTdDhZNnIzZTNtYnQxTjZVM2NDWlkxN1luc1ZGYWPSAe8BQVVfeXFMUGo1TFAycUtHUUNFcjAxakFtVndVeTJ4dDdWcGNTWjFhZFV5THY1REQ4NGhpUUFpdlBJdTQwNWhwZWgweDBHZlp4SzYzRHNHQnpfYjdCTFdlVWZFY0tLend4azB6cmNobFFWT3F0cDFxWEk1SlVqcTZvUkFacTBNOGN0TnN2UFJnT1c2Zi1jVTBXLUpyNGxEUG84SldPbWduYUp6TkJPelprTHVET05jU3VxTVNqeTFtQkN1dEE0bWdtU0RaVnZxSkZuX1ZDa29HZTI2dHMzM3pPTmlYVU1ka2N5em94TjRXcFNXQ1A5Z1k?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-12T16:55:02.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋部长在全球军事医学大会上强调卫生安全是国家韧性的关键——《海湾新闻》",
+            "originalTitle": "UAE Minister highlights health security as key to national resilience at Global Military Medicine Congress - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeFpEUWVBZy1rczMxbWppM0wzejhKanVDVzJHa0RPbVZ6RzBXT0FUaTNfZG1FWUd6RFRxV1dJR2Ixelpfekg3eTF0WVQ5a0JtUENMa3FSTDA2b0pPeEpmWC1qT0J3RGtVWDNORzBBZFhUMzB3ckpuM2dlNmNkbExmdlBYTV9qVzI2YURZY1FzeGh6QkU2NmN1SWpma3FqcG1yd0lKUUZXOXNUMmVtMlk2NVppUTNmaV9aOUJoX1FuOGdGRDZzdEx0SHZ3RDMxNm84dS1XVER1ZVVfOGNONVQtZGF6TTVuazh50gH7AUFVX3lxTFBMN3hFcTBtS1R0Z2lKaEZUN0NFenpsdkNEUHNSWE5PTG15YVNEcld3c084QzJvUjRPYkcwSEpLNVhyZlBzejVibGplX3lXMk9mUzk3UFBiVVlYSFBQa1pVNkFXSVFyTWF4d2hjV1hVZ1JOVkJaLWIzWXVSbDQxUktXNXlkT1N2STNUb2JGN1hTTDBOUXI4eEEyOTBFT0ZXWTVjWmFTYTNXX2ZzbFhhaFQ3MTlnQ1RIejFuUFl0SXkzbFA3UTIxX0FFaEw1NVBHN2VRak0wYjljWDdfU0c5MmFJMUIxY2ZWRkMzRzR2WUYwV2JsY2dGVkZ2MWY4?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-12T15:02:39.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿布扎比在世界军事医学大会上展示智能、一体化的医疗应急响应系统 - 《海湾新闻》",
+            "originalTitle": "Abu Dhabi showcases intelligent, integrated medical emergency response system at World Congress of Military Medicine - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMGhYTDNHOUlZQVlrNXVsR1hVMkhfOVBkU2ZXOE0weU40cUxNZkNIaUxVQW5yYlI2UGloY1ZJNWJXaG5kLW9iX3pHR2ZEM0ZwSjF1bE5FTzhnTkJ0bkgxdXFJWnR3azNiVFlCX3VKRGNHaUZsUV9KU0QyRnBoREJfNW13VlNvZEFNYTdOT01HN3ZrbWxxNm9DdnNoMDEwTUxkaVpqMWZva1JCcE9XempYblZSRnJHTVRnN0xCQlhDMVFmeV9CQy1YVktVOUlnbGNkd2xrTDV1TjlWNF9nZGxCVDlzSUl2Mk9sekVBSGpjZEJ3THRJ0gGHAkFVX3lxTE55YkV6VmpLdFo1ZFV1LWVCYmRNWG9IaVFfdzJ3NGxQeHVrSmNRUHdnVi0waWJoZ3cxRExZa1BiMjFSR0tqOHdpcXpkdnRNNGNTd1ZDdUgtVWEwMHB1ei04SjFvcUllbWRMNll2Q2dKOEozWk1ZU2ZXTDJtckd3ZUhLZm41OFd2dFhvVC14OHVWZ2RxeTVMeU9pX09tSUtJTFVlYmdiaW10dzluTlFadzh5ZHYyeVdheHMyM3dnVGU3OHdDZUd2SGV3N2RsUGMwalB1SFRJOVZtRVdncWJFQkRJMlhjaEVYaWxnajIxdEhhTVFmdXE0VFphTU1VWklCUTA2blVWejNV?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-12T10:20:13.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "DP世界巡回锦标赛：罗里·麦克罗伊“势头良好”，有望追平迪拜争霸赛的胜利纪录 - Sky Sports",
+            "originalTitle": "DP World Tour Championship: Rory McIlroy 'trending well' in pursuit of record-equalling Race to Dubai victory - Sky Sports",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQblNIYmxDV1B4d3ZuTVNVcDJOaDhjbHR2MGpad0ZyanhUX0xnZ3NfX05CVXU1QlZpcFF5SEEyZWV3N0xwcmowWF9EWW4xdUZTc290bFd5aXpPOXZWRElJcEZzcGswTWp5TklMcDNTNnpuMWliWE1UekpJbWRMUjdvVjFQVHI3dVEwelJTbDMzUnhvcmFUY191R3NUZEFHaDFKU09VejN3VHVaTGdPSXVpU2gxNzJSYlE4N3RtcE9MNzE4bXNIQ3V3REpWaUhldzg4YkFGbWNxSW1wQmQ4Q05GU3NIRjlidw?oc=5",
+            "source": "Sky Sports",
+            "sources": [
+              "Sky Sports"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-13T09:47:21.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋总统与阿拉伯国家联盟主席讨论地区局势发展 - ARN新闻中心",
+            "originalTitle": "UAE President, Arab League chief discuss regional developments - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWF3ZjBrdmxzbzBscXhnbHdZVUlHcXhWQUZqa3FiOWNHdlRPblhtOC1HRkRSREQ1WWl5LVRRUjhKMUxNaGlOTWNoUkZKS3k2TWQyOVROdUZjX2w1Tm5uVmZGdi00VDIwcVJsVzVMUjBjZU9LWHRKRHRuTDhvQ3Rsa0xfZVlWWmhhMlUxNVRVb0U0X1VzVG45U0xobjFGWjRmZEE?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-13T18:22:30.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "泰瑞尔·哈顿因猛摔推杆在社交媒体上招致强烈反弹，但在迪拜并列领先 - Golfweek",
+            "originalTitle": "Tyrrell Hatton draws social media backlash for putter slam but shares lead in Dubai - Golfweek",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNVREcFBZeDlpZkJDdGtsZHk3OGtyZWZRUS1ZTmVvMjNaMUVhazNDYnRvZm54Qk5YRGVFcXhhUm9CRjRNM3Y2Qlcybnl0UnJHcjQ4dWFqanR0U3Rmam82SW5ZNEpqT1FBZGZibEM2UlgzSXFUeVFVRDk1S2N2eEt2TGtTRHRJT1BkM0NwZDNLcm8yZlprYUk2MEdpZ3Y5YzJLOHAtSExockJzbUFnQ2tuUXdEY0htdUVzX2psSXFXMURZX3ZiUDdJSGllN2lLazl0cm5aUnJhRXZlTm85THJzc05vRUZnUkVCOHVlSUZra043dG9aaE44?oc=5",
+            "source": "Golfweek",
+            "sources": [
+              "Golfweek"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-13T17:55:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿布扎比警方称，努尔马戈梅多夫和德瓦利什维利在酒店斗殴后，有10人被捕 - 《国家报》",
+            "originalTitle": "Abu Dhabi Police say 10 people arrested after Nurmagomedov and Dvalishvili hotel brawl - The National",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaWkwY05HTTQzYjhaOW1MdzB2WnR3cmh1Y1JzYll4QUU4cGozUlAtVEpCSWUySm9sZnN3Vm4wVFlRZ3lweGV4dWNWYThYaFNkQVk1dzUtZTFvWkxvSHhTSGM2QW5qbmlRMzZOUjhJYXZwejhUSm9ROW9KRnBGTTZvS3BHSWVfcDJERVNBVGxVa0Z0S3Z4OVFwakNNTzA4ZEVZZ0E0RnhuaHpxSlltREI3bGJsTzFOdGx4bGppdjBNZjBaMDVjNnRJSEZWcm5tSmQzamM2aFpVc2V0akFfako1dU1UR0t6a3hpTXc?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-12T12:16:59.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Wilde在迪拜T100赛事中实现阿联酋双冠的壮举 - ARN新闻中心",
+            "originalTitle": "Wilde targets sensational UAE double at Dubai T100 - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnQ2STRlRlYzbVFUUXFQTHdLbHozSzlyV2lwcFNwRXozaTNpQmtoMUZnNzJNeUxicVRpUHE5dGhoOXZZUFlVTGxGY0JIZ1BmZDNPUk9TNlZsbUMyUkZZNVpxMTdvR2xaam9VX1JDdkNBVzNqZmk1Y1EwNDlHdzNjWHp5UU9ja2dUMlVvNUlJWnR6dmc3OWJB?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-13T12:12:13.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿布扎比警方确认在努尔马戈梅多夫与德瓦利什维利的酒店斗殴事件后逮捕了10人，其中包括两名拍摄者 - 《印度时报》",
+            "originalTitle": "Abu Dhabi Police confirm 10 arrests after Nurmagomedov-Dvalishvili hotel brawl, including two who filmed - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeVR1S0hMcXVPXzFIdHdNRjgxNFRXbG95YUl2N1lXQmJQSkRseUg1UjloWkdzUFNoVkVGWlNWbUZINVRVOWI3YWlMeGYzYVZqTXVnQUY2YmFESkV2NDBPZ0xGWllmV2NnRUs0Ql9xQWRXZXZyRm9IeEw2OGFGYkZVYmR0MFJXMmdGalJrMlB0dlFHbXB2NXdZLUdQTkoyZHZNOEZERFJ3Q1F4VFdMbGZRcDlOell3eXUwWGE0SlpMbw?oc=5",
+            "source": "Mashable India",
+            "sources": [
+              "Mashable India",
+              "The Times of India"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-12T19:31:56.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋宣布第55个国庆节主题；迪拜计划举办为期11天的庆祝活动 - Curly Tales",
+            "originalTitle": "UAE Announces Theme For The 55th Eid Al Etihad; Dubai Plans 11 Days Of Celebrations - Curly Tales",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUpMUWhvUURLYnpHVGdyc3pTV2taVUs0OXAyYWJwWWdsZzVES01xREd6WE9CZzJ5a0kzQUxVNUNQUnREWFdKZnhtVUF1VFdXNGhvUnhrdEZiVE9odW9UVzd2YWVka1ZSWlAzZC1uV3ZOSnFhTWRJeU93VldGX0haOE1hbkJ4TTF6MjE5THZ6a2ZoSEdiUEtobDUwWXA1S3Y5N3JLZnh2WTFEeTJlZmFZbzRvbFZ2dlpOUzN4dm5wQUZ2anR4UXfSAcsBQVVfeXFMT1NLazhDRF9SclBGUlJtYW1MQ0tDYXRDTlhMcmdxWFhCUkZ6N0tUX2xjbHBFS0FsNTEzRjdGek1qSjhCTTQ0RGhzMnQ0VFN0Qm52VDNlWVowcDhuMVRCczZGUmViV2plWjhvRUQzc0ZIMjl0WDFVTWhqZU1SWlBLMVd4U0J6R3Fpa3FReWJ2Wkk3RXJWLWo3MUJhVzUwbm1Gczlsam9nNW0tSzk4WkU4LTU0TXN2TEVLUnc4YmxYTVFQbkZIdllHWGtGWG8?oc=5",
+            "source": "Curly Tales",
+            "sources": [
+              "Curly Tales"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-13T08:14:39.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "格鲁吉亚UFC选手梅拉布·德瓦利什维利及其朋友在被阿联酋警方拘留后获释 - OC Media",
+            "originalTitle": "Georgian UFC fighter Merab Dvalishvili and his friend released after being detained by UAE police - OC Media",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjRqd09nUHBWOUhJeHpfX0gzX2otT3VwU1hlOUdMZ3BodmJERmZTT0gwVE9IdXhuTUNoQmJUUUtFZ1FaTnBWQVVkTnRWbGgxWTZDeTBnMVdTZUlrdkdPaU9LN0o1MmJhSVMzWi1FT3BrUXFfWG9ITDRTMHlJVzlaeU9NLXc1a3NMODh1QThmbzByRy1VNTdOUUo3c25Kc29KSF9xNW5SdWswRXJlOFl0NW5kOVQ?oc=5",
+            "source": "OC Media",
+            "sources": [
+              "OC Media"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-13T06:52:08.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋禁毒顾问警告：毒贩正在利用人工智能和社交媒体来分析和锁定年轻人 - Emirates 24|7",
+            "originalTitle": "Drug dealers are using AI and social media to profile and target young people, UAE anti-narcotics adviser warns - Emirates 24|7",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWEhQZEhmM3BtLUM0STR0dG5yanNwMFMxbHFKNWV6bFJ2NmlGemlnQXR6VjJtdVNPWTRYZDZCSDdQUEs4SFlWNS1fM0hrSUlpeFR1VUxkMWltWEtuMzY1VlVOQlNQMnpnRW95MkZiSkk3TngxNFhuY2lJbk1HZTNrY2x6enJFVXNUeENBczlTcjlMaldORUJNWUY0V0pPRjgwTUhPSUk4X1h2ejZETkFwNjkzdWdnVEhPcDZINDY0VEo0QWVoaWhaNlBpTjhSSk1veFZHeV92bDR3eEx4cWtHStIB-wFBVV95cUxQN0QxaThZMXllaFZGaE1Dc1NTWHNKaTZLT2ZlX0M4U2NiRHdZM29WU191NkxTeFBPLW1uTERMMjlhMDVaRzNzY1VjX0c4WVBRbWExU203TDI5c3pSNVhfTXd4c0ZuY04wR3M1RDFUclpLX3VvQ3owVFlpeTZtWmZNRHVJNEhpaGYwTFg4UXNZUGRZeENBS1o2SlB3ZEhUbEhSQWpkZWFiN2xyenNLNG9OTnRfMjY2d3kyS3IxS1RHX185MmhZWHc5NFQ1cG1TZDRMbW5zck9wcjBJY2Jic20wbDFZZFJMeUFWZG0zaGx6RHBoQnF1YUU3aVBmdw?oc=5",
+            "source": "Emirates 24|7",
+            "sources": [
+              "Emirates 24|7"
+            ],
+            "heatScore": 48,
+            "publishedAt": "2026-11-13T00:18:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋警告：贩毒集团利用社交媒体和加密应用程序瞄准青少年 - 《菲律宾时报》",
+            "originalTitle": "Drug syndicates using social media, encrypted apps to target youth, UAE warns - The Filipino Times",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV0RZMEtkVV9nalVlSy12dXd3WGdqUm5CazhoWkN5d3BBck5wN191UW55bVUza3FvZXF6cE8tTDlCZEtYb1ZMSjdXaG1MT3NDS2x3NUJCbno1UDh2R1dzeHBvMDdrV1ZDV2VoNVBYMUkwelFiTERSNlRGZkJabG80OFRPa3JWc3RVRm9mdUdrek4ybGhleVFzRWlhYW54Vk9IMmhJblNXckIzLU9yYW92NnVUX0lKX3dRaTZmeVBzY180eFU?oc=5",
+            "source": "The Filipino Times",
+            "sources": [
+              "The Filipino Times"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-11-12T22:49:30.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "华为庆祝 XMAGE 大奖创立 10 周年，从巴黎到阿联酋 - Arabhardware",
+            "originalTitle": "هواوي تحتفل بمرور 10 أعوام على جوائز XMAGE من باريس إلى الإمارات - Arabhardware",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CSmhWT2dxZnppaVllTG1wZDJKLWo3eXB5ZVNvZnlnZmxySWltUGhBaDJZMll6R1hUbEpUWUZxNlFST1R6cXZYVWU2dWJfbDJoeGhsRmVYaE9DVktNVzM3LUJPWjdqVXpRU0dUbjg1aERLalRO?oc=5",
+            "source": "Arabhardware",
+            "sources": [
+              "Arabhardware"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-12T10:19:10.000Z"
           }
         ]
       }
