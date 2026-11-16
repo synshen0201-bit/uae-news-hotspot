@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T23:43:26.820Z",
+  "updatedAt": "2026-11-16T21:04:46.097Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -43063,6 +43063,676 @@
             ],
             "heatScore": 42,
             "publishedAt": "2026-11-14T17:54:34.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-17": {
+      "date": "2026-11-17",
+      "updatedAt": "2026-11-16T21:04:46.097Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋总统与委内瑞拉总统讨论加强双边关系 - www.wam.ae",
+            "originalTitle": "UAE President and President of Venezuela discuss strengthening bilateral ties - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1JTZnNYeHNId2JlbDhLcWVWQmZqSDJGMUN0OTdzS3FYQ1VJLWt1UDFCemJ2REFIVnBRRklqSkpsMUpCd3dtbElrc3ZyTEJUTjg2NzhtbkNMSi1OTWxjVTZGQ0FFNmJ0TFpnSnprUEtiWkNBXzB4RUhFLUQ0X0Z1dkRaQ2NjNWVJV2Jr?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-16T14:53:18.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "泽连斯基希望阿联酋能主办新一轮乌克兰和平谈判",
+            "originalTitle": "Zelenskyy hopes UAE can host another round of Ukraine peace talks",
+            "url": "https://c.newsnow.co.uk/A/1329958117?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-16T19:58:34.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "当局称，美国篮球运动员在尼日利亚机场因携带75磅大麻被捕。",
+            "originalTitle": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+            "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 95,
+            "publishedAt": "2026-11-16T13:16:36.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "中东战争：阿联酋居民需要了解的事项",
+            "originalTitle": "Middle East War: Things UAE residents need to know",
+            "url": "https://c.newsnow.co.uk/A/1329951269?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 95,
+            "publishedAt": "2026-11-16T18:28:18.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "通过Step Global Group获得的限时专属美国EB-5机会",
+            "originalTitle": "Limited-time exclusive U.S. EB-5 opportunity through Step Global Group",
+            "url": "https://www.khaleejtimes.com/life-and-living/visa-and-immigration-in-uae/limited-time-exclusive-us-eb-5-opportunity-through-step-global-group",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-16T14:30:00.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "俄罗斯制造——经受世界考验：为什么高科技行业的领军企业选择俄罗斯钛材",
+            "originalTitle": "Made in Russia - proven by the world: Why leaders in high-tech industries choose Russian titanium",
+            "url": "https://www.khaleejtimes.com/business/made-in-russia-proven-by-the-world-why-leaders-in-high-tech-industries-choose-russian-titanium",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-16T14:12:53.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "在阿布扎比开办公司所需的时间可能很快将缩短一半",
+            "originalTitle": "Opening a firm in Abu Dhabi may soon take half the time",
+            "url": "https://c.newsnow.co.uk/A/1329949550?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-11-16T18:10:26.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋和委内瑞拉寻求深化双边关系",
+            "originalTitle": "UAE and Venezuela seek to deepen bilateral ties",
+            "url": "https://c.newsnow.co.uk/A/1329947747?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-11-16T17:50:08.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "印度超市员工用父亲的幸运号码赢得Big Ticket 24K金条",
+            "originalTitle": "Indian supermarket worker wins Big Ticket 24K gold bar with dad's lucky number",
+            "url": "https://www.khaleejtimes.com/uae/indian-supermarket-worker-win-big-ticket-24k-gold-bar",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-11-16T14:01:25.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "罗梅罗·布里托的艺术作品在迪拜展出",
+            "originalTitle": "Romero Britto’s art projected in Dubai",
+            "url": "https://c.newsnow.co.uk/A/1329947203?-15565:1965",
+            "source": "Brazil-Arab News Agency",
+            "sources": [
+              "Brazil-Arab News Agency"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-11-16T17:43:05.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "中东战争：阿联酋居民需要了解的事项",
+            "originalTitle": "Middle East War: Things UAE residents need to know",
+            "url": "https://c.newsnow.co.uk/A/1329951269?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 95,
+            "publishedAt": "2026-11-16T18:28:18.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "通过Step Global Group获得的限时专属美国EB-5机会",
+            "originalTitle": "Limited-time exclusive U.S. EB-5 opportunity through Step Global Group",
+            "url": "https://www.khaleejtimes.com/life-and-living/visa-and-immigration-in-uae/limited-time-exclusive-us-eb-5-opportunity-through-step-global-group",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-16T14:30:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "俄罗斯制造——经受世界考验：为什么高科技行业的领军企业选择俄罗斯钛材",
+            "originalTitle": "Made in Russia - proven by the world: Why leaders in high-tech industries choose Russian titanium",
+            "url": "https://www.khaleejtimes.com/business/made-in-russia-proven-by-the-world-why-leaders-in-high-tech-industries-choose-russian-titanium",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 94,
+            "publishedAt": "2026-11-16T14:12:53.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "在阿布扎比开办公司所需的时间可能很快将缩短一半",
+            "originalTitle": "Opening a firm in Abu Dhabi may soon take half the time",
+            "url": "https://c.newsnow.co.uk/A/1329949550?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-11-16T18:10:26.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "罗梅罗·布里托的艺术作品在迪拜展出",
+            "originalTitle": "Romero Britto’s art projected in Dubai",
+            "url": "https://c.newsnow.co.uk/A/1329947203?-15565:1965",
+            "source": "Brazil-Arab News Agency",
+            "sources": [
+              "Brazil-Arab News Agency"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-11-16T17:43:05.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋明日天气：部分地区预计有雨；迪拜最高气温31ºC",
+            "originalTitle": "UAE weather tomorrow: Rains expected in some areas; high of 31ºC in Dubai",
+            "url": "https://www.khaleejtimes.com/uae/weather/november-17-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-11-16T13:17:40.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "迪拜警察局长：在犯罪发生之前阻止犯罪",
+            "originalTitle": "Dubai Police chief: Stop crime before it happens",
+            "url": "https://c.newsnow.co.uk/A/1329944877?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 91,
+            "publishedAt": "2026-11-16T17:19:38.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "DP World ILT20外卡选秀为第五赛季增添明星光彩",
+            "originalTitle": "DP World ILT20 wildcard picks add star quality to Season 5",
+            "url": "https://www.arabnews.com/sport/dp-world-ilt20-wildcard-picks-add-star-quality-to-season-5-3012301",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-11-16T16:42:11.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "迪拜学校的缺勤规定有助于识别面临校园欺凌和家庭问题的儿童",
+            "originalTitle": "Dubai school absence rules could help identify children facing bullying and problems at home",
+            "url": "https://c.newsnow.co.uk/A/1329940174?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-11-16T16:34:59.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "沙迦启用Al Dhaid大桥；湖泊预计于2027年完工",
+            "originalTitle": "Sharjah inaugurates Al Dhaid bridge; lake set for completion in 2027",
+            "url": "https://www.khaleejtimes.com/uae/sharjah-inaugurates-al-dhaid-entrance-bridge",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-11-16T12:29:20.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋总统与委内瑞拉总统讨论加强双边关系 - www.wam.ae",
+            "originalTitle": "UAE President and President of Venezuela discuss strengthening bilateral ties - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1JTZnNYeHNId2JlbDhLcWVWQmZqSDJGMUN0OTdzS3FYQ1VJLWt1UDFCemJ2REFIVnBRRklqSkpsMUpCd3dtbElrc3ZyTEJUTjg2NzhtbkNMSi1OTWxjVTZGQ0FFNmJ0TFpnSnprUEtiWkNBXzB4RUhFLUQ0X0Z1dkRaQ2NjNWVJV2Jr?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-16T14:53:18.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "泽连斯基希望阿联酋能主办新一轮乌克兰和平谈判",
+            "originalTitle": "Zelenskyy hopes UAE can host another round of Ukraine peace talks",
+            "url": "https://c.newsnow.co.uk/A/1329958117?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 98,
+            "publishedAt": "2026-11-16T19:58:34.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋和委内瑞拉寻求深化双边关系",
+            "originalTitle": "UAE and Venezuela seek to deepen bilateral ties",
+            "url": "https://c.newsnow.co.uk/A/1329947747?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-11-16T17:50:08.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "哈比布·努尔马戈梅多夫在与德瓦利什维利发生争执后，与阿联酋当局就其兄弟乌斯曼的释放达成协议 - 《乌克兰国家新闻》（УНН）",
+            "originalTitle": "Khabib Nurmagomedov reached an agreement with the UAE authorities on the release of his brother Usman following a fight with Dvalishvili - Українські Національні Новини (УНН)",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTUhYWWx1UWxFTmVDeGMzOVFmUlhHa3l2LVlFZlBxeUxudU55UGJQMjZCVzBwNjUxMlFDSldVUmNHVWRwSnMtcXhzTW1PMW51MmJScnpxNlRJNVZrWEQydWFSV19zQVNDYnhfUEJoeFFjVDBpLW9rZzBqRWJlaXBmV201eE84MjNyR2dfTFBhMzJzUHNXSDFXTW5wWExwQTRZS1JpdDlROEJDLTIxTWVva1l6THpDcmM2SWp4cnU2OXUzNVZRenpQTkE3Szlzb3hxQzFHMTBfcEdCQWR3TTM0WjZZLW9oOVhYSDFHWkc2ODnSAe8BQVVfeXFMTmRkUFlNcVVobXVjcngyN2pPcTZkRnQ5Zl9ZRXlldUpuVkcyLUpnek9odEEwUkJBeFNsd29kamFWNmZsdXRZWmZsVFM3WllMSVBzNGN2Q1FPWEctOXBwM0dxRUs1cVhadWJMZmVMeUNJankzVTBmZ2QzYjVtUVU5ajlvaEY5MXo1NHNBaWstQUFyRk9UVHY2NkxyM3F6ci1ZRnk5S2lRTHJTNjczTlhuNFZDSklQUTE0V1FZNFNrVnJodE5JLXB0aHBPaGlKS3lleGVqRHN2WGZHVmhTVkhCVlM3ME9sVjhDY19PUzI2QlE?oc=5",
+            "source": "Українські Національні Новини (УНН)",
+            "sources": [
+              "UNN.ua",
+              "Українські Національні Новини (УНН)"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-11-16T17:10:31.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "三项国际协议为阿联酋的能源和工业业务扩张提供支持 - www.wam.ae",
+            "originalTitle": "Three international agreements support UAE energy, industrial business expansion - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1VQN1IzZUFKeUZ4dWM2bXJ5cGR6Z3dWSFI4WUZHUTNTR25KVGN0bk9iNkJnSzY5Q05OcEhJMDVpU1ZPXzZ0bEtXdGQ0bjRCbld6OF9OVWZ0czdpazMyV1dJTjMtMXA5NUVLRmY0bmI4VUFoN3lKdjBoNEd6dGhCbC04cUR3V1lyc3c2R21xTjQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-16T08:24:29.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "埃米尔殿下与阿联酋国家安全顾问寻求加强双边关系",
+            "originalTitle": "HH the Amir, Emirati NSA seek to boost bilateral ties",
+            "url": "https://c.newsnow.co.uk/A/1329962378?-15565:1965",
+            "source": "Gulf Times",
+            "sources": [
+              "Gulf Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-16T21:02:58.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋总统与东帝汶领导人讨论贸易、投资和可再生能源——《海湾新闻》",
+            "originalTitle": "UAE President, Timor-Leste leader discuss trade, investment and renewable energy - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNndrbXRFdE11Y0djSlRTSUE3SHp2Xy11NXRHQXhQMWdYeU1GYUNKVE4zQ3JIZXNkaE1YX1FYdFh6TDBDam4ySXU1a2hPODVZWjFQVmJtLVpyUVkxSjN4UE5rdUNvWHJEN1RuSFBvaWFyRXZtWDByNUcyTDNOX1RMWENwUXJOdW1EQXhzaTQ3WGdROTBsMXdld0tyaGhCOGt4Mkx3eE5tWWxnal9HcG5xVjhfUzlwSDdjTk5NZm8tVWtfZkVn0gHXAUFVX3lxTFBLNWRqS2lKcVF5dHo1dHhrcFRzWFVBU3RTcHIxd0JOMVhIR3E4VXFDQzZNbGVsb3F5N1hGcHphQjFRWkFGRmxTS2NRU1VNdmZCazVnejE1ZE5Hc2d0SVVfY3EwQVdnTVVkVFBqYU9PRkQtdGdDbjNWQ3AzQlU5a2M0SzF0QkxRUi01cWFzVy1yVk1kcV8wVVBydjdOc2RfV3ZqaTNUd0xPTVZmYzNWenpBZkpJelJNWUVIOUtGUU1YQ0t1U0NtZTJEQU5qWmtWMV9ybUpOTkZV?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-15T11:59:42.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "罗德里格斯总统抵达阿拉伯联合酋长国，以促进双边合作 - 委内瑞拉国家广播电台 - RNV",
+            "originalTitle": "President Rodríguez arrives in the United Arab Emirates to promote bilateral cooperation - Radio Nacional de Venezuela - RNV",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1hzYm1IR1NydDR0eGk1OEVJYnNEbzFrUUExWEpsdVROZDgxcFF1ZzJ6bEtvX1dQdi1aWEljOXEwNjdtS05SNVkxSVhKdU9PTDRMOTdqZVlOYlBZRW9WWmRGWkZWakoyTzBpSkpiVzlUSEJpTEZQNVcyQUppbmxJbExLMWIxQWtRekhadU5lQm9IX3JMdzhBbjNVUHplVW5lSERrLUlIaDEyM0Vt?oc=5",
+            "source": "Radio Nacional de Venezuela - RNV",
+            "sources": [
+              "Radio Nacional de Venezuela - RNV"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-16T16:45:50.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "由库布拉科夫率领的内政部代表团抵达阿联酋，参加2026年世界警察峰会 - 白俄罗斯今天报",
+            "originalTitle": "Interior Ministry delegation led by Kubrakov arrives in UAE for World Police Summit 2026 - СБ. Беларусь сегодня",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSkNESndvbWRIZURzcFVFWE5vclJSZjktb1EwdDkwMmN5Y0hueDFhckpHNHh4T3dob2FqdnVfTkF2eTFybWd3YTBnX1RkUjF4NWVmMEY2b09RSURQQ1VUc3h4X3Z6TVo4Tko5Y1FpVnl5MGZWOXp4NEdYOWlnSEpLc2gtSGl1cmJRZEhJb1FOY3BUeWpGd3gxSjEtUjVOVGs5WmU5WVM0RWh3MGFnYl81dEFibHM?oc=5",
+            "source": "СБ. Беларусь сегодня",
+            "sources": [
+              "СБ. Беларусь сегодня"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-16T10:51:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "内政部长苏丹·古隆出席阿联酋世界警察峰会，讨论布伊甘达基项目 - Ratopati",
+            "originalTitle": "Home Minister Sudhan Gurung Attends World Police Summit in UAE, Discusses Buigandaki Project - Ratopati",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZzluVHJZV1NLTjNSMUwxY011MWZiWFFrS0NpU2dSa01aNV95YTdzdGpqRXhIM0RTRHRwZm1JdnJoSkt3R1ZVemktWUoxOTVGa254LWxUX3VqZ3I1U2FieEJwRVI4Q3hfTFV6US13Zy1MM19qektXU2NicnBJVXFMcHo4YVpWckZPU2lhREpDUXVUaUQxdVVJbVhySExZcWpQTXlIWUJfNkctTkVRUzVNZjlVZFdSa3lFZGNZcHZKZnVxVTlwZVE?oc=5",
+            "source": "Ratopati",
+            "sources": [
+              "Ratopati"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-16T10:49:46.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "当局称，美国篮球运动员在尼日利亚机场因携带75磅大麻被捕。",
+            "originalTitle": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+            "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
+            "source": "The Guardian",
+            "sources": [
+              "The Guardian"
+            ],
+            "heatScore": 95,
+            "publishedAt": "2026-11-16T13:16:36.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "印度超市员工用父亲的幸运号码赢得Big Ticket 24K金条",
+            "originalTitle": "Indian supermarket worker wins Big Ticket 24K gold bar with dad's lucky number",
+            "url": "https://www.khaleejtimes.com/uae/indian-supermarket-worker-win-big-ticket-24k-gold-bar",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 93,
+            "publishedAt": "2026-11-16T14:01:25.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "迪拜机场团队如何在3月份的空中威胁中保护乘客，并设立避难所",
+            "originalTitle": "How Dubai airport teams protected passengers, set up shelter amid aerial threat in March",
+            "url": "https://www.khaleejtimes.com/business/aviation/dubai-airport-passenger-safety-march-7-aerial-threat",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-11-16T13:41:08.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "无需巨额资金投入，日常与孩子互动有帮助：阿联酋部长",
+            "originalTitle": "Huge financial investment not needed, interacting daily with children helps: UAE minister",
+            "url": "https://www.khaleejtimes.com/uae/minister-says-simple-daily-interactions-children",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-16T11:54:56.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿布扎比男子在新眼库合作下接受首次角膜移植手术，重获光明",
+            "originalTitle": "Abu Dhabi man regains sight in first corneal transplant under new eye bank partnership",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-man-sight-first-corneal-transplant-eye-bank-partnership",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-16T09:42:28.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "谢赫·扎耶德节将以3天的烟花表演和文艺演出庆祝阿联酋国庆节",
+            "originalTitle": "Sheikh Zayed Festival to mark Eid Al Etihad with 3-day fireworks, performances",
+            "url": "https://www.khaleejtimes.com/uae/sheikh-zayed-festival-55-eid-al-etihad-3-day-fireworks-performances",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-16T09:15:38.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "迪拜的公司破产：重组、破产和债权人权利",
+            "originalTitle": "Corporate Insolvency in Dubai: Restructuring, Bankruptcy and Creditor Rights",
+            "url": "https://c.newsnow.co.uk/A/1329938447?-15565:1965",
+            "source": "JD Supra",
+            "sources": [
+              "JD Supra"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-16T16:19:05.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "GODO 从“介绍经纪商”晋升为“阿联酋全牌照交易商”",
+            "originalTitle": "GODO Advances from Introducing Broker to Full UAE Dealing Licensee",
+            "url": "https://c.newsnow.co.uk/A/1329938092?-15565:1965",
+            "source": "Finance Magnates",
+            "sources": [
+              "Finance Magnates"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-16T16:15:19.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋签署《旧金山宣言》，以保障敏感人工智能技术安全",
+            "originalTitle": "UAE signs San Francisco Declaration for safeguarding sensitive AI technology",
+            "url": "https://c.newsnow.co.uk/A/1329938280?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 90,
+            "publishedAt": "2026-11-16T16:17:31.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "华为在巴黎XMAGE展览会上庆祝移动影像十年",
+            "originalTitle": "Huawei Celebrates a Decade of Mobile Storytelling at Paris Xmage Exhibition",
+            "url": "https://www.khaleejtimes.com/business/tech/huawei-celebrates-a-decade-of-mobile-storytelling-at-paris-xmage-exhibition",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-11-16T12:17:46.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "在检查员抵达之前，迪拜的餐厅将通过摄像头接受人工智能食品安全检查",
+            "originalTitle": "Dubai restaurants to face AI food safety checks with cameras before inspectors arrive",
+            "url": "https://www.khaleejtimes.com/uae/dubai-restaurants-ai-food-safety-checks-cameras",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-16T10:15:46.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "日本与阿联酋加强防务合作 - 海湾新闻",
+            "originalTitle": "Japan, UAE strengthen defence cooperation - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc1E1NmRBREhBNkYwOVpaTFZtSGphc1pTbzQtSEMtWlZyMDQ1OFVWS0tNTFpHb3hkWndoSHpEZ3YzTzRGWjF2VFpWV3FJTnFWTjVQSWlla2RaNUFMckt1OEh1NFc0YVRKbEkzczR2alUzX2NUNlhvTzBXZFBhVHBnQWVoaWhfV09KbVAxMDVYNlrSAaMBQVVfeXFMTUpwelptQllQbnRlQm11OEVObko0TEpPbFE2bFJHakNoN1BtTTZwYkNoQnZQLV83d0k0WnpRQkZOUEtBaFFLNDdndjFsVWJ4d3FwUmFSeW5rUVdmcWtRWkM1OUVjQUJ0N3NncHFrMlhjT2hyQ0VRNWhKRWxsNnpBQXJ0Q0VYWnp6RzVsYVVucFdLV0txRy1qbTNVY2dCU0N2bGFBWQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-16T12:22:32.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "哈伊马角人才奖增设科技类别，奖金75万迪拉姆，并提供商业激励措施",
+            "originalTitle": "RAK Talent Award introduces tech category with Dh750,000 prize, business incentives",
+            "url": "https://www.khaleejtimes.com/uae/rak-talent-award-tech-category-dh750000-prize-incentives",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-16T11:09:44.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "美国/以色列-伊朗战争：阿联酋居民今天（11月16日）需要了解的信息 - 《海湾新闻》",
+            "originalTitle": "US/Israel-Iran war: What UAE residents need to know today, November 16 - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFV0VVY0bGdxbDhjTk5QYTRocUZRNHdXSjF5S3J5LWdyOFJrbVZKNU4xaGlNODFYSWdob3dkQmRRNkY1dm9vaWluN3RoeFZ6REUwNmk2S040aTROendjdU03VkIzd3hnb2FwaDBiX0xGMklwLVlRcFpnMHBZOWRhNGNaUVgxc1ItNmg0Y0JYN1NJWHB6Qk5kNTBjWmtEWGtwTGxWeDN5czlXdzRROENSd9IBwwFBVV95cUxQNndPaExucWQ0Y2U5UEtFTVU3aU5hQnAwclNHMV8wOWFMcUNVTXp1M2VSTGpVakstR2JjaGRfYzNJYTR5SEJnM2JRUXowLVJHNnpCS1JUaWNOcklPVjdhSmd1N1RyR1RCYkFnbld1TUNCMmtBM2JnUGxPVXJsSGdhajBVSGJ5R2U4cmVYTU52S0c5aXRvZWpveXNyeTJmUHNZT3J1WlRkb3hVYVpwOEF3Tm5EVVJvZXNVckF2a2pDZC16Mk0?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-16T05:46:02.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿布扎比剧院，《家中的日常生活：为什么战争仍在塑造每一个故事》",
+            "originalTitle": "Theater in Abu Dhabi, Everyday Life at Home: Why the War Still Shapes Every Story",
+            "url": "https://c.newsnow.co.uk/A/1329956251?-15565:1965",
+            "source": "War on the Rocks",
+            "sources": [
+              "War on the Rocks"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-16T19:31:18.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋称拦截伊朗导弹后，富查伊拉石油区遭无人机袭击引发火灾 - EnergyNow.com",
+            "originalTitle": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-16T15:58:54.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿布扎比酒店斗殴事件：阿联酋法律对打架和自卫的规定——《海湾时报》",
+            "originalTitle": "Abu Dhabi hotel brawl: What UAE law says about fighting, self-defence - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHEwekVId3BzUXc0VWl5eUEwZmV6OGdFRFBwU2NPTVVfZXZlWmVVNk5jZkx1MklYVGs4S2JTWmtqY0FRU2Q0UDQxdHQ1bDRpdTJmUjhPcWt2SlBveHJlME5kVWtkQmc2VzV1MjZ5MWFUZ3JmNnRzdzJkVk0wZjlBVngwR0pNeVdCOW5vak93ZVJ6czVZSFhzYmtkUHjSAaQBQVVfeXFMTzlBeElnZTlaUlNGMkwxaTg2eFpNZlVwbWhGS1E5ZVR4VjJoWV9DRDhzOTdXNTM5YzB2OVZvUnd5cU1wVkQ5TUxDR05Sa2E0akJtWnNuWHN5TWY5LXg1a3lOMDBlSUVydnlhcUs1blQyWGJsMDB1N1dxWDVNSFk0Mzh1TlJaVXBUZ2NWbGFDQzk2RS1kS0hMMU5Edm5iRHlmcnpRT1U?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-16T02:00:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "俄罗斯着手加强与阿联酋的军事合作 - 里海邮报",
+            "originalTitle": "Russia Moves to Step Up Military Cooperation with UAE - Caspian Post",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0t3Z245eWlyVnZHbWRrSVpPSGlyeGVYQW1sc0pHZjllMXFfSXJKaEhmMmp4dlBzZWNLVnVYelUteWhjbXFPbDBUMFN1WjJUOW1MQjE4VHV6MzhMTlZYcVpiZ2poVlU1M3ZUWm1hZmdqU05NMzdlaVlWRmpadXdjdURzUHVPSGRONmhHLWcwbw?oc=5",
+            "source": "Caspian Post",
+            "sources": [
+              "Caspian Post"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-16T16:03:47.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋居民最新消息：中东紧张局势升级，巴林发出警报，沙特拦截导弹 - 《海湾新闻》",
+            "originalTitle": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFE2Z1ZqR1R2Mm4yal9HbE4zVWlzdTlkbVVwRHhBM3d0Z3laYUk3ekZ4VXJhLXUySEl0QndzRWlweFRERmFZMjNxQnZUaVY3YUZIYjZBbWdaa0F3ay12VUllRTYzc1JGOTJNbzA0bEtGOGxzTGpVM29wV3RmNzU3X0xXU1luN2tTNkpySzBYdjI1cWNyR3Jfc0d2dzVBWlhndE5BX0VzUnplZmVqVDRtUWlwMU9pUWhqZnJKUHc1MWhMWV9W0gHUAUFVX3lxTE8tTjFYYnBBX2ZQMkw3RnNJZGdSSkpvRkI1ZGZIZGNKX0hWRzhqbzI1STlyYWZ5WDJCcXdjSWhYV0pZcl90NHFHR1VEVU9SdVVBMnI5ZUJyWXoxTlE5T1NTcjBYQUN6cl8wdVlpNm11ajBGaDVvajd4Ym1HcThWVkRmQklWemdKODVQTUlxNGZ5aTByZzZJdFc1NndZeXhkcmpEZllNSV95QkZJWFJDckxrMHdMV1haWG50bEYxNDdVWGp6N1hJTVdYNTVRVHY1ZmhNdXBM?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-11-15T05:51:40.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "内政部长希望在明斯克测试阿联酋的无人机箱系统 - Позірк",
+            "originalTitle": "Interior minister wants to test UAE’s Drone Box system in Minsk - Позірк",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yV0xLbEFLOWRtRGRGS2NFNmdwNnRzY3pLR3dRWEZrSkliaGlkMVhNaC1QWGphMFNENkh2cmVsRGZzRTlyZzNqbGRFcVBsdw?oc=5",
+            "source": "Позірк",
+            "sources": [
+              "Позірк"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-11-16T17:02:42.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "福里西耶和帕蒂斯力争卫冕，越野铁人三项世锦赛在阿布扎比上演——世界铁人三项运动",
+            "originalTitle": "Forissier and Paties seek title defence as Cross Triathlon Worlds go off-road in Abu Dhabi - World Triathlon",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWk1NlBGdVdZWGpRQ0FqOVVtMTRPdVJFSHI0OXFjdXNlQjk3cUpjOTM4UHNvSmsxWHg3eGRIeGNNb3AxTTQ3ZjVnMmRELWpBdmtuZDluVmtBUERRWGpEaVZGZmxfMkVwaU5Bc0I3N1ZtSFZwZk53Z2UtUkdCNC1Ncy16cVRTWUZvb24wTDhJNGtha2dMYW00WFNzMHAweTFUdXlZYnh5YXF5Mnp2cjl4WHkxbVY1SG5u?oc=5",
+            "source": "World Triathlon",
+            "sources": [
+              "World Triathlon"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-16T12:03:14.000Z"
+          }
+        ],
+        "social": [],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "华为在巴黎XMAGE展览会上庆祝移动影像十年",
+            "originalTitle": "Huawei Celebrates a Decade of Mobile Storytelling at Paris Xmage Exhibition",
+            "url": "https://www.khaleejtimes.com/business/tech/huawei-celebrates-a-decade-of-mobile-storytelling-at-paris-xmage-exhibition",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 88,
+            "publishedAt": "2026-11-16T12:17:46.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "克里姆林宫宣布，普京将向习近平通报他与华盛顿和阿布扎比接触的结果……",
+            "originalTitle": "The Kremlin announces that Putin will brief Xi Jinping on the results of his contacts with Washington and the Abu Dhabi …",
+            "url": "https://c.newsnow.co.uk/A/1329946483?-15565:1965",
+            "source": "Voice Of Emirates",
+            "sources": [
+              "Voice Of Emirates"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-16T17:35:24.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋与中国、土耳其和英国签署三方战略能源协议 - Dubai Eye 103.8",
+            "originalTitle": "UAE signs three-way strategic energy agreement with China, Turkey and UK - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk9ZbXpMTldNLWdKSmZtcUdGbnhRMDIyZXRpVXFtcVI5Z2l0Ym5zcDh1OGwxdnRDemZ4TWVUX0tkbVFwYmluR3gtT1hVNDR5MDR5bUFmdXRnenBueGJzVDFZWVJnNVNqdjhJUi1hX3VoTWs2dkl4NmtvUi1oRFFQOHJJSVYtMEJURG9PMkxGRElKZkFTMjA4dzAtXzhfWm1NMHNuaHY4dDFuTTZvYVBsZjg3dTQyQQ?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-16T08:41:57.000Z"
           }
         ]
       }
