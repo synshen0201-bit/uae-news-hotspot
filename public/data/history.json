@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T01:29:53.673Z",
+  "updatedAt": "2026-11-20T00:49:44.018Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -45157,6 +45157,734 @@
             ],
             "heatScore": 42,
             "publishedAt": "2026-11-17T17:43:12.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-20": {
+      "date": "2026-11-20",
+      "updatedAt": "2026-11-20T00:49:44.018Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "索马里以“入侵”为由下令阿联酋大使离境 - 《快报论坛报》",
+            "originalTitle": "Somalia orders UAE ambassador to leave, citing 'invasion' - The Express Tribune",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters",
+              "The Express Tribune"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T20:09:48.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装组织企图袭击沙特阿拉伯多个地区。- 阿联酋之声",
+            "originalTitle": "The UAE strongly condemns the Houthi group's attempt to target several areas in Saudi Arabia. - صوت الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnc3aTl5TGU0LXV2cjhwYnVwbVdrTUptSlFSbGQ3UFJCaVBITWlkd3UxYXRQcEttcWd1d3RtMmpvTThOR0RhNC1VOWJWWDFWU2M0aW56NDFyOVA4ckVab2h3Q3Y5bFBIclFnOGlGMWsySHIyMmVZZTRVengzSHZqcVBsLTNwaWhHS2MtbmtDZ1g3S2ZiNHlJNHc1Mjg1NTZkOURhSURHYkFJSlZTQjczbXdrNWd1N1dKUzk4bkhBR2o4d9IB1AFBVV95cUxPV0xoTC1EdGd6RGRqbW1mRWVFY0lXUktXaFFpaDRqNm80M0tCd2VoMGlydHBxWjc0TXBYSms5LU9zR3I3VG9sSWdFMGdnUjhnZ3ZoNUxkYWlDUWVFMFJ1a2JSSnBFTng1TTBzbUZiUDk5QXMtY1ptR2pYXzFGajE3VUZycGJyYTVBNExlYUkzX0szdE0ycXR1dEVyQWZoYmx3NnNNbEVmV1BJdk16ZHJzOFZkSnE5eDBaWllINVpMS2xzcTZXN2VJT25vZGZfUXNNUXd3RQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "صوت الإمارات",
+              "Emirates 24|7",
+              "Gulf News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T19:03:24.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "索马里下令阿联酋大使在72小时内离境，并召回本国外交官，两国外交争端加剧 - 《东莱声音报》",
+            "originalTitle": "Somalia orders UAE ambassador to leave within 72 hours, recalls envoy as diplomatic dispute deepens - The Eastleigh Voice",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWdrZEhwWXRoSE51emdWdWxyZlF0N0VOYklpOFBCbTVNVFRxTTZ1SGtqTm42aXEyMXRiUUJ5NW5DZHhTWGVmNTBPa0ZlY0ZWM0dabDZwMnE0QmtPUUN5REZnM0p1eDRjQl9tU0FLSTdSaXgwdGZWT3NlVUNvUnc0ZHdtMDJKMFRkUzV0T0hQVlYxQmdLc1NxdnVNMXlOMGh5TmQ5OHZuYktINEN3WUMyUnd4b29YeW1oN1VWN0RnemI?oc=5",
+            "source": "Horseed Media",
+            "sources": [
+              "Anadolu Agency",
+              "Horseed Media",
+              "The Eastleigh Voice",
+              "Garowe Online"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T23:36:30.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "随着外交争端升级，索马里下令阿联酋大使离境 - ABC新闻 - 最新消息、最新新闻和视频",
+            "originalTitle": "Somalia orders the UAE ambassador to leave as a diplomatic dispute escalates - ABC News - Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWJkaTJYX1k5NzI4Qks1YXJES09nekdtR0lGeEdCbTJQWnFOaW05eVFXREF2Ymg1OHZ6Y1pTZDhSalpLTEhoX1h1RlNMUGRzVkRwcWhEU1pscFA5RFM1Q0phVlpYQWFDdTVPZ1l0NmlRanVVaHJEWlBIMWhqLWNYVVI5ekc0SHdXbS1HZXY0OG5fVHlzRVB3LTJHRUpGM0p4Q3h6dy1xZTRaTERxcVU4d2FSU2hhN3lBblpOZUhuN2RsRzV1RHN6bGw3OEhCcUx1WWVwR2NnN0Z4VEFXVVNIUjBKay1lRmhabFBFTzdkUVRoYU5vSXRudQ?oc=5",
+            "source": "couriernews.com",
+            "sources": [
+              "couriernews.com",
+              "ABC News - Breaking News, Latest News and Videos",
+              "The Herald Journal",
+              "Star Beacon",
+              "Marietta Daily Journal",
+              "The Seattle Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T19:44:08.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "索马里驱逐阿联酋大使，指责阿布扎比侵犯主权 - 半岛电视台",
+            "originalTitle": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTV9rRmhmaFhyX3NaaDlGOGF4RWpqSGs3ZWR0YnZiTktqTmVPQ3NBa1d2VzFxeWZOd04zUE02dWcybDVtRF9hYzR2SHBDQTRJbTB5c3pZdkNJbTk5MVBCd19XX0JOV0Rmc0d3akFWWEdYN2NnZnYzS3BZUkx3Nzk2cmIzTHBlTlJRMTZjTjRpT0MyWFZiQ2gwaGVkM3dibnFFRmwxcW1hMEwtMVI1aWJyb09aeXbSAboBQVVfeXFMT2FjMWo5WDFVRWJ4OExWSU1EYlNzRmM5Q3pGdnVBeThNbUlMbWFiNXk4REVaYndvUHVZMnJPdUhNMEp1SENOOVk2bnhiaFdnalQzbjM0NGh6Vlp3emd5ejRSSzVUY3J5OFBoMWxESjBJaXltdWZ5bks1ZjlpNDhNcGhlOTBsd1NpbzBtdC1GRWI1dWxLMmFLZUFVcE5KQ2hvZjI1akg1MUpoWTlYZzVMZVJCRUViUzJscFZn?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-19T21:32:15.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋就外交紧张局势谴责索马里",
+            "originalTitle": "UAE denounces Somalia over diplomatic tensions",
+            "url": "https://c.newsnow.co.uk/A/1330278969?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-19T19:29:05.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋及其他13个国家对针对以色列非法定居点的制裁表示欢迎",
+            "originalTitle": "UAE, 13 other nations welcome sanctions in response to illegal Israeli settlement",
+            "url": "https://www.khaleejtimes.com/uae/uae-13-other-nations-welcome-sanctions-in-response-to-illegal-israeli-settlement",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-19T19:03:05.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋谴责索马里政府的“敌对行为”，称其驻摩加迪沙大使馆已关闭",
+            "originalTitle": "UAE condemns Somalia govt's 'hostility', says embassy in Mogadishu closed",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemns-somalia-govts-hostility-says-embassy-in-mogadishu-closed",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-19T19:00:14.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋布道强调父母在塑造身份方面的作用",
+            "originalTitle": "UAE sermon highlights parents' role in shaping identity",
+            "url": "https://c.newsnow.co.uk/A/1330282007?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-19T20:09:19.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "AVENEW在迪拜群岛推出瑞吉豪宅",
+            "originalTitle": "AVENEW launches St. Regis Residences on Dubai Islands",
+            "url": "https://c.newsnow.co.uk/A/1330281172?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-19T20:00:05.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋及其他13个国家对针对以色列非法定居点的制裁表示欢迎",
+            "originalTitle": "UAE, 13 other nations welcome sanctions in response to illegal Israeli settlement",
+            "url": "https://www.khaleejtimes.com/uae/uae-13-other-nations-welcome-sanctions-in-response-to-illegal-israeli-settlement",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-19T19:03:05.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋布道强调父母在塑造身份方面的作用",
+            "originalTitle": "UAE sermon highlights parents' role in shaping identity",
+            "url": "https://c.newsnow.co.uk/A/1330282007?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-19T20:09:19.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "AVENEW在迪拜群岛推出瑞吉豪宅",
+            "originalTitle": "AVENEW launches St. Regis Residences on Dubai Islands",
+            "url": "https://c.newsnow.co.uk/A/1330281172?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-19T20:00:05.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "对Frieze Abu Dhabi的初印象",
+            "originalTitle": "First impressions of Frieze Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1330281129?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-19T19:59:19.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋在阿布扎比投资论坛上强调对美国的1万亿美元投资",
+            "originalTitle": "UAE highlights $1tn in US investments during Abu Dhabi Investment Forum",
+            "url": "https://c.newsnow.co.uk/A/1330280956?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-19T19:56:20.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "科尔法坎将关闭海滩灯光1小时，让居民欣赏生物发光现象",
+            "originalTitle": "Khor Fakkan to turn off beach lights for 1 hour for residents to enjoy bioluminescence",
+            "url": "https://www.khaleejtimes.com/uae/khorfakkan-al-luluyah-beach-turn-off-lights-bioluminescence",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-19T16:08:42.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "“妈妈，我需要的是你，不是钱”：认识一下这些做出牺牲并获得认可的阿联酋劳动者",
+            "originalTitle": "'Mama, I need you, not money': Meet UAE workers who made sacrifices, got recognised",
+            "url": "https://www.khaleejtimes.com/uae/mama-i-need-you-not-money-meet-uae-workers-who-made-sacrifices-got-recognised",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-19T13:47:12.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "迪拜游客现在可以利用人工智能克隆自己的声音，改变自己的内心想法",
+            "originalTitle": "Dubai visitors can now clone their own voices with AI, change their inner thoughts",
+            "url": "https://www.khaleejtimes.com/uae/dubai-future-week-the-human-within-art-installation",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-19T13:44:14.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋明日天气：部分地区有雨；夜间潮湿",
+            "originalTitle": "UAE weather tomorrow: Rains expected in some areas; humid conditions by night",
+            "url": "https://www.khaleejtimes.com/uae/weather/november-20-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 73,
+            "publishedAt": "2026-11-19T13:23:36.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "开罗至艾因：阿拉伯航空埃及公司将于12月2日起开通每周两班的航班",
+            "originalTitle": "Cairo to Al Ain: Air Arabia Egypt launches bi-weekly flights starting December 2",
+            "url": "https://www.khaleejtimes.com/business/aviation/air-arabia-egypt-launch-bi-weekly-flights-cairo-al-ain-december-2",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-19T13:08:54.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "索马里以“入侵”为由下令阿联酋大使离境 - 《快报论坛报》",
+            "originalTitle": "Somalia orders UAE ambassador to leave, citing 'invasion' - The Express Tribune",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters",
+              "The Express Tribune"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T20:09:48.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "索马里下令阿联酋大使在72小时内离境，并召回本国外交官，两国外交争端加剧 - 《东莱声音报》",
+            "originalTitle": "Somalia orders UAE ambassador to leave within 72 hours, recalls envoy as diplomatic dispute deepens - The Eastleigh Voice",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWdrZEhwWXRoSE51emdWdWxyZlF0N0VOYklpOFBCbTVNVFRxTTZ1SGtqTm42aXEyMXRiUUJ5NW5DZHhTWGVmNTBPa0ZlY0ZWM0dabDZwMnE0QmtPUUN5REZnM0p1eDRjQl9tU0FLSTdSaXgwdGZWT3NlVUNvUnc0ZHdtMDJKMFRkUzV0T0hQVlYxQmdLc1NxdnVNMXlOMGh5TmQ5OHZuYktINEN3WUMyUnd4b29YeW1oN1VWN0RnemI?oc=5",
+            "source": "Horseed Media",
+            "sources": [
+              "Anadolu Agency",
+              "Horseed Media",
+              "The Eastleigh Voice",
+              "Garowe Online"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T23:36:30.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "随着外交争端升级，索马里下令阿联酋大使离境 - ABC新闻 - 最新消息、最新新闻和视频",
+            "originalTitle": "Somalia orders the UAE ambassador to leave as a diplomatic dispute escalates - ABC News - Breaking News, Latest News and Videos",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOWJkaTJYX1k5NzI4Qks1YXJES09nekdtR0lGeEdCbTJQWnFOaW05eVFXREF2Ymg1OHZ6Y1pTZDhSalpLTEhoX1h1RlNMUGRzVkRwcWhEU1pscFA5RFM1Q0phVlpYQWFDdTVPZ1l0NmlRanVVaHJEWlBIMWhqLWNYVVI5ekc0SHdXbS1HZXY0OG5fVHlzRVB3LTJHRUpGM0p4Q3h6dy1xZTRaTERxcVU4d2FSU2hhN3lBblpOZUhuN2RsRzV1RHN6bGw3OEhCcUx1WWVwR2NnN0Z4VEFXVVNIUjBKay1lRmhabFBFTzdkUVRoYU5vSXRudQ?oc=5",
+            "source": "couriernews.com",
+            "sources": [
+              "couriernews.com",
+              "ABC News - Breaking News, Latest News and Videos",
+              "The Herald Journal",
+              "Star Beacon",
+              "Marietta Daily Journal",
+              "The Seattle Times"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T19:44:08.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋就外交紧张局势谴责索马里",
+            "originalTitle": "UAE denounces Somalia over diplomatic tensions",
+            "url": "https://c.newsnow.co.uk/A/1330278969?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-19T19:29:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋谴责索马里政府的“敌对行为”，称其驻摩加迪沙大使馆已关闭",
+            "originalTitle": "UAE condemns Somalia govt's 'hostility', says embassy in Mogadishu closed",
+            "url": "https://www.khaleejtimes.com/uae/uae-condemns-somalia-govts-hostility-says-embassy-in-mogadishu-closed",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-19T19:00:14.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋谴责索马里驱逐大使的“不负责任”决定",
+            "originalTitle": "UAE denounces Somalia’s ‘irresponsible’ decision to expel ambassador",
+            "url": "https://www.arabnews.com/middle-east/uae-denounces-somalias-irresponsible-decision-to-expel-ambassador-3013006",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-19T20:38:31.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋强烈谴责索马里的敌对态度，并警告其将损害双边关系 - 《海湾新闻》",
+            "originalTitle": "UAE strongly condemns Somalia's hostile approach, warns of damage to bilateral ties - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2VUSVFodWJQQ1JOU09EUElrV2lHSUtqQmozN19VdkM0ckFVcE9DUXE2cXlkZjBZSGFNRXhYWGxvbWEwdUVoN1hPQ0g1eDBXTlZ2WW1Md0hZajEwRC1QNE4wd0MzSjJmNVNzcFVjSUhTQlVfdGs4c1FpeGhnQmt1ZHdla3FBWENCN3VkUkdRZFZVQVR4NGRtanlJQ2IyQUJlSWtqOHFiOEJDVjlyQ2lhM2pXSEhtbnAyQkhrWGJrTjdVVm9fUlBFZtIB2wFBVV95cUxPeWhxcWhZemJTUFJTblJiTzZSLWh0VTRxSzlVYWtUckZBVEtvNzJWTGx6OExfbDc3a2M0NjF5S1EtVjZlb05QdGNRV1RubmpaLTFWMVhoODdTNTczX1RZTkdwT1o0b0VMVkQzblYzWjYxMko5WDJLS2dUNWU5cDJVZzJyZ0ZaWVJfQldnbmFxS3hTUDZPbl9DOWgyOEp4dndtejBwV1FnblhqMUNKb1M1Tmh6NXo0MFBOdUgwQWlDYW1feWE5Yk1hcDJTV0tmS3JFRV9VMnlPOGJKNGc?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-19T19:27:55.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋确认关闭摩加迪沙大使馆，在外交争端中为自身记录辩护 - FTL Somalia",
+            "originalTitle": "UAE Confirms Mogadishu Embassy Shut, Defends Record Amid Diplomatic Row - FTL Somalia",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmRXa3phUy04cDlVVHA2clFCU280bW1Rci1VQ0RjZzJGTmFIVkZtdk1lMDJxbDR1bWV5NFMwNWd0MHRSSk1VLU93MEZJd2FOc2ZhTzRSQlpPTGE5YzdQWmdZemJ1TUV1S2UyYU82X0Z1Zk90akdwVE8wT05maVhoUlZQanhWRU04clVCeXMtUFpMMlMzVEdTeUFHOGNqbDQ?oc=5",
+            "source": "FTL Somalia",
+            "sources": [
+              "FTL Somalia"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-19T21:12:46.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "索马里以干涉内政为由驱逐阿联酋大使",
+            "originalTitle": "Somalia expels UAE ambassador, alleging interference",
+            "url": "https://c.newsnow.co.uk/A/1330280467?-15565:1965",
+            "source": "France 24",
+            "sources": [
+              "France 24"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-19T19:50:38.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "随着围绕4.42亿美元伯贝拉港投资的外交争端升级，索马里给阿联酋大使72小时的离境时间 - Business Insider Africa",
+            "originalTitle": "Somalia gives UAE ambassador 72 hours to leave as diplomatic row over $442 million Berbera port investment escalates - Business Insider Africa",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZlc3V0NZRC16dzB1VFU3Q3dDSUhMdTN1Yl9jaVI4ZklyOWtyOGs2LXRaVjRpeThNcU02QkR1cWRzaHExSHdDcXNycHZIdFprVDRCd1dVMUN0WFk2dHk3X0ZqYWFubTBSU0pZdkFsdFM0ZnlKSjdsMWlEMzdFcFk1Vk1od3djVVdyRndmMkl4bW1FVkMtRGZaOHNwMXV5Ul80cnpNMUtCSXdhNmYzOGdfMlFuRWNvTkRrYkw3MnpWS0dJcGF4MU9IV0N4VlRYTzdSQ0E?oc=5",
+            "source": "Business Insider Africa",
+            "sources": [
+              "Business Insider Africa"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-19T16:47:16.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "沙特阿拉伯超越阿联酋成为印度第二大原油供应国；俄罗斯仍居首位——路透社",
+            "originalTitle": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGFFLXpheVdRTVdEZmh5dzNVdWpQR3RJRnJSbjZMMkNscHBaZWlNWTFLT0RpN3RGVU5xbHh1WFJoYTQyVGROQnRDcjZxaW9QaTZKZ2tkWGhDdUpRWnNHNXY5ay1PN3BZcmY2TFcxYnF0OFBtWUUxZzlfblZrZU9tVFZ6aDRaOFhuZjlyX3ctVS1wQ3h0VzFrRUd3eWNvRlJTakkxZjMtOWFsaVJjWDBLVnZ5aFV1QVMxb044M1pYbS0?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-19T06:29:00.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "要参加迪拜马拉松吗？3个地点将提供约15,000个停车位",
+            "originalTitle": "Joining Dubai Run? Around 15,000 parking spaces will be available at 3 spots",
+            "url": "https://www.khaleejtimes.com/uae/dubai-run-2026-parking-spaces-rta",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-19T17:01:35.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "迪拜在联合国数字服务指数中排名全球第一",
+            "originalTitle": "Dubai ranks first globally in UN digital services index",
+            "url": "https://c.newsnow.co.uk/A/1330275097?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-19T18:38:03.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "240家初创企业，1500个工作岗位：MBRIF如何在10年内吸引了超过35亿迪拉姆的投资",
+            "originalTitle": "240 startups, 1,500 jobs: How MBRIF has drawn over Dh3.5 billion in 10 years",
+            "url": "https://www.khaleejtimes.com/business/mohammed-bin-rashid-innovation-fund-startups-10-years-growth",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-19T11:50:43.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "华为 nova 16s 无忧保障套餐 | 华为阿联酋支持 - 华为全球",
+            "originalTitle": "حزمة الرعاية الخالية من الهموم لهاتف HUAWEI nova 16s | دعم هواوي الإمارات - HUAWEI Global",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVNkdTlyem5lb0RRVkxfN3RPSjNHRjhMWEk2U3BvMXhYUVI2YzZQZHJrUnNReHRubXRHcmxZd0JiTUVqTFlWdVpEQ0MtYUlEMEs0Njh3cTVTRzE1MTk0QlpNZGVfMWk5aGt2bVlxenVNZG11UlVqTlgyT0E0aXB0eV9QbGU?oc=5",
+            "source": "HUAWEI Global",
+            "sources": [
+              "HUAWEI Global"
+            ],
+            "heatScore": 49,
+            "publishedAt": "2026-11-19T09:04:34.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装组织企图袭击沙特阿拉伯多个地区。- 阿联酋之声",
+            "originalTitle": "The UAE strongly condemns the Houthi group's attempt to target several areas in Saudi Arabia. - صوت الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnc3aTl5TGU0LXV2cjhwYnVwbVdrTUptSlFSbGQ3UFJCaVBITWlkd3UxYXRQcEttcWd1d3RtMmpvTThOR0RhNC1VOWJWWDFWU2M0aW56NDFyOVA4ckVab2h3Q3Y5bFBIclFnOGlGMWsySHIyMmVZZTRVengzSHZqcVBsLTNwaWhHS2MtbmtDZ1g3S2ZiNHlJNHc1Mjg1NTZkOURhSURHYkFJSlZTQjczbXdrNWd1N1dKUzk4bkhBR2o4d9IB1AFBVV95cUxPV0xoTC1EdGd6RGRqbW1mRWVFY0lXUktXaFFpaDRqNm80M0tCd2VoMGlydHBxWjc0TXBYSms5LU9zR3I3VG9sSWdFMGdnUjhnZ3ZoNUxkYWlDUWVFMFJ1a2JSSnBFTng1TTBzbUZiUDk5QXMtY1ptR2pYXzFGajE3VUZycGJyYTVBNExlYUkzX0szdE0ycXR1dEVyQWZoYmx3NnNNbEVmV1BJdk16ZHJzOFZkSnE5eDBaWllINVpMS2xzcTZXN2VJT25vZGZfUXNNUXd3RQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "صوت الإمارات",
+              "Emirates 24|7",
+              "Gulf News"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-19T19:03:24.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "索马里驱逐阿联酋大使，指责阿布扎比侵犯主权 - 半岛电视台",
+            "originalTitle": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty - Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTV9rRmhmaFhyX3NaaDlGOGF4RWpqSGs3ZWR0YnZiTktqTmVPQ3NBa1d2VzFxeWZOd04zUE02dWcybDVtRF9hYzR2SHBDQTRJbTB5c3pZdkNJbTk5MVBCd19XX0JOV0Rmc0d3akFWWEdYN2NnZnYzS3BZUkx3Nzk2cmIzTHBlTlJRMTZjTjRpT0MyWFZiQ2gwaGVkM3dibnFFRmwxcW1hMEwtMVI1aWJyb09aeXbSAboBQVVfeXFMT2FjMWo5WDFVRWJ4OExWSU1EYlNzRmM5Q3pGdnVBeThNbUlMbWFiNXk4REVaYndvUHVZMnJPdUhNMEp1SENOOVk2bnhiaFdnalQzbjM0NGh6Vlp3emd5ejRSSzVUY3J5OFBoMWxESjBJaXltdWZ5bks1ZjlpNDhNcGhlOTBsd1NpbzBtdC1GRWI1dWxLMmFLZUFVcE5KQ2hvZjI1akg1MUpoWTlYZzVMZVJCRUViUzJscFZn?oc=5",
+            "source": "Al Jazeera",
+            "sources": [
+              "Al Jazeera"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-19T21:32:15.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋国庆日：烟花、无人机表演、游行庆祝第55个阿联酋国庆节（Eid Al Etihad）——《海湾时报》",
+            "originalTitle": "UAE National Day: Fireworks, drone shows, parades to celebrate 55th Eid Al Etihad - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/eid-al-etihad/55th-national-day-fireworks-drone-shows-parades-festivities",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-19T13:54:29.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "“媒体的百慕大三角”：阿联酋官员警告不要传播煽动恐惧和愤怒的内容",
+            "originalTitle": "'Media's Bermuda Triangle': UAE official warns against content that stirs fear, anger",
+            "url": "https://www.khaleejtimes.com/uae/official-warns-against-content-that-stirs-anger-fear-dubai-future-week-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-19T12:10:25.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜民防局宣布推出建筑物的颜色编码人工智能安全平台，并增加用于灭火的无人机数量 - 《海湾新闻》",
+            "originalTitle": "Dubai Civil Defence announces colour-coded AI safety platform for buildings and more drones for firefighting - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV3RuZXFINFNBMWF4UE1BU0pGTkY3Z25VVkhVLTdEWWNoT1RBU2U3V2c1cDYwQ3UtWWo0ZGREN0RwWjNiNExNMlhZSEtqS3NoTVFybllsQjBOazdLejFKUGxOM2djTVF0bW5hNjV5ekg0bWpUTWFJYmRUcmhxaXJEMmdqQlVVZnNPSDZma3Z2UDB2S19ndlAySkVNbmstVUI5UmsyaEdZQ052Y19KOFY1NmxBYUd3SW5wczZGRVN2ZUpLcG1YV1JpTTVuRmRFWk5acm8wSGpXZWdXTHpVWFRNcGZPWFVqTGx2dU5ZMUFR0gGAAkFVX3lxTE9GNXhKNjlsQ0Fqc0cwdUZaa2NJbjZiSTVNdHJNemlHRjRKNDZRVXpweEp4QlFXbjMyY0hJdUVhOTVxdmhDNDE0V0pQSUJRSXFNQ1p2YmZrdHZsci03cFp1WVN0X3E5azdtal9IbVVJMm5idDJwNF9DeGxMQTYtTmQ4aHp4NUpxekpjVTBmdEgtU2dNQlBYX21NT2dsa0pmOUNpMTlZdGgyai1uSV9YeW5WZ0lFdVZybTJXQ0RLSmZyYUdCNnNsZFRrcFZmM1dScjVmQVVTaEg3TzFPN2VoeXJSWWEzSHZ1RUwtdnZKd1Z3RS1pTDlveXRIQjNQcS1Zay0?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-19T13:01:12.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋ADNOC L&S称，其船只在霍尔木兹海峡遇袭后，一名船员失踪 - 路透社",
+            "originalTitle": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-18T09:03:20.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "迪拜学生研发出可接收语音指令的无人机和无人驾驶赛车",
+            "originalTitle": "Dubai students develop drones that take spoken commands, driverless race car",
+            "url": "https://www.khaleejtimes.com/uae/dubai-heriot-watt-university-students-develop-ai-projects",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-19T10:00:02.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋称拦截伊朗导弹后，富查伊拉石油区遭无人机袭击引发大火 - EnergyNow.com",
+            "originalTitle": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-19T22:51:49.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "谢赫·哈姆丹殿下为纪念阿联酋先驱的航空学校揭幕 - ARN新闻中心",
+            "originalTitle": "H.H. Sheikh Hamdan inaugurates aviation school honouring UAE pioneer - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHFoRXcyWmZ5NWNoLWRkTUwzWFpNcGtGQVJvOUM4SHRCNllKdi1uMEo0cV80Wk5aVDB5Nk1Mbk1GWjZGanF3SDB1cVN5ckwtdDBQemtkWTA3MXJoeEljUFNuZEd2N0FIbUYwWE55TG80VVNuaTZ5MElVeWVzZ0JsNjRNdXYzV2pXWFdQX2RteG5wZUY2QjBzQlo0azEzZEMzTmtZdXd2b2IwRzAyNWc?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-19T18:52:25.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Sheikh Hamdan殿下为纪念阿联酋军用航空先驱的新学校揭幕 - Travels Dubai",
+            "originalTitle": "Sheikh Hamdan opens new school honouring UAE military aviation pioneer - Travels Dubai",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWN3THJCQXRhTGdCUmpMeE8zTXh6dEpzakNXRS13VC1nM3JnS1hmSE93WWVPc1ZXOVI2d1BDSFZzcENoOWFaWHdfV29DMDdPV09xcnFoZnA5MU9FbWxZX2dOVkV1ZzJ1Qkt5dEFxTDgxZ2VfUl9RcnNrc3VKNC1TMjMwSG85SmN2Qjl6U0MzVHRpLUUxdU9kekFaTDNTbElUc2RPbC1oRTZENFFoeVdFcA?oc=5",
+            "source": "Travels Dubai",
+            "sources": [
+              "Travels Dubai"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-19T17:37:00.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋药品监管机构禁止社交媒体网红推广医疗产品 - 《国家报》",
+            "originalTitle": "UAE drug regulator bans social media influencers from promoting medical products - The National",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzAzUEV2MjMwZWlJU0Q2dVlsb3pRY0F3UFFmNVpISGJaV3FoNWZ5TnpNbnQ3YmJPRE9sd2JNY3ZDOVJ6SER4YjZNYlVPRE8wY1BJRUVfUXd4UFNNb204cjhfN2ZIOW9Nem5uZWVuaW92Q2xTdE0wZlZVVnFhbnVDOTlNdGR0OVhXSzBwZVZteFV4S0pNcHlCYWlJaXNfVnZscHNobk9jYjNjbnlSWkxNM2twUGlLYVVyS0hSTXRfaThybnBQTGVsd0tja09sUQ?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-19T14:40:45.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋谴责索马里政府的敌对态度 - ARN新闻中心",
+            "originalTitle": "UAE denounces Somali Government’s hostile approach - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGlmQnR0VmJFOFVwSWRYbS1OdDIySHlxQnJFOG1wNzJyaVhqZTkzVnpzMzEyb3gwWlZsTHAwQVFQaVBwcHRjYXNqUG5LeHhWMHFteTVnVkRtTk1rOUQxVmhKVmtxWW9TWmhDZWZOVFZkNzdHbzJMRjFqQTZ5bU9rWnE0Q3l2X0lHY1puN2Jwb3A4NXpyQlE?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-19T19:42:44.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋警告谨防虚假的家政工人招聘账户 - 海湾新闻",
+            "originalTitle": "UAE warns against fake domestic worker recruitment accounts - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUldtQ2ZzV0l3c0hzaXdUQWppZ1I5ZmQyYTN1SXVWTm0tbU1oWm9GSXpnZ1NpOUxpSUVjSmxLeVBtamUwTVE0dUJSZndHai1LaTd1TFFsWkd5cFdudmF4c2drejN6TUtFWEFvXzMxWFNXc1h2ZFZ3ZDJpcEtCZUs0bEk3YUpmVUVaVk80cFFJNjBaV1EtVzdaWFItdlDSAawBQVVfeXFMT3VrZ1FieXhzMUhUNTA5cTZnNk9oYml4YjJSQTRhaGMydzdUVmtsMFNpTHNLQ2JQemc2ODVFdlMtcVZ1UFJjcTcwZ1NoZDViVlE4bFY1NlFnWDRFYkVTSDlTSDVjS1hZTFdQdVVUdUJvelZXelNfX3REUV81SnRUS0lrMmxXWHUwcktPZzBGRWo1M3NpQlhiRWlwRmRPaDRRYklmeXpTQnU5eHltZQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-18T16:23:28.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋运送帐篷的援助车队进入加沙 - ARN新闻中心",
+            "originalTitle": "UAE aid convoy carrying shelter tents enters Gaza - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2FyUEF4U0FLbG9CZnNKc2J4aUZ2ZC05T0hNS3RjVzFxVFpuaW5oOHh5S2JmeEM3NzN6SWM2ODNZclJwUmUzbzdoeW5xUzRJTnFfTE45MEhlUDRtdjFYU1MxWFR1cmxqSWZRQUphc0dWR3JfWXd3TVlIak9OckpPYW5hTDJTYlMwbEJRczdyek5oaHM3eUE?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-19T17:53:30.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜在联合国在线服务指数中获得满分，位居榜首 - ARN新闻中心",
+            "originalTitle": "Dubai achieves perfect score to top UN online services index - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNai1DSlVRUmt5YUlEMXZ1bGVhNWhKWXc1T3dBREpIQnBESzk1TWp3cFk5alNnWEMwbVFDRzdJRWFuWGtiRnNhWkZZYUV3bnd0azFROWQwcFRxeDN1Ry1SRi1OMmtHbUl5ZWZ6TTJydkU4Xzg0eDdyRms2VV9YclgzcFY1YTc0YmJvbkVmQldLeXBuX0RnSWxZbDhoM3hQLVBLWGRmRFVBSm9tTTg?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-19T19:17:22.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "科尔·帕尔默在落选英格兰队大名单后享受迪拜假期 - Chosunbiz",
+            "originalTitle": "Cole Palmer enjoys Dubai vacation after England squad omission - Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52MExtLVo0NkdCYy16N3gxVnMzdVlFRnJkQmFiS19TQXBPVldUQ3EwMElrLXgzT2hrUnRSSWs5TmwyWFFHSkpHNVJ2OS1JaE9hLTN1SFFkR1ZQUVNtc01vOUtneXVURVFJRUh3OVFCWEFRUU1hM1VWMF94YlRoc03SAZMBQVVfeXFMTUVpYzh4bXBzMloyd3kzenJfa05tOThKNnZuS3l3WkdJNFFxWjk1N0hyc2VRTDM4a2hkaHVzTlJyZDY4aXluM3FYck9MRldfYzVCTHZTSEZzMmRkZFF4bTF2VTI3UTZidHBIcFcweHRtWV9vZ2VFUXhkUW1QZnI4aXFpd1JiYndIQm9FTW9fcTJYa1pj?oc=5",
+            "source": "Chosunbiz",
+            "sources": [
+              "Chosunbiz"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-19T16:40:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "科尔·帕尔默与女友的迪拜假期 - 朝鲜日报",
+            "originalTitle": "Cole Palmer's Dubai Vacation With Girlfriend - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3BMVW5PNzJWY0h5NDlWUmJxLTk2emYwdVZQVEJ2elBTNVBmeDhadVMzY3JobkhNNkkyTTdzQmZMNHBtU3loNTJubG1IeDNGbDllYmpGQXJmTXpOeWpDOUhEdUZ1YS1CMmdyajJ4anhUSnlEOWdJRmpPcWYzWXNULTNtT1ZVdw?oc=5",
+            "source": "조선일보",
+            "sources": [
+              "조선일보"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-19T16:33:48.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "热门视频：迪拜医护人员使用先进的心肺复苏机挽救男子生命！（观看）- Asianet Newsable",
+            "originalTitle": "Viral Video: Dubai Paramedics Use Advanced CPR Machine To Save Man's Life! (WATCH) - Asianet Newsable",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDJ3dHVtbU52UGh4VzJKYlpzMlZfVGtUQUNDWFJlaFhYNnFxSThyOWp2aUFFSXRqYXp5R0dmcGg1N1NJSXA2Y3I3V0ZCT3N5ZF84d2F4eVlNWHdmemN0ZGk1UUhaQjRUSm1lMXpCS2VNVVdmV0oyTmtqYlQxZml6dG1ETEtfNWtPbDZyV3VtcTc4Q01tMm9fOVAtOW53ZnBuc3J1WXJmdlNXRnRZMGlhX1VFWdIBuAFBVV95cUxQUGhEcW50M1g5amxoUWo0b2lFd1o1c1NhZjgyVFptcDVWaE1SUzJvNVlqcmtQMDZLaW5uZ1VmZzhteDZibTdIRlhscVVTeWJHODBfbmI5dHprdVFLRFRSNXI2anktZHpaLTBnb2FPZFFYXzNDU1BzdXp2OVJzLVg3SG5NLXYyYW1RaXZaMXlHaTNhS3NDUDlpMnZPalN1ZWdwRndKaThvSzE1UnRBLU1iMFdvM3B6UjZy?oc=5",
+            "source": "Asianet Newsable",
+            "sources": [
+              "Asianet Newsable"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-19T15:28:41.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋参与阿曼国庆庆祝活动 - ARN新闻中心",
+            "originalTitle": "UAE joins Oman’s National Day celebrations - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTNLVEVpaExoWnpYTko2VXQ5U3ducHRvWnh4NkVFa3VoQjlQU29sMHM1QWtzdWNzM2p1NndFcmtHaEJFMldyOHEyS3UxTHhKQWtySXNWRzg4bEhpWGo4MkNsWnpWcGNQSUFiNDU2Zkp0d0YzR29FOThxaE1XQ3dVOUNSNWVBOUZTczVn?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-19T15:11:15.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "索马里勒令阿联酋大使在72小时内离境 - A News",
+            "originalTitle": "Somalia orders UAE ambassador to leave in 72 hours - A News",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWJOOEljTUVHWUF4alFGN1NDTi1HVEhNWFBYamJteHk0TlJuNWUtaVNNd3ZNdnhiTmtwV3cwRmlVeUQxX0xHWlJtRHFzUEtlLVRSYUFINktYdnBmMk9OMlN2TGtNa1VnVlJUMnRUeWdkcG44eHpqamF1VGRUN0VjRjM4M3VDbkNSb0Z1eFV3akVnUEVLQ2RR?oc=5",
+            "source": "A News",
+            "sources": [
+              "A News"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-19T13:33:40.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "华为 nova 16s 无忧保障套餐 | 华为阿联酋支持 - 华为全球",
+            "originalTitle": "حزمة الرعاية الخالية من الهموم لهاتف HUAWEI nova 16s | دعم هواوي الإمارات - HUAWEI Global",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVNkdTlyem5lb0RRVkxfN3RPSjNHRjhMWEk2U3BvMXhYUVI2YzZQZHJrUnNReHRubXRHcmxZd0JiTUVqTFlWdVpEQ0MtYUlEMEs0Njh3cTVTRzE1MTk0QlpNZGVfMWk5aGt2bVlxenVNZG11UlVqTlgyT0E0aXB0eV9QbGU?oc=5",
+            "source": "HUAWEI Global",
+            "sources": [
+              "HUAWEI Global"
+            ],
+            "heatScore": 49,
+            "publishedAt": "2026-11-19T09:04:34.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "在中国的亚太经合组织峰会期间，特朗普与普京举行会晤——《今日阿联酋》",
+            "originalTitle": "على هامش قمة أبك في الصين.. ترامب يعقد اجتماعاً مع بوتين - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NQnVMU29LdDJkVXYtcmo2d3pmYWZwUTVIMVZ2aXhldk1TLV91Y1doY0c5SVVhZ0l6TTNJQWJRZUdQaWt6VFhZVDZhbW0zU2hONnBPZjk2TGp1aEd2eGJRUWJxMF9MVW5ETDFGRklGX2_SAYsBQVVfeXFMTVBrTU41SkNySTN1cmpnQ2hvdGwxU2tWTVNvLWh2UVU1UnZWblkzYm50RjRLR2djQjFSVnNndjZ3T3NoUTdTMVpOZEczUXlVdGVDZHNNN3Z3a3VOVXpucDVCOGNXLU9ZUjNDak5GeFQ4bEVzM0NsN2JkdXhpSXRjRGxQeFB1WW5QZXh0cw?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-19T05:43:52.000Z"
           }
         ]
       }
