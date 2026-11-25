@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T21:11:00.503Z",
+  "updatedAt": "2026-11-25T00:42:45.945Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -48664,6 +48664,758 @@
             ],
             "heatScore": 42,
             "publishedAt": "2026-11-22T13:13:13.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-25": {
+      "date": "2026-11-25",
+      "updatedAt": "2026-11-25T00:42:45.945Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击沙特阿拉伯利雅得——《海湾时报》",
+            "originalTitle": "UAE strongly condemns the Houthis' targeting of Riyadh in Saudi Arabia - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/uae-strongly-condemns-the-houthis-targeting-of-riyadh-in-saudi-arabia",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times",
+              "Menafn"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-24T18:59:21.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装对利雅得的袭击，并重申与沙特王国的团结——SABQ 电子报",
+            "originalTitle": "UAE Strongly Condemns Houthi Attack on Riyadh, Affirms Solidarity with the Kingdom - صحيفة سبق الإلكترونية",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUW5SaW4xOEFoVTdGbTRCa3UxcDVubF82NnRNQzV6bmRLVHB4aHFGMFVrQ0ticHVubmlTcEYxaVlqMXl6SzJYNWZDTnhvOE5HMUdLYk1FcHhaRzVGb01BdFZCYVk5RmNCVmlWLXR6R2RHVWNhVHVNU3lxdW81c1pURFQza2Y0M082T0l2SVFaTDQxR2ZtNW1nSVJHdVRrcVRsQm1PelBoZ2HSAbgBQVVfeXFMTnVpV1FHaWE2RFNwYmF1M2VIVkdLRk90aHI4ZEhHSkpXNEdBMkZwaXVXVElzRmw1YjRndWRfMmlQS0p2SE42UnRIcDdxOGlNOXpZUDllNEVfYVJiWUt3YUJvZTZXMzFfODVFSDI0Z3lHNGxHN3JzbHk5Y3BZaHJDTXpjb0NrLXpya3RMSnZLZGNSZEpLY0NVaUYwdzdIS0lEU3lFZ05pWDhZYm1zckZrLUhjejlXVW1YaQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News",
+              "صحيفة سبق الإلكترونية"
+            ],
+            "heatScore": 95,
+            "publishedAt": "2026-11-24T19:55:35.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "拉斯海马车祸：社工表示，巴士乘客正从阿曼的换签之旅返回阿联酋",
+            "originalTitle": "RAK crash: Bus riders were returning from UAE visa-change trip in Oman, social worker says",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/rak-crash-bus-passengers-returning-oman-visa-change-trip",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-24T19:02:39.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "您看到海狸月了吗？欣赏超级月亮照亮阿联酋天空的美景",
+            "originalTitle": "Did you spot the Beaver Moon? Take a look as Supermoon brightens UAE skies",
+            "url": "https://www.khaleejtimes.com/uae/uae-beaver-moon-2026-supermoon-photos-video",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-24T18:07:07.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋国防部宣布将于11月25日在各酋长国举行“埃蒂哈德55”演习",
+            "originalTitle": "UAE ministry announces 'Exercise Etihad 55' across emirates on November 25",
+            "url": "https://www.khaleejtimes.com/uae/eid-al-etihad/uae-interior-ministry-exercise-etihad-55-november-25",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-24T18:04:54.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋批准2027年901亿迪拉姆预算；超过三分之一用于社会发展",
+            "originalTitle": "UAE approves Dh90.1 billion budget for 2027; over a third set for social development",
+            "url": "https://www.khaleejtimes.com/uae/uae-approves-dh901-billion-budget-for-2027-over-a-third-set-for-social-development",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-24T16:48:41.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Muhammad Tariq 如何在迪拜打造出两家蓬勃发展的企业",
+            "originalTitle": "How Muhammad Tariq built two thriving Dubai businesses",
+            "url": "https://c.newsnow.co.uk/A/1330683461?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-24T20:05:44.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋国家救护车服务中心证实，拉斯海马巴士与卡车相撞事故造成26人受伤",
+            "originalTitle": "26 injured in RAK bus-truck collision, UAE National Ambulance confirms",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/26-injured-in-rak-bus-truck-collision-uae-national-ambulance-confirms-2",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-24T15:32:52.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿布扎比将在GITEX 2026上展示80多个人工智能项目",
+            "originalTitle": "Abu Dhabi to showcase over 80 AI projects at GITEX 2026",
+            "url": "https://c.newsnow.co.uk/A/1330679813?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-24T19:14:51.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "卡塔尔与阿联酋商讨加强教育联系",
+            "originalTitle": "Qatar And UAE Discuss Strengthening Education Ties",
+            "url": "https://c.newsnow.co.uk/A/1330691466?-15565:1965",
+            "source": "Qatar Tribune",
+            "sources": [
+              "Qatar Tribune",
+              "The Peninsula"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-24T22:04:05.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "拉斯海马车祸：社工表示，巴士乘客正从阿曼的换签之旅返回阿联酋",
+            "originalTitle": "RAK crash: Bus riders were returning from UAE visa-change trip in Oman, social worker says",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/rak-crash-bus-passengers-returning-oman-visa-change-trip",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-24T19:02:39.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "您看到海狸月了吗？欣赏超级月亮照亮阿联酋天空的美景",
+            "originalTitle": "Did you spot the Beaver Moon? Take a look as Supermoon brightens UAE skies",
+            "url": "https://www.khaleejtimes.com/uae/uae-beaver-moon-2026-supermoon-photos-video",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-24T18:07:07.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋批准2027年901亿迪拉姆预算；超过三分之一用于社会发展",
+            "originalTitle": "UAE approves Dh90.1 billion budget for 2027; over a third set for social development",
+            "url": "https://www.khaleejtimes.com/uae/uae-approves-dh901-billion-budget-for-2027-over-a-third-set-for-social-development",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-24T16:48:41.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋国家救护车服务中心证实，拉斯海马巴士与卡车相撞事故造成26人受伤",
+            "originalTitle": "26 injured in RAK bus-truck collision, UAE National Ambulance confirms",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/26-injured-in-rak-bus-truck-collision-uae-national-ambulance-confirms-2",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-24T15:32:52.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "卡塔尔与阿联酋商讨加强教育联系",
+            "originalTitle": "Qatar And UAE Discuss Strengthening Education Ties",
+            "url": "https://c.newsnow.co.uk/A/1330691466?-15565:1965",
+            "source": "Qatar Tribune",
+            "sources": [
+              "Qatar Tribune",
+              "The Peninsula"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-24T22:04:05.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "迪拜将主办2027年国际足联足球法年度审查",
+            "originalTitle": "Dubai to host FIFA Football Law Annual Review 2027",
+            "url": "https://c.newsnow.co.uk/A/1330677463?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-24T18:44:26.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "使馆确认，拉斯海马车祸造成13人死亡，其中有印度人",
+            "originalTitle": "Indians among 13 killed in Ras Al Khaimah crash, mission confirms",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/indians-among-13-killed-ras-al-khaimah-crash-november-24",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-24T14:28:55.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋拉斯海马发生巴士与卡车相撞事故，造成11人死亡 - 路透社",
+            "originalTitle": "Bus and truck collision kills 11 in UAE's Ras Al Khaimah - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFM2TDhwNU9ELWxXVHpJVnZ6ZmV2SHJmVjZUaXIxWHM5d3lZV3Z2djNYazdBRDVxVmFnV3JhcnlXc0NhR29QZHkyWUVDN2dPcDRtZ2tJRjVHbm5ia3d6T0I4QUxwcUJueW9Hd3h3Y09sanZhVE5XMHFlSldpVFRRWGVRSmdHVEsxbUdnTmNHdkoyWGNY?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-24T05:42:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "哈伊马角车祸：受害者在阿联酋签证变更行程后返回途中遇难",
+            "originalTitle": "RAK crash: Victims returning after UAE visa change trip",
+            "url": "https://c.newsnow.co.uk/A/1330668084?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-24T17:02:32.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "随着租金下降，租户占据上风，迪拜租户正在搬家",
+            "originalTitle": "Dubai tenants are on the move as falling rents give renters upper hand",
+            "url": "https://www.khaleejtimes.com/business/property/dubai-tenants-are-on-the-move-as-falling-rents-give-renters-the-upper-hand",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-24T14:12:38.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋欢迎肯尼亚与刚果（金）达成恢复外交关系协议 - UrduPoint",
+            "originalTitle": "UAE welcomes agreement between Kenya and DRC to restore diplomatic ties - UrduPoint",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNU9NYXhDdTh6V3BPZmROc1BiTUpoWnJuX2FZZFNtZThCU1JXTjZYdGJBNkVGTXlaUlV2UVFzcnljZGV3eFluYVpXQTM4RHJyeUVzNkRuQzdRQ0NP?oc=5",
+            "source": "Sharjah24",
+            "sources": [
+              "Sharjah24",
+              "UrduPoint"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-24T19:38:43.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "联邦国民议会赞扬阿联酋领导层对伊朗袭击的回应 - 《海湾新闻》",
+            "originalTitle": "FNC hails UAE leadership’s response to Iranian attacks - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONHg0eTZNOElNVHhWdUZ5YktvM3M4Yk1VdlNLd2M3SVA1U2lUS083S002anhKZUpiMi05Qkd1V1FMbUJsd21pZk5VMHdmRUNJanlkSXJzMWpFMEZMeGd0bFhOaUs0UFhkTlYwZlQ0RmRFcFR3N2hjelo0Qlk4S2oxdTg4enNYdDhMS1RSTFBaWnJ2cVk4TW9BTjJ0c05wZWRqMmlF0gG2AUFVX3lxTE93SGZteTV3NGh4RHBWTHhZTVBobXJvbUI4dklSTEtJZWhTbnJKNWxrVExVNHd0V01wR09RNEZoNUgzNnhvZ0VpNm9xdjRFZjV2WU9leG9mTTE4M0czb2NNYWhJS0F1ZGFrcHdHUGtjWjRvcmJqRmFCdWFjaWYtX3FkVWdrcUVwZy05QWY0ZWZQRExoWUQ0ekUxM0V1OU8yeEpzeGNtZDI0c0FjZTBBdENCNDN0MVhn?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-24T13:32:56.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿卜杜拉·本·扎耶德与巴巴多斯外长讨论双边关系 - 阿联酋外交部",
+            "originalTitle": "Abdullah bin Zayed, Barbados Foreign Minister discuss bilateral relations - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hNndyZXZhRWhTODllRVRjWTVycEVNZGY5WW00WE1valZRa3pweEplYU5nRlVUenhRV1hOU0RjRGpQdnBNY1FmLU9YaDVVWk9PSzRQUWg4WjR1dG1maGl3MlNsTmx5TENrQ2RicTBEUG5pQQ?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية",
+              "برق الإمارات"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-24T12:18:55.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "印度联邦部长普拉拉德·乔希与阿联酋部长就人工智能和教育合作举行双边会谈 - 全印度广播电台新闻",
+            "originalTitle": "Union Minister Pralhad Joshi holds bilateral discussion on AI and education cooperation with UAE Minister - News On AIR",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUdfbkRnOUh1TVF5enpFbnFpaWRUc2gyWEZKNkFqZGJ2eXo1QmtqTkZMTjJoZVpSVlEwcFhqT053Z29rUnFKdzI1cERMSkhaY1VJc3l0UjYwamtZek5pcGNON0Q0bTFxSXZwelVSdjUxWDl0akswR1ZnZGhZNGxGOW16QUR1bGl0YjljeDAySGl6NjdpRjR5TVB4T3RQRkJJeGpDcU9EYU15eTdadFlnNW9rNjlqejctb2hKR0E2Z2FYNXFaODJEWHVWTQ?oc=5",
+            "source": "News On AIR",
+            "sources": [
+              "News On AIR"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-24T22:43:54.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "联合国水事峰会将在下个月的阿联酋会谈后每三年举行一次——《国家报》",
+            "originalTitle": "UN water summit to be held every three years after next month's UAE talks - The National",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0dDTXhEdDBtMlpHY1Bha2ZjalFXNHFRZXV5OVM1cWVESXEzajMxY0wwTk5UUWRUVTV5NWRlQmhueHViTEdZZW96Y3lENm5aNXdTQ2JuODdOcDNlMEZWWHY5THc2YVlPenBlVXZoVzBmWWl6TjhtczJaYzZKNlY5d2txc0taQWx5VlItaDQ2bXptakJ0LVpoY19JTm5HclNFQjgyTXNRaDkwRmRJOWZEdjRB?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-23T17:28:35.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋谴责索马里的“敌对”做法，指责摩加迪沙破坏双边关系 - Capital FM Africa",
+            "originalTitle": "UAE Condemns Somalia’s ‘Hostile’ Approach, Accuses Mogadishu of Undermining Bilateral Ties - Capital FM Africa",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFd1cVJzbHp3b2ZvMV9LSm1wSm9KWlNfUVUtcGJQQVBlV2g2bnRINHI2VTJYeEdyT1drR0l3cUwzbHoyQTZ5SDZ5NWFEdFJBQjRjZFZEVkd6WkpjUmlHX1lyaktOb2ZHSi15dXh0Q3RyaTNzZXBOYk0zZHFVdzk4TjhDMVlnVkp0VmlmUGVSVlR3VGhSeTlEQWYtaXBzYzVncmVkRUZqUDhsakNBWGFDb0t3?oc=5",
+            "source": "Capital FM Africa",
+            "sources": [
+              "Capital FM Africa"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-24T19:47:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "孟加拉国与阿联酋寻求加强双边和多边合作关系——孟加拉国通讯社（BSS）",
+            "originalTitle": "Bangladesh, UAE seek stronger bilateral, multilateral cooperation ties - Bangladesh Sangbad Sangstha (BSS)",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HM0VPQXVVWGJqdEtQWEUweXlSeDV5cVN5WTg1MFdIOEgtQWJTVmxxTGt6V3VMRWY3cVpZMEZHYm40SHpoNkxkdDJSZw?oc=5",
+            "source": "Bangladesh Sangbad Sangstha (BSS)",
+            "sources": [
+              "Bangladesh Sangbad Sangstha (BSS)"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-24T13:49:01.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Gulf Business UAE–India Gateway Summit 2026公布议程和演讲嘉宾名单 - Gulf Business",
+            "originalTitle": "Gulf Business UAE–India Gateway Summit 2026 announces agenda and speakers - Gulf Business",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOG5pYThURGtHaUN0Sjlib21veHJKTVZjdGk5UjlYSFFHbUtCdEVhc2g2b1g3ai1MTUVZd1VpNWx4VnlDdnh4UkJ4OVhaR1V0OTljYXpvVjZHY2VtbDJUWWtVVHBoUWtJb2ViY2piZ1pUVWV6MjdYeHF3bG1XZ09od1UzZ3Z1NXY3M2FvRzIwWWZPY09WOVYxbXE2R1pVZWktcm9Ddk1RNDJ2THNFd25FaEZUYw?oc=5",
+            "source": "Gulf Business",
+            "sources": [
+              "Gulf Business"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-24T12:29:06.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "哈利勒·拉赫曼会见阿联酋外交部长 - 《达卡论坛报》",
+            "originalTitle": "Khalilur Rahman meets UAE foreign minister - Dhaka Tribune",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFczRTdESXpNY2NXalZBMmFpZl83UWhPX2ZORDM4LTg4dlFCaDhEcW5vRmRzclRiVHRHZkl1SXk4eklnSm9XckYzSFlXTi1YUWJONzNlQ1lJZ1pUcUJtUjJJYWlJRWhPQk9jN3ZWY1o3a1hXSjhWeFlidmdSdVZ5OGdMS0k2QkhCQmlMOGc2aWRudkRGcndlRkM2XzlaN25XWUEtOHMtQ0HSAa4BQVVfeXFMUDNTT0dMQm9pQTJuZWJjalZid04xMnMwN3daTVVNUXI1Z2pUTUNpcEt0b0JTcEtQRUF3LXl2ZmIwUFNtdEFrQUxtRjJuekx4ZXdTano1d1MtbVZmS0trN2V5cms0dDI2MXRNSTd0ODh3d1FDT3p2ZE1TNEVkLUhRazZNSjVkVFBQZ2FVZ2dETTVEemxLdVFseHVOeEMyOWdMUXF3bHpfcHRyaF9NeXhn?oc=5",
+            "source": "Dhaka Tribune",
+            "sources": [
+              "Dhaka Tribune"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-24T10:39:06.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "孟加拉国与阿联酋讨论加强双边关系 - 《太阳日报》",
+            "originalTitle": "Bangladesh, UAE discuss strengthening bilateral ties - Daily Sun",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzZrc2tkUW1YY1B2bTBKNVljQWg2R3RBa3BocW8zQ1RsdHlncDcwX1JiSzR1dVcwX0Zpd1l6Yzh6TDZWUTJBekljaGdNR0xPOVpFejRlOUNSNUJLNGxKck84RkNRaWpjUlBvbzR6a1RnVUpVMTByTHJXNWt0WlNnVFdVSVdiMjc5YUp5ZWlvMHBZZzhMVmUtVlhn?oc=5",
+            "source": "Daily Sun",
+            "sources": [
+              "Daily Sun"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-24T09:53:58.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋国防部宣布将于11月25日在各酋长国举行“埃蒂哈德55”演习",
+            "originalTitle": "UAE ministry announces 'Exercise Etihad 55' across emirates on November 25",
+            "url": "https://www.khaleejtimes.com/uae/eid-al-etihad/uae-interior-ministry-exercise-etihad-55-november-25",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-24T18:04:54.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Muhammad Tariq 如何在迪拜打造出两家蓬勃发展的企业",
+            "originalTitle": "How Muhammad Tariq built two thriving Dubai businesses",
+            "url": "https://c.newsnow.co.uk/A/1330683461?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-24T20:05:44.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "以色列批准flydubai在获得安全许可后恢复飞往特拉维夫的航班——路透社",
+            "originalTitle": "Israel approves flydubai's return to Tel Aviv pending security clearance - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVNZT190UTRqTVdYYmIyMjNmVlluVTlNVzhqbjFxb1VKLVhBVGdDdEhVaDlIX2dsZkZoYnlDeW92eXkxdGxSa2ZqZndBT0ZUN0o4a1hJX0djcGxZNkR4SFo3T0VjbXRtdF9iUTE2QlY3RjF6UFRaUWVDTS02eFNVdWE2WXhPaW1UQmFmZG41aEVvc1B1SDM1MGtsZGViUGFlREdfU0x0S0lDeXZtNFFkT1FMd1hwM2NkazAtQ0lQNA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-24T06:55:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Flydubai表示正在与以色列当局合作，以恢复迪拜至特拉维夫的航班",
+            "originalTitle": "Flydubai says working with Israeli authorities to resume Dubai-Tel Aviv flights",
+            "url": "https://www.khaleejtimes.com/uae/flydubai-says-working-with-israeli-authorities-to-resume-dubai-tel-aviv-flights",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 72,
+            "publishedAt": "2026-11-24T11:16:54.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "从在阿联酋的三代人到商业成功：全球印度人分享他们的历程",
+            "originalTitle": "From three generations in UAE to business success: Global Indians share their journeys",
+            "url": "https://www.khaleejtimes.com/uae/global-indians-gathering",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-24T10:30:06.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿提哈德航空从阿布扎比飞往特拉维夫的航班在两次尝试后被迫返航",
+            "originalTitle": "Etihad flight from Abu Dhabi to Tel Aviv forced to turn back after two attempts",
+            "url": "https://c.newsnow.co.uk/A/1330698488?-15565:1965",
+            "source": "The Times of Israel",
+            "sources": [
+              "The Times of Israel"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-24T23:59:30.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "迪拜航空克拉科夫至迪拜航班宣布紧急状态",
+            "originalTitle": "Flydubai Flight Krakow-Dubai Declares Emergency",
+            "url": "https://c.newsnow.co.uk/A/1330687916?-15565:1965",
+            "source": "The Aviation Hub",
+            "sources": [
+              "The Aviation Hub"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-24T21:11:59.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋15亿美元的比特币与房地产博弈内幕",
+            "originalTitle": "Inside the UAE’s $1.5 Billion Bitcoin & Real Estate Play",
+            "url": "https://c.newsnow.co.uk/A/1330684650?-15565:1965",
+            "source": "Bitcoin Magazine",
+            "sources": [
+              "Bitcoin Magazine"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-24T20:22:22.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿布扎比将在GITEX 2026上展示80多个人工智能项目",
+            "originalTitle": "Abu Dhabi to showcase over 80 AI projects at GITEX 2026",
+            "url": "https://c.newsnow.co.uk/A/1330679813?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-24T19:14:51.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击沙特阿拉伯利雅得——《海湾时报》",
+            "originalTitle": "UAE strongly condemns the Houthis' targeting of Riyadh in Saudi Arabia - Khaleej Times",
+            "url": "https://www.khaleejtimes.com/uae/uae-strongly-condemns-the-houthis-targeting-of-riyadh-in-saudi-arabia",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times",
+              "Menafn"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-24T18:59:21.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装对利雅得的袭击，并重申与沙特王国的团结——SABQ 电子报",
+            "originalTitle": "UAE Strongly Condemns Houthi Attack on Riyadh, Affirms Solidarity with the Kingdom - صحيفة سبق الإلكترونية",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUW5SaW4xOEFoVTdGbTRCa3UxcDVubF82NnRNQzV6bmRLVHB4aHFGMFVrQ0ticHVubmlTcEYxaVlqMXl6SzJYNWZDTnhvOE5HMUdLYk1FcHhaRzVGb01BdFZCYVk5RmNCVmlWLXR6R2RHVWNhVHVNU3lxdW81c1pURFQza2Y0M082T0l2SVFaTDQxR2ZtNW1nSVJHdVRrcVRsQm1PelBoZ2HSAbgBQVVfeXFMTnVpV1FHaWE2RFNwYmF1M2VIVkdLRk90aHI4ZEhHSkpXNEdBMkZwaXVXVElzRmw1YjRndWRfMmlQS0p2SE42UnRIcDdxOGlNOXpZUDllNEVfYVJiWUt3YUJvZTZXMzFfODVFSDI0Z3lHNGxHN3JzbHk5Y3BZaHJDTXpjb0NrLXpya3RMSnZLZGNSZEpLY0NVaUYwdzdIS0lEU3lFZ05pWDhZYm1zckZrLUhjejlXVW1YaQ?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News",
+              "صحيفة سبق الإلكترونية"
+            ],
+            "heatScore": 95,
+            "publishedAt": "2026-11-24T19:55:35.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋周三举行全国性安全演习",
+            "originalTitle": "UAE conducts nationwide security exercise on Wednesday",
+            "url": "https://c.newsnow.co.uk/A/1330675161?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-24T18:13:56.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋强烈谴昂无人机袭击喀土穆的联合国大楼和居民楼 - Big News Network.com",
+            "originalTitle": "UAE strongly condemns drone attacks on UN building and residential buildings in Khartoum - Big News Network.com",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUVxSE5YamZPR1hkQmdrWGJsNDJhbVFWUWN6WDZuX1U0NWlZOXlLdEZRTGlSaXBHY3VLcDA1VmNHVktXUXdsRnNWamRvU1ZVOGFKLTZoc3hlZlo3RzgxdHVlZ09vVU1tajFfbXBYUC1IU05wbzBPNFJNUTRRSG41MHJMQWo5UUJCeW5BT3hmSVB5Tl9nQ0ltaUJjdkJpc0JXQjdPUXJ6bURRSG05cGlraDNYMm8zdFFqVDhtZjg0NnZ5T0HSAd4BQVVfeXFMT0duMVpCWHVmYVc0b285T0VqaG5EOUVRZGNVRE5RYVdMSVZhOWtvTTQtZVpXVEFZN3g0VkxEZzMxYV9UOGFsVkY2c3JQQjVLd25ZX1d1WklicWhjSWdqSTJvYVM2d283LWNvTkZRanJPQU9OUWF2LW5veTlEb3JyY2RtOVh3alVDUG5IZmQtTTBfTWN2QUM1SWoyNlRvQWpQa0VqNzNKTDhCZml4SERfaG1RZ24tTkNLS1A0OE9TSTl5cjBYS2dYSXk4TTlmcEZEYUVtWDY3NXRoVGR0OThn?oc=5",
+            "source": "Emirates 24|7",
+            "sources": [
+              "Emirates 24|7",
+              "Big News Network.com"
+            ],
+            "heatScore": 77,
+            "publishedAt": "2026-11-24T21:23:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋谴责胡塞武装对沙特阿拉伯利雅得的袭击 - 也门在线",
+            "originalTitle": "The UAE condemns the Houthi attack on Riyadh, Saudi Arabia - Yemen Online",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wd0l6TnJuUUpDc3A4Z1k2M29HZzVFcnY4S2VvM3ZCcGVaZURXaW1XYUtGYnV0cmdYdzlzMkxROGxnRmVQSmU5V3hPbUpQZTUtZ0E?oc=5",
+            "source": "Yemen Online",
+            "sources": [
+              "Yemen Online"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-24T22:13:26.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "JCDecaux Dicon荣获迪拜机场颁发的“卓越精神奖”",
+            "originalTitle": "JCDecaux Dicon receives the “Spirit of Excellence Award” from Dubai Airports",
+            "url": "https://c.newsnow.co.uk/A/1330691319?-15565:1965",
+            "source": "WebWire",
+            "sources": [
+              "WebWire"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-24T22:02:28.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "胡塞武装袭击利雅得金融区大楼，造成11人受伤 - Dubai Eye 103.8",
+            "originalTitle": "11 injured in Houthi attack on Riyadh financial district tower - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGtFdHVKWlU4WDhXZFRvcmlpZkotS0g5b2pfQ0ZEcXZWRnJjVzlYNkg3eUI4dXh1aFZsd2tuZ3ZBdlF2SXlXUnVaU3FyN1p5TFZ3amRDVGZ4X2JaTXZoWDdrUU43aDZjeUNnM3JjTTVBRnNHRTN5VzdVZDFJYzMwRGwteERqVC1nUGxhTXJxUzFHbGNqdHBlR0lUSzM4eWFHcVFNY0JENmVpVlV6VGd2eA?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 65,
+            "publishedAt": "2026-11-24T23:38:41.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿联酋称拦截伊朗导弹后，富查伊拉石油区遭无人机袭击引发火灾 - EnergyNow.com",
+            "originalTitle": "Fujairah Oil Zone Hit by Fire After Drone Attack as UAE Says it Intercepted Iran Missiles - EnergyNow.com",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmRjOW5iTlYxTE5NSkNHZlRTZXJRWXBZTEJMZ0FyNFItWWtPV3pmWUdnVTF0M2JzMmxOTmMyMU5MMG1nM3VJcnk2OS1OMXBrS3IxbTBvVVZVb1N0S2F6M1ZSS09kT18yOWZvZUh1MEdWSzlhTWw2TlAxWmpHcGZOZEN0U0haVUNBWHBPeS1ZNzVzYmlBZkMxTmFkb25vbERIeUx1eDBSeHNoUkVSUjVkc1dZeG8yYUZRbFJoTA?oc=5",
+            "source": "EnergyNow.com",
+            "sources": [
+              "EnergyNow.com"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-24T16:43:44.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Skyborne Technologies确认向阿联酋客户交付Cerberus MI UAS有效载荷 - Defence Connect",
+            "originalTitle": "Skyborne Technologies confirms Cerberus MI UAS, payload delivery to UAE customer - Defence Connect",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3JSa0U1N1FKMUVxUkRoc0tjaW01b19vQWFKMTBleVg4MTY5UnZxQjNvX3JfaEZJd3otZXFkTjBraGdSX0ZITFY1LW9BVXhkRVktTXBlTDJ6aENUam9Kd3UxenBzU3I3TzhXNm9tMHROTnZQTllpeTdIWVJpdzJGSVhLcW5DeFpNOEpObzdmSm9BdDVCRzhLNkdGY2M1Tk5JTURxQk5qd2M0M2Z4TEtZQmwtRTBfbjhYNGpPeGdyWk8?oc=5",
+            "source": "Defence Connect",
+            "sources": [
+              "Defence Connect"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-24T20:08:41.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿拉伯联合酋长国强烈谴责胡塞武装组织对沙特首都利雅得的袭击，并申明其……",
+            "originalTitle": "The United Arab Emirates strongly condemns the Houthi group’s targeting of the Saudi capital, Riyadh, and affirms its…",
+            "url": "https://c.newsnow.co.uk/A/1330679643?-15565:1965",
+            "source": "Voice Of Emirates",
+            "sources": [
+              "Voice Of Emirates"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-24T19:12:28.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "观看热门视频：Vaibhav Sooryavanshi 52 球 200 分让阿联酋投球手目瞪口呆——《星期日卫报》",
+            "originalTitle": "Watch Viral Video: Vaibhav Sooryavanshi’s 200 in 52 Balls Leaves UAE Bowlers Shell-Shocked - The Sunday Guardian",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcU5SeldXWkJRSWxBQ2VvY0hHV1dEQlA2eURGS2ZnbTF5VEhmVWZlaF9XREVPY1BEa2p4Ty1QZzR1eVgzb2tPWm5Qa21KeEY2ZW5rWk9MZ2tnY2JrYW9kQ0R2bktwYm1ySlFSbTNURlhLNVdzOWMyVHlEOVoyYzI0b3QyV3hFY3hOUmdLQlI0dnByVXdNQnZNNGdvSVNDY08xclVOeHRQVzktWE54LUhTMVBZSUsyc1dlZVVmd1RrTTNRUGxwOXBEMEdsbkZseXfSAdQBQVVfeXFMUHNxdHF5RE9qWXVjN3hteFVNQVhjY0xXbHBpWlgtZDdMUHdOUEJPLW44S3lfb3pvZWg4Ny0zT1NiYTBqUlp0UWx0SUxpa0M4OUktbmZHOUt1YzRfVGF1REcxNUNJaUtkeXpzWmh3OEZ3dDJiSlBFSTRaN0Rfdy1raVNsTkpIZVU2bWhvVHoxQnpXV210dWtWdXFRNVZlUUdvVDcxeHFFb01lNXRVNFNHOE5pX2xNSXc3WVFvVVZUU0R3b3NyLWctT1YwY29MVWhuanBZc0I?oc=5",
+            "source": "The Sunday Guardian",
+            "sources": [
+              "The Sunday Guardian"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-24T12:47:42.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋在全球知识指数中保持强劲地位 - ARN新闻中心",
+            "originalTitle": "UAE maintains strong position in Global Knowledge Index - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmplNl9QUnJ3QWUxU3RmZ2VCaDNwNVhzQ0xqMmFocXpmS01NempwRFdVY2dhTGQwRmg2OW9tQXE2ZGxJUk1tTUN2bWtHV2dxOS0zQVBYTHU3WEI3aXBjekJqc3d5a2NxWktaQWxqOFZDaEVxRTZRT1RIYmUxODZKeGV4OFhVdzhGaU9fS2ZFb1p1UW10LWs4enhR?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-24T16:27:11.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Dubai-it：五年、一幅素描和一场梦想，哈姆丹酋长的Instagram评论让斯里兰卡侨民欣喜若狂 - Emirates 24|7",
+            "originalTitle": "Dubai-it: Five years, one sketch and a dream, Sheikh Hamdan’s Instagram comment leaves Sri Lankan expat on cloud nine - Emirates 24|7",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmxxNmxDQ01qSm1wbENYZUhKTHY5UWdaTUdUY0JiZk9BT0tJT1ZLU2pPOW1zQkxJdFFOVDc0cWJvcDBULTB5bVVSQmVrRHZ3NEEyZ0FwcjVQdnpDOUZyU3JuWWpTemM2MUVqdmZMZy1DTXVtWXdYMzRMcFNrbnptWnU4a0NLZjd1MEM5VndJVnFXdTBPOUxQb3p4eHhXdFdkV1ZmUFA0Z3lNUkJtSzkxQ3A0NHpCN0h6ZUQ0blBsRnI4N2lwV1ZXRVZDVExSZU9JN0NVcVZMd1dtSjhESnlV0gH6AUFVX3lxTFBqM0EtZUUwaUJrRnMxT2J4aVUzX05jMTlQUnlVTHJPcXlyUTJtd0phRHJxeEMtTkhOYW9yZlVOSkY3bWdyNE96Y0ZqMy1PZ25ZdmNwZXFFTnMzRHVWazJIdG9HODJkTVAzT1pvWnZfSGZJb3docURnODNfZ1VZeHVyRzNKWGFXZk9paW9JZHMwTWY1X1BtblQtZXlfYTV2b3ZRUWFIMUptV2xJc1hqTVVCVWQ4Xzl0anRUTjBOVlZMZVhzVnZMYVlkakZyMWE3ZjNkRzBSM1hsNS02NU5UVE1DM1pQN3VBS2UwZm1mNGJuN3EzQ0hyNUFrOWc?oc=5",
+            "source": "Emirates 24|7",
+            "sources": [
+              "Emirates 24|7"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-24T14:00:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "身着纱丽的迪拜骑行：印度企业家 Kanchana Nair 身着纱丽骑行和跑步，在网上赢得人心 - theopenpress.in",
+            "originalTitle": "Saree Dubai Ride: Indian Entrepreneur Kanchana Nair Cycles and Runs in Saree, Wins Hearts Online - theopenpress.in",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5dGlER0tMT1BmRlJPVzg0dHUydmd4VU94dW5vcmdYa0V0UHctaGJDMHlVczlGdmRwQWY4ZVBBbEJEVWZEWmF5OEptQnVGZ1pidWVHLWM4TElIV1JPTWhzSDA1aTVvRDRJSThTZDBncFpxSWc0QVJIU3ZjRFk?oc=5",
+            "source": "theopenpress.in",
+            "sources": [
+              "theopenpress.in",
+              "India Today"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-23T16:43:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "视频：Abhishek Sharma在被阿联酋投球手激烈送出场后失去冷静，激烈争吵的画面迅速走红 - Moneycontrol.com",
+            "originalTitle": "WATCH: Abhishek Sharma loses cool after fiery send-off from UAE bowler, heated exchange goes viral - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRm9ydHRoSWo4enhiOHZYLVRUSjJhN0NlRUVUTDZnaUtyYW40RjlpM1NuaDJzbm1iUWhXTnBUckNlc0VDclV2eVF1ZFRtU0QwaUJUOTNMbkh6TzFLdXF2eEE2VEFDX2c0Z05KZWNQM0hJQjB3NVFnX0hNNXR2aUFpWTJaUHM0eURiQkhLWTJxTVpaVHVZZnp3RGNYYVdUWVJMTHZIMUFland1Y3F3TFh3a05wWUd1aGhIZ3dPeUVXUHprZVIycnhURFpNcU8tMHZ6Z2dQXzBBVUdSb0w4S1RxQ1FnT3NsRTBNOUlKUGlBa0psbzk40gH6AUFVX3lxTE9ZbzdLRF9yemlHNWFUYldVUXVicW9zVEhyVWhHb0pTdUtIMEFPZWlqeWhLbVRvUzNZQV9VMDZQY01yT1NaWDFKeDRkWWZITmZoNDlEcUktdmpHWF9lMmF3bDBFVVVJUzJEakxVcFJpR3p6NXV0ZllPVmM4VGpaTkhXOVlMRjJ1OXBwQnlPeENYOFVIWHlpSDlPUDdPdktidjFpRHlCUDcxMXl4SUVZeVhtcG5vZndUVXpNYzJRUHI2WVNKUGk1Z1hsZWltdWl0UDBVS0hXR3dSSDlmN2NUTzk1MzVOdUIzSkhLeEYzd21lYldyazAyMG44Tnc?oc=5",
+            "source": "Moneycontrol.com",
+            "sources": [
+              "Moneycontrol.com"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-24T13:59:29.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "印度女企业家身着纱丽参加迪拜健身活动，庆祝阿联酋和喀拉拉邦的骄傲——观看——《自由新闻报》",
+            "originalTitle": "Indian Entrepreneur Cycles, Runs In Saree At Dubai Fitness Events, Celebrates UAE & Kerala Pride - WATCH - Free Press Journal",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVZzeDcwUkFsNWxudVEyUEVLMUs1M05FcTJlRVQ3Y3BFb1ZSSGlRSURfR1o2VHMwa2JpbllPQ2w2VWdYNkpuRUV4QTRhSXpHampRTkd0VGJrZjFJZGROMDZkQ0xKUGFYVkFfYXlENnpSaDh3a2JYVmxzcUppOVhkaEI3TTVqOTEzX09ReUl3U0VqeF9GdmhhZ2NVc0NTWnVZVVF2SGJtMVUzRUVIc3V6VldGa1JraHBwRktFLU0tclF2RGh1aTFYR0VpWElmcm1GaUHSAdcBQVVfeXFMTi00Qm5mMGhlNDJNbnZqSnZnUVlrcW1oWFlzLTg3Z1JuQkdhMzkxel9jaGFBWFVnV2tqXzNkTEhodVFwaktxc2ZCZjAzUFl6LXB0bk1fZ0VxOTcxckdLTU91NWFndWczWHZ1aDA3X0liLWdHTGZMaVl2cDNkdTh4VmRVZ2xzaHlnU21KMTRFVlAwRlB6YVZTNmkyVElpTTB0QnZuWlZ3SVRZN1FxaTB3ektHQVRPX25UOEdOMVJWVHcwaXFjbjdUckJtaDNrWjNpWHRQdlJsejA?oc=5",
+            "source": "Free Press Journal",
+            "sources": [
+              "Free Press Journal"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-24T12:29:55.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "快速HIV治疗在阿联酋队列中实现了高水平的六个月病毒抑制 - Bioengineer.org",
+            "originalTitle": "Rapid HIV Therapy Achieves High Six-Month Viral Suppression in UAE Cohort - Bioengineer.org",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUxlTU9oMkVJS3M3REJ2TUxMYkdpakY2bzJMdUxtM2xaRlg2d3RnOEtjNldLb3BueXNzMUh1NVI2ZmZmc2R2VTViM0hMSE8tQ0h6WUFlTzFXdFM2MGZYZUJMZTY5WnAxUm1rRXdCUE1fVEdjMFFDekFVQktMSWhSekVIX29KcXQzWlU5cnNxZDBhY0tka1ZYSG8zc1pGMms?oc=5",
+            "source": "Bioengineer.org",
+            "sources": [
+              "Bioengineer.org"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-24T07:27:21.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "6,6,6,6,6,6,6,6,6,6,6：Vaibhav Sooryavanshi无情地痛击阿联酋的投球手，仅用16个球就打出了超级50分，视频迅速走红 - News24Online",
+            "originalTitle": "6,6,6,6,6,6,6,6,6,6,6: Vaibhav Sooryavanshi punishes UAE bowlers mercilessly, smashes super fifty in just 16 balls, video goes viral - News24Online",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS0JhN0hnZG9RNEgyTzRxRHRIOEhEMzZtNlNNUTltVG9JVEwtanFpZDNyMGtWTVgyU2paVVlCb0d4ekpnc2ZmYko5M1JFQjRUZWRON1otNGs1VE4xV2F1Znk4R0JFNXAwUWZFcXlBR2o0NFB4eDBVRHhEQUJZc3BsaXhJSFdQU0lxVG5WQ2FTakgwTU5BRTY5LXdSRmh4TGthZVE3OF9YNXAzU3BvRWk4dnpDLVA4OHF4VzVMMmFxd1ZBQTdrMUFkVU1fZmZrLW8zYnZzZTJVb042M3RYUDVraERnWW5GenVsOXBpbzBXWTbSAfQBQVVfeXFMUHF5YWtVWWs0Uks4ckdtVWFaV29sWW9NME0zVTVPbVN1Q3hRbVNWVS1pZm1rLTVlSGFNd20yOXF6Q3hQM0JFWXBqN2ZKMENZMEVrU2hDVGdQNm1hdkozZTcxTUFZSi02NVlzLW5ZQVRfU053d1hzMm1XRWxCa0VqNjlNcHhYc19QWWlZamRQSDFXbFF2T3BsaC00d1NUeEtSWjdyZnNxUk8tSjFBMjhDS01vZi1HdDlsaWllNWIzOE1xMGl3bXlwSDd5U2hxTGFxRHpCLXlPMEFLd1NES28wUEdmT3lTNEt1bmUzdzhsaEpTbWdtcg?oc=5",
+            "source": "News24Online",
+            "sources": [
+              "News24Online"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-24T11:14:15.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "印度侨民在迪拜马拉松上挥舞30米长的阿联酋国旗，并出现在王储的视频中 | 热点新闻 - 《印度斯坦时报》",
+            "originalTitle": "Indian expats carry 30-metre UAE flag at Dubai Run, feature in Crown Prince's video | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPckw1cF8zUU1ZM0liS2l0TFdNWUUxai1mdnZIM3hTajVuVFllMnZ2T0ZwRElwVWxQaE5adU9TT3NqS2tEQmtZdy1rWFhaNWVjM0d6aGVXYmc3aDBLODRsMVBQbzRLamQ2amZsdndQS3dwZ2VjUDRoNFlmTXdSbHE0RmFLRTFld2VwNjN5bVBEeDdyWVBFU0kwcjlYR0x6dGV6MHd2UWdCc21EOEtvWThhYm9NTUdQREpqang4NFc5N3B1dkY5dW5RSjRHbDF5bFh5NTVfaHRTY19wczYzU1FV0gHfAUFVX3lxTE9yTDVwXzNRTVkzSWJLaXRMV01ZRTFqLWZ2dkgzeFNqNW5UWWUydnZPRnBESXBVbFBoTlp1T1NPc2pLa0RCa1l3LWtYWFo1ZWMzR3poZVdiZzdoMEs4NGwxUFBvNEtqZDZqZmx2d1BLd3BnZWNQNGg0WWZNd1JscTRGYUtFMWV3ZXA2M3ltUER4N3JZUEVTSTByOVhHTHp0ZXowd3ZRZ0JzbUQ4S29ZOGFib01NR1BESmpqeDg0Vzk3cHV2Rjl1blFKNEdsMXlsWHk1NV9odFNjX3BzNjNTUVU?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-24T09:24:52.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "热门视频：印度女企业家在迪拜身着纱丽骑行和跑步，庆祝自己的文化渊源 - News18",
+            "originalTitle": "Viral Video: Indian Entrepreneur Celebrates Her Roots, Cycles And Runs In Saree In Dubai - News18",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVJ1Vl82bjY1SzhBd3dhVktuUzRrQTMwZ1hkX0hXeHZXS1lJaVVOclZZeU15dW9WQzdtbGtZSHBSLXVobTZ0WXM4TTA5YkJNWDViTjZrOHY0QS1URkw3RWtKamMtNEtwenFBNU51MEg3RHlUbTFIZEpqZGlzQmJ2bVViZGhGQmRONTFCRUJOUy1PdHkwbndSNC1PbF9ROTdISFlvaG9BQ0djN1lwZWNZNjg4eXp5dm56Tk9ON0VYMnVFa1Q0akJYb0ZIOWdMV3PSAdQBQVVfeXFMTzRtNjNUZlc2YnRqQ2E4ZnAwQVZSMU5NNHAzUjR6V2ZVN09fN1ZQb3N5cl9rVFYwOHlkYVZ4UmFGNkFJYUpfQjlvUTkyVjBfQm93cmFxcHprbXlWSHhWVEQtUnhWODR4d2V2MFN2SHBXMVEyaXRNWEgyRzFGbDhxYVoyVzJCVEJ0WTktMU9uNWE0V0hiOGRJLTBTemRvdmk5SVNidGZFTXVnazdfQVR2WkV0RTVUT0pMVkdCazBYbktudFdXSm4tXzhyaVBaMEpUMk5pVW0?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-24T08:45:21.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "华为：1 亿台设备运行鸿蒙操作系统 - 《今日阿联酋》",
+            "originalTitle": "«هواوي»: 100 مليون جهاز يعمل بنظام «هارموني أو إس» - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10NFN0dElaYmtBZEhNeHJaeVhfQURFWEpDWFNNeVh5NVY1VVdwZ2N5UTVGVk5HYWxOOW9VcjJpaGNLZ29IU1lrTGZsM2hQR3dRb2JWM1RNdm9KZ0ZGR1RWNjJZbVJPMUV2RzIxdFBYbklpTkFoMVJoT3lJU04?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-24T09:00:14.000Z"
           }
         ]
       }
