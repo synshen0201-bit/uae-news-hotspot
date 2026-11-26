@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T19:17:23.524Z",
+  "updatedAt": "2026-11-26T02:21:35.514Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -49497,6 +49497,823 @@
           {
             "rank": 6,
             "translatedTitle": "华为：1 亿台设备运行鸿蒙操作系统——《今日阿联酋》",
+            "originalTitle": "«هواوي»: 100 مليون جهاز يعمل بنظام «هارموني أو إس» - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10NFN0dElaYmtBZEhNeHJaeVhfQURFWEpDWFNNeVh5NVY1VVdwZ2N5UTVGVk5HYWxOOW9VcjJpaGNLZ29IU1lrTGZsM2hQR3dRb2JWM1RNdm9KZ0ZGR1RWNjJZbVJPMUV2RzIxdFBYbklpTkFoMVJoT3lJU04?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-24T09:00:14.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-26": {
+      "date": "2026-11-26",
+      "updatedAt": "2026-11-26T02:21:35.514Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "在巴基斯坦演出禁令争议之际，Atif Aslam和Yo Yo Honey Singh在迪拜婚礼上的舞蹈视频爆红 - News18",
+            "originalTitle": "Atif Aslam, Yo Yo Honey Singh's Dance Video From Dubai Wedding Goes Viral Amid Pakistani Shows Ban Row - News18",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUJkeklNRFMyX2RReDN5T3EyTzlXc1Z4SVVoVzBvQUZEeHkxeEZXNF9GbGFVX0EzaUlhMEhjQU16aE1FdzhXSFlXdXRIUWh5SnRjazFNMmpNbnc1N3Y4UXF2WTBUWHdYN2hxX0lXcHF3Nzd6OE9Td2RvcTloaFpXbkxGSFpfaUgtMGt6T2JuRFQtcHprR005RnAtOHRMQWxhbFdDZ3BmRnVwTlBlY1VF0gG_AUFVX3lxTE5tNHhXOUxyZ0dvUTQ4MFlaalJOYVlCejkyTThJQ2JpdUJBRUFZdklaUWF3OE9vdXBtc3RSck9jR3B6WmJvc0xUOWVBMWRrcGhLeDcyYnJ1RjltLV91MllKOERHeFdRa0NpaDhwWDRpYjlGaW9XMWlya21IOGhRVGFpNDNuem02TmxNTkFnQV9Nbk91Y1ZmbXZha2JjaFRQSUd0ZVViSHVqd3ZIaERDUUFmT252Y0M0SEpUb3hPMEE0?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Filmibeat",
+              "Gulf News",
+              "News18"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-25T17:37:32.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "55米超级游艇、海上豪华住宅：迪拜游艇展上值得一看的5艘船只",
+            "originalTitle": "55-metre superyachts, floating luxury homes: 5 vessels to check out at Dubai boat show",
+            "url": "https://www.khaleejtimes.com/uae/vessels-dubai-boat-show",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-26T02:00:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "9点到5点的上班族工作模式是否正在走向消亡？专家警告称，人工智能可能会改变阿联酋劳动者的薪酬方式",
+            "originalTitle": "Is the 9-to-5 job dying? AI could change how UAE workers are paid, expert warns",
+            "url": "https://www.khaleejtimes.com/uae/ai-could-change-uae-workers-paid-9-to-5-jobs-dying",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-26T02:00:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "英国海上贸易行动组织（UKMTO）报告称，迪拜以西的油轮附近发生爆炸",
+            "originalTitle": "UKMTO reports explosion near tanker west of Dubai",
+            "url": "https://www.arabnews.com/middle-east/ukmto-reports-explosion-near-tanker-west-of-dubai-3014072",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-26T01:10:04.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "阿联酋欢迎肯尼亚与刚果（金）达成恢复外交关系协议 - Dubai Eye 103.8",
+            "originalTitle": "UAE welcomes Kenya, DRC agreement to restore diplomatic ties - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmFqdmpKNXlaVUZ5QzBHcW9ZQl9SU0ZXWWNzRkxtRmNZRjNyTW9jT25SNFAzNU1qb29tcWFIcU1XdDB5UE5NS3dhVTlscl9ac3hlVTZGbUwzVDk1QmVfOXNVc055WGhoZExoel9RWEE0SlRTMTRpc0VjRGNWaE5oQ3M2b0tPZjNnSEpOYjJubS1RTmJEZUI0RVg5eHJVNjBCWFE?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8",
+              "Gulf Today",
+              "ARN News Centre",
+              "Sharjah24"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-25T07:38:57.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "阿联酋1970年以来的历史：一位80岁的喀拉拉邦人如何找到归属感",
+            "originalTitle": "UAE since 1970: How an 80-year-old Keralite found home",
+            "url": "https://c.newsnow.co.uk/A/1330802110?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-26T02:09:34.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "沙迦难民奖获奖者旨在将教育项目推向全球",
+            "originalTitle": "Sharjah refugee award winner aims to take education programme global",
+            "url": "https://c.newsnow.co.uk/A/1330801946?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-26T02:05:42.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "如何将宝莱坞明星带到阿联酋？",
+            "originalTitle": "What does it take to bring Bollywood stars to the UAE?",
+            "url": "https://c.newsnow.co.uk/A/1330801945?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-26T02:05:42.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "中国证券股份有限公司在迪拜国际金融中心开设首家中国境外办事处 - www.wam.ae",
+            "originalTitle": "China Securities تفتتح أول مكتب لها خارج الصين في \"دبي المالي العالمي\" - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOFkyT3p4ZWNaZG5PRmM3bjlFMlJReUc4SWhpdlpOTFZXWXRXajJNLWpVdjRlWmVSRlFNZFk1VThhVXBTaEJ6Q083VVI1VF8tdmtXRVlBemxtU3lSWmk1ZUoyVFAwUndQcGIzcE4xaEowZ3ZMbWdJNXBJS25hWWI2RF9XSXY0SFlGaDR6Q3F1dDgtczFPVHpzZ2pYSnFkX0djNHVCU3JXblF2Y3NEYWI0LVFDT2JNeWRtcWUwTnRGQV9ZY3ZGUHdhYTBVMDFQRkJnX1VaZ3F4eXItRTZmRkVpRU9jRWdkenlsTU5IclZXcHNhX2d5eDg2V0JWTG5GSWs1WG0zQVltOG1hRy1jT2NLVjlwQTg4MnBqZ0dzZW1ya2lSTEZyM3hMWGQ1TmcxXzNUY1dxTGhqaUI2RXNuVDZMTnJPenprdw?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-25T15:04:28.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋海关挫败在边境将24公斤毒品藏匿于卡车拖车中走私的企图",
+            "originalTitle": "UAE customs foil bid to smuggle 24kg of drugs hidden in truck trailer at border",
+            "url": "https://www.khaleejtimes.com/uae/crime/uae-customs-foil-bid-smuggle-drugs-hidden-truck-trailer-border-crossing",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-25T18:23:46.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "55米超级游艇、海上豪华住宅：迪拜游艇展上值得一看的5艘船只",
+            "originalTitle": "55-metre superyachts, floating luxury homes: 5 vessels to check out at Dubai boat show",
+            "url": "https://www.khaleejtimes.com/uae/vessels-dubai-boat-show",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 87,
+            "publishedAt": "2026-11-26T02:00:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "英国海上贸易行动组织（UKMTO）报告称，迪拜以西的油轮附近发生爆炸",
+            "originalTitle": "UKMTO reports explosion near tanker west of Dubai",
+            "url": "https://www.arabnews.com/middle-east/ukmto-reports-explosion-near-tanker-west-of-dubai-3014072",
+            "source": "Arab News",
+            "sources": [
+              "Arab News"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-26T01:10:04.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋1970年以来的历史：一位80岁的喀拉拉邦人如何找到归属感",
+            "originalTitle": "UAE since 1970: How an 80-year-old Keralite found home",
+            "url": "https://c.newsnow.co.uk/A/1330802110?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-26T02:09:34.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "沙迦难民奖获奖者旨在将教育项目推向全球",
+            "originalTitle": "Sharjah refugee award winner aims to take education programme global",
+            "url": "https://c.newsnow.co.uk/A/1330801946?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-26T02:05:42.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "如何将宝莱坞明星带到阿联酋？",
+            "originalTitle": "What does it take to bring Bollywood stars to the UAE?",
+            "url": "https://c.newsnow.co.uk/A/1330801945?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 85,
+            "publishedAt": "2026-11-26T02:05:42.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "中国证券股份有限公司在迪拜国际金融中心开设首家中国境外办事处 - www.wam.ae",
+            "originalTitle": "China Securities تفتتح أول مكتب لها خارج الصين في \"دبي المالي العالمي\" - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOFkyT3p4ZWNaZG5PRmM3bjlFMlJReUc4SWhpdlpOTFZXWXRXajJNLWpVdjRlWmVSRlFNZFk1VThhVXBTaEJ6Q083VVI1VF8tdmtXRVlBemxtU3lSWmk1ZUoyVFAwUndQcGIzcE4xaEowZ3ZMbWdJNXBJS25hWWI2RF9XSXY0SFlGaDR6Q3F1dDgtczFPVHpzZ2pYSnFkX0djNHVCU3JXblF2Y3NEYWI0LVFDT2JNeWRtcWUwTnRGQV9ZY3ZGUHdhYTBVMDFQRkJnX1VaZ3F4eXItRTZmRkVpRU9jRWdkenlsTU5IclZXcHNhX2d5eDg2V0JWTG5GSWs1WG0zQVltOG1hRy1jT2NLVjlwQTg4MnBqZ0dzZW1ya2lSTEZyM3hMWGQ1TmcxXzNUY1dxTGhqaUI2RXNuVDZMTnJPenprdw?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-25T15:04:28.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿联酋彩票公布幸运日开奖中奖号码",
+            "originalTitle": "UAE Lottery announces Lucky Day draw winning numbers",
+            "url": "https://www.khaleejtimes.com/uae/uae-lottery-lucky-day-draw-winning-numbers-25-november-2026",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-25T17:43:18.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "泰勒·斯威夫特的“全球村”致敬演唱会如何将陌生人转化为粉丝",
+            "originalTitle": "How Taylor Swift's Global Village tribute concert turned strangers into fans",
+            "url": "https://www.khaleejtimes.com/entertainment/global-village-taylor-swift-tribute-concert-dubai-fans-enjoy",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-25T17:36:50.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿联酋将2031年的清洁能源目标上调至35%",
+            "originalTitle": "UAE raises clean energy target to 35% by 2031",
+            "url": "https://c.newsnow.co.uk/A/1330784083?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-25T20:02:31.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "拉斯海马车祸造成13人死亡：家属开始辨认遇难者身份",
+            "originalTitle": "Ras Al Khaimah crash that killed 13: Families begin identifying victims",
+            "url": "https://www.khaleejtimes.com/uae/emergencies/ras-al-khaimah-crash-families-begin-identifying-victims-11-indians",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-25T16:23:51.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋欢迎肯尼亚与刚果（金）达成恢复外交关系协议 - Dubai Eye 103.8",
+            "originalTitle": "UAE welcomes Kenya, DRC agreement to restore diplomatic ties - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmFqdmpKNXlaVUZ5QzBHcW9ZQl9SU0ZXWWNzRkxtRmNZRjNyTW9jT25SNFAzNU1qb29tcWFIcU1XdDB5UE5NS3dhVTlscl9ac3hlVTZGbUwzVDk1QmVfOXNVc055WGhoZExoel9RWEE0SlRTMTRpc0VjRGNWaE5oQ3M2b0tPZjNnSEpOYjJubS1RTmJEZUI0RVg5eHJVNjBCWFE?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8",
+              "Gulf Today",
+              "ARN News Centre",
+              "Sharjah24"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-25T07:38:57.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "劳动部长会见阿联酋大使",
+            "originalTitle": "Minister Of Labour Meets UAE Ambassador",
+            "url": "https://c.newsnow.co.uk/A/1330791030?-15565:1965",
+            "source": "Qatar Tribune",
+            "sources": [
+              "Qatar Tribune"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-25T22:00:19.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "卡塔尔媒体公司董事长会见科威特和阿联酋大使",
+            "originalTitle": "Qmc Chairman Meets Kuwaiti, Emirati Ambassadors",
+            "url": "https://c.newsnow.co.uk/A/1330791028?-15565:1965",
+            "source": "Qatar Tribune",
+            "sources": [
+              "Qatar Tribune"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-25T22:00:19.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "NextSource Materials与韩华、JOGMEC签署阿联酋阳极工厂股东协议 - Proactive财经新闻",
+            "originalTitle": "NextSource Materials signs shareholder agreement with Hanwa, JOGMEC for UAE anode plant - Proactive financial news",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRzNhTmVCcmZ0LUk5Tkw4MzhUdE9hZkp0Y2ZJaF9lZXZFQlhEMmlNUHVrblR0UldqYTRocTRGZFZSZnpNaVZuQ0VVY1BURmN1M2NPT0lzZmlqbUdDdUZ6RHB5bVdJeUlLdE5VX3JPdkRFQmI5akJXY0YyZUNIUmtCelVaekRGTHpKa0dPcy1IeVN3Rk1BTmxHSHVzdVZ2WTBrNHFzVEctMFFOMGVrbkpqZXdvLWN1ZDFKWDhKTEZ1TjliN29tbndjZ0FvNGxMTHFfSWtQeWxVallva1RMZ1V6Y1FzSUxSZEdTcnhHMlNB?oc=5",
+            "source": "Proactive financial news",
+            "sources": [
+              "Proactive financial news"
+            ],
+            "heatScore": 56,
+            "publishedAt": "2026-11-25T14:55:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "2026年知识峰会强调阿联酋与联合国合作在将知识转化为发展影响方面的作用 - Menafn",
+            "originalTitle": "Knowledge Summit 2026 Highlights Role Of UAE-UN Partnership In Transforming Knowledge Into Development Impact - Menafn",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdDdqQm9NV1ZuWlNQVEI0WFhIY09NYkJPQ1YwWjJ2TUR4aGU2eV9TaXdsS3VGVEhia3RpOGtVYlJqdmc1U1VRMXJfRVZ1cWxCS08wUU9Ycjk4c0c0V3FfNklnSWUxdUs1cXZwWmxkMHA0LVNjbTFIMVoycU5qc2lxdnJtbDd2ZWlEREM5Zk9rQ1lKZ09jbzloQ0g1RXRXQ2pQelQ2cW1kT3p3Q1NTUzNOZGlCVUVLNURoWGY2Z2NPVUxRQXJ2SUVKdXJnaVR4TFVVZ3VZelB3?oc=5",
+            "source": "Menafn",
+            "sources": [
+              "Menafn"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-25T16:30:18.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "为何阿联酋支持鲁托和齐塞凯迪的和解，以及肯尼亚和刚果（金）修复外交关系——《东莱城之声》",
+            "originalTitle": "Why UAE is backing Ruto and Tshisekedi’s reconciliation as Kenya and DRC mend diplomatic ties - The Eastleigh Voice",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY050MTgyZXpscGUwYlhMcGhtcW96NjdFRkxEUk85M1p4R2Y4LUl5RGVpdFQ2alZyUGh1X0ZFODY4c0FaUkRwSWZsTFR4M0JMbjYyNlZXRVBMd3h1NFh0Y3RvRU8xbWYyWVMya1FudWZaZkZ5cy1RamNuYmIycUF3SElJUkhwZ3N1YVlHa0J0ZGJVS3laZi1mdmJteDdWVVl3dk5DbFpuTHhYcVI0RXprR1ZxQmp4YTQ0X3EzUV82ZDVZWEx0bnQ2Qmx3ZFVMdWEzM3Nz?oc=5",
+            "source": "The Eastleigh Voice",
+            "sources": [
+              "The Eastleigh Voice"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-25T14:01:24.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "NextSource Materials与日本丸红和JOGMEC签订股东协议，并获得3000万美元投资用于阿联酋电池阳极工厂 - Investing News Network",
+            "originalTitle": "NextSource Materials Completes Shareholders' Agreement with Japan's Hanwa and JOGMEC and Receives US$30M Investment for UAE Battery Anode Facility - Investing News Network",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZjkxWnhjS3ctRndhLXVPWWZLQ3E1NElsdlNNOGVBMHhNd1BrRUlvUDlsM3pLQVhFQ3YyQ19leUkwaUFyMnV4ZUwxYXFfekx4NmFJdDhtYTFBV3FjUDZqNnJnLXlSRXlaWlI3cFM5RUs2QTVfWW5MQjc4ZFRRUDRBYVJobjdUOVhmbVJsV0NBOGdBcUlOVFpQZDdvTkluSXBFMFBiYlBKVnhzMVdIeXo0WHRYdVJ6TkxTVVN1cTNDeWc1dVFGZ2NhcEd0NzhKaEVkU2pmUVlTazR6dk9NTnZ4enRBUHpFNVZtcTlUQklBVjZCaTVlQjROWi1CV20ySlBfNkE?oc=5",
+            "source": "Investing News Network",
+            "sources": [
+              "Investing News Network"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-25T13:55:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "NextSource完成阿联酋股东协议，获得3000万美元 - TipRanks",
+            "originalTitle": "NextSource Completes UAE Shareholders’ Agreement, Receives US$30 Million - TipRanks",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3BMV2xBUjdrY0dlemxwYlp3Rm4tWW01dy00TktvSlJ5T0lwSG4zRzltb3VLN2NtR3E3aG9RTTZlR2ZlWjY4ZVFZU29IOEZmX0FRdlA3cUhGZUxOV0UwQjNnQ0p3d3lEZXhhVXFpVEZ6bDBUM05NMDhDc1VMbXZLNm5HV25UN1ZiZzFEMmxkcW90ei1Pd1dodWtyQ1dlUjlVVE5DT2pWN0hrenBpZWpfeUxzQXI5bWMtZWxHaHNn?oc=5",
+            "source": "TipRanks",
+            "sources": [
+              "TipRanks"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-25T13:33:14.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "随着阿联酋外交裂痕加深，摩加迪沙援引1月秘密过境行动 - FTL索马里",
+            "originalTitle": "Mogadishu Cites Covert January Transit Operation as UAE Diplomatic Rift Deepens - FTL Somalia",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDY4MHd1VW9vUjBwdUdNOElPb0xjUnhlcVI1SW93ZlpmdmR0ZzBrTnNURjZseXFYOXItUHBlSE5qekVaS3hnUk9KMzAxOTFob1RuVlg1Z0s3eHoyQ1ctSnNsTzE4cjJZYndDNkEtNHdCTEdoQzVteVJFOEpmMmRzeFFjc1Zyc09ST0lJNUJpNXcxdVJzdm51cVc2V2RoSndORThFVWhXc2xua1E?oc=5",
+            "source": "FTL Somalia",
+            "sources": [
+              "FTL Somalia"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-25T12:24:27.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "意大利如何将其与阿联酋的伙伴关系转化为战略资产 - Decode39",
+            "originalTitle": "How Italy turned its UAE partnership into a strategic asset - Decode39",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZTctRWJ6OFJ2eElCS3ctanNOZ1JhbHg0MjhrVVkwWHFYWWFhZDVOVWNPdFVzUm8zS00yVVV4YnZrNk5iLTZNamJwaXRUdDdoTTNZUTdZd3hKLTdKZWdRc3JzbUh0VjFUNWMxV0FqUFk3UE9BTHNsWWxaZjhRb2V2MTJxUk9TOGM1SUREbkNSa2s?oc=5",
+            "source": "Decode39",
+            "sources": [
+              "Decode39"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-25T07:58:16.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "阿联酋海关挫败在边境将24公斤毒品藏匿于卡车拖车中走私的企图",
+            "originalTitle": "UAE customs foil bid to smuggle 24kg of drugs hidden in truck trailer at border",
+            "url": "https://www.khaleejtimes.com/uae/crime/uae-customs-foil-bid-smuggle-drugs-hidden-truck-trailer-border-crossing",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-25T18:23:46.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "迪拜伊斯兰银行将以全股份交易方式收购阿联酋伊斯兰银行",
+            "originalTitle": "Dubai Islamic Bank to buy Emirates Islamic in all-share deal",
+            "url": "https://www.khaleejtimes.com/business/finance/dubai-islamic-bank-to-buy-emirates-islamic-in-all-share-deal",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 76,
+            "publishedAt": "2026-11-25T15:34:01.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "商业论坛吸引500多名代表齐聚迪拜",
+            "originalTitle": "Business forum draws over 500 delegates to Dubai",
+            "url": "https://c.newsnow.co.uk/A/1330778369?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-25T18:38:05.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "迪拜-泰国航班：Flydubai开通飞往曼谷的第三个每日航班",
+            "originalTitle": "Dubai-Thailand flights: Flydubai begins new third daily service to Bangkok",
+            "url": "https://www.khaleejtimes.com/business/aviation/dubai-thailand-flights-flydubai-new-third-daily-service-bangkok",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-25T14:24:10.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "以色列批准flydubai在获得安全许可后恢复飞往特拉维夫的航班——路透社",
+            "originalTitle": "Israel approves flydubai's return to Tel Aviv pending security clearance - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaVNZT190UTRqTVdYYmIyMjNmVlluVTlNVzhqbjFxb1VKLVhBVGdDdEhVaDlIX2dsZkZoYnlDeW92eXkxdGxSa2ZqZndBT0ZUN0o4a1hJX0djcGxZNkR4SFo3T0VjbXRtdF9iUTE2QlY3RjF6UFRaUWVDTS02eFNVdWE2WXhPaW1UQmFmZG41aEVvc1B1SDM1MGtsZGViUGFlREdfU0x0S0lDeXZtNFFkT1FMd1hwM2NkazAtQ0lQNA?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Reuters"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-24T06:55:00.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "迪拜：全新房地产平台表示，首次购房者可将首付减半",
+            "originalTitle": "Dubai: First-time homebuyers can halve down payment, says new property platform",
+            "url": "https://www.khaleejtimes.com/uae/dubai-first-time-homebuyers-can-halve-down-payment-says-new-property-platform",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-25T09:39:31.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "阿布扎比哈布尚 (Habshan) 综合体的天然气井",
+            "originalTitle": "Gas wells at the Habshan complex in Abu Dhabi",
+            "url": "https://c.newsnow.co.uk/A/1330771318?-15565:1965",
+            "source": "Petroleum Economist",
+            "sources": [
+              "Petroleum Economist"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-25T17:16:36.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "到2030年，人工智能将改变40%的工作技能：阿联酋的学生是否为未来的工作做好准备？",
+            "originalTitle": "AI to change 40% of job skills by 2030: Are UAE students ready for the future of work?",
+            "url": "https://www.khaleejtimes.com/uae/education/uae-students-future-of-work-ai-job-skills-careers-experts",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-11-25T10:51:45.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "9点到5点的上班族工作模式是否正在走向消亡？专家警告称，人工智能可能会改变阿联酋劳动者的薪酬方式",
+            "originalTitle": "Is the 9-to-5 job dying? AI could change how UAE workers are paid, expert warns",
+            "url": "https://www.khaleejtimes.com/uae/ai-could-change-uae-workers-paid-9-to-5-jobs-dying",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 86,
+            "publishedAt": "2026-11-26T02:00:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "阿联酋强烈谴昂无人机袭击喀土穆的联合国大楼和居民楼 - www.wam.ae",
+            "originalTitle": "UAE strongly condemns drone attacks on UN building and residential buildings in Khartoum - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazJuSnNSM2NVbDBaYkRqWkozOUFjSjhEY2dOZlZBbWdhQlNNR0E5a3JHM2FLajd0OWJsQ1Rpd0kxdWhaZkhSRlJhRk5UMkFhemRrZTRMeElyWnZJWnpOSHd3MXE0S29iTk40SFZGcnZJbHBBODRQWGdDSkxLRUxQU19YalBxT3d3MEZvSDJ2VQ?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "Emirates 24|7",
+              "www.wam.ae"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-24T21:23:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋强烈谴责胡塞武装袭击沙特阿拉伯利雅得——ARN新闻中心",
+            "originalTitle": "UAE strongly condemns Houthi targeting of Saudi Arabia's Riyadh in Saudi Arabia - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZG5HM24zVnhzYTlJZkhNWC03RG5MY0NldG5mWEhmZ3NubHVhQ0RpLWdTcGxkQWVRSUIzLUpCUEs1Znp4QjFxbnJQM1VnRVdmZkdpNFBWdDM5NkVabjZJQmZPd1JjNjBaN1pFTV9sTXQ5dFBvLUdzOG9QWHI2djZXTWRBclgxSlJSeFlyV2ZkN2NOMktZdmJxclBaaDNDOG1pdjBOZm5n?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8",
+              "ARN News Centre",
+              "Emirates 24|7"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-25T09:55:17.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "的黎波里部队声称击落了“阿联酋制造”的无人机 - 新黎明报英文版",
+            "originalTitle": "Tripoli forces claim they shot down 'UAE-made’ drone - Yeni Safak English",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelVEbHdpZV9hclAwTVhJTXdQTXZtMVBTMkgyNFBONFBsNUZjTzdhdENuZ2ZRYi1FVTE1LV9qZXNWcHpjT2hvNk05X0pJMV9PQVA1ZmpxNXU0NUxMVzRYVjZHN0U2SW1ZdDdIVjdYYnZJTU05QVpMN0ZkZ1cteVRIazdndWRtNVJHRGtCUE5aVUFjd2c?oc=5",
+            "source": "Yeni Safak English",
+            "sources": [
+              "Yeni Safak English"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-25T20:20:41.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "迪拜峰会表彰尼日利亚民防安全部队负责人杰出领导力 - 尼日利亚通讯社",
+            "originalTitle": "Dubai Summit Recognises NSCDC Boss For Leadership - News Agency of Nigeria",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsMV9MNEhzMmpZWEFCeTlCMjJmeUpQNldDMklGQnNMYmg0a0NheGFwTm51bXdMdXBGSzRiVjBGdGNab0Z2SktjUHpjdU1pLTdFSnFwWUtaLVB6RHh1NzBqSTd6T2hQNlIxYXBUY1FMVkZEWW9DV3BYMQ?oc=5",
+            "source": "News Agency of Nigeria",
+            "sources": [
+              "News Agency of Nigeria"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-25T20:11:49.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "布里斯班无人机公司向阿联酋客户发运试用机——澳大利亚航空",
+            "originalTitle": "Brisbane drone firm ships trial units to UAE customer - Australian Aviation",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0ZzUmZrXzBma21oM3JtbnZwOUIxVkVxSHVIc1FNLTA4R1kzSl9xUTktWDZXaTg4aTlMWnI4eS12d2FuSWZDT1BFTmpzQ0dQX1poZHFfc2JhSER2MVBmdkxySks3Y1U1YXljYjVnSFU1NGZpeTdZU1RWajdZVkRWOEpBOUlDeXlCUDQzRHBmWmtSUHRqNV9KUEtWZFY?oc=5",
+            "source": "Australian Aviation",
+            "sources": [
+              "Australian Aviation"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-25T20:10:20.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "索马里发布视频，指控阿联酋未经授权运营军事设施和武器网络 - Horseed Media",
+            "originalTitle": "Somalia Releases Footage Alleging UAE Operated Unauthorized Military Facilities and Weapons Networks - Horseed Media",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVJ4Ul9nWXc2WnBkTE1GanUtT0Nqd2ktdGxNY2w0NVF0VmFVRnF6RHZOUFg0dmIxLTBZZzh0R0RQTm4xOVd0QWptWDRreC1wOFFNZEVlZmdBQ25VMkN4Zk9XMlFWZHplMlQtUmhCMWVYRjVOX1ZGN19NbVBFZGZGdTZDbU52TUhyX2RhZTV1X2p0WmY0OEljV1BjNko0REhsbmxEZ1pVRnBmU3NiQ3JzUTBrWmxxNWthWmdFaWktTzVGU05SMlY4aFZNRzI1QQ?oc=5",
+            "source": "Horseed Media",
+            "sources": [
+              "Horseed Media"
+            ],
+            "heatScore": 53,
+            "publishedAt": "2026-11-25T13:58:58.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "阿布扎比将建立无人机和自动驾驶车辆技术专用测试中心 - 中东交通与物流",
+            "originalTitle": "Abu Dhabi to Set Up Specialised Testing Hub for Drone and Autonomous Vehicle Technologies - Transport and Logistics ME",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHYyb0FRZmpwRFZFOTA5X29yLWVxcDlyamZ4U2RDbGRNNHFpMEdiWWZEZ3E4TlFiVjQzbW5RX1dnbXNRRUd6YTZWSFNTQ0psMHFTLTNVRzdWRnpUc0dtMHFxcFpWXzZ5NkQ1cnM2aFJoekhRb0pNVWFYLWZ6cjRwVXEtdS16UGYxV2RTX0gycm0yQVRxOEJjaUhUZDA0cEItR1g4Qk5rcE1fb3pJQWRqenFQMzM1a3FpaUJEUFE4TTVFOTQ5dUN3YmswTnJsTENabVNkQlJrQnFhVnBCaDRuelU1RTDSAfIBQVVfeXFMUGVVMFFuRmplNzJUU1NWU2FaSENPUjFkQWEybFBsZWduVkU2SS1Sam5XU3UwT3VmUGwwYTNxYzBxZXNpSGwxZTU1RHBzS2gzSEFLU1ExSFdnOFBHLTFLRzdXYlJLcngzdG1nZFZXbmgtU1dqWnJiSU5qV1k2QUhSWG8tWFM2ZjY4c1dPSkdXWUFFdm1QOTg5ekJMZTdSZmFLQmhqd2p0UGlnNFhvcHJjU1FmTS02NkREM0IycUZFU2FySGxjYUF5Mlk2cjlvUlRUdXBENkF0M3o0V1FzN3pVbmRxTTJBeXNHYnJ5TXZfbW9tV1E?oc=5",
+            "source": "Transport and Logistics ME",
+            "sources": [
+              "Transport and Logistics ME"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-25T13:29:57.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "阿提哈德航空飞往以色列的航班在沙特改道后返回阿布扎比 - 《耶路撒冷邮报》",
+            "originalTitle": "Etihad flight to Israel turns back to Abu Dhabi after Saudi rerouting - The Jerusalem Post",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MM0xOa01YTzNoY3dfVnhzTklvMHdHRGpwNnFjSGo4SmVVOE5aaGpycmVydTlpcHhoeWlueXJtR1hXcnNaam1lZVBhdVBPaTI3N3Nnc2FiWE85U29P?oc=5",
+            "source": "The Jerusalem Post",
+            "sources": [
+              "The Jerusalem Post"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-25T12:17:14.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "迪拜著名的免费无人机表演回归，1600架无人机点亮夜空 - What's On",
+            "originalTitle": "Dubai’s famous free drone show is back with 1,600 drones lighting up the sky - What's On",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFFKcFMtVFNlVVhkTnN5MG5tMTVWVTBYaXgtckRiOV9fbXVoMnNnT21xT19YSWM5SzFLeGVOMlhJLU9VazNWa2J6WlIzM1NmWmFzOHB3aHhSNENkRHN4Q0tqNFdXcG9wcnhQRlUtd0llVG15NzdTRDZVVVBhV1g2RGF6RkV5RFg1bjJKXy1FZ0dnak9TNFFJWGh4R01HTnpHeFlCRg?oc=5",
+            "source": "What's On",
+            "sources": [
+              "What's On"
+            ],
+            "heatScore": 49,
+            "publishedAt": "2026-11-25T09:42:17.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "在巴基斯坦演出禁令争议之际，Atif Aslam和Yo Yo Honey Singh在迪拜婚礼上的舞蹈视频爆红 - News18",
+            "originalTitle": "Atif Aslam, Yo Yo Honey Singh's Dance Video From Dubai Wedding Goes Viral Amid Pakistani Shows Ban Row - News18",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUJkeklNRFMyX2RReDN5T3EyTzlXc1Z4SVVoVzBvQUZEeHkxeEZXNF9GbGFVX0EzaUlhMEhjQU16aE1FdzhXSFlXdXRIUWh5SnRjazFNMmpNbnc1N3Y4UXF2WTBUWHdYN2hxX0lXcHF3Nzd6OE9Td2RvcTloaFpXbkxGSFpfaUgtMGt6T2JuRFQtcHprR005RnAtOHRMQWxhbFdDZ3BmRnVwTlBlY1VF0gG_AUFVX3lxTE5tNHhXOUxyZ0dvUTQ4MFlaalJOYVlCejkyTThJQ2JpdUJBRUFZdklaUWF3OE9vdXBtc3RSck9jR3B6WmJvc0xUOWVBMWRrcGhLeDcyYnJ1RjltLV91MllKOERHeFdRa0NpaDhwWDRpYjlGaW9XMWlya21IOGhRVGFpNDNuem02TmxNTkFnQV9Nbk91Y1ZmbXZha2JjaFRQSUd0ZVViSHVqd3ZIaERDUUFmT252Y0M0SEpUb3hPMEE0?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Filmibeat",
+              "Gulf News",
+              "News18"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-25T17:37:32.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "“打得好”：拉文德拉·贾德贾（Ravindra Jadeja）的搞笑Instagram故事在对阵阿联酋的比赛中创下204分纪录后，将瓦伊巴夫·苏里扬希（Vaibhav Sooryavanshi）变成了阎王爷 | 查看Instagram帖子 - 《星期日卫报》",
+            "originalTitle": "‘Well Played’: Ravindra Jadeja’s Hilarious Instagram Story Turns Vaibhav Sooryavanshi Into Yamraj After Record 204 vs UAE | SEE INSTA POST - The Sunday Guardian",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxON0s4Z0Y2R0doQzR0aW5DUkh3RXFDRTF6SnRZMmthTnRMdVlIZ1NnVTZUNG1XM2RPSEs1ZUtSWTZkTTZ1aGZPODhhVTNnY1dXRUVWSjVCZXB3cFhEUVRBbWpLTlA3UXJvNVluM0R1MUlJTjhzaVgtcFdvbmRJeXZwS2dSSlhnMVdLcGhrMEFHQTlnVkpVenIyTEdka053OVk5T2NnZlY1XzhQbnZpM3NRNWxoOHR1alRWcUw4eTJmWkJwdm9TbXpZeTJOQmdCRmRBZUl1SDlEbTJFclpvYXdPbUdMWjQ1WkxXWEM1ZUJaZFJxelQ0TGxKU0ZhVzc3ZmMxQi1yVjY5VHHSAY4CQVVfeXFMUHREZE0tbllWODF1T3JZZ0tmV1VoUUtTeGtKOGpLQXNmUGZyLVdZN1VMMmZOamNCNXY3RVhkb1REOTd2NHBreTJMejk0ZlhPVjBtdzdCREJxdkptcVI0VDNTN1VlUVM1VzE5c0ZJZGJyZnJ6aXpSVFpSY2p3MHFFZ3dqclJnanZDSVgtX2h4VUFIZ094OUVCYzRHdzYwUmxTNWJPSnYtaXNlWk1RWU9wYlB5RzlXV21zd3BCVUEwampkeS1MT0c1cHpyeUpneXlzc2JsOTctY0ZOaXFJNjhpQTVEWGJNRERpXzlkSkhySThNQUJnRWJOVmx2ZXFzMGNHTlZKWkVDSE5wY0ZOeG9R?oc=5",
+            "source": "The Sunday Guardian",
+            "sources": [
+              "The Sunday Guardian"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-25T11:23:52.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "阿联酋教育部驳斥关于公立学校学生被不公正停学的说法 - 《海湾时报》",
+            "originalTitle": "Ministry of Education refutes claim that UAE public school student was unfairly suspended - Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXVIREpHR0JUZUU4RE1sZUVsZHcyb2xtVEp1YVFLTTRMVUNZRmJiNTFoZnJZdDRCcXEwbXFpUTlQemlteXFsZ1BsR2ktNlJvZVRMOVo0U3RmTmgwSXR6U0FWRW92UktxTEZ5Q1FjTldFalQyMXZ1c0I4eEUtT0NrZ2xLdDBhd2U1dXhwODFSQzRrdDU0MmxmTHdNNnhNWkxnWmhCR2E4MFhMM1lBZTdFcWExbXbSAbwBQVVfeXFMTkF5TXRTcmU3QzVBWmQ1bXczLTduaDdna2JydGRXdkNXOFNVS1Vhc0tGcFExTTZGYjBIQmxzd3gxUHpWYi1uM2ZoUWdnaU9RZlRKRUVpUmRndUVCMGpvOXl2QUw0SXJyWjQ5N0Jna3R2TzN2eDV3OXA5Sll3M01DLTBsamltRGxDWEtjQ2Z6dGY4ZlhvVjdMblBwLVpfX3duSy1CYzRRdVBtN1dqbEdsMzRFaXlJakMwbkFCakY?oc=5",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-25T08:32:59.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋教育部否认有关学校纪律处分的说法 - 海湾新闻",
+            "originalTitle": "UAE Ministry of Education denies claims over school disciplinary action - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTFDcmVleXFmYlNGRG9TTUd5Mlg4bGQ2d093dkpiUEJmaUxxREpHYWN3Rm82VVY1Q19rWTZueXVnRzV4ZXFCcFhsRTg3TnhrT0NQMWdTRlY5QmpNMElvaURLazY0UTBkM2h2bjlXQXJFM1kwdlFoMUltRkJUcGp2STVhbDRwZHVvTWtOdDZHMmNEc2VUSzFmeXQzT2c2bmctdTc0TXZrYlZaTXJpcS1PRzloYkJ0clNLZUHSAcwBQVVfeXFMT2N6Y19sWUhGVUpxX0JiQkxjLW9ObUlwZXA0VTNrcmU0aHVOcFdPYUs0UXpYSHVqU1Z2MVd3V3diWl85dGtLS0VzYVZKV1VIR0pBaUFvXzFJSGpNems5TGpBME16THV1RkZJMnVGU1lWQnF0eXFyMlJnOC1LNV9kSnBaRm5yQ1F1aUVfUEdlS25NN1JNVDY1Qm9heWNLcDhFQm5QZlR6eGN1VWY3UEJZaElUem4zRHY2d2hUTlZ1M0J6NWU4OUFLNzdyVFJY?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-25T07:07:43.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Honey Singh和Atif Aslam在迪拜婚礼上的舞蹈视频在巴基斯坦演出禁令呼声中爆红——观看 - India.com",
+            "originalTitle": "Honey Singh, Atif Aslam's dance video from Dubai wedding goes viral amid Pakistani shows ban calls- Watch - India.com",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcVFaTHdDbHNkcDlpVDJOYmFVM2hWbDZJUTlhTkxYblVWdmRic3FTWnVuMVlZR2Y2cTVaOURvRFNwVTBzTEYycVozc3BUNW9GMkEzVnhHRVJ1R093OU5FSkhvd2xVc08wMFpUdVd0ZHNibWpPM3BNUmJhOGxtNlVnNXhNUmk0emFLdWdhZGhOUnZYRnN0aGVsSnR2ejNLaXV4b2lnbklQcE5tWjRCWWlGb2FxbjU2bUl3eFd1M3hqaklBVzlFVDVJYUxGMF9pV1VEMUw3ME9fejNLcjNZNkY2dNIB5gFBVV95cUxQSmFoSVlPUEJ4ZGR0bVpFSmNyZVNHNVFMV0ZQbEdZaUtoeVMtWXZpem1TYmVPZy1ha2s3ajlNMFk5MW94OXdTUm1tdzU5QUFhalZlZXRmMnk3dkh4SXhCLWJGMzZxb3pwNTFtbDdScFJHY2JoaFpOeWIyRk5WS1pYcFBCWFAzY1NtVmlWS2QtQ1phUDQ3bTZMeEVIdkRNanNVSkFiWXlzdVM1QzU2RXhlOHBTUlhfM29xUEhGUE4wdzh1ZUtkRWNITUVkZTc5U3dIdm9md0lDaGZ1QmpJbXh3eWZSaTVaQQ?oc=5",
+            "source": "India.com",
+            "sources": [
+              "India.com",
+              "IBTimes India"
+            ],
+            "heatScore": 68,
+            "publishedAt": "2026-11-25T16:34:15.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Amidst Growing Calls to Ban Pakistani Entertainment Content in India - Zoom TV",
+            "originalTitle": "Honey Singh and Atif Aslam Dance at Dubai Wedding Amidst Growing Calls to Ban Pakistani Entertainment Content in India - Zoom TV",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZXd0UXA5bnI5eldxbEItSjFRUjNFdjNyTXJ4VTBNazVGZTlGS1JqY2NWWUFJM0V2Y242N3ozWEE2Wm50RmoyMmZEYTNoX0U4bVN0SFNNUEtqX0U1LWVVaFcwN2UyM1VZNENVMVhhd2tValZZSkpyWXJVVXpvczNsWEZRMC01eU9fMWNnWVRfck40bEFNQkJFSzZOUUVBelJBLTRpNVIxY3lVWVk3eGtkSTNhZ2paLWp1enlWMWtyTkZJY2U1TlVWbUJQZzhjQQ?oc=5",
+            "source": "Zoom TV",
+            "sources": [
+              "Zoom TV",
+              "India Today"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-25T14:32:41.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Shalini Passi在迪拜以《The Art of Being Fabulous》一书首次亮相文坛 - Outlook India",
+            "originalTitle": "Shalini Passi Makes Her Literary Author Debut In Dubai With The Art Of Being Fabulous - Outlook India",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWtteHhEWHVXNEtyWVM1eG55TWhlSHJyWTEycjhZREFOTFM4Y2NIWUVnMV9NS0Iza29UY2FTUkNtOGY0bVRvOEFxeF85MDN3SzhXWUJOSTd0d0huZDhMNktpTkhBRU1lTHZGNGlrSnVkVmhodUV4dzFLTlpHZUg2czluZ3pVTzVjQzBqbWYyek1lMkptNmdTQXVhbHRYbFFRRWQ0dm16aklZUk0wekRSa3BqTm1meGpUMWxkYVRCUlU2MFZ6Y3dGTktSc1PSAdoBQVVfeXFMTVVsMlFweHlnMzRJSU9UOUJ0WmNNc3o2ZU4ydWROaUNXMWVCckZxZFhncEdjVnJpQXVsUkZGaDlvbC1HSWNmNHpGYmFjWkgwc3ZGSldvOUtBUkEwUzljakRMZnhsOFNHYkg1OFVqM2k4OTB0QW5iNUdmOVYtVWdVX0NNWVZ1ZGdLUEtkZU5FdmtQOThLNEtUVzZEQ290WDE5UGQ3TV9LMlAzRmdQNWx3Mm1UUG1kOGh2RW5nM1pFZFRUOWM5X1I2bkZIQlVxZFZLME03Y2tfeGtmMkE?oc=5",
+            "source": "Outlook India",
+            "sources": [
+              "Outlook India"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-25T15:35:59.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "迪拜餐厅供应24K金达尔塔卡咖喱；味道如何——《印度快报》",
+            "originalTitle": "Dubai restaurant serves dal tadka with 24-carat gold; Here’s how it tastes - The Indian Express",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM3BGcDdZd2ZWODNIaE05M3JVZHZPYmRweUNLbzJZdkZWaGpYYVJkX1ZHUTh1bkJ3ZWpWVzQ1ekhJaGg3bV96LXRkUkNraW05VWpfV1lRcW5ZeFdlMTR0ZXJXQ25vWHBUU0l5b3dPdGx5QWh3UFRMeEdLZTlxV0x4LUZVVkRJalpmMjQ2dVgyR2llcS1tc1lDOWxESVNONnY0bE02M0VoMEU0NWJyOFB2LWpxcGJ0aFJZbjBoQk11cFRLMkgxdW9FUHFIQUlSWUtTSlHSAdgBQVVfeXFMTVR1b0cwcnc0YUdZS2lBMzFQWmlNcGVDUFk4NThYeTB4SUFuTVBIeEhTSVF5ZVhtQllFSVV4SmJDdndaYWVub1hWNUpCTmRBZ29WdFRHakxXT2w1X1ZhUk1oOHpYeFpuRkFMNzlDWnNZS3JWTXpKMEFkaDVLcXVIYlVRUFJqaTFlc2x4UlV0RXdVcVFLVUpka05xeWdSeEVQVndScVFYdF9lUW9VdmxWNDNwN1h5VHF1WEhHZ05tRVh0UnRuNHFmZ2xtOUFpWENkQjlmTFgzN1dl?oc=5",
+            "source": "The Indian Express",
+            "sources": [
+              "The Indian Express"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-25T14:30:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Sheikh Hamdan殿下与商界领袖共同讨论迪拜的发展重点 - ARN新闻中心",
+            "originalTitle": "H.H. Sheikh Hamdan joins business leaders to discuss Dubai’s growth priorities - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUdLSmNOYklWbXp2dVhMOFAyRkh5cGlEMmZpYTZWSWpsNV9jOXRlam1wakwxUDZJRTl0T3ZfMEtGZHBtRXJIcFNyLTQwTHVBQnB3WkZ6a1R6NGRjT0p5SVlNRTVJV1U3VEk0WURnYlAxbVVPeWhVcEVzTGxMazByc0RKVXhRaEU4VlhDdjV0T0E0RWh4X1RUZkx0SHdUZlBDYkJSbjFhRmlzMVdLN0R6ZWEzcUtPeTU1R2JZaA?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-25T14:29:28.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "阿联酋教育部驳斥社交媒体上学生行动视频具有误导性 - Dubai Eye 103.8",
+            "originalTitle": "UAE education ministry dismisses social media video of student action as misleading - Dubai Eye 103.8",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTVVOVk0TmdpQllIc2MwMzRCMEI2MHlKWGd4Y3hZNVotM1V2YTFOUjJldkwyNmxPVGtuMl8zM1BTQ1NQZnB6OHJaZ1dPYmFaM1pQNGo0ajdfZDhCb2x3b2NLbGlrQ24tVmE2X1gzZURyZGtzWGZtMHlNbkhoNllEQ1hjcGVMOWRVZTBIWXhvSzQ5Q1A3bU1UX09JbnlUZHhHT0IwaGp3b1R5WFhEWnRzNkJDTDIyTWdvQndENzlnU1F1UQ?oc=5",
+            "source": "Dubai Eye 103.8",
+            "sources": [
+              "Dubai Eye 103.8"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-25T10:37:57.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "中国证券股份有限公司在迪拜国际金融中心开设首家中国境外办事处 - www.wam.ae",
+            "originalTitle": "China Securities تفتتح أول مكتب لها خارج الصين في \"دبي المالي العالمي\" - www.wam.ae",
+            "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOFkyT3p4ZWNaZG5PRmM3bjlFMlJReUc4SWhpdlpOTFZXWXRXajJNLWpVdjRlWmVSRlFNZFk1VThhVXBTaEJ6Q083VVI1VF8tdmtXRVlBemxtU3lSWmk1ZUoyVFAwUndQcGIzcE4xaEowZ3ZMbWdJNXBJS25hWWI2RF9XSXY0SFlGaDR6Q3F1dDgtczFPVHpzZ2pYSnFkX0djNHVCU3JXblF2Y3NEYWI0LVFDT2JNeWRtcWUwTnRGQV9ZY3ZGUHdhYTBVMDFQRkJnX1VaZ3F4eXItRTZmRkVpRU9jRWdkenlsTU5IclZXcHNhX2d5eDg2V0JWTG5GSWs1WG0zQVltOG1hRy1jT2NLVjlwQTg4MnBqZ0dzZW1ya2lSTEZyM3hMWGQ1TmcxXzNUY1dxTGhqaUI2RXNuVDZMTnJPenprdw?oc=5",
+            "source": "www.wam.ae",
+            "sources": [
+              "www.wam.ae"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-25T15:04:28.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "在北京指责华盛顿在华为在美国法院被定罪后“打压”中国企业之际——《今日阿联酋报》",
+            "originalTitle": "بكين تتهم واشنطن بـ «قمع» الشركات الصينية عقب إدانة «هواوي» أمام القضاء الأميركي - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1VsTDVhejVoUVZoNGlIOTZsMlRLeWhVWFE1RVdvTE84MFFnMVhxYnd4UzM4WDMydDc5UHg5UmUzR1pTNGYyVnZQVGEtSTJFZ1lZWW5iRlpnUFpJSzFmLUExQnhsczBxaXBCNW5EejJQNTdNN3g0c0VRTjRwZ3htX1pkelBjMkg4N1E1THBvVldRLUU?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-26T00:00:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "管理着 750 亿美元资产的中国中金公司在迪拜开设办事处 - 《海湾时报》",
+            "originalTitle": "تدير أصولاً بـ75 مليار دولار.. «تشاينا سيكيوريتيز» الصينية تفتتح مكتباً في دبي - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlOUNZTFFaUUxfMWx2RHdzelZuZUcxNl83MjNVWWVNZlhiVUlIcm40TURoY25seE9xTjZCXzRTM2U1NEpqYWVmcFYzT0x6V1hrOU1WUWVIUmlNemI5djlSc1R6ajYwVkNFWi1Z?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-25T14:11:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "阿联酋与中国扩大清洁能源与创新合作——《海湾新闻报》",
+            "originalTitle": "الإمارات والصين توسعان التعاون في الطاقة النظيفة والابتكار - البيان",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iT1ZqcmZia0NZd0xfcldob3JjVWRpX0Ric3k1M05kRThRckNoU3k0Zk5SaTc0ZURXR1pQZWQwa25PUjlZUTh4N0VaQ3Q4dFUwbG1pMlNIdnEyd0pQWHFiYTdiYnlhcG9pem1j?oc=5",
+            "source": "البيان",
+            "sources": [
+              "البيان"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-25T11:02:00.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "中国注入 8000 亿元人民币以支持银行流动性，从而增强银行稳定性 - 阿联酋之声",
+            "originalTitle": "الصين تعزز استقرار البنوك بضخ 800 مليار يوان لدعم السيولة المصرفية - صوت الإمارات",
+            "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPeUVHa21TbXcxLUlBSm5HUzNmblNNSWFSdENLeUxPMHZGVExYeW1UZFdudjg5bFI2Y3NBWjRQOVhzRHlNb3NGV0FzeDZlVkxaenFxRjRVMkh1ZmQtTWJDMHh0a1F1NEVzWlh3Qms3dXZRd04tYXY2MGNlWHJhZHQ5RGQxTnlDRjl4SjloejBGMzBjc1JJNXVMMVNMUWlxQ1EzTnhzZ0FMM3VaSGJsZkhSbFFYdDlRakFlZTYtQnMtQlBsc2ZtY0xhclZGeXE1R1RQeXk0VXRDVFUyWmYxN2UzSWpJeDBUWDFnc0RzSWFiV3NNejY3SGNGeFZmLTBXc0hPc1Q1SDE2TjJDdVdNaGZlS2JGY2xWNW85TWVRcDZVNU4tbXVqLUNfNG13YkZTc2UtZnhTdzU0TlYtYVRJZThfV2doYmpmSjNtdmRvaFotRkRLUDRkUjRxdUhuOEF0MXhDRGFnNVh1Wm4?oc=5",
+            "source": "صوت الإمارات",
+            "sources": [
+              "صوت الإمارات"
+            ],
+            "heatScore": 46,
+            "publishedAt": "2026-11-25T06:35:30.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "中国正准备发射首个载有外国宇航员的太空任务 - 阿联酋今日报",
+            "originalTitle": "الصين تستعد لإطلاق مهمة فضائية بمشاركة أول رائد فضاء أجنبي - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VZ2hIbHVNdjNtQnhoVGRLM3FYLU8zREJXQzNsWHU0MDBsRVE2RjhENmJKeVdNQzlvV0tNREx0bGZHbDhldU52a2N0WEdSN1ppVExzVzR2QnZjM1BCNnlCdHJFaGlhYU05ajdlTkJNX0tPZzFLZDRUTlZB?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 45,
+            "publishedAt": "2026-11-25T00:00:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "华为：1亿台设备运行鸿蒙操作系统——《今日阿联酋》",
             "originalTitle": "«هواوي»: 100 مليون جهاز يعمل بنظام «هارموني أو إس» - الإمارات اليوم",
             "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10NFN0dElaYmtBZEhNeHJaeVhfQURFWEpDWFNNeVh5NVY1VVdwZ2N5UTVGVk5HYWxOOW9VcjJpaGNLZ29IU1lrTGZsM2hQR3dRb2JWM1RNdm9KZ0ZGR1RWNjJZbVJPMUV2RzIxdFBYbklpTkFoMVJoT3lJU04?oc=5",
             "source": "الإمارات اليوم",
