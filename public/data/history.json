@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T20:21:57.608Z",
+  "updatedAt": "2026-11-27T21:20:21.332Z",
   "days": {
     "2026-09-21": {
       "date": "2026-09-21",
@@ -51137,6 +51137,830 @@
             ],
             "heatScore": 46,
             "publishedAt": "2026-11-25T00:00:00.000Z"
+          }
+        ]
+      }
+    },
+    "2026-11-28": {
+      "date": "2026-11-28",
+      "updatedAt": "2026-11-27T21:20:21.332Z",
+      "categories": {
+        "all": [
+          {
+            "rank": 1,
+            "translatedTitle": "Oil gains lift UAE stocks amid Gulf supply disruption fears - Reuters",
+            "originalTitle": "Oil gains lift UAE stocks amid Gulf supply disruption fears - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnFmTFlSRjMzQmVwcXRuVW9udDhWUXptaTV2VmFMdE1nWFhEamg5SjZTT0Q3dW00XzlsTzZqSldBQ1RPWWtTU0tCYm11VHVMVURFZWZ0alFmWEdqME1hNTcwVmpON3RMVlpDaHo3Y001bE1zU0kyNHpWWDI2NWlXQ2FUWlRIVV95MlVjc19EeEF0Q1RnM3RZbXhEeUp4aWFmTGZvZTlOcWJ3V2dpSXZVY0lWUQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Business Recorder, Pakistan",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-27T21:10:51.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "India and UAE agree to accelerate co-development and co-production of next-generation defence equipment - News On AIR",
+            "originalTitle": "India and UAE agree to accelerate co-development and co-production of next-generation defence equipment - News On AIR",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFZ1Ti0zM29lQ05Kd0lxXzlmTk9vM1RzWlJ1ekdpNWNiRmUydHoyekVBRjk2RmhaVC1hallPM0ZqZElzV0V1N0ZFOGNROXFydGQ1UTZlQldLRDJZTHZTb2RHVEVHX2NjbjlPc0VIbDF2d0tSdlN6MFduVnNfT0E3WGoxcktIMTlaUmdxWmxWenE0cUc0WUd6eHN6N1NMb1c1R0E?oc=5",
+            "source": "Inshorts",
+            "sources": [
+              "Inshorts",
+              "SSBCrack",
+              "News On AIR",
+              "The Economic Times"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-11-27T09:54:35.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "How UAE motorists can drive safely around trucks, buses; why they must be cautious",
+            "originalTitle": "How UAE motorists can drive safely around trucks, buses; why they must be cautious",
+            "url": "https://www.khaleejtimes.com/uae/uae-motorists-drive-safely-trucks-buses-how-to-why-be-cautious",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-27T17:56:21.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Sheikh Hamdan bin Zayed inaugurates Etihad Rail’s Liwa, Madinat Zayed stations",
+            "originalTitle": "Sheikh Hamdan bin Zayed inaugurates Etihad Rail’s Liwa, Madinat Zayed stations",
+            "url": "https://www.khaleejtimes.com/uae/transport/liwa-madinat-zayed-stations-inauguration",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-27T17:47:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "How residents captured the spirit of UAE in short films",
+            "originalTitle": "How residents captured the spirit of UAE in short films",
+            "url": "https://c.newsnow.co.uk/A/1330945674?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-27T18:42:56.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Abu Dhabi remote business inspections jump 74.6%",
+            "originalTitle": "Abu Dhabi remote business inspections jump 74.6%",
+            "url": "https://c.newsnow.co.uk/A/1330945460?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-27T18:38:43.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "UAE National Day: What’s on at 6 Aldar destinations",
+            "originalTitle": "UAE National Day: What’s on at 6 Aldar destinations",
+            "url": "https://c.newsnow.co.uk/A/1330945081?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-27T18:32:54.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Dubai Miracle Garden offers Dh50 entry for fitness enthusiasts on November 28",
+            "originalTitle": "Dubai Miracle Garden offers Dh50 entry for fitness enthusiasts on November 28",
+            "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-dh50-entry-fitness-enthusiasts-november-28",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-27T15:02:09.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Dubai housing entity launches smart passport for homes to unify data",
+            "originalTitle": "Dubai housing entity launches smart passport for homes to unify data",
+            "url": "https://www.khaleejtimes.com/business/property/dubai-mohammed-bin-rashid-housing-establishment-smart-passport",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-27T14:36:21.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Abu Dhabi offers reduction of 4 black points for driving safely on UAE National Day",
+            "originalTitle": "Abu Dhabi offers reduction of 4 black points for driving safely on UAE National Day",
+            "url": "https://www.khaleejtimes.com/uae/transport/abu-dhabi-4-black-points-reduction-safe-driving-uae-national-day",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-27T13:17:36.000Z"
+          }
+        ],
+        "domestic": [
+          {
+            "rank": 1,
+            "translatedTitle": "How UAE motorists can drive safely around trucks, buses; why they must be cautious",
+            "originalTitle": "How UAE motorists can drive safely around trucks, buses; why they must be cautious",
+            "url": "https://www.khaleejtimes.com/uae/uae-motorists-drive-safely-trucks-buses-how-to-why-be-cautious",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 84,
+            "publishedAt": "2026-11-27T17:56:21.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "How residents captured the spirit of UAE in short films",
+            "originalTitle": "How residents captured the spirit of UAE in short films",
+            "url": "https://c.newsnow.co.uk/A/1330945674?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 82,
+            "publishedAt": "2026-11-27T18:42:56.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE National Day: What’s on at 6 Aldar destinations",
+            "originalTitle": "UAE National Day: What’s on at 6 Aldar destinations",
+            "url": "https://c.newsnow.co.uk/A/1330945081?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-27T18:32:54.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Dubai Miracle Garden offers Dh50 entry for fitness enthusiasts on November 28",
+            "originalTitle": "Dubai Miracle Garden offers Dh50 entry for fitness enthusiasts on November 28",
+            "url": "https://www.khaleejtimes.com/uae/dubai-miracle-garden-dh50-entry-fitness-enthusiasts-november-28",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-27T15:02:09.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Dubai housing entity launches smart passport for homes to unify data",
+            "originalTitle": "Dubai housing entity launches smart passport for homes to unify data",
+            "url": "https://www.khaleejtimes.com/business/property/dubai-mohammed-bin-rashid-housing-establishment-smart-passport",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-27T14:36:21.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Abu Dhabi offers reduction of 4 black points for driving safely on UAE National Day",
+            "originalTitle": "Abu Dhabi offers reduction of 4 black points for driving safely on UAE National Day",
+            "url": "https://www.khaleejtimes.com/uae/transport/abu-dhabi-4-black-points-reduction-safe-driving-uae-national-day",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 80,
+            "publishedAt": "2026-11-27T13:17:36.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Scot extradited from Dubai charged with organised crime offences",
+            "originalTitle": "Scot extradited from Dubai charged with organised crime offences",
+            "url": "https://c.newsnow.co.uk/A/1330937245?-15565:1965",
+            "source": "BBC",
+            "sources": [
+              "BBC"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-27T16:40:57.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Review: Star-studded glamping at Al Quaa, the UAE's Milky Way spot",
+            "originalTitle": "Review: Star-studded glamping at Al Quaa, the UAE's Milky Way spot",
+            "url": "https://c.newsnow.co.uk/A/1330942526?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-27T17:51:06.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "All roads lead to Abu Dhabi: What attractions can F1 ticket holders access?",
+            "originalTitle": "All roads lead to Abu Dhabi: What attractions can F1 ticket holders access?",
+            "url": "https://www.khaleejtimes.com/sports/f1/abu-dhabi-attractions-formula-one-grand-prix-ticket-holders",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 79,
+            "publishedAt": "2026-11-27T13:55:16.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "UAE Property: 'Is traffic congestion a turn-off for buyers?'",
+            "originalTitle": "UAE Property: 'Is traffic congestion a turn-off for buyers?'",
+            "url": "https://c.newsnow.co.uk/A/1330942238?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-27T17:45:53.000Z"
+          }
+        ],
+        "diplomacy": [
+          {
+            "rank": 1,
+            "translatedTitle": "Armenian deputy foreign minister discusses bilateral agenda with UAE minister of state for foreign affairs - Armenpress",
+            "originalTitle": "Armenian deputy foreign minister discusses bilateral agenda with UAE minister of state for foreign affairs - Armenpress",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10VDI5bTI0QllqeHZHOUNlUlJBMW5rclpMUTRHSmhlaGxmdkdfSTcwU29qaVFUUmpqMjVSRTdEMUU1MzRkWUdZV1BhY1k2MFA1S0HSAVdBVV95cUxQZlA0Y28xQUFwdlFWVEFHVEthWGg2ZTF1SjUtLURZa3ZpT1g2UjVpbGo0b3N2NjRKTktsRmRWV1k0VXgycjdiNTYyUHJxdjM3QTJFaGxnRm8?oc=5",
+            "source": "Armenpress",
+            "sources": [
+              "Armenpress"
+            ],
+            "heatScore": 64,
+            "publishedAt": "2026-11-27T17:57:00.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Somaliland president returns from UAE amid deepening diplomatic rift between Mogadishu and Abu Dhabi - Hiiraan Online",
+            "originalTitle": "Somaliland president returns from UAE amid deepening diplomatic rift between Mogadishu and Abu Dhabi - Hiiraan Online",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQnowRV80M2pjblNBckFxOVJWSE1ZVHZDc3lKUXpueExKU1FzT2Z1a3R3Q1dwWjVDUUZlMFVIczd5eWdkVWVjQmVoZE5MTEZMam5hNjZyUVJXX1BldlVnc29VWUhTeE45WHJJTmRWTkI2T1h4T3ZhYUxheUprOG5XcU1rNTR4aGF2cjV1QlNYTDhxMVQ4OU96OUViNElnNWlTVnFpSXR2S0RuMkM4LWNMNFVLbWpwb3pGa3JaZHUxdmlvR0htMGgyNGZrazlHZ3lTa0VEaGJtWUhyUGQxX0VMemlOeXp5Zw?oc=5",
+            "source": "Hiiraan Online",
+            "sources": [
+              "Hiiraan Online"
+            ],
+            "heatScore": 63,
+            "publishedAt": "2026-11-27T19:08:12.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Indonesia-UAE trade targeted to surpass US$8 billion by 2030 - ANTARA News",
+            "originalTitle": "Indonesia-UAE trade targeted to surpass US$8 billion by 2030 - ANTARA News",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWtxZTJfNWcyTkhPVUZYRlZsN1hYM282N3B2N0FXWUtmWHdIR2NqcFdZdWtkYU52TVA3UkhLUHR5ZTlNMkRhUDFYcjVJYlVNOXhILTRucTVSSFNTTDh1dzFndjA3NGw0eXc4Z0xFMFc2ZGRoTTRYZlNYRzcyaWh4Rkx4NmxSbjFtX1FTVjBiekdVdXY4WWlLS3M3TW1TQnliNGJR0gGjAUFVX3lxTE9Ja3FlMl81ZzJOSE9VRlhGVmw3WFgzbzY3cHY3QVdZS2ZYd0hHY2pwV1l1a2RhTnZNUDdSSEtQdHllOU0yRGFQMVhyNUliVU05eEgtNG5xNVJIU1NMOHV3MWd2MDc0bDR5dzhnTEUwVzZkZGhNNFhmU1hHNzJpaHhGTHg2bFJuMW1fUVNWMGJ6R1V1djhZaUtLczdNbVNCeWI0YlE?oc=5",
+            "source": "ANTARA News",
+            "sources": [
+              "ANTARA News"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-27T16:27:30.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "UAE Expands Economic Ties With Belarus - Wisevoter",
+            "originalTitle": "UAE Expands Economic Ties With Belarus - Wisevoter",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSlJJNW1OeUU1ZUxQSXBEeXR2V0RCcFNGMHVtVVN3MERRZldZTVJoaHFUa1NYdlprbDdGWWswczkzNmRBMUhiT0JCWWpfT1ZEaVNzZ2doNXdTd0NJNTJSaEx4LW1icU53QWdxVElzQzd6N21EVnhLOXNIRllfMDQ5SFczdGQ?oc=5",
+            "source": "Wisevoter",
+            "sources": [
+              "Wisevoter"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-27T11:33:44.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "UAE–India trade exceeds $100bn, Juma Al Kait says at Gulf Business summit - Gulf Business",
+            "originalTitle": "UAE–India trade exceeds $100bn, Juma Al Kait says at Gulf Business summit - Gulf Business",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXVOWk5BSEdqcWUyLU9lMFppQUlmdUxnOHhBWW95YW1LRFliMHFJTlV2d055MDlLaXVpUGtJVWtHU0lZZ19nSzgySFloRFE5WXNGdVY1bFhUZjI0cFluMEZLZFliaHNWZ3FoVXhrYldyUHhOTWNuVXp2cWs4dW5OVFZwNUNmSm80aWRqanFoa1pFakRMV0tnSzI3QVFON2dXQXpCbXZPWFFwd2NXYVNpR1JR?oc=5",
+            "source": "Gulf Business",
+            "sources": [
+              "Gulf Business"
+            ],
+            "heatScore": 55,
+            "publishedAt": "2026-11-27T11:14:48.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "India’s exports hit record $863.1 billion in FY26 as FTAs boost trade with UAE, UK and Australia - DD News",
+            "originalTitle": "India’s exports hit record $863.1 billion in FY26 as FTAs boost trade with UAE, UK and Australia - DD News",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXVpVkxRZnZJeGxYZ25Bb05GRlNCRThCbXNaRWpxSlRhNlItZTJ4SGNkOC0tbzNvRF84SDBpVUZZRldfM1FBazdZWExaQVhnZjNOXzV3OW5YaG1oYUxlVzZ4QWFRX0hTWVZJLTdyejdWemNFX3JwMUtDREt0OWJxQWx5dkhHeHFKWEFZUk9OWG1wUXZnb2Y2cEZsOF9nVXpnck02TDkxelZMSnNGQm82X3dpWEN4VUl6NEtv?oc=5",
+            "source": "DD News",
+            "sources": [
+              "DD News"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-27T06:50:26.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "UAE and Nigeria sign memorandum of understanding on tourism - TV BRICS",
+            "originalTitle": "UAE and Nigeria sign memorandum of understanding on tourism - TV BRICS",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQellJSlh4dGpQTkltVXRiQ2VpR0E3N3dCOGF4b2pKOERNY0NPQmhXdnJxZjhoNnZjNWx1dF9YRDROcUo5YmUxSGpZdjktVERJTEc5UGtkMkJ5R0ZWY2VKMm9xMTIyTXN6TkktQkx2dkF3THVXbkIyUEU0ek8wVVp2VEFaeTdQeWJtT1BoVURBcUFFZw?oc=5",
+            "source": "TV BRICS",
+            "sources": [
+              "TV BRICS"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-11-26T21:00:00.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "UAE and Brazil Deepen Strategic Infrastructure Partnership as Bilateral Trade Exceeds USD 5.4 Billion - وزارة الخارجية الإماراتية",
+            "originalTitle": "UAE and Brazil Deepen Strategic Infrastructure Partnership as Bilateral Trade Exceeds USD 5.4 Billion - وزارة الخارجية الإماراتية",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDNZeTBtUVJQT0toZVJERHVHb2dnU3pycW1qMjZ4QThWRndxNzZNVmplQ1hNVFBXTWVQZmNtZE1KblBNVDZ6MXllMkw4YjBrdTV5MGNqYy1RREtVTUIyUlN2ajRiN0x2b1Q4TG5HSG1EQ0d3dGtqQ1lULUNYX2NZOHhOaW1SRGpjODIxaA?oc=5",
+            "source": "وزارة الخارجية الإماراتية",
+            "sources": [
+              "وزارة الخارجية الإماراتية"
+            ],
+            "heatScore": 43,
+            "publishedAt": "2026-11-26T08:00:00.000Z"
+          }
+        ],
+        "economy": [
+          {
+            "rank": 1,
+            "translatedTitle": "Oil gains lift UAE stocks amid Gulf supply disruption fears - Reuters",
+            "originalTitle": "Oil gains lift UAE stocks amid Gulf supply disruption fears - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnFmTFlSRjMzQmVwcXRuVW9udDhWUXptaTV2VmFMdE1nWFhEamg5SjZTT0Q3dW00XzlsTzZqSldBQ1RPWWtTU0tCYm11VHVMVURFZWZ0alFmWEdqME1hNTcwVmpON3RMVlpDaHo3Y001bE1zU0kyNHpWWDI2NWlXQ2FUWlRIVV95MlVjc19EeEF0Q1RnM3RZbXhEeUp4aWFmTGZvZTlOcWJ3V2dpSXZVY0lWUQ?oc=5",
+            "source": "Reuters",
+            "sources": [
+              "Business Recorder, Pakistan",
+              "Reuters"
+            ],
+            "heatScore": 99,
+            "publishedAt": "2026-11-27T21:10:51.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Sheikh Hamdan bin Zayed inaugurates Etihad Rail’s Liwa, Madinat Zayed stations",
+            "originalTitle": "Sheikh Hamdan bin Zayed inaugurates Etihad Rail’s Liwa, Madinat Zayed stations",
+            "url": "https://www.khaleejtimes.com/uae/transport/liwa-madinat-zayed-stations-inauguration",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 83,
+            "publishedAt": "2026-11-27T17:47:05.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Abu Dhabi remote business inspections jump 74.6%",
+            "originalTitle": "Abu Dhabi remote business inspections jump 74.6%",
+            "url": "https://c.newsnow.co.uk/A/1330945460?-15565:1965",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 81,
+            "publishedAt": "2026-11-27T18:38:43.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "Welcome to Al Dhafra: Two new Etihad Rail stations to open up access to Abu Dhabi's desert towns",
+            "originalTitle": "Welcome to Al Dhafra: Two new Etihad Rail stations to open up access to Abu Dhabi's desert towns",
+            "url": "https://c.newsnow.co.uk/A/1330942260?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-27T17:46:24.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Dubai's stock market rises 14 per cent in November",
+            "originalTitle": "Dubai's stock market rises 14 per cent in November",
+            "url": "https://c.newsnow.co.uk/A/1330939050?-15565:1965",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-27T17:04:50.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Ras Al Khaimah reopens hotel beaches after temporary closures due to oil spill",
+            "originalTitle": "Ras Al Khaimah reopens hotel beaches after temporary closures due to oil spill",
+            "url": "https://www.khaleejtimes.com/uae/ras-al-khaimah-reopens-hotel-beaches-after-temporary-closures-due-to-oil-spill",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-27T10:57:27.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Emirates cargo flight from Dubai to Hong Kong diverted to Muscat after technical issue",
+            "originalTitle": "Emirates cargo flight from Dubai to Hong Kong diverted to Muscat after technical issue",
+            "url": "https://www.khaleejtimes.com/business/aviation/emirates-skycargo-flight-ek9774-dubai-hong-kong-diverted-to-muscat",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-27T08:45:22.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Abu Dhabi launches TAMM Marketplace to buy, sell used cars backed by government data",
+            "originalTitle": "Abu Dhabi launches TAMM Marketplace to buy, sell used cars backed by government data",
+            "url": "https://www.khaleejtimes.com/uae/abu-dhabi-tamm-marketplace-buy-sell-used-cars",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-27T07:57:57.000Z"
+          }
+        ],
+        "technology": [
+          {
+            "rank": 1,
+            "translatedTitle": "Dubai Farmers' Market to open at Quranic Park with spaces for kids to sell own products",
+            "originalTitle": "Dubai Farmers' Market to open at Quranic Park with spaces for kids to sell own products",
+            "url": "https://www.khaleejtimes.com/uae/dubai-farmers-market-quranic-park-november-28",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-27T13:17:24.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "72% of UAE jobs requiring AI skills still carry traditional titles, study finds",
+            "originalTitle": "72% of UAE jobs requiring AI skills still carry traditional titles, study finds",
+            "url": "https://www.khaleejtimes.com/business/72-of-uae-jobs-requiring-ai-skills-still-carry-traditional-titlesstudy-finds",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 74,
+            "publishedAt": "2026-11-27T10:24:40.000Z"
+          }
+        ],
+        "military": [
+          {
+            "rank": 1,
+            "translatedTitle": "India and UAE agree to accelerate co-development and co-production of next-generation defence equipment - News On AIR",
+            "originalTitle": "India and UAE agree to accelerate co-development and co-production of next-generation defence equipment - News On AIR",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFZ1Ti0zM29lQ05Kd0lxXzlmTk9vM1RzWlJ1ekdpNWNiRmUydHoyekVBRjk2RmhaVC1hallPM0ZqZElzV0V1N0ZFOGNROXFydGQ1UTZlQldLRDJZTHZTb2RHVEVHX2NjbjlPc0VIbDF2d0tSdlN6MFduVnNfT0E3WGoxcktIMTlaUmdxWmxWenE0cUc0WUd6eHN6N1NMb1c1R0E?oc=5",
+            "source": "Inshorts",
+            "sources": [
+              "Inshorts",
+              "SSBCrack",
+              "News On AIR",
+              "The Economic Times"
+            ],
+            "heatScore": 92,
+            "publishedAt": "2026-11-27T09:54:35.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Where to watch fireworks and drone shows in the UAE for the 55th National Day - Gulf News",
+            "originalTitle": "Where to watch fireworks and drone shows in the UAE for the 55th National Day - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0M0bThyN2J0ejZJeG41bVh5VTZ3eEZpVXJfbkRIN2pxWFI1a0dYVGFSU1ctM21ob0NwOWRjRndCTUZLUUNkc2JsSmx4SjZnU015Rm1BQ2Y5a2hUUG0xb3pKM1ZQbkp2S25MRTBrajFtU1JfQTRqVFF5VHB5VGJaRFJrVFJ4WG90dmYyMHYyWEFHcThUazRpTHB6d0Y4MGF3VzlCVEdhQzNhOXUwemNVTE14U1FLZUUweU5NRNIBzAFBVV95cUxQRFl0OGJQd1RpOE5uTGJ2d3ZyZW1sTktIbzJrMEh1OEd0V2FubVN5RzdfZlBaNTA3Nm1NdWF1M2NnYkZEZ1lOTGFBUnNsTFZ0bjFxSVpSU3BZTUdYY0c4UUhSWmNLaHhmdWVERDlvSGplMzF2R2NEOE1wT21zdUkwNmpnOFVURkQ1OEtVdDUyWC1KNm5DXzNadmhVWFdHbDRwZkhMRmlIN0xwb2JCZG5VN29pRVJsM3dpYTA1ZmVGSDNtYmRkR0NNWG5xU3o?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-27T08:11:50.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions - Gulf News",
+            "originalTitle": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUh6cVBnbW1MRC03azJIdW1yamlqR1IwY0RPSW9oc3JfcjVMeWo1QzVkT2VIbXlWQnpWZW5uRXNmb1pSZDBlNkV2QktxTWRKYmc2cmxsS3BOLUU0MWRud3FpTEw3ZXZaWTAzLTZOTmFDd19HUE5UWVBPTzE0Yk00R3JacUxfYWhRUkw0cEsyT0F2S1lZM0t0SDJJdE5OaTdpZm9uU3FMVUF3SU1aa2xrN0d6dUg5TlBUY3liXzNwN0tOV2dTdVg2T3VrcF9md0ZjdGdEWjlRQdIB6gFBVV95cUxPRlE3bDZDN3VVRmNwY3FoTjZwM0hnRW9NMHNjdW9iZVRLakZGY09VOGxlNUNCTmxodTctMks5Y3Yxdi1DbjVOdlJ3dnczOGxRZ2lSd0tGV09EWDNVV3I0RjhZQ0dWNEFwOHdtdUNwSkhubGFabGV1WmtDRjUxVGxTTjIzdzA0eUFXTmMwT3FkZlVtdHB5VFJGRnI1SlUtS0kzc2oxUG4xbzMxLV9jQlpIWjVQbnRsOGFtY3paMWtDNVBIeEtNeFFfN0UwaEMtWHJ4WVFzUU9WVG1JUjYyVl9HOVlfWWhLVnNRTnc?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 69,
+            "publishedAt": "2026-11-27T07:46:11.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "India, UAE to accelerate joint development and production of next-generation defence equipment - ET Edge Insights",
+            "originalTitle": "India, UAE to accelerate joint development and production of next-generation defence equipment - ET Edge Insights",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTjhvVHRISmFvajVld0IyMjlnODVncFZITWRobVR0dk9DUUgyUzlXOWcxT0FsRlF1TVc4SkotendNVVNiNm53OVRvQ196eVZVTlpSeHpyWmRPRjNOVzRVZnMyRGJqSUdZWXJsUWdmSkpUeUFTdVFqWF9KajZQWXlTNHk0Skh2b0p6bW52R2MtZHFJZ2VMSXZleDlmT1RqX3BiNG5OaGNYSWxYVDEyV3JFV25abTlQUklLeFpLV3R2UVc0V1I0RHZwd0NpTk03U1lYVGozOFVCOXp0anVwc1B2ZzZNYw?oc=5",
+            "source": "ET Edge Insights",
+            "sources": [
+              "ET Edge Insights",
+              "APAC Media"
+            ],
+            "heatScore": 66,
+            "publishedAt": "2026-11-27T09:01:05.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "Saud bin Saqr receives Indian Defence Ministry Under-Secretary - www.uaebarq.ae",
+            "originalTitle": "Saud bin Saqr receives Indian Defence Ministry Under-Secretary - www.uaebarq.ae",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDdBZC1TS1hlZ0o5V0U5dlRMMGRlbENCUk1NMDhXTHJhMWJJMnpIR29jUUk1V0pQdzlTWThUUHFrMDNCTHo0RmJpaGYzbE5MSEtBY1hpWHhRQXlMaHZNenFvbzFKcm1EVjhqaEVUMXN2amtHQk54UldtR2g5T2VSV0FmMllTQ1NTb045cHRhaEQ5LTlFMzM3UmtLczZsQUE4RGc?oc=5",
+            "source": "www.uaebarq.ae",
+            "sources": [
+              "www.uaebarq.ae"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-27T18:39:55.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "uae-strongly-condemns-iranian-drone-attack-on-kuwait Archives - TV ONE USA",
+            "originalTitle": "uae-strongly-condemns-iranian-drone-attack-on-kuwait Archives - TV ONE USA",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOE5pcXlLRnV4T2tWeTJqTUxKaDRpdlF2ZVpISVlCb3ZfdF9aMG5WU0dfYmktTFpXczZFYkVfVG1qbGlHcXdPTnJSQ1NWRUZWWWJ2WHhVaWRjWVljTnR5WmJzbGFucHpxTGtLbC1kX2o5OUFJZnBJS1FEMFVQel9aYkRQSm0?oc=5",
+            "source": "TV ONE USA",
+            "sources": [
+              "TV ONE USA"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-27T14:44:45.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "The India–UAE Joint Defence Cooperation Committee (JDCC) - INSIGHTS IAS",
+            "originalTitle": "The India–UAE Joint Defence Cooperation Committee (JDCC) - INSIGHTS IAS",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUG1tNG9BU0FGak5JMENQLTFDX0tXV05vbk1DRTJvUXROUkZqQVpncGdGR3BBVFgwM3Zib0c0MlNBcUV2dHZNTTBVbzk2b3hYYnk1dFgxN2hQbmVYRWNOTlg4N29HbE5xM05TcHpZaVNGTE5ER3hqdnZVSV9IbGhYZWdYTWpGNjFzTHlmem42R1RaekxhMk9KMGNYbW5mcmc?oc=5",
+            "source": "INSIGHTS IAS",
+            "sources": [
+              "INSIGHTS IAS"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-27T10:13:23.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "India deepens defence ties in West Asia, to enhance cooperation with UAE - Business Standard",
+            "originalTitle": "India deepens defence ties in West Asia, to enhance cooperation with UAE - Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQm0yNC1IZVdicHE2X3pUUjJjckU2UWJ4VlYtcEJNXzNlQVFGS2JabWpIWElKWVdETzBialVsU0hhRlR5LVB5Q01PYWhqZElMdXpqU2FWaV9zLW1halkwV01vSTc2RUo4UXdVSXkxeVdhdEpPMDNUT1R6U0JiMFRsX1lyemJCYldVQk5YZjliRm91SUZIYzVXTVJjUHZfTWJqSnpZQ3FwZkFPUmtHampBN1J4cklySVVDR2ZSVExXX3hQdFZfRERNQTRXQmRNRGFvb1FtbVpSb0VOZmoyb19KQ21WNDY3V1lDanFWV1dZWEVWZ9IB9wFBVV95cUxNV0V3X29FVFk2ZHJBbHRKU1ZsdFU1bFVMcjR5WHdycEtaNVNpZlNscXM0amh3MG8wS28xdjgzTUdpdnNyNnBhZTRTSHJXbDFfQnRzRENWdWNOcWZKMU9JeWt3TllTU2hTVjlGd3ZuUkRET0ZZaGQwVHM5UW1sNXpqUy1OdlJEeGxUTzB3Mkl0R3F3dkxNY2lmbVBSeUtoMWpUVEZNY1RuWHY3b0RwXzlsOHF1ZWphUi1YMllpb2wxY0t6QklISjFfQnE1bUFXZ21JOUFXSmlRdC1rWGVPcEZxWE1jUERraTVyT0JsZVJKeVNSaTh4M1BB?oc=5",
+            "source": "Business Standard",
+            "sources": [
+              "Business Standard"
+            ],
+            "heatScore": 54,
+            "publishedAt": "2026-11-27T09:29:21.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Dubai and Middle East flight disruption: flight cancellations continue as Kuwait and Saudi Arabia intercept attacks - Condé Nast Traveller Middle East",
+            "originalTitle": "Dubai and Middle East flight disruption: flight cancellations continue as Kuwait and Saudi Arabia intercept attacks - Condé Nast Traveller Middle East",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS2JUVmVuaGxQQnZtbHBBMTB2NElYYld3Tl9QZGV1MENNVm5mVzJvZi1IRWhudWJXcGlFbzJ2T0J0UUdXNHRsZzlOOW5QY3l0U1FJTXJkRHdmUExUQ2NEYU9waUVFV3hDLWlxVVd2RWhheE9ibVJoM000b2pZZjd4QmVmVmxUN3NnUldnTnQtcWk2Vy0wV2ZTbk9na01HZDI1dG5fbi1idDFPdjJSQzQ5eE9HSkhUS0xla0d2S203d3VRLXh0aDBTM0VlVnRlRE9qOWFXWTJfTWx2NzZRMm5NZmQ5Vi1GV1dCcFpj?oc=5",
+            "source": "Condé Nast Traveller Middle East",
+            "sources": [
+              "Condé Nast Traveller Middle East"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-27T07:17:00.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Defence shares skyrocket up to 17% as India, UAE to co-develop defence equipment; BEML, BDL, HAL lead gains - Moneycontrol.com",
+            "originalTitle": "Defence shares skyrocket up to 17% as India, UAE to co-develop defence equipment; BEML, BDL, HAL lead gains - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkZGdnpLVi1pbkxlTkh5ZE1IaFJBN1BZQ3FDc1dUQml1YVgyZUJVTXdRUXBHTW1wMWo4bjhnZnhGdS1IT3dLbHlwRExlbGdKbnNCM2U3YkxKMFRHcTFyd2x3SjZVdFRtMWNRX2owUWV6ZTdMZUZPazVSV1FQblVCVFNCYlppYmRQbkpEaEg1bFd0MVpIRmdib0dDbzNtUkxlZWpXWWc3YTl2S2RHcmR1OTJPano3Q0dUYnZGMllLWQ?oc=5",
+            "source": "Moneycontrol.com",
+            "sources": [
+              "Moneycontrol.com"
+            ],
+            "heatScore": 52,
+            "publishedAt": "2026-11-27T07:13:16.000Z"
+          }
+        ],
+        "social": [
+          {
+            "rank": 1,
+            "translatedTitle": "Dubai Police seize car after driver films dangerous stunts for social media - The National",
+            "originalTitle": "Dubai Police seize car after driver films dangerous stunts for social media - The National",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRzU5RTJRSmV2ZnEzMjc2ejl2bmI4Rzg4X3ViSUFZazQ3ZEI3RldKRDdhVnNmVnFCVXdYMHh0R3BLRDZxZlJNVnNuUG42VEJENGZfMFRJcEJRZ3lzem9qU0RvVlN6VGlOa0xMeDJmdElmNTFaZHFOaW93QUpzRHpHUzFldm9xMmZLLVllakZVQkdFeUZMa0RZQnVmemJ2M1JaT0x0RFZxa1Z4aFdWbUZXektRVUJiZmlTdUlyRkJpd0QxUllFVGRr?oc=5",
+            "source": "The National",
+            "sources": [
+              "The National"
+            ],
+            "heatScore": 78,
+            "publishedAt": "2026-11-27T10:49:49.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "Dubai Police impound car over dangerous stunts filmed for views - Gulf News",
+            "originalTitle": "Dubai Police impound car over dangerous stunts filmed for views - Gulf News",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXFHZzJCVGlONUVqQkUtQmV1NjNPLVFoTThuOUtDY1JkTkFEUUdKX2RITmpneVN2OElmOGszTlo3SU9xclJRODF6Q0k1QVVtalI5a0NLb1FTSk9nWjQ2Yk5VMFFuRDVRelVYTnU1SWlvTndOcmZKZ0piak9pcThpeElsdzVNaUF3aTlkbktSTjBuVmZfc0taOUtsclVqSlRzNlI0aDAwRTgtUdIBvAFBVV95cUxNakNCaFJuSldmX1RBaEw0dkFxeUpLX2ZHTVk3VHVpVnk5cUVFWEFfYXBzc3V6YjJuUU1yMExWM00tTE1EVlBWTEdaSmZ5VjFhbkVtR1l1ZDVNeDVBTDRKZU55bzBsNmc1ek93V3daRFJMaExzb21kZXVRQ3k4bTJVVTNGd3pMTl8tS2FJZXRCeW1HX3dsMDk0dDFUekFxN0NybEoxZEoyQnNtR2hkYk1QTWJqWFZ3eEtuMngwOA?oc=5",
+            "source": "Gulf News",
+            "sources": [
+              "Gulf News"
+            ],
+            "heatScore": 75,
+            "publishedAt": "2026-11-27T09:59:16.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "Man in UAE spends 5 years trying to gift handmade portrait to Dubai Crown Prince, finally gets a response | Trending - Hindustan Times",
+            "originalTitle": "Man in UAE spends 5 years trying to gift handmade portrait to Dubai Crown Prince, finally gets a response | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzF6U2tsZmRyXzJUWWZoSlpjVVhTTzhfYUc3LTBHR21BMUUwRUx1NEFLV1oxUk4tamlRRk0xRkRVSEFFV1pzM19ReVp2UmVoemRxbnh1QnZyNDVTbEpab1NLc3RFRTlhTEx2eU9pdkFEX1JhbnQ4Wl9uUUVQdmdSRnhBWDJpTTBEUkRWaXkxN1p1bWlfaHRFQS11WVU1ZE5Wczg2WVRJU2pscVpkT1FSbzBaN0duRjRvaHc1OG1BVWU3X3pKeU1Sd3pWcWY4SHA1alNqMmdYWGtrckJ5VmxV0gHkAUFVX3lxTFBMcXlfNkdELXQ5emtpOVRYTW1mV3RDeXRScjVsY09jS2tGUGFTVWVPWFJpX0p3NXpRaDdnTS16RzlfcVhRTFE0MFR3b1VxS1lpbHg2VTBFUnJmOXNwbVhjQnlIdmxrb2FSVWZ6ODNLZmcxeGpTSU1VOVdKM1JXVnNDb01EYkl4NXhFOWVLUTdnWXhjNkJEQ3J4Z0o4ZWFnZzZUODZhZzdDa1gtdjN5SkNHNTBSejFTM0VKYkloakJDZDgzdDhwVklvSGYzR0NDUl93M2YwRzZvMndhbmJETnNBMTRPVA?oc=5",
+            "source": "News18",
+            "sources": [
+              "News18",
+              "Hindustan Times"
+            ],
+            "heatScore": 70,
+            "publishedAt": "2026-11-27T13:00:16.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "UAE, Romania explore deeper cooperation across key sectors - ARN News Centre",
+            "originalTitle": "UAE, Romania explore deeper cooperation across key sectors - ARN News Centre",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUU5WakRRZWZZc3JQYUttOUNmVkpJQVlkM0dBbjM0b20tYjdHcjl1X1hJU2JWb3hyVlIyYU9TSVlNVmh1emFIYlliNkdWVk00dTBESEF1UFh6aXNwZW1nRHZLaDR6RVlpMjhVaUlVRFRieWZ2OG92UHhodHFsZWhoeHZKa09rNGNwSklfcHhrNXUxei0wMU8ydGtqRmk?oc=5",
+            "source": "ARN News Centre",
+            "sources": [
+              "ARN News Centre"
+            ],
+            "heatScore": 67,
+            "publishedAt": "2026-11-27T18:47:27.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "'Cig run trips': Gangs recruiting cigarette smugglers on social media by offering free Dubai holidays - LBC",
+            "originalTitle": "'Cig run trips': Gangs recruiting cigarette smugglers on social media by offering free Dubai holidays - LBC",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOERHTWlQY2xQOWtBN01HOTJVZUtmcndvSzBMRldHSUtxMU5aMWpTTUhtbk1ka09lUkh5V2VLMFJiNkZudGVsYTNHeVBETVRMNWRBWVRtdDl0UG5qSy1IeV92SlV1cVNDQW5sakp1dnI2VzFUcjZLX1BIV0xBMzFNZGpabHVSWHJuWWVQcUNCS0ZsQWVqdVR1RDF1SjdMZFBwb1NCLUtnZTRrWDNiazhuUGM5N21fUQ?oc=5",
+            "source": "LBC",
+            "sources": [
+              "LBC"
+            ],
+            "heatScore": 62,
+            "publishedAt": "2026-11-27T13:26:39.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "Indian CA quits six-figure salary job in Gurgaon, buys first house and car in Dubai within 3 years | Trending - Hindustan Times",
+            "originalTitle": "Indian CA quits six-figure salary job in Gurgaon, buys first house and car in Dubai within 3 years | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRGN3ZjQ2SHVRUWxVWDlpbWw1M21uRU4yQXhHNHV6ZW5NRGF6a2VtclYySWdMazdaSUVQVTEzWHJwblF5MjZZTXRxRWRnTlZTVVREbjRHaFlIM2ZicUJ5ZVppdEZ4VDdBdmJSdWgyZ0FwcUxFN2JsV3RXXzJxajNwNjlTRXhCR1BvME5ZMnJybl90ZHp4X3J2bTA0N1JJck9yTHc0NTB4VDVHUWNVMzNPQmVyZURCQkxPY1ZyMFFVcmVONXVEREw0ZkNvbmg0MFF4eTN3RnM3akl5bENMMVJWRHlVeE13NDg2SlJuWEpCQdIB9AFBVV95cUxQS2JCUzNCWTJhWlk2VHFXSU5ENjFtZWp5QjVLenF3Y0hrajFHQzBHbDBUNEpFOHFmMVVPN3liZmFnbzhyMUZHOGJMTW5ENkVVTVZlTkdjMWtReXQzd1Z2WmFKcVMtVkZCXzVNWXg5QVhVUFJ4T2s3Y3pES1RjME1uaEpuRER0SlNhdzAtZi1CVXprZnZwQVBSaVNSWDd6ZFZ0RlFMaVFpNWY2LVN5ZzB5aG9VSWpJRmR6NEZxdjVwT1pvNmJIMnptcEF6WHRxNGZ5dWh5RHh3X3Jsc2lBbTdyZGQ4QWs5Qi1WLUJyQzZ1Y2RSd3Fl?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-27T17:32:08.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "Burj Khalifa Collapses After Earthquake In Dubai? No, Viral Clip Is Not Real - Newschecker",
+            "originalTitle": "Burj Khalifa Collapses After Earthquake In Dubai? No, Viral Clip Is Not Real - Newschecker",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1J2RFdKTGFfbmtUa3BYVUtmVUVLNW91NDJnVTVhTmxzaTJIdU9kTFo5NnBEVzJRTWVRMHp6VmR4Mm1UZDhkcUZKSXNLeDlGX3Q2a1huM1ZRYzhXRWFtejByZ2phdUQwaE5HWk4weGdMTmEtenk1SGdRTVVnLUo4M3FLNk04OTJkTE9ydDc5TXhna2sxbFp0U2ItRmlPZEZPOWdEUU40aTFtdkd5RVBWY3Fn?oc=5",
+            "source": "Newschecker",
+            "sources": [
+              "Newschecker"
+            ],
+            "heatScore": 61,
+            "publishedAt": "2026-11-27T12:06:05.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "Dubai driver loses car after filming dangerous road stunts for likes - Travels Dubai",
+            "originalTitle": "Dubai driver loses car after filming dangerous road stunts for likes - Travels Dubai",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTVVNQzhIRk1fR1BkV0RFOGV4YzN1ckk3YTJXZ1RPdnR5MDIzbjdCZzRFeTdXZHVJajFfdVhzd3lURk1sajlUQzlHcnlwWkViWXBkVEswYkJiZ3c3T3I3OWh3MDhkWC1ld29aeEpOWFRSSU9wdmlwWXNpQXdHcmFEaUF6UXBnY1dPSnJWcUp3TDNrTkx5SW42ZUUtLU5HT1QtTjJ4VGJWUFY?oc=5",
+            "source": "Travels Dubai",
+            "sources": [
+              "Travels Dubai"
+            ],
+            "heatScore": 60,
+            "publishedAt": "2026-11-27T16:41:00.000Z"
+          },
+          {
+            "rank": 9,
+            "translatedTitle": "Tamil Nadu engineer wins ₹6.29 lakh in Abu Dhabi draw after choosing ticket number based on astrology | Trending - Hindustan Times",
+            "originalTitle": "Tamil Nadu engineer wins ₹6.29 lakh in Abu Dhabi draw after choosing ticket number based on astrology | Trending - Hindustan Times",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGI0VFVmampxNXh5UHVfM2JIUUFkaXN1TWtEV0pkWEh4RGVMSVdkeHhOeUU4QUFEcm9XQ3NrTzJKR09xUVFEeEdrNnVTZDZoLXJtRVgwOXpneFg0U21WOE02ejg5QjBPdkxrc0xlRHNzcHdZNGlWMUhfdGx0TWJSak5qLVJNNzZzVTl4c1NBb216d0JPS3h4YnBfSGVwQS1oazl3UzBMeW03eldVMUVNdHdkVDJHaVJPQ3paTkhCUjdOVUp0blcxaC1IQk5uN19UUHE3bWZUSWdQVVlrTVFkSy10aXAzRXpMZVlBSEZScjVxcDjSAfgBQVVfeXFMTWswcUxYMkllWTFJOFA3WWJiZERmcE9DQV9RUWpPV21VUkdPa2ZCRmxnb0gyRDA1VXB5WVhIQUdzWnlJdEtRbUVRTkN4TmNPYllQcVB4ek5xTUNrUWJMV2lsWkVaOThfYmoyaElRaXZsd2NJd0VDZjh1allTQjZCWnlvWENUTXdRNkpJbWViS3BQUEZYbmltQnVtTUdoYWN5ZUhvcjZLOXFKNVRSUXRxVjZoM0xrWU82TE54MWVVY3ZwMjRxdUlBcWRRTkdVRnN3dEVETWl2emZCS05wa0RYRVYxbkdSNG1qQTA5bG14Qi1EVlhwUm5mSi0?oc=5",
+            "source": "Hindustan Times",
+            "sources": [
+              "Hindustan Times"
+            ],
+            "heatScore": 59,
+            "publishedAt": "2026-11-27T15:45:42.000Z"
+          },
+          {
+            "rank": 10,
+            "translatedTitle": "Try These Driving Moves in Dubai and See What Happens Next! - Arab Times Kuwait News",
+            "originalTitle": "Try These Driving Moves in Dubai and See What Happens Next! - Arab Times Kuwait News",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRjBtMGlWOFI3SzFSLU1ia29pY3poYTkzU0dGdmtub2RWcTNjLXBZQlFoQ2k5RmpqRzEtcmdvQkZpdFQybk02TndvSnMycE90NjJYS2hDVkl1RGhzX0FZT3JxenFjVUZTUFZSbzF5Z0VqVkdsaDBuWFZyMC0wWTdoZXd1dTVpeGZ5Y1lfUDc4N0UtRnJRQmVGcHFqX0I?oc=5",
+            "source": "Arab Times Kuwait News",
+            "sources": [
+              "Arab Times Kuwait News"
+            ],
+            "heatScore": 57,
+            "publishedAt": "2026-11-27T13:32:16.000Z"
+          }
+        ],
+        "china": [
+          {
+            "rank": 1,
+            "translatedTitle": "Emirates cargo flight from Dubai to Hong Kong diverted to Muscat after technical issue",
+            "originalTitle": "Emirates cargo flight from Dubai to Hong Kong diverted to Muscat after technical issue",
+            "url": "https://www.khaleejtimes.com/business/aviation/emirates-skycargo-flight-ek9774-dubai-hong-kong-diverted-to-muscat",
+            "source": "Khaleej Times",
+            "sources": [
+              "Khaleej Times"
+            ],
+            "heatScore": 71,
+            "publishedAt": "2026-11-27T08:45:22.000Z"
+          },
+          {
+            "rank": 2,
+            "translatedTitle": "China Securities تفتتح مكتبًا تمثيليًا لها في مركز دبي المالي العالمي - PR Newswire",
+            "originalTitle": "China Securities تفتتح مكتبًا تمثيليًا لها في مركز دبي المالي العالمي - PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNeFhGODlzeG0xSWRMeWo1V2ZWMjZKbFppOXVhSF9XQWJTc2hFbVVaR1RIVDFoT2FsQWY1bmpvNFYxUHgwLVJzRXVoUy1PNVc2alJ1aWw3dTVJVlVSbWY3ZzJWQkx5OG5MVGR4d0E2UTF2cG11eEFodXdYRW5WMkE0RnlWRll5UDFBcTlwUWl0MzFFc2VzaE5NNHJCNDBIY1BNWDBnUUh5V3F4aDE0MmdVelVKanJlVnVELW5MaVQ1bWJHZVRYTDFJTEdaZS1FVkJjcXVZMmxFaXl1cWFTX2x5a1ZsWEJzN3BGckZfODlPNVM1SEFtOHpCbWZHOG05N2VIWktLdU1DMmIyakJqb2ZwSDFEcHc4MUxldFJ0RlJ2RnlXQXhIemxsaDhn?oc=5",
+            "source": "PR Newswire",
+            "sources": [
+              "PR Newswire"
+            ],
+            "heatScore": 58,
+            "publishedAt": "2026-11-27T14:21:00.000Z"
+          },
+          {
+            "rank": 3,
+            "translatedTitle": "سيدة الصين الأولى تعزز دبلوماسية بلادها الثقافية وقوتها الناعمة - الإمارات اليوم",
+            "originalTitle": "سيدة الصين الأولى تعزز دبلوماسية بلادها الثقافية وقوتها الناعمة - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1BRWGpoWF90SzlHQ1p4RGxlV3VmTXlNNVd2S3diRkFTb3RjWXJ1M2kyd25tLUp3XzBVa0swVC1lWTlLQ0dYS1hIZnp0cVlHSm54MFlyMDUzcWR0MXdoLTNYSnNiRkZpVHdSN1IxN3NGVDJmZkZYc3MtbWl1ZUhXZEhWNm1DZTI1OTFiMjZvNi14aEU?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 48,
+            "publishedAt": "2026-11-27T00:00:00.000Z"
+          },
+          {
+            "rank": 4,
+            "translatedTitle": "\"تشاينا سكيوريتيز\" تفتتح أول مكتب لها خارج الصين في مركز دبي المالي - الشرق بلومبرغ",
+            "originalTitle": "\"تشاينا سكيوريتيز\" تفتتح أول مكتب لها خارج الصين في مركز دبي المالي - الشرق بلومبرغ",
+            "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNWG84WnNQYmc5UkU1a2F1aTViWXl6Ni1NWHNBa3RIeW5abGhmQ19EWnVoVWpJcy1BcU9qTzZuTmxQaWhVdnk1Q2N4LVczdm9HZmRuMUJpbG9XOGViZWpMOGc2V1JWcERYZ1VRczdPcU5ET2hOQUJkZ0pwUm81VHRXdnJESFhjQkhmOUR0bkJqZk5xM2VxV0dMLWFVOV9WQ2txR3d1NmgzV1poX0ZNNFhSWUFLbGhOQWpsZ3BURnlaQ2U0TEFsNzcxRmd6dGRGZUttMG1JdWJWeVZPY0h4V0JFVFZ5WFhSNGFYVFdxOUFSazNXWXhBUDZFbzZCakdYMHZIUGg4eUcxSTRnR2VWOE11S2NNemJ3bnFxcVJvNU5OaVlMXzVRYk52NHBCLWNiTG5YNFBvcktGRDJDSzRZM1A3VlRjVXhVU0ZXcmhCYzlMR1VCYXhrdERrRzdNN3VpYXh2X3pzVFhlZ095TlZWelRPTW5mQ25XYWN1U21QV1d1MjNaeUtoa2xwQXFrb0ZXSS0tT2pYYjFoTG9Ick9mVU9rZ1psSlNpTnhRLVJTUFVEMDVUbWR6N0h1ZWNyZWNVUW9HVlVMZHUwRE9DaUlBSkRJSU8yQmhsZWJWeFZXMFBkcF91VUpaTUE?oc=5",
+            "source": "الشرق بلومبرغ",
+            "sources": [
+              "الشرق بلومبرغ"
+            ],
+            "heatScore": 48,
+            "publishedAt": "2026-11-26T10:58:04.000Z"
+          },
+          {
+            "rank": 5,
+            "translatedTitle": "بكين تؤكد احتفاظها بحق الرد على الرسوم الجمركية الأميركية الجديدة المقترحة - الإمارات اليوم",
+            "originalTitle": "بكين تؤكد احتفاظها بحق الرد على الرسوم الجمركية الأميركية الجديدة المقترحة - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2hYQUVRTWJRZ0ZHQ19Va0Y4SllIek1fSzJsczY3TnhvLWV6Tzg1aEh3U0FvSEFsR0I4MWsyYjBLRWtrX3RHa0FrOXhsWDM5UlNBUTNNVGZuVF9Del9HREE2ZjczcGpkVTFKS1hlUjg2U19OVU1ycVNLZV93MmRzYm1iM3lHNkdweWJQVjhkMlFIblk?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 47,
+            "publishedAt": "2026-11-27T00:00:00.000Z"
+          },
+          {
+            "rank": 6,
+            "translatedTitle": "بكين تتهم واشنطن بـ «قمع» الشركات الصينية عقب إدانة «هواوي» أمام القضاء الأميركي - الإمارات اليوم",
+            "originalTitle": "بكين تتهم واشنطن بـ «قمع» الشركات الصينية عقب إدانة «هواوي» أمام القضاء الأميركي - الإمارات اليوم",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1VsTDVhejVoUVZoNGlIOTZsMlRLeWhVWFE1RVdvTE84MFFnMVhxYnd4UzM4WDMydDc5UHg5UmUzR1pTNGYyVnZQVGEtSTJFZ1lZWW5iRlpnUFpJSzFmLUExQnhsczBxaXBCNW5EejJQNTdNN3g0c0VRTjRwZ3htX1pkelBjMkg4N1E1THBvVldRLUU?oc=5",
+            "source": "الإمارات اليوم",
+            "sources": [
+              "الإمارات اليوم"
+            ],
+            "heatScore": 44,
+            "publishedAt": "2026-11-26T00:00:00.000Z"
+          },
+          {
+            "rank": 7,
+            "translatedTitle": "هواوي nova 16s وnova 16s Pro في الإمارات: السعر والمواصفات - وكالة Mea News",
+            "originalTitle": "هواوي nova 16s وnova 16s Pro في الإمارات: السعر والمواصفات - وكالة Mea News",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LOGZBWGR4ZGp4a1N4Y20zVTl0MHFDZVVHZzQ0d3BjQVV4Q2VWZmo0SzV3M0RGbHI5bEJOeEZ4aDVJWmNEYTZ4Q2dUM0ZMZXpka0ZQZVc3X1I5ZkxOUnl0TXFNNFN4dHMxM3g2d3BEVXM0cmdhWXc?oc=5",
+            "source": "وكالة Mea News",
+            "sources": [
+              "وكالة Mea News"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-26T17:10:54.000Z"
+          },
+          {
+            "rank": 8,
+            "translatedTitle": "GAFT Announces Initiation of Anti-Circumvention Review Concerning Possible Circumvention through China, Korea, India and UAE - شبكة تواصل الإخبارية",
+            "originalTitle": "GAFT Announces Initiation of Anti-Circumvention Review Concerning Possible Circumvention through China, Korea, India and UAE - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4RGpOTm0yV25Od0dURFRRb3VlVHNucXotN2doVlV0WTh1NEp4dFlaa2t3bDRYLV9tbzd4eXVCbFdVbkdaelQyTHQ4dFdIT1RWM1BR?oc=5",
+            "source": "شبكة تواصل الإخبارية",
+            "sources": [
+              "شبكة تواصل الإخبارية"
+            ],
+            "heatScore": 42,
+            "publishedAt": "2026-11-26T16:01:50.000Z"
           }
         ]
       }
